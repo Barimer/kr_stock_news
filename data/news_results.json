@@ -1344,5 +1344,54 @@
     "link": "https://www.tokenpost.kr/news/insights/338398",
     "pub_date": "Thu, 12 Mar 2026 01:08:00 +0900",
     "analyzed_at": "2026-03-11T17:05:33.337887"
+  },
+  {
+    "title": "퇴직금 산정에 성과급 포함될까...오늘 한화오션 선고",
+    "score": 0,
+    "reason": "중립적인 법적 판결로 주가에 큰 영향을 미치지 않을 것으로 예상됨.",
+    "related_stocks": [
+      "한화오션"
+    ],
+    "link": "https://www.ytn.co.kr/_ln/0103_202603120251051765",
+    "pub_date": "Thu, 12 Mar 2026 02:51:00 +0900",
+    "analyzed_at": "2026-03-11T18:05:54.449098"
+  },
+  {
+    "title": "유가 급등에 뉴욕증시 혼조세…CPI 안정에도 시장은 '전쟁 리스크' 주목",
+    "score": -1,
+    "reason": "유가 급등과 전쟁 리스크로 인해 시장 불안감이 커져 기술주에 부정적 영향을 미칠 가능성이 있음.",
+    "related_stocks": [
+      "마이크로소프트",
+      "IBM",
+      "엔비디아"
+    ],
+    "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=71242",
+    "pub_date": "Thu, 12 Mar 2026 02:54:00 +0900",
+    "analyzed_at": "2026-03-11T18:06:01.075540"
+  },
+  {
+    "title": "시놉시스(SNPS), AI·디지털 트윈 결합 반도체 설계 플랫폼 공개",
+    "score": 4,
+    "reason": "AI와 디지털 트윈 기술을 결합한 혁신적인 플랫폼 발표로 반도체 설계 시장에서의 경쟁력 강화 기대.",
+    "related_stocks": [
+      "시놉시스",
+      "마이크론",
+      "인텔"
+    ],
+    "link": "https://www.tokenpost.kr/news/tech/338431",
+    "pub_date": "Thu, 12 Mar 2026 02:46:00 +0900",
+    "analyzed_at": "2026-03-11T18:06:01.075549"
+  },
+  {
+    "title": "비트코인 1만 달러 경고 다시 등장",
+    "score": -3,
+    "reason": "비트코인 하락 가능성에 대한 경고는 시장에 부정적인 영향을 미칠 수 있음.",
+    "related_stocks": [
+      "비트코인 관련 주식",
+      "암호화폐 관련 ETF"
+    ],
+    "link": "https://www.tokenpost.kr/news/cryptocurrency/338422",
+    "pub_date": "Thu, 12 Mar 2026 02:12:00 +0900",
+    "analyzed_at": "2026-03-11T18:06:04.473177"
   }
 ]
