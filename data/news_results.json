@@ -1229,5 +1229,120 @@
     "link": "http://www.finomy.com/news/articleView.html?idxno=251227",
     "pub_date": "Thu, 12 Mar 2026 00:06:00 +0900",
     "analyzed_at": "2026-03-11T15:58:45.754203"
+  },
+  {
+    "title": "SK하이닉스·삼성전자, 상반기 공채 시작... 일정은?",
+    "score": 1,
+    "reason": "채용 공고는 긍정적인 신호이나 직접적인 실적 개선과는 거리가 있어 약한 호재로 평가됨.",
+    "related_stocks": [
+      "SK하이닉스",
+      "삼성전자"
+    ],
+    "link": "https://www.ggilbo.com/news/articleView.html?idxno=1145830",
+    "pub_date": "Thu, 12 Mar 2026 02:00:00 +0900",
+    "analyzed_at": "2026-03-11T17:05:15.078378"
+  },
+  {
+    "title": "이상일 용인시장 “반도체 산단 이전은 국가 미래 망치는 정치 공작”",
+    "score": -2,
+    "reason": "정치적 발언이 반도체 산업에 대한 부정적인 인식을 초래할 수 있어 약한 악재로 판단됨.",
+    "related_stocks": [
+      "SK하이닉스",
+      "삼성전자"
+    ],
+    "link": "https://view.asiae.co.kr/article/2026031201364148098",
+    "pub_date": "Thu, 12 Mar 2026 01:36:00 +0900",
+    "analyzed_at": "2026-03-11T17:05:15.078388"
+  },
+  {
+    "title": "'용인비전 2040' 목표, 반도체 도시 넘어 '정주형 미래도시'로",
+    "score": 4,
+    "reason": "대규모 투자 계획이 발표되어 강한 호재로 작용할 가능성이 높음.",
+    "related_stocks": [
+      "SK하이닉스",
+      "삼성전자"
+    ],
+    "link": "https://www.thereport.co.kr/news/articleView.html?idxno=85118",
+    "pub_date": "Thu, 12 Mar 2026 01:12:00 +0900",
+    "analyzed_at": "2026-03-11T17:05:15.078390"
+  },
+  {
+    "title": "[데스크칼럼] '노조 공화국'의 덫",
+    "score": -1,
+    "reason": "노조의 출현은 기업 운영에 부담을 줄 수 있어 약한 악재로 평가됨.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=435988",
+    "pub_date": "Thu, 12 Mar 2026 01:00:00 +0900",
+    "analyzed_at": "2026-03-11T17:05:15.078391"
+  },
+  {
+    "title": "[사설]AI 52번 언급한 中양회, 한국은?",
+    "score": 2,
+    "reason": "중국의 첨단산업 육성 계획이 한국 기업에 긍정적인 경쟁 압박을 줄 수 있음.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.mt.co.kr/opinion/2026/03/12/2026031117284091955",
+    "pub_date": "Thu, 12 Mar 2026 02:00:00 +0900",
+    "analyzed_at": "2026-03-11T17:05:21.513732"
+  },
+  {
+    "title": "경기도, 양자통신 컴퓨팅 소부장 중심 산학연 협력 생태계 구축",
+    "score": 3,
+    "reason": "양자기술 관련 생태계 구축은 반도체 및 IT 산업에 긍정적인 영향을 미칠 것으로 예상됨.",
+    "related_stocks": [
+      "LG전자",
+      "카카오"
+    ],
+    "link": "https://www.etnews.com/20260312000004",
+    "pub_date": "Thu, 12 Mar 2026 01:41:00 +0900",
+    "analyzed_at": "2026-03-11T17:05:21.513743"
+  },
+  {
+    "title": "[GAM] 시에나 ② 주요 투자은행 줄줄이 목표주가 올려",
+    "score": 4,
+    "reason": "투자은행들이 목표주가를 올린 것은 긍정적인 실적 전망을 반영하며, AI 네트워킹 수요 증가가 뒷받침되고 있다.",
+    "related_stocks": [
+      "시에나"
+    ],
+    "link": "https://www.newspim.com/news/view/20260312000011",
+    "pub_date": "Thu, 12 Mar 2026 02:01:00 +0900",
+    "analyzed_at": "2026-03-11T17:05:33.337874"
+  },
+  {
+    "title": "[GAM] 시에나 ① AI 수요 폭발에 역대 최고 분기 매출",
+    "score": 5,
+    "reason": "역대 최고 분기 매출은 실적 서프라이즈로, AI 인프라 투자 열풍이 긍정적인 영향을 미치고 있다.",
+    "related_stocks": [
+      "시에나"
+    ],
+    "link": "https://www.newspim.com/news/view/20260312000010",
+    "pub_date": "Thu, 12 Mar 2026 02:00:00 +0900",
+    "analyzed_at": "2026-03-11T17:05:33.337883"
+  },
+  {
+    "title": "리볼루트, 영국 정식 은행 라이선스 획득…크립토 친화 핀테크 제도권 ...",
+    "score": 3,
+    "reason": "정식 은행 라이선스 획득은 리볼루트의 신뢰성을 높이며, 핀테크 시장에서 긍정적인 영향을 미칠 것으로 예상된다.",
+    "related_stocks": [
+      "리볼루트"
+    ],
+    "link": "https://www.tokenpost.kr/news/policy/338415",
+    "pub_date": "Thu, 12 Mar 2026 01:50:00 +0900",
+    "analyzed_at": "2026-03-11T17:05:33.337885"
+  },
+  {
+    "title": "돈의 다음 사용자, 인간 아닌 AI 에이전트…비트코인 선택할까",
+    "score": 1,
+    "reason": "AI 에이전트의 사용 가능성은 흥미롭지만, 현재로서는 시장에 미치는 영향이 제한적이다.",
+    "related_stocks": [
+      "비트코인"
+    ],
+    "link": "https://www.tokenpost.kr/news/insights/338398",
+    "pub_date": "Thu, 12 Mar 2026 01:08:00 +0900",
+    "analyzed_at": "2026-03-11T17:05:33.337887"
   }
 ]
