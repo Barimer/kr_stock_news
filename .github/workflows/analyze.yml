@@ -1,0 +1,47 @@
+name: Stock News Analyzer
+
+on:
+  schedule:
+    - cron: '*/15 * * * *'   # 15분마다 실행 (UTC 기준)
+  workflow_dispatch:          # 수동 실행 가능
+
+permissions:
+  contents: write             # Auto-commit을 위한 쓰기 권한
+
+jobs:
+  analyze:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 📥 체크아웃
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: 🐍 Python 설치
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: 📦 의존성 설치
+        run: pip install -r requirements.txt
+
+      - name: 🔍 뉴스 수집 및 분석
+        env:
+          NAVER_CLIENT_ID: ${{ secrets.NAVER_CLIENT_ID }}
+          NAVER_CLIENT_SECRET: ${{ secrets.NAVER_CLIENT_SECRET }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: |
+          cd scripts
+          python analyze.py
+
+      - name: 📤 결과 자동 커밋
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/news_results.json
+          git diff --cached --quiet || git commit -m "📊 분석 결과 업데이트 $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push

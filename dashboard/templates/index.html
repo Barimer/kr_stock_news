@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>📊 Barimer 주식 뉴스 AI 분석</title>
+    <meta name="description" content="AI 기반 실시간 한국 주식 뉴스 감성 분석 대시보드">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <!-- 헤더 -->
+    <header class="header">
+        <div class="header-content">
+            <h1>📊 Barimer <span class="accent">주식 뉴스 AI</span></h1>
+            <div class="header-meta">
+                <span id="update-time" class="update-badge">업데이트 중...</span>
+                <span id="auto-refresh" class="refresh-badge">⏱ 30초 자동 갱신</span>
+            </div>
+        </div>
+    </header>
+
+    <!-- 통계 카드 -->
+    <section class="stats-section">
+        <div class="stat-card total">
+            <div class="stat-number" id="stat-total">-</div>
+            <div class="stat-label">전체 분석</div>
+        </div>
+        <div class="stat-card positive">
+            <div class="stat-number" id="stat-positive">-</div>
+            <div class="stat-label">🟢 호재</div>
+        </div>
+        <div class="stat-card negative">
+            <div class="stat-number" id="stat-negative">-</div>
+            <div class="stat-label">🔴 악재</div>
+        </div>
+        <div class="stat-card neutral">
+            <div class="stat-number" id="stat-avg">-</div>
+            <div class="stat-label">📈 평균 점수</div>
+        </div>
+    </section>
+
+    <!-- 필터 -->
+    <section class="filter-section">
+        <button class="filter-btn active" data-filter="all">전체</button>
+        <button class="filter-btn" data-filter="positive">호재만</button>
+        <button class="filter-btn" data-filter="negative">악재만</button>
+        <button class="filter-btn" data-filter="strong">강력 신호 (±3~5)</button>
+    </section>
+
+    <!-- 뉴스 카드 리스트 -->
+    <main class="news-container" id="news-container">
+        <div class="loading">
+            <div class="spinner"></div>
+            <p>데이터를 불러오는 중...</p>
+        </div>
+    </main>
+
+    <footer class="footer">
+        <p>Powered by OpenAI GPT-4o-mini & Naver News API</p>
+    </footer>
+
+    <script>
+        let allData = [];
+
+        // 데이터 로드
+        async function loadData() {
+            try {
+                const resp = await fetch('/api/news');
+                const json = await resp.json();
+
+                if (json.status === 'ok') {
+                    allData = json.data;
+                    updateStats(json.stats);
+                    renderNews(allData);
+                    document.getElementById('update-time').textContent =
+                        `✅ ${new Date().toLocaleTimeString('ko-KR')} 업데이트`;
+                } else {
+                    showError(json.message);
+                }
+            } catch (e) {
+                showError('서버 연결 실패');
+            }
+        }
+
+        // 통계 업데이트
+        function updateStats(stats) {
+            document.getElementById('stat-total').textContent = stats.total;
+            document.getElementById('stat-positive').textContent = stats.positive;
+            document.getElementById('stat-negative').textContent = stats.negative;
+            document.getElementById('stat-avg').textContent =
+                (stats.avg_score > 0 ? '+' : '') + stats.avg_score;
+        }
+
+        // 뉴스 카드 렌더링
+        function renderNews(data) {
+            const container = document.getElementById('news-container');
+
+            if (!data.length) {
+                container.innerHTML = '<div class="empty">아직 분석된 뉴스가 없습니다.</div>';
+                return;
+            }
+
+            container.innerHTML = data.map(item => {
+                const score = item.score || 0;
+                const absScore = Math.abs(score);
+                const isPositive = score > 0;
+                const scoreClass = score > 0 ? 'score-positive' :
+                                   score < 0 ? 'score-negative' : 'score-neutral';
+                const cardClass = absScore >= 4 ? 'card-strong' :
+                                  absScore >= 3 ? 'card-notable' : '';
+                const emoji = isPositive ? '🟢' : score < 0 ? '🔴' : '⚪';
+                const relatedStocks = (item.related_stocks || []).join(', ') || '-';
+                const timeStr = item.analyzed_at ?
+                    new Date(item.analyzed_at).toLocaleString('ko-KR') : '-';
+
+                return `
+                <article class="news-card ${cardClass}" data-score="${score}">
+                    <div class="card-header">
+                        <span class="score-badge ${scoreClass}">
+                            ${emoji} ${score > 0 ? '+' : ''}${score}
+                        </span>
+                        <span class="card-time">${timeStr}</span>
+                    </div>
+                    <h3 class="card-title">
+                        <a href="${item.link}" target="_blank" rel="noopener">${item.title}</a>
+                    </h3>
+                    <p class="card-reason">💡 ${item.reason || ''}</p>
+                    <div class="card-footer">
+                        <span class="card-stocks">🏢 ${relatedStocks}</span>
+                        <a href="${item.link}" target="_blank" class="card-link">원문 →</a>
+                    </div>
+                </article>`;
+            }).join('');
+        }
+
+        // 필터링
+        document.querySelector('.filter-section').addEventListener('click', (e) => {
+            if (!e.target.classList.contains('filter-btn')) return;
+
+            document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+            e.target.classList.add('active');
+
+            const filter = e.target.dataset.filter;
+            let filtered;
+            switch (filter) {
+                case 'positive':
+                    filtered = allData.filter(d => d.score > 0);
+                    break;
+                case 'negative':
+                    filtered = allData.filter(d => d.score < 0);
+                    break;
+                case 'strong':
+                    filtered = allData.filter(d => Math.abs(d.score) >= 3);
+                    break;
+                default:
+                    filtered = allData;
+            }
+            renderNews(filtered);
+        });
+
+        function showError(msg) {
+            document.getElementById('news-container').innerHTML =
+                `<div class="error">⚠️ ${msg}</div>`;
+        }
+
+        // 초기 로드 + 30초 자동 갱신
+        loadData();
+        setInterval(loadData, 30000);
+    </script>
+</body>
+</html>
