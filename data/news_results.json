@@ -1393,5 +1393,166 @@
     "link": "https://www.tokenpost.kr/news/cryptocurrency/338422",
     "pub_date": "Thu, 12 Mar 2026 02:12:00 +0900",
     "analyzed_at": "2026-03-11T18:06:04.473177"
+  },
+  {
+    "title": "K바이오, 통했다… '신약개발 허브' 부상",
+    "score": 3,
+    "reason": "삼성전자의 스타트업 육성 프로그램은 바이오 산업의 발전을 촉진할 것으로 기대됨.",
+    "related_stocks": [
+      "삼성전자",
+      "바이오 관련 스타트업"
+    ],
+    "link": "https://www.mt.co.kr/thebio/2026/03/12/2026031119552671413",
+    "pub_date": "Thu, 12 Mar 2026 04:10:00 +0900",
+    "analyzed_at": "2026-03-11T19:11:58.001746"
+  },
+  {
+    "title": "리사 수 AMD CEO 18일 방한…삼성전자·네이버와 AI 협력 논의",
+    "score": 4,
+    "reason": "AMD와의 협력 논의는 삼성전자와 네이버의 AI 사업에 긍정적인 영향을 미칠 것으로 예상됨.",
+    "related_stocks": [
+      "삼성전자",
+      "네이버"
+    ],
+    "link": "https://www.mediapen.com/news/view/1086463",
+    "pub_date": "Thu, 12 Mar 2026 04:10:00 +0900",
+    "analyzed_at": "2026-03-11T19:11:58.001754"
+  },
+  {
+    "title": "[사설]주총 개막, 개정 상법 시험대로",
+    "score": 2,
+    "reason": "주주환원 강화 기조는 긍정적이나, 상법 개정에 대한 불확실성이 존재함.",
+    "related_stocks": [
+      "삼성전자",
+      "SK"
+    ],
+    "link": "https://www.mt.co.kr/opinion/2026/03/12/2026031115171992380",
+    "pub_date": "Thu, 12 Mar 2026 04:00:00 +0900",
+    "analyzed_at": "2026-03-11T19:11:58.001756"
+  },
+  {
+    "title": "\"트럼프의 대중 전략은 자충수\"… 美 민주당, 반도체·관세 '전략적 패배...",
+    "score": -3,
+    "reason": "미국의 규제 압박이 국내 반도체 기업에 부정적인 영향을 미칠 것으로 우려됨.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.g-enews.com/view.php?ud=202603111755315064fbbec65dfb_1",
+    "pub_date": "Thu, 12 Mar 2026 03:36:00 +0900",
+    "analyzed_at": "2026-03-11T19:11:58.001758"
+  },
+  {
+    "title": "한국지역난방공사, '버려지는 전기·열' 다 잡는다…에너지 대전환(GX)",
+    "score": 3,
+    "reason": "삼성전자와의 협력은 에너지 효율성을 높이고 지속 가능한 사업 모델을 구축하는 데 기여할 것임.",
+    "related_stocks": [
+      "삼성전자",
+      "한국지역난방공사"
+    ],
+    "link": "https://www.cstimes.com/news/articleView.html?idxno=697057",
+    "pub_date": "Thu, 12 Mar 2026 03:30:00 +0900",
+    "analyzed_at": "2026-03-11T19:11:58.001760"
+  },
+  {
+    "title": "유정복 인천시장 \"로봇 메카 도약 위해 에스피지 같은 중견기업 성장 필...",
+    "score": 2,
+    "reason": "로봇 산업의 성장 가능성을 강조하며 중견기업의 발전이 긍정적으로 작용할 것으로 보임.",
+    "related_stocks": [
+      "삼성전자",
+      "현대자동차"
+    ],
+    "link": "https://www.cstimes.com/news/articleView.html?idxno=697111",
+    "pub_date": "Thu, 12 Mar 2026 03:30:00 +0900",
+    "analyzed_at": "2026-03-11T19:11:58.001761"
+  },
+  {
+    "title": "원청 넘어 발주처에 교섭 요구도…건설현장 흔드는 노봉법",
+    "score": -3,
+    "reason": "노조의 교섭 요구가 건설 현장에 불확실성을 초래할 수 있어 부정적 영향을 미칠 것으로 예상됨.",
+    "related_stocks": [
+      "SK하이닉스",
+      "삼성물산"
+    ],
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202603111348151570769",
+    "pub_date": "Thu, 12 Mar 2026 03:20:00 +0900",
+    "analyzed_at": "2026-03-11T19:12:01.923200"
+  },
+  {
+    "title": "구윤철 '석유 최고가제, 1800원 수준 적정'",
+    "score": 0,
+    "reason": "세수 실적 개선 언급은 있으나 주식 시장에 직접적인 영향은 미미함.",
+    "related_stocks": [],
+    "link": "https://www.mt.co.kr/economy/2026/03/12/2026031120092777549",
+    "pub_date": "Thu, 12 Mar 2026 04:11:00 +0900",
+    "analyzed_at": "2026-03-11T19:12:12.512821"
+  },
+  {
+    "title": "[미·이란 전쟁] 호르무즈 봉쇄 여파…유황 가격 급등, 비료·반도체까...",
+    "score": -3,
+    "reason": "글로벌 공급망에 충격을 주는 상황으로, 반도체 산업에 부정적 영향을 미칠 가능성이 높음.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.g-enews.com/view.php?ud=2026031118032793879a1f309431_1",
+    "pub_date": "Thu, 12 Mar 2026 04:00:00 +0900",
+    "analyzed_at": "2026-03-11T19:12:12.512829"
+  },
+  {
+    "title": "인천시, '中企 기술전환 활성화·유망 벤처기업 중점 투자' 본격 추진",
+    "score": 3,
+    "reason": "반도체 및 바이오 산업에 대한 중점 투자는 긍정적인 신호로 해석됨.",
+    "related_stocks": [
+      "삼성전자",
+      "LG화학"
+    ],
+    "link": "https://www.cstimes.com/news/articleView.html?idxno=697104",
+    "pub_date": "Thu, 12 Mar 2026 03:30:00 +0900",
+    "analyzed_at": "2026-03-11T19:12:12.512831"
+  },
+  {
+    "title": "\"K-제조 거점 한국으로\" 코트라, 세계 최대 'JEC 월드'서 투자유치 설명...",
+    "score": 4,
+    "reason": "첨단소재 공급망 강화는 반도체 및 미래차 산업에 긍정적인 영향을 미칠 것으로 예상됨.",
+    "related_stocks": [
+      "삼성전자",
+      "현대차"
+    ],
+    "link": "https://www.cstimes.com/news/articleView.html?idxno=697060",
+    "pub_date": "Thu, 12 Mar 2026 03:30:00 +0900",
+    "analyzed_at": "2026-03-11T19:12:12.512832"
+  },
+  {
+    "title": "인천시, '반도체·바이오·로봇' 3대 핵심 산업으로 미래 성장엔진 가동",
+    "score": 3,
+    "reason": "반도체와 바이오 산업에 대한 집중 투자 계획은 긍정적인 신호로 작용할 것임.",
+    "related_stocks": [
+      "삼성전자",
+      "셀트리온"
+    ],
+    "link": "https://www.cstimes.com/news/articleView.html?idxno=697101",
+    "pub_date": "Thu, 12 Mar 2026 03:30:00 +0900",
+    "analyzed_at": "2026-03-11T19:12:12.512834"
+  },
+  {
+    "title": "7000선 뚫은 뉴욕증시의 역설…AI·사금융 ‘쌍둥이 폭탄’ 터지나",
+    "score": -2,
+    "reason": "AI 열풍에 대한 기대감이 있지만, 위험 자산 정리 우려로 부정적 영향이 예상됨.",
+    "related_stocks": [],
+    "link": "https://www.g-enews.com/view.php?ud=202603111752576897fbbec65dfb_1",
+    "pub_date": "Thu, 12 Mar 2026 03:30:00 +0900",
+    "analyzed_at": "2026-03-11T19:12:16.705366"
+  },
+  {
+    "title": "어크로스 운영사 리스크 랩스, DAO 해체하고 미국 법인 전환 추진",
+    "score": -1,
+    "reason": "DAO 해체는 불확실성을 증가시키며, 투자자들에게 부정적인 신호로 작용할 수 있음.",
+    "related_stocks": [
+      "어크로스"
+    ],
+    "link": "https://www.tokenpost.kr/news/cryptocurrency/338436",
+    "pub_date": "Thu, 12 Mar 2026 03:24:00 +0900",
+    "analyzed_at": "2026-03-11T19:12:16.705374"
   }
 ]
