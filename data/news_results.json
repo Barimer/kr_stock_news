@@ -8325,5 +8325,53 @@
     "link": "https://www.newspim.com/news/view/20260313000002",
     "pub_date": "Fri, 13 Mar 2026 00:50:00 +0900",
     "analyzed_at": "2026-03-12T16:44:37.709462"
+  },
+  {
+    "title": "삼성電도 현대엘베 없으면 힘들다",
+    "score": -1,
+    "reason": "삼성전자의 의존도가 높은 현대엘리베이터에 대한 언급은 부정적인 신호로 해석될 수 있음.",
+    "related_stocks": [
+      "삼성전자",
+      "현대엘리베이터"
+    ],
+    "link": "https://www.lcnews.co.kr/news/articleView.html?idxno=125329",
+    "pub_date": "Fri, 13 Mar 2026 02:00:00 +0900",
+    "analyzed_at": "2026-03-12T17:38:43.725892"
+  },
+  {
+    "title": "이 대통령, '자본시장 4대 개혁안' 간담회",
+    "score": 3,
+    "reason": "자본시장 개혁안 발표는 긍정적인 정책으로 주식 시장에 호재로 작용할 가능성이 있음.",
+    "related_stocks": [
+      "삼성전자",
+      "현대모비스"
+    ],
+    "link": "https://www.asiatime.co.kr/article/20260313500005",
+    "pub_date": "Fri, 13 Mar 2026 01:48:00 +0900",
+    "analyzed_at": "2026-03-12T17:38:43.725899"
+  },
+  {
+    "title": "씨게이트, 이란 전쟁으로 인한 헬륨 공급 차질 우려",
+    "score": -3,
+    "reason": "헬륨 부족이 반도체 제조에 큰 타격을 줄 수 있어 부정적인 영향이 예상됨.",
+    "related_stocks": [
+      "씨게이트",
+      "반도체 관련주"
+    ],
+    "link": "https://www.newspim.com/news/view/20260313000012",
+    "pub_date": "Fri, 13 Mar 2026 02:22:00 +0900",
+    "analyzed_at": "2026-03-12T17:38:49.480745"
+  },
+  {
+    "title": "남부발전, 퓨리오사AI와 국산 AI 반도체 생태계 조성 협력",
+    "score": 4,
+    "reason": "국산 AI 반도체 생태계 조성은 긍정적인 정책으로 발전설비 운영 비용 절감 기대.",
+    "related_stocks": [
+      "남부발전",
+      "퓨리오사AI"
+    ],
+    "link": "https://zdnet.co.kr/view/?no=20260313020039",
+    "pub_date": "Fri, 13 Mar 2026 02:01:00 +0900",
+    "analyzed_at": "2026-03-12T17:38:49.480754"
   }
 ]
