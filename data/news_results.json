@@ -8195,5 +8195,135 @@
     "link": "https://www.cbci.co.kr/news/articleView.html?idxno=560678",
     "pub_date": "Fri, 13 Mar 2026 00:00:00 +0900",
     "analyzed_at": "2026-03-12T15:43:16.201508"
+  },
+  {
+    "title": "李 “신속한 추경” 20조 규모 될 듯",
+    "score": 4,
+    "reason": "정부의 대규모 추경 발표는 경제 활성화에 긍정적인 영향을 미칠 것으로 예상됨.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.chosun.com/politics/politics_general/2026/03/13/PSLHWE737NCQ5FBZNNW4OUFESY/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+    "pub_date": "Fri, 13 Mar 2026 00:55:00 +0900",
+    "analyzed_at": "2026-03-12T16:44:18.011097"
+  },
+  {
+    "title": "이젠 산업스파이도 간첩… 최대 징역 30년 처벌",
+    "score": -2,
+    "reason": "산업스파이에 대한 처벌 강화는 기업의 기술 유출 우려를 증가시켜 부정적인 영향을 미칠 수 있음.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "https://www.chosun.com/national/court_law/2026/03/14/INGGTSQSA5GRTN32OHS5F26VHQ/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+    "pub_date": "Fri, 13 Mar 2026 00:48:00 +0900",
+    "analyzed_at": "2026-03-12T16:44:18.011107"
+  },
+  {
+    "title": "차세대 전력반도체 기술 자립 꿈꾼다...'김해 전력반도체 솔루션 센터'",
+    "score": 4,
+    "reason": "전력반도체 국산화와 기술 자립을 위한 센터 설립은 관련 산업에 긍정적인 영향을 미칠 것으로 예상됨.",
+    "related_stocks": [
+      "삼성전자",
+      "LG전자"
+    ],
+    "link": "http://www.gimhaenews.co.kr/news/articleView.html?idxno=53094",
+    "pub_date": "Fri, 13 Mar 2026 01:12:00 +0900",
+    "analyzed_at": "2026-03-12T16:44:34.539812"
+  },
+  {
+    "title": "유정복 인천시장 '민선 8기 핵심 정책 책임 있게 완수할 것'…확대간부",
+    "score": 2,
+    "reason": "인천의 반도체 및 AI 산업 육성 정책은 지역 경제에 긍정적인 영향을 미칠 가능성이 있음.",
+    "related_stocks": [
+      "SK하이닉스",
+      "인텔"
+    ],
+    "link": "https://www.cstimes.com/news/articleView.html?idxno=697342",
+    "pub_date": "Fri, 13 Mar 2026 01:10:00 +0900",
+    "analyzed_at": "2026-03-12T16:44:34.539821"
+  },
+  {
+    "title": "인하대, 코싸인온과 '반도체 인력 양성·채용 연계' 맞손",
+    "score": 3,
+    "reason": "반도체 인력 양성을 위한 협력은 산업 발전에 기여할 것으로 기대됨.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.cstimes.com/news/articleView.html?idxno=697314",
+    "pub_date": "Fri, 13 Mar 2026 01:10:00 +0900",
+    "analyzed_at": "2026-03-12T16:44:34.539823"
+  },
+  {
+    "title": "인천시, 중국 '바이오 차이나' 참가…'글로벌 바이오 협력 확대'",
+    "score": 1,
+    "reason": "바이오 산업 협력 확대는 긍정적이나 반도체와의 직접적인 연관성은 낮음.",
+    "related_stocks": [
+      "셀트리온",
+      "삼성바이오로직스"
+    ],
+    "link": "https://www.cstimes.com/news/articleView.html?idxno=697340",
+    "pub_date": "Fri, 13 Mar 2026 01:08:00 +0900",
+    "analyzed_at": "2026-03-12T16:44:34.539825"
+  },
+  {
+    "title": "이 대통령, 오늘 충북서 타운홀미팅…“미래 먹거리 핵심 거점”",
+    "score": 3,
+    "reason": "충북의 반도체 및 이차전지 산업 육성은 지역 경제에 긍정적인 영향을 미칠 것으로 보임.",
+    "related_stocks": [
+      "삼성전자",
+      "LG화학"
+    ],
+    "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8507223&ref=A",
+    "pub_date": "Fri, 13 Mar 2026 01:00:00 +0900",
+    "analyzed_at": "2026-03-12T16:44:34.539829"
+  },
+  {
+    "title": "'자강론 방점' 中양회 폐막… 내수확대·기술자립 5개년 계획 확정",
+    "score": -2,
+    "reason": "중국의 기술 자립 강화는 한국 반도체 산업에 부정적인 영향을 미칠 수 있음.",
+    "related_stocks": [
+      "SK하이닉스",
+      "삼성전자"
+    ],
+    "link": "https://www.newscj.com/news/articleView.html?idxno=3383992",
+    "pub_date": "Fri, 13 Mar 2026 00:56:00 +0900",
+    "analyzed_at": "2026-03-12T16:44:34.539831"
+  },
+  {
+    "title": "‘복합 위기’ K디스플레이… 그래도 “AI 최적화된 OLED 있다”",
+    "score": -3,
+    "reason": "중국의 저가 공세와 칩플레이션은 한국 디스플레이 산업에 심각한 위협이 되고 있음.",
+    "related_stocks": [
+      "LG디스플레이",
+      "삼성디스플레이"
+    ],
+    "link": "https://www.kmib.co.kr/article/view.asp?arcid=1773304819&code=11151400&cp=nv",
+    "pub_date": "Fri, 13 Mar 2026 00:55:00 +0900",
+    "analyzed_at": "2026-03-12T16:44:34.539833"
+  },
+  {
+    "title": "USTR, 속전속결 조사 방침… 7월 24일(v) 전에 새 관세 부과할 듯",
+    "score": -4,
+    "reason": "미국의 관세 부과 압박은 한국 반도체 산업에 심각한 악재로 작용할 가능성이 높음.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.chosun.com/economy/industry-company/2026/03/13/2Q6XDL7UW5GVPDCA2DNV4BUUDY/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+    "pub_date": "Fri, 13 Mar 2026 00:52:00 +0900",
+    "analyzed_at": "2026-03-12T16:44:34.539834"
+  },
+  {
+    "title": "UNFI 매출 감소에도 수익성 중심 전략으로 전환",
+    "score": 1,
+    "reason": "수익성 중심으로 전략을 전환하는 것은 긍정적이나 매출 감소는 부정적 요소로 작용",
+    "related_stocks": [
+      "UNFI"
+    ],
+    "link": "https://www.newspim.com/news/view/20260313000002",
+    "pub_date": "Fri, 13 Mar 2026 00:50:00 +0900",
+    "analyzed_at": "2026-03-12T16:44:37.709462"
   }
 ]
