@@ -8373,5 +8373,29 @@
     "link": "https://zdnet.co.kr/view/?no=20260313020039",
     "pub_date": "Fri, 13 Mar 2026 02:01:00 +0900",
     "analyzed_at": "2026-03-12T17:38:49.480754"
+  },
+  {
+    "title": "순천시, 5대 전략산업 연계 공공기관 유치안 제시… 14개 과제 확정",
+    "score": 3,
+    "reason": "공공기관 유치 계획은 지역 경제에 긍정적인 영향을 미칠 것으로 예상됨.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.newscj.com/news/articleView.html?idxno=3384016",
+    "pub_date": "Fri, 13 Mar 2026 02:38:00 +0900",
+    "analyzed_at": "2026-03-12T18:34:25.356152"
+  },
+  {
+    "title": "머스크 “xAI·테슬라 공동 AI 프로젝트 추진”…주주 소송 속 이해충돌",
+    "score": 3,
+    "reason": "AI 프로젝트 추진은 테슬라의 미래 성장 가능성을 높일 수 있는 긍정적인 요소로 작용할 수 있음.",
+    "related_stocks": [
+      "테슬라",
+      "스페이스X"
+    ],
+    "link": "https://www.g-enews.com/view.php?ud=2026031218584619759a1f309431_1",
+    "pub_date": "Fri, 13 Mar 2026 03:02:00 +0900",
+    "analyzed_at": "2026-03-12T18:34:28.629026"
   }
 ]
