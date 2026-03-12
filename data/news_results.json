@@ -7048,5 +7048,245 @@
     "link": "https://gamefocus.co.kr/detail.php?number=174247",
     "pub_date": "Thu, 12 Mar 2026 19:00:00 +0900",
     "analyzed_at": "2026-03-12T10:54:07.191230"
+  },
+  {
+    "title": "한·베트남 쾌속 밀착",
+    "score": 3,
+    "reason": "삼성전자의 베트남 생산 확대는 긍정적인 경제적 영향을 미칠 것으로 예상됨.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "https://www.chosun.com/opinion/manmulsang/2026/03/12/CASTXKEWBBAR3JQBVXXKCGK2LY/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+    "pub_date": "Thu, 12 Mar 2026 20:32:00 +0900",
+    "analyzed_at": "2026-03-12T11:37:46.369561"
+  },
+  {
+    "title": "TSMC, 파운드리 점유율 70% 육박",
+    "score": -3,
+    "reason": "삼성전자의 매출과 점유율 하락은 경쟁력 약화를 의미하며 부정적 영향을 미침.",
+    "related_stocks": [
+      "삼성전자",
+      "TSMC"
+    ],
+    "link": "https://www.mk.co.kr/article/11986719",
+    "pub_date": "Thu, 12 Mar 2026 20:28:00 +0900",
+    "analyzed_at": "2026-03-12T11:37:46.369570"
+  },
+  {
+    "title": "이재용 회장 탈 대한항공 최신 전용기, 테스트 비행",
+    "score": 0,
+    "reason": "전용기 테스트 비행은 기업 이미지에 긍정적이나 주가에 직접적인 영향은 없음.",
+    "related_stocks": [
+      "대한항공"
+    ],
+    "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=823805",
+    "pub_date": "Thu, 12 Mar 2026 20:16:00 +0900",
+    "analyzed_at": "2026-03-12T11:37:46.369572"
+  },
+  {
+    "title": "HBM 다음은 LPDDR6",
+    "score": 4,
+    "reason": "삼성전자와 SK하이닉스의 저전력 메모리 시장 경쟁은 긍정적인 실적 개선을 기대하게 함.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "http://www.ftoday.co.kr/news/articleView.html?idxno=356366",
+    "pub_date": "Thu, 12 Mar 2026 20:02:00 +0900",
+    "analyzed_at": "2026-03-12T11:37:46.369574"
+  },
+  {
+    "title": "김승룡 소방청장 직무대행 현장 행보 2탄은 K-반도체 청주하이닉스 공장",
+    "score": 0,
+    "reason": "소방청의 안전 점검은 중립적인 활동으로 주가에 큰 영향을 미치지 않음.",
+    "related_stocks": [
+      "SK하이닉스"
+    ],
+    "link": "https://www.public25.com/news/articleView.html?idxno=41782",
+    "pub_date": "Thu, 12 Mar 2026 20:36:00 +0900",
+    "analyzed_at": "2026-03-12T11:37:50.839273"
+  },
+  {
+    "title": "소방청, SK하이닉스 청주 캠퍼스 현장점검",
+    "score": 0,
+    "reason": "화재 예방 논의는 긍정적이나 주가에 직접적인 영향을 미치지 않음.",
+    "related_stocks": [
+      "SK하이닉스"
+    ],
+    "link": "http://fpn119.co.kr/248117",
+    "pub_date": "Thu, 12 Mar 2026 20:02:00 +0900",
+    "analyzed_at": "2026-03-12T11:37:50.839281"
+  },
+  {
+    "title": "美 301조 조사 개시…韓 15% 관세 유지 전망 속 추가관세 우려도",
+    "score": -4,
+    "reason": "한국의 주요 수출품에 대한 추가 관세 부과 우려로 인해 경제 전반에 부정적 영향을 미칠 가능성이 높음.",
+    "related_stocks": [
+      "삼성전자",
+      "현대차"
+    ],
+    "link": "https://www.imaeil.com/page/view/2026031215020683336",
+    "pub_date": "Thu, 12 Mar 2026 20:33:00 +0900",
+    "analyzed_at": "2026-03-12T11:38:07.579899"
+  },
+  {
+    "title": "인천시, 중소기업 기술전환·벤처투자 연계지원 본격 추진 발표",
+    "score": 3,
+    "reason": "미래 성장성이 높은 산업에 대한 지원으로 지역 경제 활성화 및 관련 기업에 긍정적 영향을 미칠 것으로 예상됨.",
+    "related_stocks": [
+      "셀트리온",
+      "카카오"
+    ],
+    "link": "http://www.bizwnews.com/news/articleView.html?idxno=128732",
+    "pub_date": "Thu, 12 Mar 2026 20:26:00 +0900",
+    "analyzed_at": "2026-03-12T11:38:07.579909"
+  },
+  {
+    "title": "엘티씨, 보통주 1주당 100원 현금배당 결정",
+    "score": 2,
+    "reason": "배당 결정은 주주들에게 긍정적인 신호를 주지만, 큰 영향력은 미치지 않을 것으로 보임.",
+    "related_stocks": [
+      "엘티씨"
+    ],
+    "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=640496",
+    "pub_date": "Thu, 12 Mar 2026 20:26:00 +0900",
+    "analyzed_at": "2026-03-12T11:38:07.579911"
+  },
+  {
+    "title": "미, 한국에 관세 무기 ‘301조’ 겨눴다",
+    "score": -4,
+    "reason": "한국의 주요 산업에 대한 관세 부과 가능성이 높아져 경제에 심각한 악영향을 미칠 수 있음.",
+    "related_stocks": [
+      "삼성전자",
+      "LG화학"
+    ],
+    "link": "https://www.khan.co.kr/article/202603122025005",
+    "pub_date": "Thu, 12 Mar 2026 20:25:00 +0900",
+    "analyzed_at": "2026-03-12T11:38:07.579912"
+  },
+  {
+    "title": "“1차 관문 넘자” 민주 통합특별시장 후보군 광폭행보",
+    "score": 2,
+    "reason": "반도체 생태계 구축 공약은 지역 산업 발전에 긍정적 영향을 줄 수 있으나, 실현 가능성은 불확실함.",
+    "related_stocks": [
+      "SK하이닉스",
+      "삼성전자"
+    ],
+    "link": "http://www.kjdaily.com/article.php?aid=1773312774674831002",
+    "pub_date": "Thu, 12 Mar 2026 20:24:00 +0900",
+    "analyzed_at": "2026-03-12T11:38:07.579913"
+  },
+  {
+    "title": "“예상된 바…한국에 기존 15% 이상 부과 가능성 낮아”",
+    "score": 1,
+    "reason": "관세 부과 가능성이 낮아질 것이라는 전망은 다소 긍정적이나, 여전히 불확실성이 존재함.",
+    "related_stocks": [
+      "삼성전자",
+      "현대차"
+    ],
+    "link": "https://www.khan.co.kr/article/202603122023005",
+    "pub_date": "Thu, 12 Mar 2026 20:23:00 +0900",
+    "analyzed_at": "2026-03-12T11:38:07.579914"
+  },
+  {
+    "title": "미, 한국 자동차·철강·석유화학 등 콕 집어 “과잉 생산 흑자”",
+    "score": -4,
+    "reason": "한국의 주요 산업에 대한 높은 관세 부과 가능성으로 인해 경제 전반에 부정적 영향을 미칠 것으로 예상됨.",
+    "related_stocks": [
+      "현대차",
+      "포스코"
+    ],
+    "link": "https://www.khan.co.kr/article/202603122022005",
+    "pub_date": "Thu, 12 Mar 2026 20:22:00 +0900",
+    "analyzed_at": "2026-03-12T11:38:07.579916"
+  },
+  {
+    "title": "경북도-EY컨설팅, 지식파트너십 체결…글로벌 투자 네트워크 확대 나서",
+    "score": 2,
+    "reason": "글로벌 투자 네트워크 확대는 지역 산업 발전에 긍정적 영향을 미칠 수 있으나, 구체적인 성과는 미지수임.",
+    "related_stocks": [
+      "삼성전자",
+      "LG화학"
+    ],
+    "link": "https://tk.newdaily.co.kr/site/data/html/2026/03/12/2026031200459.html",
+    "pub_date": "Thu, 12 Mar 2026 20:20:00 +0900",
+    "analyzed_at": "2026-03-12T11:38:07.579917"
+  },
+  {
+    "title": "신원근 카카오페이 대표, 작년 연봉 6억200만원...스톡옵션 5만7055주 행",
+    "score": 0,
+    "reason": "대표의 연봉과 스톡옵션 정보는 기업의 실적이나 주가에 직접적인 영향을 미치지 않음.",
+    "related_stocks": [
+      "카카오페이"
+    ],
+    "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=05638326645382664",
+    "pub_date": "Thu, 12 Mar 2026 20:24:00 +0900",
+    "analyzed_at": "2026-03-12T11:38:22.094266"
+  },
+  {
+    "title": "국세청, 2027년 가상자산 과세 앞두고 AI 거래추적 시스템 구축 착수",
+    "score": -2,
+    "reason": "가상자산에 대한 과세 강화는 투자자 심리를 위축시킬 수 있는 악재로 작용할 가능성이 있음.",
+    "related_stocks": [
+      "가상자산 관련 주식"
+    ],
+    "link": "https://www.tokenpost.kr/news/policy/338755",
+    "pub_date": "Thu, 12 Mar 2026 20:14:00 +0900",
+    "analyzed_at": "2026-03-12T11:38:22.094274"
+  },
+  {
+    "title": "‘STRC’ 앞세운 스트레티지, 이번 주 7,000BTC 추가 매집…11.5% 고배당",
+    "score": 2,
+    "reason": "고배당 발표는 긍정적인 투자 신호로 작용할 수 있으나, 주식의 의결권 제한이 우려됨.",
+    "related_stocks": [
+      "스트레티지"
+    ],
+    "link": "https://www.tokenpost.kr/news/cryptocurrency/338754",
+    "pub_date": "Thu, 12 Mar 2026 20:10:00 +0900",
+    "analyzed_at": "2026-03-12T11:38:22.094276"
+  },
+  {
+    "title": "역대급 '셀 코리아'와 글로벌 IB의 경고… 코스피 덮친 '거품주의보'",
+    "score": -4,
+    "reason": "외국인 자금 유출과 거품 우려는 시장에 부정적인 영향을 미치는 강한 악재로 평가됨.",
+    "related_stocks": [
+      "코스피 관련 주식"
+    ],
+    "link": "https://www.ppss.kr/news/articleView.html?idxno=288017",
+    "pub_date": "Thu, 12 Mar 2026 20:08:00 +0900",
+    "analyzed_at": "2026-03-12T11:38:22.094277"
+  },
+  {
+    "title": "중동 긴장에도 버틴 비트코인…7만달러선 ‘의외의 방어력’",
+    "score": 1,
+    "reason": "비트코인의 방어력은 긍정적이나, 지정학적 리스크가 여전히 시장에 불안감을 주고 있음.",
+    "related_stocks": [
+      "비트코인"
+    ],
+    "link": "https://www.tokenpost.kr/news/cryptocurrency/338748",
+    "pub_date": "Thu, 12 Mar 2026 20:00:00 +0900",
+    "analyzed_at": "2026-03-12T11:38:22.094279"
+  },
+  {
+    "title": "월가 흔드는 사모신용 부실…빅테크 실적 악영향 우려",
+    "score": -3,
+    "reason": "사모신용 부실 리스크는 빅테크 기업의 실적에 부정적인 영향을 미칠 가능성이 높음.",
+    "related_stocks": [
+      "빅테크 관련 주식"
+    ],
+    "link": "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202603120374&t=NNv",
+    "pub_date": "Thu, 12 Mar 2026 20:00:00 +0900",
+    "analyzed_at": "2026-03-12T11:38:22.094280"
+  },
+  {
+    "title": "IRS(아이알에스), 피지컬 AI 기반의 로봇 플랫폼 ‘MAXIMA-W1'선보여",
+    "score": 2,
+    "reason": "신기술 발표는 긍정적인 신호로 작용할 수 있으나, 시장 반응은 미지수임.",
+    "related_stocks": [
+      "로봇 관련 주식"
+    ],
+    "link": "https://kidd.co.kr/news/245240",
+    "pub_date": "Thu, 12 Mar 2026 19:56:00 +0900",
+    "analyzed_at": "2026-03-12T11:38:22.094281"
   }
 ]
