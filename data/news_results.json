@@ -7838,5 +7838,111 @@
     "link": "https://www.tokenpost.kr/news/cryptocurrency/338773",
     "pub_date": "Thu, 12 Mar 2026 21:06:00 +0900",
     "analyzed_at": "2026-03-12T13:39:49.317940"
+  },
+  {
+    "title": "삼성전자 “임원도 이코노미 타라”…메모리 가격 급등에 DX부문 비용절감",
+    "score": -2,
+    "reason": "메모리 가격 급등과 소비 심리 위축으로 인한 판매량 감소가 우려됨.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "https://www.mk.co.kr/article/11986840",
+    "pub_date": "Thu, 12 Mar 2026 23:11:00 +0900",
+    "analyzed_at": "2026-03-12T14:35:13.823202"
+  },
+  {
+    "title": "[기자24시] 삼성전자 노조의 과한 욕심",
+    "score": -3,
+    "reason": "총파업 가능성이 커지면서 운영에 부정적인 영향을 미칠 수 있음.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "https://www.mk.co.kr/article/11986839",
+    "pub_date": "Thu, 12 Mar 2026 23:07:00 +0900",
+    "analyzed_at": "2026-03-12T14:35:13.823214"
+  },
+  {
+    "title": "[뉴욕증시]모즈타바 해협 봉쇄 발언에 나스닥 1.15% 하락",
+    "score": -3,
+    "reason": "글로벌 증시 하락으로 인해 한국 기술주 및 반도체주에 부정적 영향 예상",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://view.asiae.co.kr/article/2026031223271534923",
+    "pub_date": "Thu, 12 Mar 2026 23:27:00 +0900",
+    "analyzed_at": "2026-03-12T14:35:27.206140"
+  },
+  {
+    "title": "인천시, 민선 8기 주요 정책 완성 관련 확대간부회의 개최",
+    "score": 2,
+    "reason": "반도체 및 AI 산업 육성 정책이 긍정적으로 작용할 가능성",
+    "related_stocks": [
+      "삼성전자",
+      "LG전자"
+    ],
+    "link": "https://www.kmaeil.com/news/articleView.html?idxno=632793",
+    "pub_date": "Thu, 12 Mar 2026 23:24:00 +0900",
+    "analyzed_at": "2026-03-12T14:35:27.206152"
+  },
+  {
+    "title": "김동연 “일하는 대통령에게는 일꾼 도지사가 필요하다”",
+    "score": 2,
+    "reason": "반도체 클러스터 및 투자유치 전략이 지역 경제에 긍정적 영향을 미칠 수 있음",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://ilyo.co.kr/?ac=article_view&entry_id=509588",
+    "pub_date": "Thu, 12 Mar 2026 23:02:00 +0900",
+    "analyzed_at": "2026-03-12T14:35:27.206155"
+  },
+  {
+    "title": "경북도, '세계 4대 회계법인' EY와 파트너십…정책금융 고도화 속도",
+    "score": 3,
+    "reason": "반도체 및 로봇 파운드리 설립 방안이 지역 산업 발전에 기여할 것으로 기대됨",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.gukjenews.com/news/articleView.html?idxno=3527892",
+    "pub_date": "Thu, 12 Mar 2026 23:00:00 +0900",
+    "analyzed_at": "2026-03-12T14:35:27.206157"
+  },
+  {
+    "title": "KIAT, 첨단산업 전공 대학생 ‘북미 대학서 실무역량 쌓기’ 지원",
+    "score": 1,
+    "reason": "반도체 및 AI 분야 인재 양성이 장기적으로 긍정적 영향을 미칠 수 있음",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.busan.com/view/busan/view.php?code=2026031222543003495",
+    "pub_date": "Thu, 12 Mar 2026 22:57:00 +0900",
+    "analyzed_at": "2026-03-12T14:35:27.206162"
+  },
+  {
+    "title": "미국 뉴욕증시 하락 출발…유가 급등·금리 상승 부담",
+    "score": -3,
+    "reason": "글로벌 경제 불안정성이 한국 증시에 부정적 영향을 미칠 것으로 예상됨",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.topstarnews.net/news/articleView.html?idxno=16002337",
+    "pub_date": "Thu, 12 Mar 2026 22:40:00 +0900",
+    "analyzed_at": "2026-03-12T14:35:27.206164"
+  },
+  {
+    "title": "[정국인터뷰] 김영배 의원 '미중 정상회담 계기 중동 위기 안정화 기대'",
+    "score": 0,
+    "reason": "반도체 산업에 대한 언급이 있으나, 직접적인 호재나 악재로 작용하지 않을 것으로 보임",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.polinews.co.kr/news/articleView.html?idxno=725178",
+    "pub_date": "Thu, 12 Mar 2026 22:39:00 +0900",
+    "analyzed_at": "2026-03-12T14:35:27.206165"
   }
 ]
