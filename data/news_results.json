@@ -8397,5 +8397,135 @@
     "link": "https://www.g-enews.com/view.php?ud=2026031218584619759a1f309431_1",
     "pub_date": "Fri, 13 Mar 2026 03:02:00 +0900",
     "analyzed_at": "2026-03-12T18:34:28.629026"
+  },
+  {
+    "title": "TSMC, 파운드리 압도적 1위...삼성과 격차 확대",
+    "score": -3,
+    "reason": "삼성전자의 매출과 점유율 하락은 경쟁력 약화를 의미하며, 부정적인 시장 신호로 작용할 수 있음.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "https://biz.sbs.co.kr/article_hub/20000297118?division=NAVER",
+    "pub_date": "Fri, 13 Mar 2026 04:28:00 +0900",
+    "analyzed_at": "2026-03-12T19:31:40.600878"
+  },
+  {
+    "title": "3배 뛴 메모리, 신제품 못 만든다",
+    "score": -2,
+    "reason": "메모리 공급 부족 우려는 관련 기업의 실적에 부정적인 영향을 미칠 가능성이 높음.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스",
+      "마이크론"
+    ],
+    "link": "https://biz.sbs.co.kr/article_hub/20000297117?division=NAVER",
+    "pub_date": "Fri, 13 Mar 2026 04:25:00 +0900",
+    "analyzed_at": "2026-03-12T19:31:40.600888"
+  },
+  {
+    "title": "메모리 가격 급등… 완제품 업계 2분기 실적 걱정",
+    "score": -2,
+    "reason": "메모리 공급 부족과 가격 급등은 완제품 제조업체의 실적에 부정적인 영향을 미칠 것으로 예상됨.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스",
+      "마이크론"
+    ],
+    "link": "https://www.mt.co.kr/industry/2026/03/13/2026031220165581872",
+    "pub_date": "Fri, 13 Mar 2026 04:18:00 +0900",
+    "analyzed_at": "2026-03-12T19:31:40.600890"
+  },
+  {
+    "title": "'반도체 투톱' 개미 팔고, 금융투자는 샀다",
+    "score": 1,
+    "reason": "금융투자기관의 순매수는 긍정적인 신호이나, 개미 투자자의 매도는 불안 요소로 작용할 수 있음.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.mt.co.kr/industry/2026/03/13/2026031220131957965",
+    "pub_date": "Fri, 13 Mar 2026 04:14:00 +0900",
+    "analyzed_at": "2026-03-12T19:31:40.600892"
+  },
+  {
+    "title": "공급망의 ‘코로나 순간’ 왔다",
+    "score": 2,
+    "reason": "고사양 제품 수요 증가 전망은 긍정적이나, 공급망 리스크는 여전히 우려 요소로 남아 있음.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.getnews.co.kr/news/articleView.html?idxno=864224",
+    "pub_date": "Fri, 13 Mar 2026 04:00:00 +0900",
+    "analyzed_at": "2026-03-12T19:31:40.600893"
+  },
+  {
+    "title": "'반도체 투톱' 개미 팔고, 금융투자는 샀다",
+    "score": 3,
+    "reason": "금융투자기관의 순매수는 반도체 주식에 대한 긍정적인 신호로 해석됨.",
+    "related_stocks": [
+      "SK하이닉스",
+      "삼성전자"
+    ],
+    "link": "https://www.mt.co.kr/stock/2026/03/13/2026031220130487575",
+    "pub_date": "Fri, 13 Mar 2026 04:00:00 +0900",
+    "analyzed_at": "2026-03-12T19:31:45.519738"
+  },
+  {
+    "title": "[에너지 안보 리포트] “공급망의 ‘코로나 순간’ 왔다”… 에너지 독...",
+    "score": 4,
+    "reason": "고사양 제품 수요 증가 전망은 반도체 업계에 긍정적인 영향을 미칠 것으로 예상됨.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.g-enews.com/view.php?ud=202603122113303269fbbec65dfb_1",
+    "pub_date": "Fri, 13 Mar 2026 03:56:00 +0900",
+    "analyzed_at": "2026-03-12T19:31:45.519751"
+  },
+  {
+    "title": "[기고] 원전 연계 청정수소 생산 법제화가 필요하다",
+    "score": 2,
+    "reason": "청정수소 산업의 법제화는 장기적으로 긍정적인 영향을 미칠 수 있으나, 즉각적인 주가 상승 요인은 부족함.",
+    "related_stocks": [
+      "두산퓨얼셀",
+      "현대에너지솔루션"
+    ],
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202603111054149320739",
+    "pub_date": "Fri, 13 Mar 2026 04:20:00 +0900",
+    "analyzed_at": "2026-03-12T19:31:54.181241"
+  },
+  {
+    "title": "중동 전쟁에 헬륨 가격 폭등…현물 가격 두 배 상승",
+    "score": -2,
+    "reason": "헬륨 가격 상승은 반도체 및 의료 장비 제조업체에 부정적인 영향을 미칠 수 있음.",
+    "related_stocks": [
+      "삼성전자",
+      "LG전자"
+    ],
+    "link": "http://www.fnnews.com/news/202603130340296669",
+    "pub_date": "Fri, 13 Mar 2026 03:58:00 +0900",
+    "analyzed_at": "2026-03-12T19:31:54.181252"
+  },
+  {
+    "title": "중동 전쟁에 한국 경제 충격 완화 나선 한국 정부, 추경 및 정책 대응 촉...",
+    "score": 3,
+    "reason": "정부의 정책 대응은 경제 안정에 긍정적 영향을 미칠 것으로 예상되며, 반도체 수출 호황이 지속될 경우 더욱 긍정적.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.tokenpost.kr/news/economy/338914",
+    "pub_date": "Fri, 13 Mar 2026 03:42:00 +0900",
+    "analyzed_at": "2026-03-12T19:31:54.181253"
+  },
+  {
+    "title": "전쟁 격화 속 비트코인 강세…금·나스닥과 다른 흐름",
+    "score": 0,
+    "reason": "지정학적 긴장 속 비트코인 상승은 주식시장에 중립적 영향을 미칠 것으로 보임.",
+    "related_stocks": [],
+    "link": "https://www.tokenpost.kr/news/international/338913",
+    "pub_date": "Fri, 13 Mar 2026 03:34:00 +0900",
+    "analyzed_at": "2026-03-12T19:31:57.010826"
   }
 ]
