@@ -12569,5 +12569,378 @@
     "link": "https://www.tokenpost.kr/news/cryptocurrency/339155",
     "pub_date": "Fri, 13 Mar 2026 16:32:00 +0900",
     "analyzed_at": "2026-03-13T07:59:19.660571"
+  },
+  {
+    "title": "추경 속도전…물류업·소상공인 집중 지원",
+    "score": 4,
+    "reason": "정부의 법인세 증가와 증권거래세 수입 증가 전망은 긍정적인 경제 신호로 해석됨.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.mk.co.kr/article/11987749",
+    "pub_date": "Fri, 13 Mar 2026 17:52:00 +0900",
+    "analyzed_at": "2026-03-13T08:54:43.365584"
+  },
+  {
+    "title": "이력서 대신 난제 던진 일론 머스크, '파격적이지만 정답이 있는 문제'",
+    "score": 2,
+    "reason": "반도체 설계 초기 단계에서의 검증 지원은 긍정적이나 직접적인 주가 영향은 미미할 것으로 보임.",
+    "related_stocks": [
+      "삼성전자",
+      "인텔"
+    ],
+    "link": "https://it.donga.com/108556/",
+    "pub_date": "Fri, 13 Mar 2026 17:52:00 +0900",
+    "analyzed_at": "2026-03-13T08:54:43.365593"
+  },
+  {
+    "title": "경동나비엔, '보일러 회사' 탈피 선언…슬립테크로 생활환경 플랫폼 된...",
+    "score": 3,
+    "reason": "기술 도입을 통한 상품력 강화는 긍정적이나 경동나비엔의 주가에 미치는 영향은 제한적일 수 있음.",
+    "related_stocks": [
+      "경동나비엔",
+      "LG전자"
+    ],
+    "link": "http://www.dailypop.kr/news/articleView.html?idxno=97238",
+    "pub_date": "Fri, 13 Mar 2026 17:52:00 +0900",
+    "analyzed_at": "2026-03-13T08:54:43.365594"
+  },
+  {
+    "title": "카카오페이증권 신호철 대표 연임 성공, '첫 연간 흑자 달성하고 수익구...",
+    "score": 2,
+    "reason": "연간 흑자 달성은 긍정적이나 카카오페이증권의 시장 영향력은 제한적임.",
+    "related_stocks": [
+      "카카오페이"
+    ],
+    "link": "https://www.businesspost.co.kr/BP?command=article_view&num=432883",
+    "pub_date": "Fri, 13 Mar 2026 17:50:00 +0900",
+    "analyzed_at": "2026-03-13T08:54:43.365596"
+  },
+  {
+    "title": "뭉칫돈 몰리는 '삼전·하닉 ETF'… 운용사 경쟁 격화",
+    "score": 4,
+    "reason": "삼성전자와 SK하이닉스에 대한 투자 증가가 긍정적인 시장 분위기를 조성하고 있음.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://news.mtn.co.kr/news-detail/2026031316395482902",
+    "pub_date": "Fri, 13 Mar 2026 17:50:00 +0900",
+    "analyzed_at": "2026-03-13T08:54:43.365598"
+  },
+  {
+    "title": "[더딘 미래 '한화로보틱스'] 기술통 → 전략통 CEO 전환…우창표 號, '신...",
+    "score": 1,
+    "reason": "CEO 전환은 기업 전략에 변화가 있을 수 있으나 주가에 미치는 영향은 불확실함.",
+    "related_stocks": [
+      "한화로보틱스"
+    ],
+    "link": "https://news.dealsitetv.com/articles/166809",
+    "pub_date": "Fri, 13 Mar 2026 17:50:00 +0900",
+    "analyzed_at": "2026-03-13T08:54:43.365599"
+  },
+  {
+    "title": "SK, 그룹 차원에서 'AI 컴퍼니' 투자…'넥스트 HBM' 발굴 속도",
+    "score": 3,
+    "reason": "AI 및 새로운 수익 모델 발굴은 긍정적이나 단기적인 주가 영향은 제한적일 수 있음.",
+    "related_stocks": [
+      "SK하이닉스"
+    ],
+    "link": "https://news.mtn.co.kr/news-detail/2026031316395957880",
+    "pub_date": "Fri, 13 Mar 2026 17:50:00 +0900",
+    "analyzed_at": "2026-03-13T08:54:43.365601"
+  },
+  {
+    "title": "램리서치 'D램 구조 4F 스퀘어에서 3D로 진화'",
+    "score": 3,
+    "reason": "차세대 D램 제품 개발은 긍정적이나 시장 반응은 시간이 필요할 것으로 보임.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.thelec.kr/news/articleView.html?idxno=53495",
+    "pub_date": "Fri, 13 Mar 2026 17:50:00 +0900",
+    "analyzed_at": "2026-03-13T08:54:43.365605"
+  },
+  {
+    "title": "삼성, 4분기 '기업용SSD' 시장 1위…SK하이닉스 점유율 30% 돌파",
+    "score": 4,
+    "reason": "삼성전자의 시장 점유율 회복과 SK하이닉스의 성장세는 긍정적인 실적 신호로 작용할 것임.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://biz.sbs.co.kr/article_hub/20000297378?division=NAVER",
+    "pub_date": "Fri, 13 Mar 2026 17:49:00 +0900",
+    "analyzed_at": "2026-03-13T08:54:43.365607"
+  },
+  {
+    "title": "“믿을 건 반도체뿐”…널뛰기 장세에 삼전·하닉 몰려",
+    "score": 4,
+    "reason": "개인 투자자들의 대규모 매수는 반도체 주식에 대한 신뢰를 나타내며 긍정적인 시장 신호임.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.sedaily.com/article/20019182?ref=naver",
+    "pub_date": "Fri, 13 Mar 2026 17:49:00 +0900",
+    "analyzed_at": "2026-03-13T08:54:43.365608"
+  },
+  {
+    "title": "중동 긴장 고조에 코스피 5400선 마감…환율 1490원대 치솟아",
+    "score": -3,
+    "reason": "중동 긴장과 외국인 및 기관의 대규모 매도가 주가에 부정적인 영향을 미쳤음.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스",
+      "현대자동차"
+    ],
+    "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=78987",
+    "pub_date": "Fri, 13 Mar 2026 17:48:00 +0900",
+    "analyzed_at": "2026-03-13T08:54:52.125513"
+  },
+  {
+    "title": "[DD퇴근길] '中 대신 韓'…美 국방부, K-배터리 러브콜",
+    "score": -2,
+    "reason": "K-배터리에 대한 긍정적인 뉴스에도 불구하고 주요 관련 주식들이 하락하여 약한 악재로 작용.",
+    "related_stocks": [
+      "SK하이닉스",
+      "현대차",
+      "삼성바이오로직스",
+      "기아",
+      "HD현대중공업",
+      "셀트리온"
+    ],
+    "link": "https://www.ddaily.co.kr/page/view/2026031317415953560",
+    "pub_date": "Fri, 13 Mar 2026 17:46:00 +0900",
+    "analyzed_at": "2026-03-13T08:54:52.125520"
+  },
+  {
+    "title": "초과세수 15조 '벚꽃 추경'에 투입할 듯",
+    "score": 3,
+    "reason": "역대 최대 영업이익과 세수 증가로 인해 긍정적인 경제적 환경이 조성되고 있음.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.hankyung.com/article/2026031300031",
+    "pub_date": "Fri, 13 Mar 2026 17:44:00 +0900",
+    "analyzed_at": "2026-03-13T08:54:52.125521"
+  },
+  {
+    "title": "美제재 자양분 삼은 캠브리콘, 9년만에 첫 흑자 [글로벌 핫 컴퍼니]",
+    "score": 1,
+    "reason": "캠브리콘의 흑자 전환은 긍정적이나, 삼성전자와 SK하이닉스의 의존도가 높아 불확실성이 존재.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.sedaily.com/article/20019173?ref=naver",
+    "pub_date": "Fri, 13 Mar 2026 17:42:00 +0900",
+    "analyzed_at": "2026-03-13T08:54:52.125523"
+  },
+  {
+    "title": "KOSPI 200 Closing Price List-1",
+    "score": 0,
+    "reason": "주가 변동 정보로 특별한 호재나 악재가 없음.",
+    "related_stocks": [
+      "SamsungF&MIns",
+      "HANALL"
+    ],
+    "link": "https://en.yna.co.kr/view/AEN20260313008300320?input=2106m",
+    "pub_date": "Fri, 13 Mar 2026 15:40:00 +0900",
+    "analyzed_at": "2026-03-13T08:55:00.007700"
+  },
+  {
+    "title": "KOSPI 200 Closing Price List-2",
+    "score": 0,
+    "reason": "주가 변동 정보로 특별한 호재나 악재가 없음.",
+    "related_stocks": [
+      "SAMSUNG BIOLOGICS",
+      "CHONGKUNDANG"
+    ],
+    "link": "https://en.yna.co.kr/view/AEN20260313008400320?input=2106m",
+    "pub_date": "Fri, 13 Mar 2026 15:40:00 +0900",
+    "analyzed_at": "2026-03-13T08:55:00.007709"
+  },
+  {
+    "title": "KOSPI 200 Closing Price List-5",
+    "score": 0,
+    "reason": "주가 변동 정보로 특별한 호재나 악재가 없음.",
+    "related_stocks": [
+      "Misto Holdings",
+      "LIG Nex1"
+    ],
+    "link": "https://en.yna.co.kr/view/AEN20260313008700320?input=2106m",
+    "pub_date": "Fri, 13 Mar 2026 15:40:00 +0900",
+    "analyzed_at": "2026-03-13T08:55:00.007712"
+  },
+  {
+    "title": "KOSPI 200 Closing Price List-3",
+    "score": 0,
+    "reason": "주가 변동 정보로 특별한 호재나 악재가 없음.",
+    "related_stocks": [
+      "HtlShilla",
+      "Hanmi Science"
+    ],
+    "link": "https://en.yna.co.kr/view/AEN20260313008500320?input=2106m",
+    "pub_date": "Fri, 13 Mar 2026 15:40:00 +0900",
+    "analyzed_at": "2026-03-13T08:55:00.007713"
+  },
+  {
+    "title": "KOSPI 200 Closing Price List-4",
+    "score": 0,
+    "reason": "주가 변동 정보로 특별한 호재나 악재가 없음.",
+    "related_stocks": [
+      "HD HYUNDAI",
+      "HD HYUNDAI ELECTRIC"
+    ],
+    "link": "https://en.yna.co.kr/view/AEN20260313008600320?input=2106m",
+    "pub_date": "Fri, 13 Mar 2026 15:40:00 +0900",
+    "analyzed_at": "2026-03-13T08:55:00.007715"
+  },
+  {
+    "title": "이상일 용인특례시장, 이우현 불출마 선언에 \"통합의 길 함께 걷겠다\"",
+    "score": 0,
+    "reason": "정치적 발언으로 주가에 직접적인 영향 없음.",
+    "related_stocks": [],
+    "link": "https://www.kmaeil.com/news/articleView.html?idxno=632958",
+    "pub_date": "Fri, 13 Mar 2026 17:54:00 +0900",
+    "analyzed_at": "2026-03-13T08:55:16.740329"
+  },
+  {
+    "title": "수도권 전력공급 송전선로 계획 반대",
+    "score": -2,
+    "reason": "환경단체의 반대가 반도체 산업에 부정적 영향을 미칠 수 있음.",
+    "related_stocks": [
+      "한전"
+    ],
+    "link": "http://www.djtimes.co.kr/news/articleView.html?idxno=111251",
+    "pub_date": "Fri, 13 Mar 2026 17:54:00 +0900",
+    "analyzed_at": "2026-03-13T08:55:16.740338"
+  },
+  {
+    "title": "삼성운용, 국내 첫 광통신 ETF 선보인다",
+    "score": 3,
+    "reason": "광통신 ETF 출시로 관련 산업에 긍정적인 투자 유입 기대.",
+    "related_stocks": [
+      "삼성전자",
+      "LG이노텍"
+    ],
+    "link": "https://www.sedaily.com/article/20019185?ref=naver",
+    "pub_date": "Fri, 13 Mar 2026 17:53:00 +0900",
+    "analyzed_at": "2026-03-13T08:55:16.740340"
+  },
+  {
+    "title": "한국거래소, 한화·미래·신한·삼성자산운용 ETF 5종목 신규 상장",
+    "score": 2,
+    "reason": "AI반도체 관련 ETF 상장으로 투자자 관심 증가 예상.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://biz.heraldcorp.com/article/10694038?ref=naver",
+    "pub_date": "Fri, 13 Mar 2026 17:52:00 +0900",
+    "analyzed_at": "2026-03-13T08:55:16.740342"
+  },
+  {
+    "title": "[정책브리핑] 첨단거점화 실행력 따져 물은 충북 타운홀미팅 참가자들",
+    "score": 3,
+    "reason": "정부의 반도체 산업 지원 정책이 긍정적으로 작용할 가능성.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "http://www.niceeconomy.co.kr/news/articleView.html?idxno=89421",
+    "pub_date": "Fri, 13 Mar 2026 17:52:00 +0900",
+    "analyzed_at": "2026-03-13T08:55:16.740343"
+  },
+  {
+    "title": "민형배, 목포서 '20조 시민기획 경청투어'…시민들 \"청사 위치보다 산업...",
+    "score": 2,
+    "reason": "첨단산업 유치에 대한 관심이 지역 경제에 긍정적 영향을 미칠 수 있음.",
+    "related_stocks": [],
+    "link": "https://www.pressian.com/pages/articles/2026031316543713508?utm_source=naver&utm_medium=search",
+    "pub_date": "Fri, 13 Mar 2026 17:52:00 +0900",
+    "analyzed_at": "2026-03-13T08:55:16.740345"
+  },
+  {
+    "title": "'밸류업 증시' 파고드는 헤지펀드",
+    "score": 2,
+    "reason": "기업 경영권 보호 조치가 긍정적으로 작용할 가능성이 있음.",
+    "related_stocks": [
+      "한국단자공업",
+      "월덱스"
+    ],
+    "link": "https://www.mk.co.kr/article/11987747",
+    "pub_date": "Fri, 13 Mar 2026 17:52:00 +0900",
+    "analyzed_at": "2026-03-13T08:55:16.740346"
+  },
+  {
+    "title": "LG전자, 올해 설비 투자 4조…냉난방공조 투자폭 2.4배 늘었다",
+    "score": 4,
+    "reason": "대규모 설비 투자로 기업 성장성과 실적 개선 기대.",
+    "related_stocks": [
+      "LG전자"
+    ],
+    "link": "http://www.kmecnews.co.kr/news/articleView.html?idxno=45918",
+    "pub_date": "Fri, 13 Mar 2026 17:52:00 +0900",
+    "analyzed_at": "2026-03-13T08:55:16.740348"
+  },
+  {
+    "title": "신호철 카카오페이證 대표 연임… 흑자전환 성과",
+    "score": 4,
+    "reason": "신 대표의 연임과 흑자전환은 카카오페이증권의 긍정적인 실적 개선을 나타내며, 향후 성장 가능성을 높인다.",
+    "related_stocks": [
+      "카카오페이증권"
+    ],
+    "link": "https://it.chosun.com/news/articleView.html?idxno=2023092158617",
+    "pub_date": "Fri, 13 Mar 2026 17:52:00 +0900",
+    "analyzed_at": "2026-03-13T08:55:27.804967"
+  },
+  {
+    "title": "카카오페이증권, 신호철 대표 재선임 의결…31일 주총서 확정",
+    "score": 4,
+    "reason": "신 대표의 재선임과 함께 절세형 투자상품 확대 및 AI 투자 정보 서비스 도입은 긍정적인 사업 방향성을 보여준다.",
+    "related_stocks": [
+      "카카오페이증권"
+    ],
+    "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202603130510&t=NN",
+    "pub_date": "Fri, 13 Mar 2026 17:48:00 +0900",
+    "analyzed_at": "2026-03-13T08:55:27.804976"
+  },
+  {
+    "title": "'흑자전환 성과' 신호철 카카오페이증권 대표 연임",
+    "score": 4,
+    "reason": "흑자전환과 모바일 투자 환경 개선은 카카오페이증권의 경쟁력을 강화하는 요소로 작용할 것이다.",
+    "related_stocks": [
+      "카카오페이증권"
+    ],
+    "link": "https://www.viva100.com/article/20260313500767",
+    "pub_date": "Fri, 13 Mar 2026 17:44:00 +0900",
+    "analyzed_at": "2026-03-13T08:55:27.804978"
+  },
+  {
+    "title": "카카오페이증권 이사회, 신호철 대표 재선임 의결…31일 주총서 최종 결...",
+    "score": 4,
+    "reason": "신 대표의 재선임과 함께 절세형 투자상품 확대는 카카오페이증권의 성장 가능성을 높인다.",
+    "related_stocks": [
+      "카카오페이증권"
+    ],
+    "link": "https://www.news1.kr/finance/general-stock/6100882",
+    "pub_date": "Fri, 13 Mar 2026 17:44:00 +0900",
+    "analyzed_at": "2026-03-13T08:55:27.804979"
+  },
+  {
+    "title": "카카오페이증권, 신호철 대표 연임...31일 주총서 확정",
+    "score": 4,
+    "reason": "신 대표의 연임과 함께 AI 투자 정보 서비스 강화는 카카오페이증권의 미래 성장에 긍정적인 영향을 미칠 것이다.",
+    "related_stocks": [
+      "카카오페이증권"
+    ],
+    "link": "https://biz.heraldcorp.com/article/10694032?ref=naver",
+    "pub_date": "Fri, 13 Mar 2026 17:42:00 +0900",
+    "analyzed_at": "2026-03-13T08:55:27.804980"
   }
 ]
