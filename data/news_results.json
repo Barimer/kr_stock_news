@@ -14833,5 +14833,86 @@
     "link": "https://www.tokenpost.kr/news/cryptocurrency/339306",
     "pub_date": "Sat, 14 Mar 2026 02:02:00 +0900",
     "analyzed_at": "2026-03-13T17:49:55.285844"
+  },
+  {
+    "title": "구윤철 부총리, 일본서 외국인 투자자에 한국 경제 강점 적극 홍보",
+    "score": 4,
+    "reason": "한국 경제의 강점을 강조하며 외국인 투자 유치를 위한 긍정적인 메시지를 전달",
+    "related_stocks": [
+      "삼성전자",
+      "LG화학"
+    ],
+    "link": "https://www.tokenpost.kr/news/international/339325",
+    "pub_date": "Sat, 14 Mar 2026 03:52:00 +0900",
+    "analyzed_at": "2026-03-13T18:56:00.667141"
+  },
+  {
+    "title": "아마존, 세레브라스 '거대' AI칩 도입…추론단계 분리해 효율화",
+    "score": 3,
+    "reason": "AI 칩 도입은 반도체 산업에 긍정적인 영향을 미칠 것으로 예상됨",
+    "related_stocks": [
+      "NVIDIA",
+      "삼성전자"
+    ],
+    "link": "https://www.yna.co.kr/view/AKR20260314003200091?input=1195m",
+    "pub_date": "Sat, 14 Mar 2026 03:41:00 +0900",
+    "analyzed_at": "2026-03-13T18:56:00.667151"
+  },
+  {
+    "title": "유럽증시, 중동 위기 속 美·英 성장률 예상 밑돌며 일제히 하락… 2주 ...",
+    "score": -2,
+    "reason": "유럽증시 하락은 글로벌 경제 불안정을 반영하며 한국 시장에도 부정적 영향을 미칠 수 있음",
+    "related_stocks": [
+      "현대차",
+      "SK하이닉스"
+    ],
+    "link": "https://www.newspim.com/news/view/20260314000009",
+    "pub_date": "Sat, 14 Mar 2026 03:36:00 +0900",
+    "analyzed_at": "2026-03-13T18:56:00.667153"
+  },
+  {
+    "title": "미, 해병원정대(MEU)·추가 전함 중동에 급파",
+    "score": -3,
+    "reason": "중동의 군사적 긴장 고조는 원자재 공급 차질과 유가 상승으로 이어져 경제에 악영향",
+    "related_stocks": [
+      "석유화학주",
+      "항공사"
+    ],
+    "link": "http://www.fnnews.com/news/202603140307071925",
+    "pub_date": "Sat, 14 Mar 2026 03:34:00 +0900",
+    "analyzed_at": "2026-03-13T18:56:00.667154"
+  },
+  {
+    "title": "스트레티지 STRC 거래 급증…하루 만에 비트코인 4,000개 매수 자금 조달",
+    "score": 4,
+    "reason": "스트레티지의 공격적인 비트코인 매집은 긍정적인 시장 신호로 해석될 수 있음.",
+    "related_stocks": [
+      "스트레티지"
+    ],
+    "link": "https://www.tokenpost.kr/news/cryptocurrency/339320",
+    "pub_date": "Sat, 14 Mar 2026 03:24:00 +0900",
+    "analyzed_at": "2026-03-13T18:56:05.770634"
+  },
+  {
+    "title": "전쟁 긴장에도 7만2000달러 돌파…비트코인 다시 고점 구간",
+    "score": 3,
+    "reason": "비트코인이 전쟁 상황에서도 가격을 회복한 것은 긍정적인 신호로 작용할 수 있음.",
+    "related_stocks": [
+      "비트코인"
+    ],
+    "link": "https://www.tokenpost.kr/news/cryptocurrency/339318",
+    "pub_date": "Sat, 14 Mar 2026 03:12:00 +0900",
+    "analyzed_at": "2026-03-13T18:56:05.770643"
+  },
+  {
+    "title": "“비트코인, 10년간 최대 10배 가능성”…리크 에델만 강세 전망",
+    "score": 4,
+    "reason": "장기적인 비트코인 강세 전망은 투자자들에게 긍정적인 기대감을 줄 수 있음.",
+    "related_stocks": [
+      "비트코인"
+    ],
+    "link": "https://www.tokenpost.kr/news/cryptocurrency/339317",
+    "pub_date": "Sat, 14 Mar 2026 03:02:00 +0900",
+    "analyzed_at": "2026-03-13T18:56:05.770648"
   }
 ]
