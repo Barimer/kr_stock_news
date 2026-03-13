@@ -14346,5 +14346,180 @@
     "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1702358",
     "pub_date": "Fri, 13 Mar 2026 21:20:00 +0900",
     "analyzed_at": "2026-03-13T13:35:50.388532"
+  },
+  {
+    "title": "金총리, 美 방문… 한미 경제협력·대미투자 이행 논의",
+    "score": 4,
+    "reason": "한미 경제협력 강화와 대미투자 특별법 통과는 긍정적인 투자 환경을 조성할 것으로 기대됨.",
+    "related_stocks": [
+      "삼성전자",
+      "현대자동차",
+      "SK",
+      "LG"
+    ],
+    "link": "https://www.newscj.com/news/articleView.html?idxno=3384362",
+    "pub_date": "Fri, 13 Mar 2026 23:12:00 +0900",
+    "analyzed_at": "2026-03-13T14:30:52.961484"
+  },
+  {
+    "title": "CJ그룹, 오소리 프로젝트 합류…오픈소스 생태계 확대",
+    "score": 2,
+    "reason": "CJ그룹의 오픈소스 프로젝트 참여는 긍정적이나 직접적인 주가 영향은 제한적일 것으로 보임.",
+    "related_stocks": [
+      "CJ",
+      "삼성전자",
+      "LG전자",
+      "카카오",
+      "네이버",
+      "현대자동차"
+    ],
+    "link": "https://www.thedailypost.kr/news/articleView.html?idxno=113452",
+    "pub_date": "Fri, 13 Mar 2026 23:10:00 +0900",
+    "analyzed_at": "2026-03-13T14:30:52.961493"
+  },
+  {
+    "title": "이란 긴장 속 국제유가 100달러 돌파... 코스피 하락 마감",
+    "score": -3,
+    "reason": "국제유가 상승과 환율 변동이 대형 반도체주에 부정적인 영향을 미쳐 주가 하락을 초래함.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.tokenpost.kr/news/market/339261",
+    "pub_date": "Fri, 13 Mar 2026 23:02:00 +0900",
+    "analyzed_at": "2026-03-13T14:30:52.961495"
+  },
+  {
+    "title": "용인특례시, 학교·유치원 교육환경 개선에 117억… 반도체·AI 인재 육성",
+    "score": 3,
+    "reason": "반도체 중심도시로의 도약을 위한 교육 투자 계획은 장기적으로 긍정적인 영향을 미칠 것으로 예상됨.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.thereport.co.kr/news/articleView.html?idxno=85246",
+    "pub_date": "Fri, 13 Mar 2026 22:54:00 +0900",
+    "analyzed_at": "2026-03-13T14:30:52.961496"
+  },
+  {
+    "title": "유가 급등에...환율 야간거래 장중 1,500원 재돌파·코스피 1.7% 하락",
+    "score": -4,
+    "reason": "유가 급등과 환율 상승이 주요 기업들의 주가에 부정적인 영향을 미쳐 코스피 하락을 초래함.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스",
+      "현대차"
+    ],
+    "link": "https://www.ytn.co.kr/_ln/0102_202603132249479760",
+    "pub_date": "Fri, 13 Mar 2026 22:49:00 +0900",
+    "analyzed_at": "2026-03-13T14:30:52.961498"
+  },
+  {
+    "title": "한국 자본시장에 대해 설명하는 정은보 이사장: Exchange Global Roadshow in London : KOSPI 6000 and Beyond 행사 개최",
+    "score": 3,
+    "reason": "한국 자본시장의 발전 가능성을 알리는 행사로 긍정적인 신호로 평가됨.",
+    "related_stocks": [
+      "한국거래소",
+      "KOSPI"
+    ],
+    "link": "https://www.news1.kr/photos/7796361",
+    "pub_date": "Fri, 13 Mar 2026 21:24:00 +0900",
+    "analyzed_at": "2026-03-13T14:31:09.484637"
+  },
+  {
+    "title": "한국 자본시장에 대해 설명하는 정은보 이사장: Global Roadshow in London : KOSPI 6000 and Beyond 행사 개최",
+    "score": 3,
+    "reason": "한국 자본시장의 발전 가능성을 알리는 행사로 긍정적인 신호로 평가됨.",
+    "related_stocks": [
+      "한국거래소",
+      "KOSPI"
+    ],
+    "link": "https://www.news1.kr/photos/7796362",
+    "pub_date": "Fri, 13 Mar 2026 21:24:00 +0900",
+    "analyzed_at": "2026-03-13T14:31:09.484648"
+  },
+  {
+    "title": "한국거래소 '코스피 6000시대 도약을 위한 런던 글로벌 로드쇼' 행사 개최",
+    "score": 3,
+    "reason": "한국 자본시장의 발전 가능성을 알리는 행사로 긍정적인 신호로 평가됨.",
+    "related_stocks": [
+      "한국거래소",
+      "KOSPI"
+    ],
+    "link": "https://www.yna.co.kr/view/PYH20260313175800013?input=1196m",
+    "pub_date": "Fri, 13 Mar 2026 21:12:00 +0900",
+    "analyzed_at": "2026-03-13T14:31:09.484650"
+  },
+  {
+    "title": "한국거래소 '코스피 6000시대 도약을 위한 런던 글로벌 로드쇼' 행사 개최",
+    "score": 3,
+    "reason": "한국 자본시장의 발전 가능성을 알리는 행사로 긍정적인 신호로 평가됨.",
+    "related_stocks": [
+      "한국거래소",
+      "KOSPI"
+    ],
+    "link": "https://www.yna.co.kr/view/PYH20260313175700013?input=1196m",
+    "pub_date": "Fri, 13 Mar 2026 21:11:00 +0900",
+    "analyzed_at": "2026-03-13T14:31:09.484652"
+  },
+  {
+    "title": "Stocks&Markets: 13 KOREAN STOCK MARKET KOSPI",
+    "score": -2,
+    "reason": "KOSPI 지수 하락으로 인해 시장에 부정적인 영향을 미침.",
+    "related_stocks": [
+      "KOSPI",
+      "KOSDAQ"
+    ],
+    "link": "https://www.arirang.com/news/view?id=293683",
+    "pub_date": "Fri, 13 Mar 2026 20:00:00 +0900",
+    "analyzed_at": "2026-03-13T14:31:09.484653"
+  },
+  {
+    "title": "용인특례시, '반도체 최고위과정 제5기' 입학식 개최",
+    "score": 1,
+    "reason": "반도체 교육 프로그램은 장기적으로 산업 발전에 기여할 수 있으나 즉각적인 주가 영향은 미미할 것으로 보임.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "http://www.globalepic.co.kr/view.php?ud=2026031317140587645f69d33b22_29",
+    "pub_date": "Fri, 13 Mar 2026 23:12:00 +0900",
+    "analyzed_at": "2026-03-13T14:31:23.696672"
+  },
+  {
+    "title": "평택시, '2040 도시기본계획' 최종 승인…100만 특례시 기반 마련",
+    "score": 2,
+    "reason": "미래 성장동력 강화를 위한 계획은 긍정적이나 구체적인 투자나 실적 개선으로 이어질지는 불확실.",
+    "related_stocks": [
+      "삼성전자",
+      "LG화학"
+    ],
+    "link": "http://www.globalepic.co.kr/view.php?ud=2026031316492111185f69d33b22_29",
+    "pub_date": "Fri, 13 Mar 2026 23:10:00 +0900",
+    "analyzed_at": "2026-03-13T14:31:23.696680"
+  },
+  {
+    "title": "미국 뉴욕증시 상승 출발…금리 하락·기술주 강세",
+    "score": 3,
+    "reason": "반도체 중심 기술주 강세는 한국 반도체 주식에도 긍정적인 영향을 미칠 것으로 예상됨.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.topstarnews.net/news/articleView.html?idxno=16003461",
+    "pub_date": "Fri, 13 Mar 2026 22:42:00 +0900",
+    "analyzed_at": "2026-03-13T14:31:23.696682"
+  },
+  {
+    "title": "청와대 '국채 발행 없이 추경 가능…필요한 곳에 충분히 투입'",
+    "score": 4,
+    "reason": "반도체 경기 개선과 경제 성장률 전망 상향은 한국 경제에 긍정적인 신호로 작용할 것.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://view.asiae.co.kr/article/2026031322362514844",
+    "pub_date": "Fri, 13 Mar 2026 22:36:00 +0900",
+    "analyzed_at": "2026-03-13T14:31:23.696683"
   }
 ]
