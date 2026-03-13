@@ -14938,5 +14938,49 @@
     "link": "https://www.newspim.com/news/view/20260314000008",
     "pub_date": "Sat, 14 Mar 2026 04:29:00 +0900",
     "analyzed_at": "2026-03-13T19:38:36.291187"
+  },
+  {
+    "title": "[딜로이트 글로벌 경제 리뷰] 지속되는 중동 전쟁의 경제적 충격파 점검",
+    "score": -3,
+    "reason": "중동 전쟁으로 인한 항공 화물 시장의 불확실성이 반도체 및 의약품 관련 기업에 부정적 영향을 미칠 수 있음.",
+    "related_stocks": [
+      "대한항공",
+      "아시아나항공"
+    ],
+    "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=251327",
+    "pub_date": "Sat, 14 Mar 2026 05:00:00 +0900",
+    "analyzed_at": "2026-03-13T20:03:09.595025"
+  },
+  {
+    "title": "도대체 뭐하는 회사길래…설립 4개월만 1.5조 뭉칫돈 몰린 이곳",
+    "score": 4,
+    "reason": "엔비디아와의 협업으로 반도체 분야에서의 성장 가능성이 높아 강한 호재로 작용.",
+    "related_stocks": [
+      "엔비디아",
+      "삼성전자"
+    ],
+    "link": "https://www.mt.co.kr/future/2026/03/14/2026031216361568356",
+    "pub_date": "Sat, 14 Mar 2026 05:00:00 +0900",
+    "analyzed_at": "2026-03-13T20:03:09.595035"
+  },
+  {
+    "title": "중동 긴장 재부각에 비트코인 상승폭 축소…청산 4억4800만 달러",
+    "score": -2,
+    "reason": "지정학적 리스크로 인해 위험자산 투자심리가 약화되어 주식시장에 부정적 영향을 미칠 가능성이 높음.",
+    "related_stocks": [],
+    "link": "https://www.tokenpost.kr/news/international/339341",
+    "pub_date": "Sat, 14 Mar 2026 04:54:00 +0900",
+    "analyzed_at": "2026-03-13T20:03:14.400947"
+  },
+  {
+    "title": "테보젠(TVGN), AI 신약·M&A로 사업 확장…“주식 발행 1% 제한” 자본 규",
+    "score": 3,
+    "reason": "AI 기반 신약 개발과 M&A 추진으로 사업 확장이 기대되며 긍정적인 성장 가능성을 시사함.",
+    "related_stocks": [
+      "테보젠"
+    ],
+    "link": "https://www.tokenpost.kr/news/market/339338",
+    "pub_date": "Sat, 14 Mar 2026 04:46:00 +0900",
+    "analyzed_at": "2026-03-13T20:03:14.400956"
   }
 ]
