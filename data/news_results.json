@@ -15364,5 +15364,250 @@
     "link": "https://www.mt.co.kr/world/2026/03/14/2026031316522910938",
     "pub_date": "Sat, 14 Mar 2026 06:00:00 +0900",
     "analyzed_at": "2026-03-13T21:42:44.705060"
+  },
+  {
+    "title": "이재용 삼성전자 회장, 유럽 출장 후 귀국… 삼성SDI 배터리 수주 기대",
+    "score": 4,
+    "reason": "삼성SDI의 배터리 수주 기대감이 높아져 긍정적인 실적 전망을 제시함.",
+    "related_stocks": [
+      "삼성전자",
+      "삼성SDI"
+    ],
+    "link": "https://www.newscj.com/news/articleView.html?idxno=3384390",
+    "pub_date": "Sat, 14 Mar 2026 07:02:00 +0900",
+    "analyzed_at": "2026-03-13T22:03:30.578440"
+  },
+  {
+    "title": "코스피 5000선 지지력 확인…등락 활용한 비중 확대가",
+    "score": 2,
+    "reason": "주식 시장의 펀더멘털 개선 기대감이 있으나, 구체적인 호재는 부족함.",
+    "related_stocks": [],
+    "link": "http://www.segyebiz.com/newsView/20260313514156?OutUrl=naver",
+    "pub_date": "Sat, 14 Mar 2026 07:02:00 +0900",
+    "analyzed_at": "2026-03-13T22:03:30.578449"
+  },
+  {
+    "title": "삼성전자 갤럭시 S26 시리즈 국내 사전 판매 135만 대… 역대 최다",
+    "score": 5,
+    "reason": "갤럭시 S26 시리즈의 역대 최다 판매량은 삼성전자에 매우 긍정적인 신호.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "https://weekly.donga.com/3/all/11/6134980/1",
+    "pub_date": "Sat, 14 Mar 2026 07:02:00 +0900",
+    "analyzed_at": "2026-03-13T22:03:30.578451"
+  },
+  {
+    "title": "TSMC와 거래가 끊긴 후 의존하는 중국 파운드리 SMIC의 최첨단 공정 수율이 20%에 불과",
+    "score": -2,
+    "reason": "중국 파운드리의 생산 병목 현상은 한국 반도체 기업에 부정적인 영향을 미칠 수 있음.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.sedaily.com/article/20019254?ref=naver",
+    "pub_date": "Sat, 14 Mar 2026 07:01:00 +0900",
+    "analyzed_at": "2026-03-13T22:03:30.578453"
+  },
+  {
+    "title": "기업 이익은 개선되고 있고, 삼성전자와 SK하이닉스 같은 대형주에 대한 기대도 살아 있었다",
+    "score": 3,
+    "reason": "대형주에 대한 긍정적인 기대감이 주식 시장에 긍정적인 영향을 미칠 것으로 예상됨.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://shindonga.donga.com/3/all/13/6136480/1",
+    "pub_date": "Sat, 14 Mar 2026 07:01:00 +0900",
+    "analyzed_at": "2026-03-13T22:03:30.578455"
+  },
+  {
+    "title": "중국의 CXMT는 D램 점유율 8%를 기록하며 삼성전자, SK하이닉스, 마이크론에 이은 4위를 기록",
+    "score": -3,
+    "reason": "중국의 D램 점유율 증가가 한국 반도체 기업에 대한 경쟁 압박을 증가시킬 수 있음.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://biz.heraldcorp.com/article/10693952?ref=naver",
+    "pub_date": "Sat, 14 Mar 2026 07:01:00 +0900",
+    "analyzed_at": "2026-03-13T22:03:30.578456"
+  },
+  {
+    "title": "상장사 이사회 ‘여성 시대’ 가속화…삼성생명 30%·DB손보 20% 돌파",
+    "score": 1,
+    "reason": "여성 이사 비율 증가가 기업의 사회적 책임을 높이는 긍정적인 변화이나, 주가에 미치는 영향은 미미할 듯.",
+    "related_stocks": [],
+    "link": "https://www.ceoscoredaily.com/page/view/2026030909261564882",
+    "pub_date": "Sat, 14 Mar 2026 07:00:00 +0900",
+    "analyzed_at": "2026-03-13T22:03:30.578458"
+  },
+  {
+    "title": "삼성전기, 삼성전자 매출 의존도 역대 최저…“AI·전장으로 거래선 확",
+    "score": 3,
+    "reason": "매출 구조 다변화가 긍정적인 신호로, 삼성전기의 성장 가능성을 높임.",
+    "related_stocks": [
+      "삼성전기"
+    ],
+    "link": "https://www.ceoscoredaily.com/page/view/2026031117140460520",
+    "pub_date": "Sat, 14 Mar 2026 07:00:00 +0900",
+    "analyzed_at": "2026-03-13T22:03:30.578462"
+  },
+  {
+    "title": "전 서울시의원 경찰 조사 마치고 귀가하는 이재룡 도산 안창호 선생을 기리며…",
+    "score": 0,
+    "reason": "주가에 직접적인 영향을 미치지 않는 중립적인 뉴스.",
+    "related_stocks": [],
+    "link": "https://www.newsis.com/view/NISX20260313_0003547554",
+    "pub_date": "Sat, 14 Mar 2026 07:00:00 +0900",
+    "analyzed_at": "2026-03-13T22:03:30.578464"
+  },
+  {
+    "title": "특히 삼성전자와 SK하이닉스가 대표적인 순매도 상위 종목으로 나타났다",
+    "score": -2,
+    "reason": "순매도가 지속되면 주가에 부정적인 영향을 미칠 수 있음.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=436642",
+    "pub_date": "Sat, 14 Mar 2026 06:44:00 +0900",
+    "analyzed_at": "2026-03-13T22:03:30.578466"
+  },
+  {
+    "title": "입사 2년 차도 자사주 1억 보유...하이닉스 직원이 전한 내부 분위",
+    "score": 4,
+    "reason": "역대 최대 실적과 파격적인 성과 보상으로 긍정적인 내부 분위기가 조성되고 있어 주가에 긍정적 영향을 미칠 것으로 예상됨.",
+    "related_stocks": [
+      "SK하이닉스"
+    ],
+    "link": "https://www.sedaily.com/article/20019301?ref=naver",
+    "pub_date": "Sat, 14 Mar 2026 06:45:00 +0900",
+    "analyzed_at": "2026-03-13T22:03:35.882777"
+  },
+  {
+    "title": "Kospi’s volatile rally pits retail ‘ants’ against foreign sellers",
+    "score": 0,
+    "reason": "시장 변동성이 크지만 주가에 미치는 영향은 중립적임.",
+    "related_stocks": [],
+    "link": "https://koreajoongangdaily.joins.com/news/2026-03-14/business/finance/Kospis-volatile-rally-pits-retail-ants-against-foreign-sellers/2542244",
+    "pub_date": "Sat, 14 Mar 2026 07:00:00 +0900",
+    "analyzed_at": "2026-03-13T22:03:38.357069"
+  },
+  {
+    "title": "[만나보니] [한화자산운용] 금정섭 본부장 “액티브 ETF, 경쟁력 충분”",
+    "score": 2,
+    "reason": "액티브 ETF의 경쟁력과 성과가 강조되어 긍정적인 투자 심리를 유도할 수 있음.",
+    "related_stocks": [
+      "한화자산운용",
+      "PLUS K방산 ETF"
+    ],
+    "link": "https://news.dealsitetv.com/articles/166650",
+    "pub_date": "Sat, 14 Mar 2026 07:02:00 +0900",
+    "analyzed_at": "2026-03-13T22:03:50.843052"
+  },
+  {
+    "title": "[기획] 부품사의 정반대 ‘생존 전략’…공장 닫는 보쉬, 공장 여는 현대...",
+    "score": 3,
+    "reason": "현대모비스의 로봇 및 반도체 확장은 긍정적인 성장 가능성을 보여줌.",
+    "related_stocks": [
+      "현대모비스"
+    ],
+    "link": "https://www.sentv.co.kr/article/view/sentv202603120123",
+    "pub_date": "Sat, 14 Mar 2026 07:02:00 +0900",
+    "analyzed_at": "2026-03-13T22:03:50.843061"
+  },
+  {
+    "title": "나스닥100 '하락'...엔비디아 '뚝', 마이크론은 '껑충'",
+    "score": 1,
+    "reason": "마이크론의 주가 상승이 국내 반도체 대형주에 긍정적인 영향을 미칠 수 있음.",
+    "related_stocks": [
+      "마이크론",
+      "엔비디아"
+    ],
+    "link": "http://www.choicenews.co.kr/news/articleView.html?idxno=162312",
+    "pub_date": "Sat, 14 Mar 2026 07:02:00 +0900",
+    "analyzed_at": "2026-03-13T22:03:50.843063"
+  },
+  {
+    "title": "“기분 말하면 음료 나와”…AI 일상 혁명 이면엔 전기요금 폭탄 [박시...",
+    "score": 4,
+    "reason": "AI와 반도체 생태계의 통합은 장기적으로 긍정적인 산업 발전을 이끌 것으로 예상됨.",
+    "related_stocks": [
+      "AI 관련 기업",
+      "반도체 기업"
+    ],
+    "link": "https://www.sedaily.com/article/20019264?ref=naver",
+    "pub_date": "Sat, 14 Mar 2026 07:01:00 +0900",
+    "analyzed_at": "2026-03-13T22:03:50.843064"
+  },
+  {
+    "title": "증시 변동성의 숨은 이유… 금융·고용·전력 문제가 동시에 움직였다 ...",
+    "score": 0,
+    "reason": "시장 변동성에 대한 분석으로 주가에 직접적인 영향을 미치지 않음.",
+    "related_stocks": [],
+    "link": "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202603130227&t=NNv",
+    "pub_date": "Sat, 14 Mar 2026 07:00:00 +0900",
+    "analyzed_at": "2026-03-13T22:03:50.843066"
+  },
+  {
+    "title": "뉴욕증시, 호르무즈 봉쇄·경제지표 약세에 하락",
+    "score": 1,
+    "reason": "필라델피아 반도체지수가 강보합을 유지하며 반도체 주식에 긍정적인 신호를 줄 수 있음.",
+    "related_stocks": [
+      "마이크론",
+      "TSMC",
+      "인텔"
+    ],
+    "link": "http://www.smedaily.co.kr/news/articleView.html?idxno=353588",
+    "pub_date": "Sat, 14 Mar 2026 07:00:00 +0900",
+    "analyzed_at": "2026-03-13T22:03:50.843067"
+  },
+  {
+    "title": "“학습은 끝났다, 이제 추론이다”…엔비디아, GTC 2026서 ‘추론 전용 ...",
+    "score": 5,
+    "reason": "엔비디아의 신형 칩 발표는 혁신적인 기술 발전으로 매우 긍정적인 영향을 미칠 것으로 예상됨.",
+    "related_stocks": [
+      "엔비디아",
+      "그루크"
+    ],
+    "link": "https://www.ddaily.co.kr/page/view/2026031402473485830",
+    "pub_date": "Sat, 14 Mar 2026 07:00:00 +0900",
+    "analyzed_at": "2026-03-13T22:03:50.843069"
+  },
+  {
+    "title": "휴머노이드 로봇 시대 도래...하모닉드라이브 재평가 기대되는 이유",
+    "score": 4,
+    "reason": "하모닉드라이브의 테슬라와의 협력 가능성이 큰 실적 개선을 기대하게 함.",
+    "related_stocks": [
+      "하모닉드라이브"
+    ],
+    "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01800726645383320",
+    "pub_date": "Sat, 14 Mar 2026 07:01:00 +0900",
+    "analyzed_at": "2026-03-13T22:03:58.775367"
+  },
+  {
+    "title": "치솟는 유가에 비수기에도 역주행② '석탄주' 강세장 낙관론",
+    "score": 3,
+    "reason": "석탄 시장의 긍정적인 전망이 석탄주에 대한 투자 심리를 강화시킬 것으로 예상됨.",
+    "related_stocks": [
+      "한국석탄",
+      "한일시멘트"
+    ],
+    "link": "https://www.newspim.com/news/view/20260313000679",
+    "pub_date": "Sat, 14 Mar 2026 07:00:00 +0900",
+    "analyzed_at": "2026-03-13T22:03:58.775376"
+  },
+  {
+    "title": "치솟는 유가에 비수기에도 역주행① '석탄주' 강세장 낙관론",
+    "score": 3,
+    "reason": "유가 상승이 석탄 가격에 긍정적인 영향을 미칠 것으로 보이며, 이는 석탄주에 호재로 작용할 것임.",
+    "related_stocks": [
+      "한국석탄",
+      "한일시멘트"
+    ],
+    "link": "https://www.newspim.com/news/view/20260313000677",
+    "pub_date": "Sat, 14 Mar 2026 07:00:00 +0900",
+    "analyzed_at": "2026-03-13T22:03:58.775378"
   }
 ]
