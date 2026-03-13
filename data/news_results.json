@@ -14521,5 +14521,178 @@
     "link": "https://view.asiae.co.kr/article/2026031322362514844",
     "pub_date": "Fri, 13 Mar 2026 22:36:00 +0900",
     "analyzed_at": "2026-03-13T14:31:23.696683"
+  },
+  {
+    "title": "시스템반도체 관련주, '룰루랄라 콧노래' 지니틱스·아이에이·테크윙....",
+    "score": -2,
+    "reason": "주요 반도체 기업들이 하락세를 보이며 부정적인 시장 분위기를 반영.",
+    "related_stocks": [
+      "파두",
+      "SK하이닉스",
+      "삼성전자"
+    ],
+    "link": "http://www.finomy.com/news/articleView.html?idxno=251384",
+    "pub_date": "Sat, 14 Mar 2026 00:20:00 +0900",
+    "analyzed_at": "2026-03-13T15:29:19.522094"
+  },
+  {
+    "title": "HBM(고대역폭메모리) 관련주, '덩실덩실' 국전약품·엠케이전자·테크윙...",
+    "score": -2,
+    "reason": "고대역폭 메모리 관련 주요 기업들이 하락하며 부정적인 신호를 나타냄.",
+    "related_stocks": [
+      "고영",
+      "SK하이닉스",
+      "삼성전자"
+    ],
+    "link": "http://www.finomy.com/news/articleView.html?idxno=251383",
+    "pub_date": "Sat, 14 Mar 2026 00:16:00 +0900",
+    "analyzed_at": "2026-03-13T15:29:19.522104"
+  },
+  {
+    "title": "3/14~3/15 이마트·홈플러스·롯데마트 대형마트 휴무일·영업시간 확인...",
+    "score": 0,
+    "reason": "소비자 정보 제공에 불과하며 주가에 미치는 영향이 없음.",
+    "related_stocks": [],
+    "link": "http://www.finomy.com/news/articleView.html?idxno=251369",
+    "pub_date": "Sat, 14 Mar 2026 00:10:00 +0900",
+    "analyzed_at": "2026-03-13T15:29:19.522106"
+  },
+  {
+    "title": "전력설비 관련주, '함박웃음' 보성파워텍·두산에너빌리티·한전산업·대...",
+    "score": 3,
+    "reason": "전력설비 관련 기업들이 긍정적인 소식을 전하며 주가 상승 가능성을 시사.",
+    "related_stocks": [
+      "보성파워텍",
+      "두산에너빌리티",
+      "한전산업"
+    ],
+    "link": "http://www.finomy.com/news/articleView.html?idxno=251382",
+    "pub_date": "Sat, 14 Mar 2026 00:10:00 +0900",
+    "analyzed_at": "2026-03-13T15:29:19.522107"
+  },
+  {
+    "title": "‘18만 삼성전자’, 올라탈까 말까… “믿을 건 반도체뿐” vs “외국인...",
+    "score": 1,
+    "reason": "삼성전자의 주가 하락에도 불구하고 반도체에 대한 긍정적인 전망이 존재.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "https://www.dt.co.kr/article/12051415?ref=naver",
+    "pub_date": "Sat, 14 Mar 2026 00:10:00 +0900",
+    "analyzed_at": "2026-03-13T15:29:19.522109"
+  },
+  {
+    "title": "21조 태우고, 51조 배당…오천피 넘을 만했네",
+    "score": 4,
+    "reason": "삼성전자의 자사주 매입 및 배당 발표가 긍정적인 투자 신호로 작용.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "https://www.joongang.co.kr/article/25411667",
+    "pub_date": "Sat, 14 Mar 2026 00:02:00 +0900",
+    "analyzed_at": "2026-03-13T15:29:19.522111"
+  },
+  {
+    "title": "삼성 반도체 텍사스 기적의 30년…흙먼지 타코서 AI 핵심 기지로",
+    "score": 4,
+    "reason": "삼성전자의 북미 파운드리 공략 가속화가 긍정적인 성장 가능성을 제시.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "https://www.theguru.co.kr/news/article.html?no=99216",
+    "pub_date": "Sat, 14 Mar 2026 00:02:00 +0900",
+    "analyzed_at": "2026-03-13T15:29:19.522112"
+  },
+  {
+    "title": "[기업] 삼성 이재용, 출장 뒤 귀국...유럽 완성차 업체 만나",
+    "score": 2,
+    "reason": "이재용 회장의 유럽 출장 후 긍정적인 비즈니스 관계 형성 가능성이 기대됨.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "https://www.ytn.co.kr/_ln/0102_202603140000163503",
+    "pub_date": "Sat, 14 Mar 2026 00:00:00 +0900",
+    "analyzed_at": "2026-03-13T15:29:19.522116"
+  },
+  {
+    "title": "의료AI 관련주, '싱글벙글' 제이엘케이·아크릴·뉴로핏... '한숨 푹푹'",
+    "score": 2,
+    "reason": "의료AI 관련주들이 긍정적인 반응을 보이며 주가에 약한 호재로 작용할 가능성이 있음.",
+    "related_stocks": [
+      "제이엘케이",
+      "아크릴",
+      "뉴로핏"
+    ],
+    "link": "http://www.finomy.com/news/articleView.html?idxno=251385",
+    "pub_date": "Sat, 14 Mar 2026 00:26:00 +0900",
+    "analyzed_at": "2026-03-13T15:29:29.477241"
+  },
+  {
+    "title": "[사설] 석유전쟁으로 변질되는 중동 사태, 인질로 잡힌 글로벌 경제",
+    "score": -2,
+    "reason": "중동 사태로 인한 에너지 공급 불안정성이 글로벌 경제에 부정적인 영향을 미칠 것으로 예상됨.",
+    "related_stocks": [],
+    "link": "https://www.hankyung.com/article/2026031399771",
+    "pub_date": "Sat, 14 Mar 2026 00:18:00 +0900",
+    "analyzed_at": "2026-03-13T15:29:29.477250"
+  },
+  {
+    "title": "SK그룹 '실리콘밸리에서 15조원 빅딜' 노린다",
+    "score": 4,
+    "reason": "SK실트론 매각 소식이 SK그룹의 자산 가치를 높이고 긍정적인 시장 반응을 이끌어낼 것으로 보임.",
+    "related_stocks": [
+      "SK실트론"
+    ],
+    "link": "https://www.junggi.co.kr/news/articleView.html?idxno=35745",
+    "pub_date": "Sat, 14 Mar 2026 00:00:00 +0900",
+    "analyzed_at": "2026-03-13T15:29:29.477252"
+  },
+  {
+    "title": "'끝내기' 안 보이는 이란 사태…브렌트유 100달러 돌파에 글로벌 증시 '...",
+    "score": -3,
+    "reason": "이란 사태로 인한 유가 상승이 반도체 및 자동차 산업에 부정적인 영향을 미치고 있어 강한 악재로 작용.",
+    "related_stocks": [
+      "반도체",
+      "자동차"
+    ],
+    "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=71403",
+    "pub_date": "Sat, 14 Mar 2026 00:00:00 +0900",
+    "analyzed_at": "2026-03-13T15:29:29.477253"
+  },
+  {
+    "title": "중동 리스크에도 비트코인, 7만1000달러선 매수세 유입",
+    "score": 2,
+    "reason": "비트코인이 가격 방어력을 보이며 매수세가 유입되고 있어 약한 호재로 평가됨.",
+    "related_stocks": [
+      "비트코인"
+    ],
+    "link": "https://www.tokenpost.kr/news/international/339280",
+    "pub_date": "Sat, 14 Mar 2026 00:24:00 +0900",
+    "analyzed_at": "2026-03-13T15:29:36.587777"
+  },
+  {
+    "title": "풍력에너지 관련주, '봄꽃만개'",
+    "score": 3,
+    "reason": "LS머트리얼즈의 신기술 개발이 긍정적인 영향을 미칠 것으로 예상되어 강한 호재로 평가됨.",
+    "related_stocks": [
+      "LS머트리얼즈",
+      "우리기술",
+      "현대건설",
+      "SK이노베이션"
+    ],
+    "link": "http://www.finomy.com/news/articleView.html?idxno=251381",
+    "pub_date": "Sat, 14 Mar 2026 00:10:00 +0900",
+    "analyzed_at": "2026-03-13T15:29:36.587787"
+  },
+  {
+    "title": "이란 전쟁 속 비트코인 11% 상승…주식·금보다 강했다",
+    "score": 4,
+    "reason": "비트코인이 중동 리스크 속에서 상대적으로 강세를 보이며 큰 상승폭을 기록하여 강한 호재로 평가됨.",
+    "related_stocks": [
+      "비트코인"
+    ],
+    "link": "https://www.tokenpost.kr/news/cryptocurrency/339267",
+    "pub_date": "Fri, 13 Mar 2026 23:42:00 +0900",
+    "analyzed_at": "2026-03-13T15:29:36.587789"
   }
 ]
