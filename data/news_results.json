@@ -13293,5 +13293,304 @@
     "link": "https://www.joongang.co.kr/article/25411632",
     "pub_date": "Fri, 13 Mar 2026 18:16:00 +0900",
     "analyzed_at": "2026-03-13T09:52:52.081269"
+  },
+  {
+    "title": "[1] 안교재 수원시장 예비후보 개소식, 김문수 전 지사 등 500여 명 결집",
+    "score": 0,
+    "reason": "정치적 행사로 주식 시장에 직접적인 영향 없음.",
+    "related_stocks": [],
+    "link": "https://www.news1.kr/local/gyeonggi/6100983",
+    "pub_date": "Fri, 13 Mar 2026 19:43:00 +0900",
+    "analyzed_at": "2026-03-13T10:49:56.007621"
+  },
+  {
+    "title": "[2] [주식마감] 오픈AI와 전략적 파트너십 체결 소식에 폴라리스오피스 상한...",
+    "score": 4,
+    "reason": "오픈AI와의 파트너십은 긍정적인 사업 전망을 시사.",
+    "related_stocks": [
+      "폴라리스오피스"
+    ],
+    "link": "https://www.ggilbo.com/news/articleView.html?idxno=1146507",
+    "pub_date": "Fri, 13 Mar 2026 19:40:00 +0900",
+    "analyzed_at": "2026-03-13T10:49:56.007631"
+  },
+  {
+    "title": "[3] CJ그룹, 오픈소스 생태계 확장 위해 '오소리 프로젝트' 합류",
+    "score": 2,
+    "reason": "오픈소스 프로젝트 참여는 기업 이미지 개선에 기여할 수 있음.",
+    "related_stocks": [
+      "CJ그룹",
+      "삼성전자",
+      "LG전자",
+      "카카오",
+      "네이버",
+      "현대자동차"
+    ],
+    "link": "https://www.mhj21.com/news/articleView.html?idxno=251025",
+    "pub_date": "Fri, 13 Mar 2026 19:38:00 +0900",
+    "analyzed_at": "2026-03-13T10:49:56.007633"
+  },
+  {
+    "title": "[4] 폴더블 아이폰 가격 경쟁력 강화에…갤Z폴드8 동결되나",
+    "score": -2,
+    "reason": "경쟁 심화로 삼성전자의 시장 점유율에 부정적 영향 우려.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "https://it.chosun.com/news/articleView.html?idxno=2023092158629",
+    "pub_date": "Fri, 13 Mar 2026 19:32:00 +0900",
+    "analyzed_at": "2026-03-13T10:49:56.007635"
+  },
+  {
+    "title": "[5] 한국거래소, 한화·미래·신한·삼성운용 ETF 5종 17일 신규 상장",
+    "score": 3,
+    "reason": "신규 ETF 상장은 반도체 관련 주식에 긍정적인 투자 유입 기대.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.g-enews.com/view.php?ud=20260313191109590df2f5bc1bc_1",
+    "pub_date": "Fri, 13 Mar 2026 19:24:00 +0900",
+    "analyzed_at": "2026-03-13T10:49:56.007636"
+  },
+  {
+    "title": "[6] 중동 긴장 고조로 코스피 급락, 원/달러 환율 상승세 지속",
+    "score": -3,
+    "reason": "지수 하락과 외국인 매도는 시장에 부정적 영향을 미침.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.tokenpost.kr/news/market/339209",
+    "pub_date": "Fri, 13 Mar 2026 19:22:00 +0900",
+    "analyzed_at": "2026-03-13T10:49:56.007638"
+  },
+  {
+    "title": "[7] 김민석 총리, 美 앤디김 상원의원 만나...'한국 동반자 법안' 통과 협조...",
+    "score": 2,
+    "reason": "한미 경제협력 강화는 장기적으로 긍정적 영향을 미칠 수 있음.",
+    "related_stocks": [
+      "삼성전자",
+      "현대자동차",
+      "SK",
+      "LG"
+    ],
+    "link": "https://www.dongponews.net/news/articleView.html?idxno=56767",
+    "pub_date": "Fri, 13 Mar 2026 19:16:00 +0900",
+    "analyzed_at": "2026-03-13T10:49:56.007640"
+  },
+  {
+    "title": "[8] 유가 급등에 달러 '1500원' 장중 돌파",
+    "score": -3,
+    "reason": "유가 급등과 환율 상승은 반도체 주식에 부정적 영향을 미침.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "http://www.econotelling.com/news/articleView.html?idxno=19648",
+    "pub_date": "Fri, 13 Mar 2026 19:10:00 +0900",
+    "analyzed_at": "2026-03-13T10:49:56.007643"
+  },
+  {
+    "title": "[9] 삼성 이재용 회장, 유럽 완성차와 배터리 협력 확대…삼성SDI 수주 확대...",
+    "score": 4,
+    "reason": "글로벌 협력 확대는 삼성SDI와 관련 주식에 긍정적.",
+    "related_stocks": [
+      "삼성SDI"
+    ],
+    "link": "https://www.seoultimes.news/news/article.html?no=2000093504",
+    "pub_date": "Fri, 13 Mar 2026 19:08:00 +0900",
+    "analyzed_at": "2026-03-13T10:49:56.007645"
+  },
+  {
+    "title": "[10] 유가 급등에 흔들린 코스피...환율은 1,500원 '위협'",
+    "score": -3,
+    "reason": "유가와 환율 상승은 시장 전반에 부정적 영향을 미침.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스",
+      "현대차"
+    ],
+    "link": "https://www.ytn.co.kr/_ln/0102_202603131902292456",
+    "pub_date": "Fri, 13 Mar 2026 19:02:00 +0900",
+    "analyzed_at": "2026-03-13T10:49:56.007647"
+  },
+  {
+    "title": "화장품 주가, V자 반등…에이피알 35만 원대 눈앞",
+    "score": 2,
+    "reason": "화장품 업종의 상승세가 지속되고 있어 긍정적인 신호로 평가됨.",
+    "related_stocks": [
+      "에이피알",
+      "아모레퍼시픽"
+    ],
+    "link": "https://www.thebk.co.kr/news/articleView.html?idxno=308396",
+    "pub_date": "Fri, 13 Mar 2026 19:42:00 +0900",
+    "analyzed_at": "2026-03-13T10:50:00.484903"
+  },
+  {
+    "title": "[올댓차이나] 대만 증시, 중동정제 선행 불안에 속락 마감…0.54%↓",
+    "score": -2,
+    "reason": "대만 증시 하락은 반도체 관련 주식에 부정적인 영향을 미칠 수 있음.",
+    "related_stocks": [
+      "TSMC",
+      "UMC"
+    ],
+    "link": "https://www.newsis.com/view/NISX20260313_0003547959",
+    "pub_date": "Fri, 13 Mar 2026 19:40:00 +0900",
+    "analyzed_at": "2026-03-13T10:50:14.398948"
+  },
+  {
+    "title": "HLB제넥스, 지난해 영업익 12억원⋯흑자전환",
+    "score": 3,
+    "reason": "흑자전환은 긍정적인 실적 개선을 나타내며, 반도체 업황 개선과 관련된 수요 증가가 기대됨.",
+    "related_stocks": [
+      "HLB제넥스"
+    ],
+    "link": "http://www.seoulwire.com/news/articleView.html?idxno=711297",
+    "pub_date": "Fri, 13 Mar 2026 19:36:00 +0900",
+    "analyzed_at": "2026-03-13T10:50:14.398957"
+  },
+  {
+    "title": "용인특례시, ‘제5기 반도체 최고위 과정’ 입학식 개최",
+    "score": 2,
+    "reason": "반도체 전문인력 양성 프로그램은 산업 발전에 긍정적인 영향을 미칠 것으로 예상됨.",
+    "related_stocks": [],
+    "link": "https://www.geconomy.co.kr/news/article.html?no=317395",
+    "pub_date": "Fri, 13 Mar 2026 19:34:00 +0900",
+    "analyzed_at": "2026-03-13T10:50:14.398959"
+  },
+  {
+    "title": "김영록 지사 '산업 육성이 최우선...반도체 산업이라면 돈 크게 써도 돼...",
+    "score": 4,
+    "reason": "반도체 산업에 대한 강력한 투자 의지는 관련 기업에 긍정적인 신호로 작용할 수 있음.",
+    "related_stocks": [],
+    "link": "https://www.ikbc.co.kr/article/view/kbc202603130062",
+    "pub_date": "Fri, 13 Mar 2026 19:31:00 +0900",
+    "analyzed_at": "2026-03-13T10:50:14.398960"
+  },
+  {
+    "title": "용인시, UNIST 와 반도체 인재 양성…최고위 과정 5기 출범",
+    "score": 2,
+    "reason": "반도체 인재 양성 프로그램은 산업 발전에 기여할 것으로 기대됨.",
+    "related_stocks": [],
+    "link": "http://www.bizwnews.com/news/articleView.html?idxno=128897",
+    "pub_date": "Fri, 13 Mar 2026 19:28:00 +0900",
+    "analyzed_at": "2026-03-13T10:50:14.398962"
+  },
+  {
+    "title": "에이직랜드, 2025년 매출 728억…AI 반도체 투자로 매출 본격화 기대",
+    "score": 4,
+    "reason": "AI 반도체 수요 증가로 매출 성장 기대가 높아 긍정적인 전망을 제시함.",
+    "related_stocks": [
+      "에이직랜드"
+    ],
+    "link": "https://www.ggilbo.com/news/articleView.html?idxno=1146511",
+    "pub_date": "Fri, 13 Mar 2026 19:28:00 +0900",
+    "analyzed_at": "2026-03-13T10:50:14.398963"
+  },
+  {
+    "title": "위지트, 자본감소로 주권매매거래정지",
+    "score": -3,
+    "reason": "자본감소로 인한 거래정지는 부정적인 신호로 주가에 악영향을 미칠 가능성이 큼.",
+    "related_stocks": [
+      "위지트"
+    ],
+    "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=641050",
+    "pub_date": "Fri, 13 Mar 2026 19:16:00 +0900",
+    "analyzed_at": "2026-03-13T10:50:14.398965"
+  },
+  {
+    "title": "얼라인, DB손보에 2차 주주서한…Fortegra 인수·내부거래 등 전방위 압",
+    "score": 0,
+    "reason": "주주서한 내용이 중립적이며 주가에 큰 영향을 미치지 않을 것으로 보임.",
+    "related_stocks": [
+      "DB손해보험"
+    ],
+    "link": "https://www.asiatime.co.kr/article/20260313500266",
+    "pub_date": "Fri, 13 Mar 2026 19:46:00 +0900",
+    "analyzed_at": "2026-03-13T10:50:36.221444"
+  },
+  {
+    "title": "JW홀딩스, 차바이오서 솔리더스인베 인수…\"오픈 이노베이션 가속\"",
+    "score": 3,
+    "reason": "솔리더스인베 인수로 디지털 헬스케어 사업 확대가 기대되며 긍정적인 신호.",
+    "related_stocks": [
+      "JW홀딩스",
+      "차바이오텍"
+    ],
+    "link": "https://www.news1.kr/bio/pharmaceutical-bio/6100982",
+    "pub_date": "Fri, 13 Mar 2026 19:40:00 +0900",
+    "analyzed_at": "2026-03-13T10:50:36.221452"
+  },
+  {
+    "title": "중국, 너도나도 바닷가재 키우기?…AI 에이전트 열풍",
+    "score": 0,
+    "reason": "AI 에이전트에 대한 언급이 있으나 주식 시장에 미치는 영향은 미미함.",
+    "related_stocks": [],
+    "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8507925&ref=A",
+    "pub_date": "Fri, 13 Mar 2026 19:30:00 +0900",
+    "analyzed_at": "2026-03-13T10:50:36.221455"
+  },
+  {
+    "title": "한성숙 중기부 장관, 작년 네이버 보수 103억…네이버 임원 1위",
+    "score": 1,
+    "reason": "네이버의 보수 관련 뉴스는 약한 호재로 작용할 수 있으나 큰 변화는 없음.",
+    "related_stocks": [
+      "네이버"
+    ],
+    "link": "https://www.news1.kr/it-science/internet-platform/6100865",
+    "pub_date": "Fri, 13 Mar 2026 19:29:00 +0900",
+    "analyzed_at": "2026-03-13T10:50:36.221456"
+  },
+  {
+    "title": "[TIG 21] 숏폼에 밀리는 게임? \"영원한 제국은 없어요, 경계를 넓혀야죠",
+    "score": 0,
+    "reason": "게임 산업에 대한 일반적인 논의로 주가에 직접적인 영향은 없음.",
+    "related_stocks": [],
+    "link": "https://www.thisisgame.com/articles/416769",
+    "pub_date": "Fri, 13 Mar 2026 19:25:00 +0900",
+    "analyzed_at": "2026-03-13T10:50:36.221458"
+  },
+  {
+    "title": "분석: 달러·유가·미국채 금리 강세에도 비트코인 7.1만 달러 방어",
+    "score": 0,
+    "reason": "암호화폐 시장의 혼조세에 대한 분석으로 주식 시장에 큰 영향을 미치지 않음.",
+    "related_stocks": [],
+    "link": "https://www.tokenpost.kr/news/breaking/339205",
+    "pub_date": "Fri, 13 Mar 2026 19:12:00 +0900",
+    "analyzed_at": "2026-03-13T10:50:36.221459"
+  },
+  {
+    "title": "신재혁 대표이사, SKAI 주식 소유상황 변동 공시",
+    "score": 0,
+    "reason": "주식 소유상황 변동 공시는 일반적인 공시로 주가에 큰 영향을 미치지 않음.",
+    "related_stocks": [
+      "SKAI"
+    ],
+    "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=641032",
+    "pub_date": "Fri, 13 Mar 2026 19:10:00 +0900",
+    "analyzed_at": "2026-03-13T10:50:36.221461"
+  },
+  {
+    "title": "신한투자증권, 승계형 SME M&A 자문 강화 위해 브릿지코드와 MOU 체결 外",
+    "score": 2,
+    "reason": "MOU 체결로 SME M&A 자문 강화가 기대되며 약한 호재로 작용할 수 있음.",
+    "related_stocks": [
+      "신한투자증권"
+    ],
+    "link": "https://www.rcast.co.kr/news/articleView.html?idxno=30287",
+    "pub_date": "Fri, 13 Mar 2026 19:10:00 +0900",
+    "analyzed_at": "2026-03-13T10:50:36.221462"
+  },
+  {
+    "title": "네이버 최수연 대표, 지난해 연봉 30억 수령…이해진 의장 24억",
+    "score": 1,
+    "reason": "연봉 관련 뉴스는 약한 호재로 작용할 수 있으나 큰 변화는 없음.",
+    "related_stocks": [
+      "네이버"
+    ],
+    "link": "https://www.newsis.com/view/NISX20260313_0003547925",
+    "pub_date": "Fri, 13 Mar 2026 18:56:00 +0900",
+    "analyzed_at": "2026-03-13T10:50:36.221463"
   }
 ]
