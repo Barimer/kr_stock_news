@@ -14749,5 +14749,40 @@
     "link": "https://www.chosun.com/international/international_general/2026/03/14/JBQTKZKADNB5BPVBXK6IUQNXNE/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
     "pub_date": "Sat, 14 Mar 2026 00:47:00 +0900",
     "analyzed_at": "2026-03-13T16:06:25.478385"
+  },
+  {
+    "title": "김영록 '500조 반도체 클러스터… 전남광주 경제지도 바꾼다'",
+    "score": 4,
+    "reason": "대규모 반도체 투자 계획은 관련 기업들에게 긍정적인 영향을 미칠 것으로 예상됨.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.newscj.com/news/articleView.html?idxno=3384384",
+    "pub_date": "Sat, 14 Mar 2026 01:10:00 +0900",
+    "analyzed_at": "2026-03-13T17:00:10.572169"
+  },
+  {
+    "title": "KOSPI Retreats to 5,480 Level on Oil Price Shock While KOSDAQ Turns Higher",
+    "score": -2,
+    "reason": "KOSPI의 하락은 외부 요인으로 인한 부정적인 시장 심리를 반영하며, 이는 투자자들에게 약한 악재로 작용할 수 있음.",
+    "related_stocks": [],
+    "link": "https://www.businesskorea.co.kr/news/articleView.html?idxno=265187",
+    "pub_date": "Sat, 14 Mar 2026 01:12:00 +0900",
+    "analyzed_at": "2026-03-13T17:00:14.805318"
+  },
+  {
+    "title": "중동 확전 우려에 위험자산 흔들…비트코인 장중 상승분 반납",
+    "score": 1,
+    "reason": "비트코인 관련 주식들이 상승세를 보였으나, 전반적인 위험자산 시장의 불안정성이 우려됨.",
+    "related_stocks": [
+      "마라톤 디지털",
+      "갤럭시 디지털",
+      "비트마인",
+      "사이퍼"
+    ],
+    "link": "https://www.tokenpost.kr/news/cryptocurrency/339299",
+    "pub_date": "Sat, 14 Mar 2026 01:42:00 +0900",
+    "analyzed_at": "2026-03-13T17:00:18.618084"
   }
 ]
