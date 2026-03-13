@@ -14784,5 +14784,54 @@
     "link": "https://www.tokenpost.kr/news/cryptocurrency/339299",
     "pub_date": "Sat, 14 Mar 2026 01:42:00 +0900",
     "analyzed_at": "2026-03-13T17:00:18.618084"
+  },
+  {
+    "title": "美 오스틴 한인상공회의소 8년 만에 재출범...K-기업 진출 가교 역할",
+    "score": 2,
+    "reason": "한국 기업의 해외 진출을 지원하는 긍정적인 소식으로, 관련 기업에 약한 호재로 작용할 수 있음.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.ytn.co.kr/_ln/0104_202603140238189211",
+    "pub_date": "Sat, 14 Mar 2026 02:38:00 +0900",
+    "analyzed_at": "2026-03-13T17:49:46.122446"
+  },
+  {
+    "title": "이란 전쟁 긴장에 뉴욕증시 혼조…장 초반 상승분 반납",
+    "score": 0,
+    "reason": "전반적인 시장 혼조세로 주가에 큰 영향 없음",
+    "related_stocks": [
+      "마이크론",
+      "시게이트",
+      "램리서치",
+      "웨스턴디지털"
+    ],
+    "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=71446",
+    "pub_date": "Sat, 14 Mar 2026 02:42:00 +0900",
+    "analyzed_at": "2026-03-13T17:49:51.089856"
+  },
+  {
+    "title": "스트래티지, 서울서 'AI 전환' 직접 진두지휘",
+    "score": 4,
+    "reason": "AI 기반 사업 확장과 비트코인 매입 전략은 긍정적인 성장 가능성을 시사한다.",
+    "related_stocks": [
+      "스트래티지"
+    ],
+    "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=824175",
+    "pub_date": "Sat, 14 Mar 2026 02:16:00 +0900",
+    "analyzed_at": "2026-03-13T17:49:55.285834"
+  },
+  {
+    "title": "중동 전쟁에 흔들린 크립토 업계…행사는 멈추고 비트코인은 올랐다",
+    "score": -2,
+    "reason": "중동 전쟁으로 인한 불확실성이 크립토 시장에 부정적인 영향을 미칠 수 있다.",
+    "related_stocks": [
+      "비트코인",
+      "크립토 관련 주식"
+    ],
+    "link": "https://www.tokenpost.kr/news/cryptocurrency/339306",
+    "pub_date": "Sat, 14 Mar 2026 02:02:00 +0900",
+    "analyzed_at": "2026-03-13T17:49:55.285844"
   }
 ]
