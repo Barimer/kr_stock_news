@@ -15609,5 +15609,151 @@
     "link": "https://www.newspim.com/news/view/20260313000677",
     "pub_date": "Sat, 14 Mar 2026 07:00:00 +0900",
     "analyzed_at": "2026-03-13T22:03:58.775378"
+  },
+  {
+    "title": "애플처럼 다 가진 삼성 vs 안드로이드처럼 피 섞은 하이닉스... AI 권력은...",
+    "score": 3,
+    "reason": "삼성전자의 SAINT 기술 발표는 반도체 시장에서의 경쟁력을 강화할 것으로 기대됨.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.g-enews.com/view.php?ud=202603140739182948f4f9a46d5b_1",
+    "pub_date": "Sat, 14 Mar 2026 07:40:00 +0900",
+    "analyzed_at": "2026-03-13T22:46:16.271886"
+  },
+  {
+    "title": "[프리미엄 TV 전쟁] LG OLED 왕좌 10년 만에 흔들린다…삼성·TCL·하이센...",
+    "score": 4,
+    "reason": "삼성전자의 QD-OLED 기술은 프리미엄 TV 시장에서의 점유율 확대를 기대하게 함.",
+    "related_stocks": [
+      "삼성전자",
+      "LG전자"
+    ],
+    "link": "https://www.g-enews.com/view.php?ud=20260314072539833fbbec65dfb_1",
+    "pub_date": "Sat, 14 Mar 2026 07:38:00 +0900",
+    "analyzed_at": "2026-03-13T22:46:16.271894"
+  },
+  {
+    "title": "삼성전자, 오스트리아 축구협회와 독점 파트너십 체결",
+    "score": 2,
+    "reason": "스포츠 마케팅 확대는 브랜드 인지도 향상에 기여할 것으로 보임.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "https://www.theguru.co.kr/news/article.html?no=99214",
+    "pub_date": "Sat, 14 Mar 2026 07:32:00 +0900",
+    "analyzed_at": "2026-03-13T22:46:16.271897"
+  },
+  {
+    "title": "중동발 소재 쇼크, 삼성·SK하이닉스 직격…텅스텐·헬륨 비상",
+    "score": -3,
+    "reason": "중동의 무력 충돌로 인한 소재 공급망 불안정은 두 회사에 부정적인 영향을 미칠 가능성이 큼.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.g-enews.com/view.php?ud=202603140711051291fbbec65dfb_1",
+    "pub_date": "Sat, 14 Mar 2026 07:26:00 +0900",
+    "analyzed_at": "2026-03-13T22:46:16.271898"
+  },
+  {
+    "title": "[중국 반도체 굴기] 엔비디아 블랙웰 3만 6000개·파운드리 증설 동시 강...",
+    "score": -2,
+    "reason": "미국의 반도체 수출 통제가 한국 반도체 산업에 악영향을 미칠 것으로 예상됨.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.g-enews.com/view.php?ud=20260314062044335fbbec65dfb_1",
+    "pub_date": "Sat, 14 Mar 2026 07:12:00 +0900",
+    "analyzed_at": "2026-03-13T22:46:16.271900"
+  },
+  {
+    "title": "부고: 박병수씨 별세",
+    "score": 0,
+    "reason": "부고 소식은 주가에 직접적인 영향을 미치지 않음.",
+    "related_stocks": [
+      "SK이노베이션",
+      "SK하이닉스"
+    ],
+    "link": "https://news.mtn.co.kr/news-detail/2026031407290491348",
+    "pub_date": "Sat, 14 Mar 2026 07:36:00 +0900",
+    "analyzed_at": "2026-03-13T22:46:18.653264"
+  },
+  {
+    "title": "수출·자산가격 효과 약화…\"소비 증가세 완만 전망\"",
+    "score": -2,
+    "reason": "경기 개선이 제한적이며 소비 증가세가 완만할 것으로 예상되어 부정적인 영향.",
+    "related_stocks": [],
+    "link": "https://www.mediapen.com/news/view/1086960",
+    "pub_date": "Sat, 14 Mar 2026 07:42:00 +0900",
+    "analyzed_at": "2026-03-13T22:46:33.335954"
+  },
+  {
+    "title": "평택시·평택산업진흥원, AI 수요기반 실증사업 제조기업 모집",
+    "score": 3,
+    "reason": "AI 도입과 경쟁력 강화를 위한 지원이 반도체 및 첨단 산업에 긍정적인 영향을 미칠 것으로 예상.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.newspim.com/news/view/20260313001115",
+    "pub_date": "Sat, 14 Mar 2026 07:40:00 +0900",
+    "analyzed_at": "2026-03-13T22:46:33.335962"
+  },
+  {
+    "title": "[美증시 특징주] 마이크론, 메모리 광풍에 급등...\"5년 이상 간다\"",
+    "score": 4,
+    "reason": "마이크론의 급등은 반도체 시장에 긍정적인 신호를 주며 관련 주식에 호재.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.mediapen.com/news/view/1086959",
+    "pub_date": "Sat, 14 Mar 2026 07:40:00 +0900",
+    "analyzed_at": "2026-03-13T22:46:33.335964"
+  },
+  {
+    "title": "'GDP 꺾이고 물가 뜨거운데…' 호르무즈 봉쇄 속 뉴욕증시 3대 지수 하락...",
+    "score": 1,
+    "reason": "반도체 지수가 선방했지만 전반적인 하락세로 인해 약한 호재로 평가.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "http://www.newsroad.co.kr/news/articleView.html?idxno=56041",
+    "pub_date": "Sat, 14 Mar 2026 07:40:00 +0900",
+    "analyzed_at": "2026-03-13T22:46:33.335966"
+  },
+  {
+    "title": "경기도 '2040 평택 도시기본계획' 승인…인구 105만4천명 목표",
+    "score": 3,
+    "reason": "반도체 산업 확대와 물류 강화가 긍정적인 영향을 미칠 것으로 예상.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.newspim.com/news/view/20260313001112",
+    "pub_date": "Sat, 14 Mar 2026 07:39:00 +0900",
+    "analyzed_at": "2026-03-13T22:46:33.335967"
+  },
+  {
+    "title": "미국 뉴욕증시, 호르무즈·GDP·PCE 삼중고…다우존스·S&P500·나스닥지...",
+    "score": 0,
+    "reason": "전반적인 하락세 속에서 반도체 지수가 방어했지만 중립적인 영향.",
+    "related_stocks": [],
+    "link": "https://www.lecturernews.com/news/articleView.html?idxno=198601",
+    "pub_date": "Sat, 14 Mar 2026 07:16:00 +0900",
+    "analyzed_at": "2026-03-13T22:46:33.335968"
+  },
+  {
+    "title": "뉴욕증시, 하락 마감...호르무즈·GDP·PCE 삼중고",
+    "score": 0,
+    "reason": "하락 마감했지만 반도체 지수가 선방하여 중립적인 영향.",
+    "related_stocks": [],
+    "link": "https://biz.sbs.co.kr/article_hub/20000297415?division=NAVER",
+    "pub_date": "Sat, 14 Mar 2026 07:14:00 +0900",
+    "analyzed_at": "2026-03-13T22:46:33.335969"
   }
 ]
