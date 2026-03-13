@@ -14982,5 +14982,91 @@
     "link": "https://www.tokenpost.kr/news/market/339338",
     "pub_date": "Sat, 14 Mar 2026 04:46:00 +0900",
     "analyzed_at": "2026-03-13T20:03:14.400956"
+  },
+  {
+    "title": "삼선전자 하이닉스 내년 이익 900조 전망까지, 다시 온 올라탈 기회",
+    "score": 4,
+    "reason": "HBM 시장과 범용 반도체 가격 급등으로 두 기업의 영업이익이 크게 증가할 것으로 예상됨.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.chosun.com/economy/money/2026/03/14/WLJBZDBIOND2NII4VQCI6EPSSI/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+    "pub_date": "Sat, 14 Mar 2026 05:31:00 +0900",
+    "analyzed_at": "2026-03-13T20:54:27.336270"
+  },
+  {
+    "title": "머스크, 2년 연속 '세계 부자' 1위…'자산 40.3조' 이재용은?",
+    "score": 0,
+    "reason": "이재용 회장의 자산 순위는 한국 내에서의 위치를 보여주지만 주가에 직접적인 영향은 없음.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "https://www.mt.co.kr/world/2026/03/14/2026031109432085479",
+    "pub_date": "Sat, 14 Mar 2026 05:25:00 +0900",
+    "analyzed_at": "2026-03-13T20:54:27.336280"
+  },
+  {
+    "title": "일반인은 접근도 못하는 은밀한 곳 같이 가실래요?",
+    "score": 0,
+    "reason": "뉴스 내용이 구체적인 실적이나 정책 변화와 관련이 없어 주가에 미치는 영향이 없음.",
+    "related_stocks": [],
+    "link": "https://www.yna.co.kr/view/AKR20260311124300505?input=1195m",
+    "pub_date": "Sat, 14 Mar 2026 05:50:00 +0900",
+    "analyzed_at": "2026-03-13T20:54:30.696559"
+  },
+  {
+    "title": "뉴욕증시, 호르무즈·GDP·PCE 삼중고…하락 마감",
+    "score": -2,
+    "reason": "전반적인 하락세와 불확실성이 커져 악재로 작용할 가능성이 높음.",
+    "related_stocks": [],
+    "link": "https://www.yna.co.kr/view/AKR20260314007800009?input=1195m",
+    "pub_date": "Sat, 14 Mar 2026 05:52:00 +0900",
+    "analyzed_at": "2026-03-13T20:54:38.924378"
+  },
+  {
+    "title": "[뉴욕증시] 고유가 우려 속 약세 지속…메모리 강세 속 마이크론 5% 급등",
+    "score": 2,
+    "reason": "메모리 반도체 주가 상승이 긍정적이나 전반적인 시장 약세가 우려됨.",
+    "related_stocks": [
+      "마이크론"
+    ],
+    "link": "http://www.fnnews.com/news/202603140542483565",
+    "pub_date": "Sat, 14 Mar 2026 05:47:00 +0900",
+    "analyzed_at": "2026-03-13T20:54:38.924387"
+  },
+  {
+    "title": "[뉴욕증시] S&P500 3주 연속 하락..반도체는 강세",
+    "score": 1,
+    "reason": "반도체 주가 상승이 있으나 전체 시장 하락세로 인해 영향이 제한적.",
+    "related_stocks": [
+      "마이크론",
+      "ASML"
+    ],
+    "link": "http://www.4th.kr/news/articleView.html?idxno=2109048",
+    "pub_date": "Sat, 14 Mar 2026 05:44:00 +0900",
+    "analyzed_at": "2026-03-13T20:54:38.924391"
+  },
+  {
+    "title": "[美증시] 고유가·스태그플레이션 우려에 3대 지수 또 하락...메모리반도...",
+    "score": 3,
+    "reason": "메모리 반도체의 급등이 긍정적이나 전반적인 시장 불안 요소가 존재.",
+    "related_stocks": [
+      "마이크론",
+      "샌디스크",
+      "웨스턴디지털"
+    ],
+    "link": "https://www.mediapen.com/news/view/1086945",
+    "pub_date": "Sat, 14 Mar 2026 05:30:00 +0900",
+    "analyzed_at": "2026-03-13T20:54:38.924393"
+  },
+  {
+    "title": "고유가+GDP 급락, 미증시 일제↓ 3주 연속 하락세(상보)",
+    "score": -3,
+    "reason": "전반적인 시장 하락과 경제 지표 부진이 강한 악재로 작용.",
+    "related_stocks": [],
+    "link": "https://www.news1.kr/world/usa-canada/6101068",
+    "pub_date": "Sat, 14 Mar 2026 05:17:00 +0900",
+    "analyzed_at": "2026-03-13T20:54:38.924395"
   }
 ]
