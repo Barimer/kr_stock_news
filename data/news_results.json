@@ -14694,5 +14694,60 @@
     "link": "https://www.tokenpost.kr/news/cryptocurrency/339267",
     "pub_date": "Fri, 13 Mar 2026 23:42:00 +0900",
     "analyzed_at": "2026-03-13T15:29:36.587789"
+  },
+  {
+    "title": "‘실적 뒷받침 없는 배당’ 주의보",
+    "score": -2,
+    "reason": "배당 증가에도 불구하고 실적 뒷받침이 부족하다는 우려가 주가에 부정적 영향을 미칠 수 있음.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "https://www.joongang.co.kr/article/25411711",
+    "pub_date": "Sat, 14 Mar 2026 00:57:00 +0900",
+    "analyzed_at": "2026-03-13T16:06:18.475522"
+  },
+  {
+    "title": "삼성 더 따돌리는 TSMC",
+    "score": -3,
+    "reason": "TSMC의 시장 점유율 증가가 삼성전자의 경쟁력을 약화시키고 있어 부정적 요소로 작용.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "https://www.chosun.com/economy/tech_it/2026/03/14/7F2MDUQQBVHGBMZF6VIDF36NSQ/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+    "pub_date": "Sat, 14 Mar 2026 00:46:00 +0900",
+    "analyzed_at": "2026-03-13T16:06:18.475531"
+  },
+  {
+    "title": "어제는 “어서 타!” 오늘은 “당장 내려!”… 롤러코스터 장에 개미들...",
+    "score": 0,
+    "reason": "주가 변동성이 크지만 특별한 호재나 악재가 없어 중립적인 상황.",
+    "related_stocks": [],
+    "link": "https://www.chosun.com/national/weekend/2026/03/14/ST67RGPPORC6XESTWMLAZ3DZIU/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+    "pub_date": "Sat, 14 Mar 2026 00:31:00 +0900",
+    "analyzed_at": "2026-03-13T16:06:18.475533"
+  },
+  {
+    "title": "발전소와 멀수록 비싸게… 지역별 차등 전기료도 검토",
+    "score": -3,
+    "reason": "전기료 인상 우려로 반도체 및 데이터센터에 부정적 영향 예상",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.chosun.com/economy/industry-company/2026/03/14/XB2OENLWWNFW7CFL67DLCKMDEY/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+    "pub_date": "Sat, 14 Mar 2026 00:50:00 +0900",
+    "analyzed_at": "2026-03-13T16:06:25.478376"
+  },
+  {
+    "title": "기름값 이어 알루미늄·비료값도 치솟아",
+    "score": -2,
+    "reason": "헬륨 공급망 타격으로 반도체 생산에 부정적 영향 우려",
+    "related_stocks": [
+      "삼성전자",
+      "LG화학"
+    ],
+    "link": "https://www.chosun.com/international/international_general/2026/03/14/JBQTKZKADNB5BPVBXK6IUQNXNE/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+    "pub_date": "Sat, 14 Mar 2026 00:47:00 +0900",
+    "analyzed_at": "2026-03-13T16:06:25.478385"
   }
 ]
