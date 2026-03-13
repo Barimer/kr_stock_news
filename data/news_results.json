@@ -11359,5 +11359,414 @@
     "link": "https://economychosun.com/site/data/html_dir/2026/03/06/2026030600019.html",
     "pub_date": "Fri, 13 Mar 2026 13:02:00 +0900",
     "analyzed_at": "2026-03-13T04:57:14.658595"
+  },
+  {
+    "title": "삼성전자 노조, 사측 '부당노동행위' 구제 신청",
+    "score": -2,
+    "reason": "노사 간의 긴장이 고조되며 기업 운영에 부정적 영향을 미칠 가능성이 있음.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "https://mdtoday.co.kr/news/view/1065579559160559",
+    "pub_date": "Fri, 13 Mar 2026 14:56:00 +0900",
+    "analyzed_at": "2026-03-13T05:58:21.561396"
+  },
+  {
+    "title": "CJ그룹, ‘오소리 프로젝트’ 합류",
+    "score": 2,
+    "reason": "오픈소스 프로젝트 참여로 기업 이미지 및 협력 관계 강화 기대.",
+    "related_stocks": [
+      "CJ그룹"
+    ],
+    "link": "https://www.sedaily.com/article/20019073?ref=naver",
+    "pub_date": "Fri, 13 Mar 2026 14:55:00 +0900",
+    "analyzed_at": "2026-03-13T05:58:21.561404"
+  },
+  {
+    "title": "중동 긴장·유가 급등에 코스피 3% 하락 출발…장중 5400선 붕괴",
+    "score": -3,
+    "reason": "전반적인 시장 하락세로 인해 주요 대기업 주가에 부정적 영향.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스",
+      "LG에너지솔루션"
+    ],
+    "link": "https://www.econovill.com/news/articleView.html?idxno=733058",
+    "pub_date": "Fri, 13 Mar 2026 14:54:00 +0900",
+    "analyzed_at": "2026-03-13T05:58:21.561406"
+  },
+  {
+    "title": "이재용 회장, 최주선 삼성SDI 사장과 유럽 출장 후 복귀",
+    "score": 1,
+    "reason": "유럽 고객사와의 협력 관계 점검은 긍정적이나 직접적인 실적 개선 효과는 미미.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "https://www.starnewskorea.com/business-life/2026/03/13/2026031314500710959",
+    "pub_date": "Fri, 13 Mar 2026 14:54:00 +0900",
+    "analyzed_at": "2026-03-13T05:58:21.561408"
+  },
+  {
+    "title": "CJ그룹, 오픈소스 DB 공개…‘오소리’ 프로젝트 참여",
+    "score": 2,
+    "reason": "오픈소스 프로젝트 참여로 기업의 기술력 및 협력 네트워크 강화 기대.",
+    "related_stocks": [
+      "CJ그룹"
+    ],
+    "link": "https://www.sentv.co.kr/article/view/sentv202603130140",
+    "pub_date": "Fri, 13 Mar 2026 14:54:00 +0900",
+    "analyzed_at": "2026-03-13T05:58:21.561410"
+  },
+  {
+    "title": "이재용, 유럽서 완성차 고객사 연쇄 회동…배터리 사업 보폭 확대",
+    "score": 3,
+    "reason": "배터리 사업 확대는 삼성전자의 미래 성장 가능성을 높이는 긍정적 요소.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "https://www.mydaily.co.kr/page/view/2026031314525906666",
+    "pub_date": "Fri, 13 Mar 2026 14:54:00 +0900",
+    "analyzed_at": "2026-03-13T05:58:21.561411"
+  },
+  {
+    "title": "한국방위산업연구소, 서치독과 업무협약 체결",
+    "score": 1,
+    "reason": "업무협약 체결은 긍정적이나 직접적인 주가 영향은 제한적.",
+    "related_stocks": [
+      "삼성물산",
+      "삼성전자"
+    ],
+    "link": "https://www.asiaa.co.kr/news/articleView.html?idxno=243331",
+    "pub_date": "Fri, 13 Mar 2026 14:54:00 +0900",
+    "analyzed_at": "2026-03-13T05:58:21.561413"
+  },
+  {
+    "title": "中 매체 '로봇청소기, 우리가 우세…韓·日은 잠식 중'",
+    "score": -2,
+    "reason": "중국의 시장 점유율 확대 우려로 한국 기업의 경쟁력에 부정적 영향.",
+    "related_stocks": [
+      "삼성전자",
+      "LG전자"
+    ],
+    "link": "https://news.tvchosun.com/site/data/html_dir/2026/03/13/2026031390146.html",
+    "pub_date": "Fri, 13 Mar 2026 14:53:00 +0900",
+    "analyzed_at": "2026-03-13T05:58:21.561417"
+  },
+  {
+    "title": "CJ그룹, 오픈소스 생태계 확장 위해 ‘오소리 프로젝트’ 동참",
+    "score": 2,
+    "reason": "오픈소스 생태계 확장은 기업의 기술력 및 협력 관계 강화에 기여할 것으로 기대.",
+    "related_stocks": [
+      "CJ그룹"
+    ],
+    "link": "https://www.seoultimes.news/news/article.html?no=2000093490",
+    "pub_date": "Fri, 13 Mar 2026 14:53:00 +0900",
+    "analyzed_at": "2026-03-13T05:58:21.561419"
+  },
+  {
+    "title": "변동성 커진 W자 증시···'브로커리지 수익 급증 예상'",
+    "score": 1,
+    "reason": "증시 거래대금 증가로 브로커리지 수익 확대는 긍정적이나 시장 불안정성은 우려.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.smartbizn.com/news/articleView.html?idxno=138963",
+    "pub_date": "Fri, 13 Mar 2026 14:52:00 +0900",
+    "analyzed_at": "2026-03-13T05:58:21.561420"
+  },
+  {
+    "title": "국제유가 100달러·환율 1,490원에...코스피 '충격'",
+    "score": -4,
+    "reason": "국제유가 상승과 환율 상승으로 인해 주요 대형주들이 하락세를 보이며 시장에 부정적인 영향을 미침.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스",
+      "현대차"
+    ],
+    "link": "https://www.ytn.co.kr/_ln/0102_202603131443303438",
+    "pub_date": "Fri, 13 Mar 2026 14:43:00 +0900",
+    "analyzed_at": "2026-03-13T05:58:41.051612"
+  },
+  {
+    "title": "\"공포에 사야 돈 번다\"…외국인·기관 던질 때 개미들 '2조 베팅'",
+    "score": -3,
+    "reason": "반도체 대형주와 주요 기업들이 하락세를 보이며 시장 전반에 부정적인 영향을 미침.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스",
+      "현대차"
+    ],
+    "link": "https://www.hankyung.com/article/202603139358i",
+    "pub_date": "Fri, 13 Mar 2026 14:35:00 +0900",
+    "analyzed_at": "2026-03-13T05:58:41.051620"
+  },
+  {
+    "title": "\"퇴직금에 성과급 반영하라\" 대법 판결 후 삼성전자 퇴직자 소송 잇따라",
+    "score": 0,
+    "reason": "법원 판결이 특정 기업에 국한되어 있어 시장에 큰 영향을 미치지 않음.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.seoulfn.com/news/articleView.html?idxno=623543",
+    "pub_date": "Fri, 13 Mar 2026 14:30:00 +0900",
+    "analyzed_at": "2026-03-13T05:58:41.051623"
+  },
+  {
+    "title": "고유가 피난처로 떠오른 가상자산...",
+    "score": -3,
+    "reason": "반도체 지수 하락이 국내 증시에 부정적인 영향을 미치며 주요 대형주들이 약세를 보임.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.ntoday.co.kr/news/articleView.html?idxno=125904",
+    "pub_date": "Fri, 13 Mar 2026 14:26:00 +0900",
+    "analyzed_at": "2026-03-13T05:58:41.051624"
+  },
+  {
+    "title": "‘기름값 충격’ 코스피, 개미 ‘사자’로 5400선 탈환 [투자360]",
+    "score": -3,
+    "reason": "여전히 주요 대형주들이 하락세를 보이며 시장에 부정적인 영향을 미침.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스",
+      "현대차"
+    ],
+    "link": "https://biz.heraldcorp.com/article/10693831?ref=naver",
+    "pub_date": "Fri, 13 Mar 2026 14:20:00 +0900",
+    "analyzed_at": "2026-03-13T05:58:41.051626"
+  },
+  {
+    "title": "[단독] 삼성 노조, 메모리 '인당 4.5억' 성과급 요구 논란",
+    "score": 1,
+    "reason": "성과급 요구가 긍정적인 기업 실적 기대와 연결될 수 있으나, 논란이 될 가능성도 존재.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://it.chosun.com/news/articleView.html?idxno=2023092158586",
+    "pub_date": "Fri, 13 Mar 2026 14:14:00 +0900",
+    "analyzed_at": "2026-03-13T05:58:41.051627"
+  },
+  {
+    "title": "중동 쇼크...일본증시 '장중 하락' · 日 반도체주 '뚝'",
+    "score": -4,
+    "reason": "글로벌 불안정성이 반도체 대형주에 부정적인 영향을 미치며 하락세를 보임.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스",
+      "현대차"
+    ],
+    "link": "http://www.choicenews.co.kr/news/articleView.html?idxno=162302",
+    "pub_date": "Fri, 13 Mar 2026 14:12:00 +0900",
+    "analyzed_at": "2026-03-13T05:58:41.051629"
+  },
+  {
+    "title": "\"이란 전쟁으로 불안정해진 시장, 가장 간단한 매수 전략은...\"",
+    "score": 2,
+    "reason": "미래 실적 개선 기대감이 있으나, 현재 시장 불안정성이 여전히 존재.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003214464&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
+    "pub_date": "Fri, 13 Mar 2026 14:06:00 +0900",
+    "analyzed_at": "2026-03-13T05:58:41.051630"
+  },
+  {
+    "title": "Asian Markets Slide as U.S.-Israel-Iran Conflict Stokes Inflation Fears",
+    "score": -3,
+    "reason": "지정학적 긴장으로 인한 시장 하락은 투자 심리에 부정적 영향을 미침.",
+    "related_stocks": [
+      "KOSPI",
+      "Honda Motor"
+    ],
+    "link": "https://www.econotimes.com/Asian-Markets-Slide-as-US-Israel-Iran-Conflict-Stokes-Inflation-Fears-1736186",
+    "pub_date": "Fri, 13 Mar 2026 14:14:00 +0900",
+    "analyzed_at": "2026-03-13T05:58:44.733781"
+  },
+  {
+    "title": "[공시속보] 미래산업, 반도체 검사 장비 공급 계약 체결→중국 매출 확...",
+    "score": 3,
+    "reason": "중국 기업과의 계약 체결로 매출 증가 기대.",
+    "related_stocks": [
+      "미래산업"
+    ],
+    "link": "https://www.topstarnews.net/news/articleView.html?idxno=16003164",
+    "pub_date": "Fri, 13 Mar 2026 14:56:00 +0900",
+    "analyzed_at": "2026-03-13T05:58:59.679600"
+  },
+  {
+    "title": "괴로운 시대[오늘을 생각한다]",
+    "score": 0,
+    "reason": "반도체와 방산주에 대한 일반적인 투자 의견으로 주가에 영향 없음.",
+    "related_stocks": [],
+    "link": "https://weekly.khan.co.kr/article/202603131456001",
+    "pub_date": "Fri, 13 Mar 2026 14:56:00 +0900",
+    "analyzed_at": "2026-03-13T05:58:59.679607"
+  },
+  {
+    "title": "로베코자산운용, 증시 변동성 확대에도 한국 기업 펀더멘털 견조",
+    "score": 2,
+    "reason": "기업 펀더멘털이 견조하다는 긍정적인 평가.",
+    "related_stocks": [
+      "반도체",
+      "자동차",
+      "전기차 배터리"
+    ],
+    "link": "https://www.econovill.com/news/articleView.html?idxno=733082",
+    "pub_date": "Fri, 13 Mar 2026 14:54:00 +0900",
+    "analyzed_at": "2026-03-13T05:58:59.679609"
+  },
+  {
+    "title": "UNIST, 산업 도시 울산에 양자나노팹 개소...“국내 최대 거점 확보”",
+    "score": 4,
+    "reason": "양자 및 반도체 산업의 혁신 허브로서의 발전 가능성.",
+    "related_stocks": [],
+    "link": "https://www.hellot.net/news/article.html?no=111351",
+    "pub_date": "Fri, 13 Mar 2026 14:54:00 +0900",
+    "analyzed_at": "2026-03-13T05:58:59.679610"
+  },
+  {
+    "title": "프로젝트 볼트: 전기차, 반도체, 방산 등 첨단 산업에 필수적인 핵심광물",
+    "score": 1,
+    "reason": "산업 안보 강화에 대한 언급으로 약한 호재.",
+    "related_stocks": [],
+    "link": "https://www.danbinews.com/news/articleView.html?idxno=32627",
+    "pub_date": "Fri, 13 Mar 2026 14:54:00 +0900",
+    "analyzed_at": "2026-03-13T05:58:59.679611"
+  },
+  {
+    "title": "세미파이브, 181억 규모 AI NPU 주문형 반도체 개발·공급 계약",
+    "score": 3,
+    "reason": "AI 반도체 관련 계약 체결로 매출 증가 기대.",
+    "related_stocks": [
+      "세미파이브"
+    ],
+    "link": "https://www.bloter.net/news/articleView.html?idxno=656623",
+    "pub_date": "Fri, 13 Mar 2026 14:53:00 +0900",
+    "analyzed_at": "2026-03-13T05:58:59.679612"
+  },
+  {
+    "title": "평택시, '2040 도시기본계획' 최종 승인…100만 특례시 도약 기반 마련",
+    "score": 2,
+    "reason": "반도체 산업 기반 강화로 긍정적인 성장 전망.",
+    "related_stocks": [],
+    "link": "http://www.metroseoul.co.kr/article/20260313500219",
+    "pub_date": "Fri, 13 Mar 2026 14:52:00 +0900",
+    "analyzed_at": "2026-03-13T05:58:59.679614"
+  },
+  {
+    "title": "이재용 회장, 유럽서 귀국 … 벤츠 베터리 수주 초읽기",
+    "score": 3,
+    "reason": "반도체 및 배터리 사업 강화에 대한 긍정적인 신호.",
+    "related_stocks": [],
+    "link": "http://www.globalepic.co.kr/view.php?ud=20260313144806413148439a4874_29",
+    "pub_date": "Fri, 13 Mar 2026 14:52:00 +0900",
+    "analyzed_at": "2026-03-13T05:58:59.679615"
+  },
+  {
+    "title": "서치독-한국방위산업연구소, AI 기반 K-방산 수출 지원 위해 '맞손'",
+    "score": 4,
+    "reason": "AI 기술을 활용한 방산 수출 지원은 K-방산의 글로벌 경쟁력을 높일 것으로 기대됨.",
+    "related_stocks": [
+      "서치독",
+      "한국방위산업"
+    ],
+    "link": "http://www.newsroad.co.kr/news/articleView.html?idxno=56013",
+    "pub_date": "Fri, 13 Mar 2026 14:58:00 +0900",
+    "analyzed_at": "2026-03-13T05:59:14.552932"
+  },
+  {
+    "title": "하나증권, ‘국내주식 옮기기 이벤트’ 진행",
+    "score": 2,
+    "reason": "주식 거래 활성화에 따른 이벤트는 고객 유치에 긍정적 영향을 미칠 수 있음.",
+    "related_stocks": [
+      "하나증권"
+    ],
+    "link": "http://www.segyebiz.com/newsView/20260313510791?OutUrl=naver",
+    "pub_date": "Fri, 13 Mar 2026 14:52:00 +0900",
+    "analyzed_at": "2026-03-13T05:59:14.552939"
+  },
+  {
+    "title": "토스증권, MTS 출시 5주년 기념…브랜드 광고 ‘인류의 호재’ 공개",
+    "score": 3,
+    "reason": "AI 서비스의 발전은 투자자에게 유용한 정보를 제공하여 거래 활성화에 기여할 것으로 보임.",
+    "related_stocks": [
+      "토스증권"
+    ],
+    "link": "http://www.segyebiz.com/newsView/20260313510706?OutUrl=naver",
+    "pub_date": "Fri, 13 Mar 2026 14:48:00 +0900",
+    "analyzed_at": "2026-03-13T05:59:14.552941"
+  },
+  {
+    "title": "CPI 앞둔 관망…XRP 변동성 압축, 방향성 임박하나",
+    "score": 0,
+    "reason": "CPI 발표 전 관망세로 주가에 큰 영향을 미치지 않을 것으로 예상됨.",
+    "related_stocks": [
+      "XRP"
+    ],
+    "link": "https://www.tokenpost.kr/news/cryptocurrency/338646",
+    "pub_date": "Fri, 13 Mar 2026 14:46:00 +0900",
+    "analyzed_at": "2026-03-13T05:59:14.552942"
+  },
+  {
+    "title": "리플 기업가치 500억달러로 뛰었는데…XRP는 고점 대비 60% 하락",
+    "score": -2,
+    "reason": "기업가치 상승에도 불구하고 XRP 가격 하락은 부정적인 신호로 작용할 수 있음.",
+    "related_stocks": [
+      "리플",
+      "XRP"
+    ],
+    "link": "https://www.tokenpost.kr/news/cryptocurrency/339113",
+    "pub_date": "Fri, 13 Mar 2026 14:42:00 +0900",
+    "analyzed_at": "2026-03-13T05:59:14.552943"
+  },
+  {
+    "title": "삼성전자, 올해는 잔치 분위기…주총 관전 포인트는?",
+    "score": 4,
+    "reason": "AI 반도체 시장 확대와 자사주 매입은 긍정적인 실적 전망을 시사함.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "http://www.iminju.net/news/articleView.html?idxno=160365",
+    "pub_date": "Fri, 13 Mar 2026 14:40:00 +0900",
+    "analyzed_at": "2026-03-13T05:59:14.552945"
+  },
+  {
+    "title": "리플 '파워 무브' 뭐길래…7억5000만달러 자사주 매입, XRP도 반응했나",
+    "score": 3,
+    "reason": "자사주 매입은 기업가치 상승에 긍정적인 영향을 미칠 것으로 예상됨.",
+    "related_stocks": [
+      "리플",
+      "XRP"
+    ],
+    "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=640753",
+    "pub_date": "Fri, 13 Mar 2026 14:34:00 +0900",
+    "analyzed_at": "2026-03-13T05:59:14.552946"
+  },
+  {
+    "title": "유가 100달러 충격에 몰린 자금…하이퍼리퀴드 원유 거래 12억 달러 급증",
+    "score": -1,
+    "reason": "유가 상승은 전반적인 시장에 부정적인 영향을 미칠 수 있음.",
+    "related_stocks": [
+      "원유 관련 주식"
+    ],
+    "link": "https://www.tokenpost.kr/news/cryptocurrency/339107",
+    "pub_date": "Fri, 13 Mar 2026 14:32:00 +0900",
+    "analyzed_at": "2026-03-13T05:59:14.552947"
+  },
+  {
+    "title": "하나증권, '국내주식 옮기기 이벤트' 진행",
+    "score": 2,
+    "reason": "고객 유치를 위한 이벤트는 긍정적인 효과를 기대할 수 있음.",
+    "related_stocks": [
+      "하나증권"
+    ],
+    "link": "http://www.techholic.co.kr/news/articleView.html?idxno=220332",
+    "pub_date": "Fri, 13 Mar 2026 14:32:00 +0900",
+    "analyzed_at": "2026-03-13T05:59:14.552948"
   }
 ]
