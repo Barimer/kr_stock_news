@@ -18099,5 +18099,60 @@
     "link": "https://www.naeil.com/news/read/581250?ref=naver",
     "pub_date": "Sat, 14 Mar 2026 22:16:00 +0900",
     "analyzed_at": "2026-03-14T13:57:02.289026"
+  },
+  {
+    "title": "숙명여대 ‘여성 과학기술 인재’ 국제 포럼 개최",
+    "score": 0,
+    "reason": "주식 시장에 직접적인 영향이 없는 중립적인 행사",
+    "related_stocks": [],
+    "link": "https://www.naeil.com/news/read/581256?ref=naver",
+    "pub_date": "Sat, 14 Mar 2026 23:32:00 +0900",
+    "analyzed_at": "2026-03-14T14:39:53.523306"
+  },
+  {
+    "title": "이재용 '애착 조끼' 공항 패션 화제",
+    "score": 0,
+    "reason": "개인적인 패션 관련 뉴스로 주가에 영향 없음",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "https://www.imaeil.com/page/view/2026031423250551393",
+    "pub_date": "Sat, 14 Mar 2026 23:26:00 +0900",
+    "analyzed_at": "2026-03-14T14:39:53.523314"
+  },
+  {
+    "title": "이상일, 소부장 기업 지원 및 반도체 투자",
+    "score": 4,
+    "reason": "반도체 분야의 대규모 투자 소식으로 긍정적인 영향 예상",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.ekn.kr/web/view.php?key=20260314029417726",
+    "pub_date": "Sat, 14 Mar 2026 23:00:00 +0900",
+    "analyzed_at": "2026-03-14T14:39:53.523316"
+  },
+  {
+    "title": "용인특례시, '제5기 반도체 최고위 과정' 입학식 개최",
+    "score": 2,
+    "reason": "반도체 교육 프로그램은 지역 산업 발전에 긍정적 영향을 미칠 것으로 예상됨.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.joongdo.co.kr/web/view.php?key=20260314010004647",
+    "pub_date": "Sat, 14 Mar 2026 23:22:00 +0900",
+    "analyzed_at": "2026-03-14T14:39:58.808868"
+  },
+  {
+    "title": "스트레티지, 연말 100만 BTC 노리나…단일 기업 ‘비트코인 5% 보유’ 가...",
+    "score": 3,
+    "reason": "스트레티지가 비트코인 대량 보유를 계획함에 따라 암호화폐 시장에 긍정적인 영향을 미칠 것으로 예상됨.",
+    "related_stocks": [
+      "스트레티지"
+    ],
+    "link": "https://www.tokenpost.kr/news/cryptocurrency/339514",
+    "pub_date": "Sat, 14 Mar 2026 23:08:00 +0900",
+    "analyzed_at": "2026-03-14T14:40:02.944005"
   }
 ]
