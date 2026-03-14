@@ -16663,5 +16663,236 @@
     "link": "https://www.sisajournal.com/news/articleView.html?idxno=365314",
     "pub_date": "Sat, 14 Mar 2026 10:00:00 +0900",
     "analyzed_at": "2026-03-14T03:09:26.062293"
+  },
+  {
+    "title": "'1200조 최고 부자'의 10평 집 둘러보니…",
+    "score": 0,
+    "reason": "이재용 회장이 95위에 오른 사실은 중립적 정보로 주가에 직접적인 영향 없음.",
+    "related_stocks": [],
+    "link": "https://view.asiae.co.kr/article/2026031413375769653",
+    "pub_date": "Sat, 14 Mar 2026 13:42:00 +0900",
+    "analyzed_at": "2026-03-14T04:54:38.053937"
+  },
+  {
+    "title": "“AI칩 또 진화한다”...엔비디아 GTC 2026 관전 포인트는",
+    "score": 4,
+    "reason": "AI 반도체와 로보틱스 협력 확대는 한국 기업들에게 긍정적인 기회로 작용할 가능성이 높음.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스",
+      "LG디스플레이"
+    ],
+    "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02128726645383320",
+    "pub_date": "Sat, 14 Mar 2026 13:34:00 +0900",
+    "analyzed_at": "2026-03-14T04:54:38.053947"
+  },
+  {
+    "title": "이재용 회장, 유럽서 배터리 협력 행보…",
+    "score": 3,
+    "reason": "전기차 배터리 사업 확대는 삼성전자의 성장 가능성을 높이는 긍정적인 소식.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "http://www.metroseoul.co.kr/article/20260314500010",
+    "pub_date": "Sat, 14 Mar 2026 13:26:00 +0900",
+    "analyzed_at": "2026-03-14T04:54:38.053949"
+  },
+  {
+    "title": "“남친, 갤럭시 쓴다면 약간 싫어”…",
+    "score": -1,
+    "reason": "유명 유튜버의 부정적 발언은 삼성전자 브랜드 이미지에 악영향을 미칠 수 있음.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "https://www.mk.co.kr/article/11988085",
+    "pub_date": "Sat, 14 Mar 2026 13:22:00 +0900",
+    "analyzed_at": "2026-03-14T04:54:38.053950"
+  },
+  {
+    "title": "삼성전자·SK 자사주 20조 태웠다…재계 '기대반 우려반'",
+    "score": 2,
+    "reason": "자사주 매입은 긍정적인 신호지만, 시장의 우려도 존재해 약한 호재로 평가됨.",
+    "related_stocks": [
+      "삼성전자",
+      "SK㈜"
+    ],
+    "link": "https://www.bloter.net/news/articleView.html?idxno=656614",
+    "pub_date": "Sat, 14 Mar 2026 13:00:00 +0900",
+    "analyzed_at": "2026-03-14T04:54:38.053952"
+  },
+  {
+    "title": "증권가, 삼성전자·SK하이닉스 목표주가 잇따라 상향",
+    "score": 3,
+    "reason": "목표주가 상향은 긍정적인 시장 신호로, 두 기업의 실적 개선 기대감을 반영.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "http://www.metroseoul.co.kr/article/20260314500008",
+    "pub_date": "Sat, 14 Mar 2026 12:58:00 +0900",
+    "analyzed_at": "2026-03-14T04:54:38.053954"
+  },
+  {
+    "title": "[이슈] 미-이란 전쟁에도 삼성·하이닉스 호황 전망 이유는?",
+    "score": 4,
+    "reason": "AI 산업의 급성장은 삼성전자와 SK하이닉스의 실적 성장에 긍정적인 영향을 미칠 것으로 예상됨.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.m-economynews.com/news/article.html?no=65403",
+    "pub_date": "Sat, 14 Mar 2026 12:32:00 +0900",
+    "analyzed_at": "2026-03-14T04:54:38.053955"
+  },
+  {
+    "title": "\"누가 요즘 집 사요? 삼전 사지\"…은행 VVIP의 변심",
+    "score": 2,
+    "reason": "반도체주에 대한 관심 증가는 삼성전자와 SK하이닉스에 긍정적인 영향을 미칠 수 있음.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.hankyung.com/article/2026031381376",
+    "pub_date": "Sat, 14 Mar 2026 12:24:00 +0900",
+    "analyzed_at": "2026-03-14T04:54:38.053960"
+  },
+  {
+    "title": "'고유가+사모펀드 부실+반도체 피크론' 3중 악재 겹치면 …",
+    "score": -3,
+    "reason": "3중 악재는 한국 경제와 반도체 산업에 부정적인 영향을 미칠 가능성이 높음.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://biz.newdaily.co.kr/site/data/html/2026/03/13/2026031300140.html",
+    "pub_date": "Sat, 14 Mar 2026 12:08:00 +0900",
+    "analyzed_at": "2026-03-14T04:54:38.053961"
+  },
+  {
+    "title": "부고: 박수균 씨 부친상",
+    "score": 0,
+    "reason": "부고 소식은 주가에 영향을 미치지 않음.",
+    "related_stocks": [
+      "SK이노베이션",
+      "SK하이닉스"
+    ],
+    "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=296068",
+    "pub_date": "Sat, 14 Mar 2026 12:36:00 +0900",
+    "analyzed_at": "2026-03-14T04:54:40.956155"
+  },
+  {
+    "title": "'행정의달인' 강성주 전 우정사업본부장, 의성군수 출마 공식 선언",
+    "score": 0,
+    "reason": "정치적 선언으로 주식 시장에 직접적인 영향 없음",
+    "related_stocks": [],
+    "link": "https://www.eroun.net/news/articleView.html?idxno=75558",
+    "pub_date": "Sat, 14 Mar 2026 13:24:00 +0900",
+    "analyzed_at": "2026-03-14T04:54:50.437882"
+  },
+  {
+    "title": "양극화 해소를 위한 새로운 처방",
+    "score": -2,
+    "reason": "산업 경쟁력 저하 우려로 부정적 영향 가능성",
+    "related_stocks": [
+      "반도체",
+      "조선"
+    ],
+    "link": "https://www.m-economynews.com/news/article.html?no=65021",
+    "pub_date": "Sat, 14 Mar 2026 13:10:00 +0900",
+    "analyzed_at": "2026-03-14T04:54:50.437891"
+  },
+  {
+    "title": "한성숙 장관, 상생형 AI 스마트제조 현장 시찰",
+    "score": 3,
+    "reason": "AI 및 자동화 기술 발전으로 관련 산업에 긍정적 신호",
+    "related_stocks": [
+      "가전",
+      "이차전지",
+      "디스플레이",
+      "반도체"
+    ],
+    "link": "https://www.itbiznews.com/news/articleView.html?idxno=206678",
+    "pub_date": "Sat, 14 Mar 2026 13:00:00 +0900",
+    "analyzed_at": "2026-03-14T04:54:50.437893"
+  },
+  {
+    "title": "문일석 웃음종교 교주의 40가지 대 예언",
+    "score": 1,
+    "reason": "한국의 기술력 언급으로 긍정적이나 구체적 내용 부족",
+    "related_stocks": [
+      "반도체",
+      "배터리",
+      "전기차"
+    ],
+    "link": "http://www.breaknews.com/1191848",
+    "pub_date": "Sat, 14 Mar 2026 12:46:00 +0900",
+    "analyzed_at": "2026-03-14T04:54:50.437895"
+  },
+  {
+    "title": "AI 반도체 설계 수요 급증…에이디테크놀로지 성장 가속",
+    "score": 4,
+    "reason": "AI 반도체 수요 증가로 에이디테크놀로지의 성장 가능성 높음",
+    "related_stocks": [
+      "에이디테크놀로지"
+    ],
+    "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=436700",
+    "pub_date": "Sat, 14 Mar 2026 12:42:00 +0900",
+    "analyzed_at": "2026-03-14T04:54:50.437896"
+  },
+  {
+    "title": "K, 1469만주 자사주 소각 결정…주주가치 제고 신호탄",
+    "score": 3,
+    "reason": "자사주 매입으로 주주가치 증대 기대",
+    "related_stocks": [
+      "SK"
+    ],
+    "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=436698",
+    "pub_date": "Sat, 14 Mar 2026 12:34:00 +0900",
+    "analyzed_at": "2026-03-14T04:54:50.437897"
+  },
+  {
+    "title": "수출 규제 틈 파고든 AI 경쟁…바이트댄스, 해외 클라우드 통해 엔비디",
+    "score": -3,
+    "reason": "글로벌 기술 경쟁 심화로 한국 기업에 부정적 영향 우려",
+    "related_stocks": [
+      "반도체",
+      "AI"
+    ],
+    "link": "http://www.bizwnews.com/news/articleView.html?idxno=128946",
+    "pub_date": "Sat, 14 Mar 2026 12:32:00 +0900",
+    "analyzed_at": "2026-03-14T04:54:50.437898"
+  },
+  {
+    "title": "잘 나가던 사모대출 흔든 건 부실보다 유동성...",
+    "score": -3,
+    "reason": "사모대출 시장의 유동성 우려가 주식시장에 부정적인 영향을 미칠 것으로 예상됨.",
+    "related_stocks": [
+      "금융주",
+      "부동산 관련 주식"
+    ],
+    "link": "https://www.ekn.kr/web/view.php?key=20260313023497677",
+    "pub_date": "Sat, 14 Mar 2026 13:00:00 +0900",
+    "analyzed_at": "2026-03-14T04:54:54.490704"
+  },
+  {
+    "title": "\"2008년 금융위기 직전과 유사\"…사모대출 불안에 월가 '경고등'",
+    "score": -4,
+    "reason": "사모대출 시장의 불안이 주식시장에 즉각적인 부정적 영향을 미치고 있어 강한 악재로 작용.",
+    "related_stocks": [
+      "금융주",
+      "IT 관련 주식"
+    ],
+    "link": "https://www.econovill.com/news/articleView.html?idxno=733189",
+    "pub_date": "Sat, 14 Mar 2026 12:28:00 +0900",
+    "analyzed_at": "2026-03-14T04:54:54.490713"
+  },
+  {
+    "title": "\"새로운 전북, 다시 뛰는 순창\" 장승필 예비후보 ' 더 필승캠프' 개소식...",
+    "score": 0,
+    "reason": "정치적 행사로 주가에 미치는 영향이 크지 않아 중립적.",
+    "related_stocks": [],
+    "link": "http://www.jeollailbo.com/news/articleView.html?idxno=794658",
+    "pub_date": "Sat, 14 Mar 2026 12:24:00 +0900",
+    "analyzed_at": "2026-03-14T04:54:54.490715"
   }
 ]
