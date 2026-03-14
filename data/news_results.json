@@ -17678,5 +17678,121 @@
     "link": "http://www.fnnews.com/news/202603141852493059",
     "pub_date": "Sat, 14 Mar 2026 18:58:00 +0900",
     "analyzed_at": "2026-03-14T10:02:34.581523"
+  },
+  {
+    "title": "CJ, 非IT기업 최초 '오소리 프로젝트' 합류…\"오픈소스 다양성 확장\"",
+    "score": 3,
+    "reason": "CJ의 오픈소스 프로젝트 참여는 기업 이미지 개선과 협업 기회를 확대할 것으로 기대됨.",
+    "related_stocks": [
+      "CJ제일제당",
+      "CJ ENM"
+    ],
+    "link": "https://www.apnews.kr/news/articleView.html?idxno=3046755",
+    "pub_date": "Sat, 14 Mar 2026 19:44:00 +0900",
+    "analyzed_at": "2026-03-14T10:49:07.820044"
+  },
+  {
+    "title": "이재용, 귀국길 패션 화제…日 라멘집 혼밥 때도 입은 조끼",
+    "score": 0,
+    "reason": "이재용의 패션 관련 뉴스는 주가에 직접적인 영향을 미치지 않음.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "https://www.hankyung.com/article/2026031410517",
+    "pub_date": "Sat, 14 Mar 2026 19:42:00 +0900",
+    "analyzed_at": "2026-03-14T10:49:07.820054"
+  },
+  {
+    "title": "[부고] 박수균(한국핸드볼연맹 PR본부장)씨 부친상",
+    "score": 0,
+    "reason": "부고 소식은 주가에 영향을 미치지 않음.",
+    "related_stocks": [],
+    "link": "https://www.segye.com/newsView/20260314506582?OutUrl=naver",
+    "pub_date": "Sat, 14 Mar 2026 19:30:00 +0900",
+    "analyzed_at": "2026-03-14T10:49:10.574416"
+  },
+  {
+    "title": "[민주당 합동연설회]김영록 “전남·광주 통합특별시, 민주당 합동연설...",
+    "score": 4,
+    "reason": "반도체 및 AI 산업 중심 도시로의 발전 계획은 긍정적인 경제적 영향을 미칠 것으로 예상됨.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.wikitree.co.kr/articles/1124886",
+    "pub_date": "Sat, 14 Mar 2026 19:44:00 +0900",
+    "analyzed_at": "2026-03-14T10:49:23.161739"
+  },
+  {
+    "title": "[민주당 합동연설회]강기정 “전남·광주 통합특별시, 강한 추진력으로...",
+    "score": 4,
+    "reason": "AI 산업과 에너지, 반도체 산업의 결합은 지역 경제에 긍정적인 영향을 미칠 것으로 보임.",
+    "related_stocks": [
+      "LG전자",
+      "한화솔루션"
+    ],
+    "link": "https://www.wikitree.co.kr/articles/1124885",
+    "pub_date": "Sat, 14 Mar 2026 19:40:00 +0900",
+    "analyzed_at": "2026-03-14T10:49:23.161748"
+  },
+  {
+    "title": "[민주당 합동연설회]이병훈 “행정 경험으로 전남·광주 통합특별시 성...",
+    "score": 4,
+    "reason": "첨단 산업 육성 계획은 지역 경제 활성화에 기여할 것으로 예상됨.",
+    "related_stocks": [
+      "삼성SDI",
+      "현대차"
+    ],
+    "link": "https://www.wikitree.co.kr/articles/1124884",
+    "pub_date": "Sat, 14 Mar 2026 19:36:00 +0900",
+    "analyzed_at": "2026-03-14T10:49:23.161752"
+  },
+  {
+    "title": "[민주당 합동연설회]민형배 “전남·광주 통합특별시 성공, 대통령과 함...",
+    "score": 3,
+    "reason": "신산업 도시 구상은 긍정적이나 구체적인 실행 계획이 필요함.",
+    "related_stocks": [
+      "LG화학",
+      "두산중공업"
+    ],
+    "link": "https://www.wikitree.co.kr/articles/1124882",
+    "pub_date": "Sat, 14 Mar 2026 19:28:00 +0900",
+    "analyzed_at": "2026-03-14T10:49:23.161754"
+  },
+  {
+    "title": "[민주당 합동연설회]김영록 민주당 전남광주통합특별시장 예비후보...",
+    "score": 4,
+    "reason": "10만 개의 청년 일자리 창출 계획은 지역 경제에 긍정적인 영향을 미칠 것으로 보임.",
+    "related_stocks": [
+      "삼성전자",
+      "SK텔레콤"
+    ],
+    "link": "https://view.asiae.co.kr/article/2026031419171862056",
+    "pub_date": "Sat, 14 Mar 2026 19:23:00 +0900",
+    "analyzed_at": "2026-03-14T10:49:23.161755"
+  },
+  {
+    "title": "[민주당 합동연설회]구윤철 \"달러 강세, 원화 약세...필요시 구두개입\"",
+    "score": 2,
+    "reason": "원화 약세는 수출 기업에 긍정적이나 전반적인 경제 불안 요소로 작용할 수 있음.",
+    "related_stocks": [
+      "현대자동차",
+      "기아"
+    ],
+    "link": "http://www.kwangju.co.kr/article.php?aid=1773478017796635004",
+    "pub_date": "Sat, 14 Mar 2026 19:22:00 +0900",
+    "analyzed_at": "2026-03-14T10:49:23.161756"
+  },
+  {
+    "title": "'CPU'가 AI 핵심으로 떠올라...엔비디아, GTC서 'CPU 서버' 공개할 듯",
+    "score": 3,
+    "reason": "AI와 반도체 시장의 경쟁 심화는 관련 기업에 긍정적인 영향을 미칠 것으로 예상됨.",
+    "related_stocks": [
+      "NVIDIA",
+      "AMD"
+    ],
+    "link": "http://www.bizwnews.com/news/articleView.html?idxno=128956",
+    "pub_date": "Sat, 14 Mar 2026 19:14:00 +0900",
+    "analyzed_at": "2026-03-14T10:49:23.161757"
   }
 ]
