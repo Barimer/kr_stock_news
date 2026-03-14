@@ -18326,5 +18326,76 @@
     "link": "https://www.yna.co.kr/view/AKR20260315001700091?input=1195m",
     "pub_date": "Sun, 15 Mar 2026 02:02:00 +0900",
     "analyzed_at": "2026-03-14T17:35:39.197251"
+  },
+  {
+    "title": "[엔비디아 GTC 2026] 'AI 추론 칩' 공개로 주가 반등 시동 걸리나",
+    "score": 4,
+    "reason": "엔비디아의 신형 칩 발표가 삼성전자와 SK하이닉스에 긍정적인 영향을 미칠 것으로 예상됨.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.g-enews.com/view.php?ud=202603141824552533fbbec65dfb_1",
+    "pub_date": "Sun, 15 Mar 2026 03:56:00 +0900",
+    "analyzed_at": "2026-03-14T18:58:24.618796"
+  },
+  {
+    "title": "삼성, 작년 4분기 eSSD 1위…SK하이닉스 3.6%p 차이로 추격",
+    "score": 3,
+    "reason": "삼성전자가 eSSD 시장에서 1위를 유지하며 긍정적인 실적을 보임.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "http://www.inews24.com/view/1949061",
+    "pub_date": "Sun, 15 Mar 2026 03:11:00 +0900",
+    "analyzed_at": "2026-03-14T18:58:24.618806"
+  },
+  {
+    "title": "엔비디아, 공급계약 앞두고 삼성 등 협력사에 ‘이례적 혹평’",
+    "score": -3,
+    "reason": "엔비디아의 협력사에 대한 비판이 부정적인 신호로 작용할 가능성이 있음.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.g-enews.com/view.php?ud=2026031420580075739a1f309431_1",
+    "pub_date": "Sun, 15 Mar 2026 03:02:00 +0900",
+    "analyzed_at": "2026-03-14T18:58:24.618807"
+  },
+  {
+    "title": "T모바일, ‘갤럭시 S26 울트라’ 사실상 무료 제공…24개월 요금제 가입...",
+    "score": 2,
+    "reason": "갤럭시 S26 울트라의 프로모션이 판매 촉진에 기여할 것으로 보임.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "https://www.g-enews.com/view.php?ud=202603142046525129a1f309431_1",
+    "pub_date": "Sun, 15 Mar 2026 03:02:00 +0900",
+    "analyzed_at": "2026-03-14T18:58:24.618809"
+  },
+  {
+    "title": "[AI 전쟁] \"코카콜라보다 싼 마이크로소프트\"… PER 22배, 10년 만의 최저...",
+    "score": -1,
+    "reason": "소프트웨어 섹터 ETF의 하락은 시장의 부정적인 신호로 해석될 수 있음.",
+    "related_stocks": [
+      "마이크로소프트",
+      "아이셰어즈 확장 기술·소프트웨어"
+    ],
+    "link": "https://www.g-enews.com/view.php?ud=202603141820298955fbbec65dfb_1",
+    "pub_date": "Sun, 15 Mar 2026 03:46:00 +0900",
+    "analyzed_at": "2026-03-14T18:58:30.152521"
+  },
+  {
+    "title": "파두, 국내 반도체 기업에 101억 규모 SSD 컨트롤러 공급",
+    "score": 3,
+    "reason": "상당한 규모의 공급 계약 체결로 매출 증가 기대.",
+    "related_stocks": [
+      "파두",
+      "국내 반도체 기업"
+    ],
+    "link": "http://www.inews24.com/view/1949057",
+    "pub_date": "Sun, 15 Mar 2026 03:07:00 +0900",
+    "analyzed_at": "2026-03-14T18:58:30.152531"
   }
 ]
