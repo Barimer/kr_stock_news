@@ -18059,5 +18059,45 @@
     "link": "https://www.apnews.kr/news/articleView.html?idxno=3046761",
     "pub_date": "Sat, 14 Mar 2026 21:04:00 +0900",
     "analyzed_at": "2026-03-14T13:13:48.741668"
+  },
+  {
+    "title": "제너시스BBQ, 순천에 1천실 규모 특급호텔 짓는다",
+    "score": 3,
+    "reason": "글로벌 기업과 투자자를 수용할 비즈니스 인프라 구축으로 지역 경제 활성화 기대.",
+    "related_stocks": [
+      "제너시스BBQ"
+    ],
+    "link": "https://www.namdonews.com/news/articleView.html?idxno=903944",
+    "pub_date": "Sat, 14 Mar 2026 22:42:00 +0900",
+    "analyzed_at": "2026-03-14T13:57:02.289014"
+  },
+  {
+    "title": "명지대 전자공학부 학부생들 SCIE 논문 게재",
+    "score": 2,
+    "reason": "LG전자와 ASML의 반도체 연구 성과가 주목받아 관련 산업에 긍정적 영향.",
+    "related_stocks": [
+      "LG전자"
+    ],
+    "link": "https://www.naeil.com/news/read/581254?ref=naver",
+    "pub_date": "Sat, 14 Mar 2026 22:28:00 +0900",
+    "analyzed_at": "2026-03-14T13:57:02.289023"
+  },
+  {
+    "title": "김영록, '대통령이 원하는 통합특별시장... '",
+    "score": 1,
+    "reason": "첨단 반도체 및 미래산업 육성 비전이 긍정적이나 구체적인 실행 계획 부족.",
+    "related_stocks": [],
+    "link": "http://www.newsworker.co.kr/news/articleView.html?idxno=417502",
+    "pub_date": "Sat, 14 Mar 2026 22:20:00 +0900",
+    "analyzed_at": "2026-03-14T13:57:02.289025"
+  },
+  {
+    "title": "세종대, 차세대 반도체 계측 국제워크숍",
+    "score": 2,
+    "reason": "국제 협력 논의가 이루어져 반도체 기술 발전에 기여할 가능성.",
+    "related_stocks": [],
+    "link": "https://www.naeil.com/news/read/581250?ref=naver",
+    "pub_date": "Sat, 14 Mar 2026 22:16:00 +0900",
+    "analyzed_at": "2026-03-14T13:57:02.289026"
   }
 ]
