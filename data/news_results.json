@@ -18449,5 +18449,98 @@
     "link": "https://www.g-enews.com/view.php?ud=202603141901427092fbbec65dfb_1",
     "pub_date": "Sun, 15 Mar 2026 04:36:00 +0900",
     "analyzed_at": "2026-03-14T19:59:15.510058"
+  },
+  {
+    "title": "[금산분리 밸류업 걸림돌] 삼전 자사주 소각 → 삼성생명·화재, 1년 만...",
+    "score": -3,
+    "reason": "삼성전자의 자사주 소각이 삼성생명과 삼성화재의 지분 압박을 초래하여 부정적인 영향을 미칠 가능성이 높음.",
+    "related_stocks": [
+      "삼성전자",
+      "삼성생명",
+      "삼성화재"
+    ],
+    "link": "https://www.g-enews.com/view.php?ud=20260313134200510e30fcb1ba8_1",
+    "pub_date": "Sun, 15 Mar 2026 05:02:00 +0900",
+    "analyzed_at": "2026-03-14T20:42:11.605130"
+  },
+  {
+    "title": "수도권 유권자도 '지역 전기 가져오는 구조 바꿔야' 지선 가를 기후 민...",
+    "score": 0,
+    "reason": "기후 정책 관련 논의로 주가에 직접적인 영향을 미치지 않을 것으로 보임.",
+    "related_stocks": [],
+    "link": "https://www.nocutnews.co.kr/news/6484898?utm_source=naver&utm_medium=article&utm_campaign=20260315050027",
+    "pub_date": "Sun, 15 Mar 2026 05:01:00 +0900",
+    "analyzed_at": "2026-03-14T20:42:11.605140"
+  },
+  {
+    "title": "국내 로봇株 성공 신화 뒤 개미들 속였나…李 '무관용' 시험대",
+    "score": -4,
+    "reason": "로봇 관련 기업의 수사로 인해 시장 신뢰도가 하락할 가능성이 높아 강한 악재로 작용할 수 있음.",
+    "related_stocks": [
+      "레인보우로보틱스"
+    ],
+    "link": "https://www.nocutnews.co.kr/news/6484820?utm_source=naver&utm_medium=article&utm_campaign=20260315050025",
+    "pub_date": "Sun, 15 Mar 2026 05:01:00 +0900",
+    "analyzed_at": "2026-03-14T20:42:11.605142"
+  },
+  {
+    "title": "\"하이닉스 100분의 1\"…'굴지의 대기업' 성과급 150만원 불만에 '시끌'",
+    "score": -1,
+    "reason": "성과급에 대한 불만이 제기되었으나, 전체적인 기업 실적에 큰 영향을 미치지 않을 것으로 판단됨.",
+    "related_stocks": [
+      "SK하이닉스",
+      "삼성전자"
+    ],
+    "link": "https://www.news1.kr/society/general-society/6100617",
+    "pub_date": "Sun, 15 Mar 2026 05:00:00 +0900",
+    "analyzed_at": "2026-03-14T20:42:11.605144"
+  },
+  {
+    "title": "日 후지쿠라, 美·日에 1.9조 원 파격 투자… ‘AI 데이터 센터’ 광케이블",
+    "score": 4,
+    "reason": "일본 기업의 대규모 투자로 한국의 소부장 산업에 긍정적인 영향을 미칠 것으로 예상됨.",
+    "related_stocks": [
+      "후지쿠라",
+      "아사히 카세이"
+    ],
+    "link": "https://www.g-enews.com/view.php?ud=2026031417431176030c8c1c064d_1",
+    "pub_date": "Sun, 15 Mar 2026 05:40:00 +0900",
+    "analyzed_at": "2026-03-14T20:42:20.394845"
+  },
+  {
+    "title": "무역법 301조로 美 관세 복원 예고…산업계 통상 불확실성 ↑",
+    "score": -2,
+    "reason": "무역 불확실성이 증가하여 한국 산업에 부정적인 영향을 미칠 가능성이 있음.",
+    "related_stocks": [
+      "현대차",
+      "삼성전자"
+    ],
+    "link": "https://www.nocutnews.co.kr/news/6484866?utm_source=naver&utm_medium=article&utm_campaign=20260315050026",
+    "pub_date": "Sun, 15 Mar 2026 05:01:00 +0900",
+    "analyzed_at": "2026-03-14T20:42:20.394854"
+  },
+  {
+    "title": "'흑자 1.2조달러' 중국의 3대 수입품…전동화로 휘발유 소비는 줄어",
+    "score": 1,
+    "reason": "중국의 반도체 수입 증가가 한국 반도체 산업에 약간의 긍정적 영향을 줄 수 있음.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.mt.co.kr/world/2026/03/15/2026031414244574142",
+    "pub_date": "Sun, 15 Mar 2026 05:00:00 +0900",
+    "analyzed_at": "2026-03-14T20:42:20.394858"
+  },
+  {
+    "title": "100달러 돌파한 고유가 시대… 중동 전쟁 충격 방어할 '中 주식'은 무엇...",
+    "score": 2,
+    "reason": "AI와 첨단 제조업 관련 주식들이 에너지 가격 변동에 강한 면역력을 보일 것으로 예상됨.",
+    "related_stocks": [
+      "삼성전자",
+      "LG전자"
+    ],
+    "link": "https://www.g-enews.com/view.php?ud=2026031417342646860c8c1c064d_1",
+    "pub_date": "Sun, 15 Mar 2026 05:30:00 +0900",
+    "analyzed_at": "2026-03-14T20:42:24.179773"
   }
 ]
