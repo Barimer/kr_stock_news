@@ -18154,5 +18154,45 @@
     "link": "https://www.tokenpost.kr/news/cryptocurrency/339514",
     "pub_date": "Sat, 14 Mar 2026 23:08:00 +0900",
     "analyzed_at": "2026-03-14T14:40:02.944005"
+  },
+  {
+    "title": "서승우 청주시장 예비후보 '시민이 빛나는 청주 만들 것'",
+    "score": 0,
+    "reason": "정책 제안이지만 주식 시장에 직접적인 영향은 없음.",
+    "related_stocks": [],
+    "link": "https://www.newscj.com/news/articleView.html?idxno=3384489",
+    "pub_date": "Sat, 14 Mar 2026 23:58:00 +0900",
+    "analyzed_at": "2026-03-14T15:03:10.752793"
+  },
+  {
+    "title": "박성진 충북청년정책원 이사, 李대통령에 청년 일자리 제안",
+    "score": 0,
+    "reason": "청년 일자리 정책 제안이지만 주식 시장에 직접적인 영향은 없음.",
+    "related_stocks": [],
+    "link": "https://www.newscj.com/news/articleView.html?idxno=3384492",
+    "pub_date": "Sat, 14 Mar 2026 23:58:00 +0900",
+    "analyzed_at": "2026-03-14T15:03:10.752805"
+  },
+  {
+    "title": "정부, 국가전략기술 R&D에 8조6000억 투입",
+    "score": 4,
+    "reason": "대규모 R&D 투자로 반도체 및 AI 산업에 긍정적 영향을 미칠 것으로 예상됨.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스",
+      "LG전자"
+    ],
+    "link": "https://www.hellot.net/news/article.html?no=111375",
+    "pub_date": "Sat, 14 Mar 2026 23:56:00 +0900",
+    "analyzed_at": "2026-03-14T15:03:10.752808"
+  },
+  {
+    "title": "오늘의 운세 띠별 운세 3월15일",
+    "score": 0,
+    "reason": "주식 시장에 직접적인 영향을 미치지 않는 일반적인 운세 정보",
+    "related_stocks": [],
+    "link": "https://www.bntnews.co.kr/article/view/bnt202603140098",
+    "pub_date": "Sun, 15 Mar 2026 00:02:00 +0900",
+    "analyzed_at": "2026-03-14T15:03:13.573297"
   }
 ]
