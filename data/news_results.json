@@ -19269,5 +19269,314 @@
     "link": "https://www.yna.co.kr/view/AKR20260314002400008?input=1195m",
     "pub_date": "Sun, 15 Mar 2026 07:01:00 +0900",
     "analyzed_at": "2026-03-14T22:47:45.947238"
+  },
+  {
+    "title": "HBM4 전쟁에 6.7조 쏟아부은 SK하이닉스",
+    "score": -1,
+    "reason": "경쟁 심화로 인한 시장 불확실성이 우려됨.",
+    "related_stocks": [
+      "SK하이닉스",
+      "삼성전자"
+    ],
+    "link": "http://www.newsroad.co.kr/news/articleView.html?idxno=56065",
+    "pub_date": "Sun, 15 Mar 2026 08:34:00 +0900",
+    "analyzed_at": "2026-03-14T23:36:46.790506"
+  },
+  {
+    "title": "'역대최대 실적' SK하이닉스 작년 연구개발비도 역대최대 6.7조",
+    "score": 3,
+    "reason": "역대 최대 R&D 투자로 향후 기술 경쟁력 강화 기대.",
+    "related_stocks": [
+      "SK하이닉스"
+    ],
+    "link": "https://www.sentv.co.kr/article/view/sentv202603150003",
+    "pub_date": "Sun, 15 Mar 2026 08:26:00 +0900",
+    "analyzed_at": "2026-03-14T23:36:46.790514"
+  },
+  {
+    "title": "작년 4분기 상장사 64% ‘기대 이하’ 실적…1분기 눈높이도↓",
+    "score": -2,
+    "reason": "대부분 기업의 실적 부진으로 시장 전반에 부정적 영향.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://biz.heraldcorp.com/article/10694350?ref=naver",
+    "pub_date": "Sun, 15 Mar 2026 08:21:00 +0900",
+    "analyzed_at": "2026-03-14T23:36:46.790516"
+  },
+  {
+    "title": "상법 개정 우회 안건 '반대' 표명한 NPS",
+    "score": 0,
+    "reason": "정책 변화가 기업에 미치는 영향이 불확실하여 중립적.",
+    "related_stocks": [],
+    "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4403724",
+    "pub_date": "Sun, 15 Mar 2026 08:12:00 +0900",
+    "analyzed_at": "2026-03-14T23:36:46.790518"
+  },
+  {
+    "title": "용인특례시, 경기남부광역철도 등 제5차 국가철도망 반영 촉구 시민 서...",
+    "score": 1,
+    "reason": "지역 개발과 관련된 투자 유치 가능성으로 약한 호재.",
+    "related_stocks": [],
+    "link": "http://www.econonews.co.kr/news/articleView.html?idxno=430981",
+    "pub_date": "Sun, 15 Mar 2026 08:12:00 +0900",
+    "analyzed_at": "2026-03-14T23:36:46.790520"
+  },
+  {
+    "title": "'숏폼·라방' MZ에 먹혔다…CJ온스타일, 지난달 급상승 앱 '종합몰 1위'",
+    "score": 2,
+    "reason": "모바일 앱 유입 증가로 단기적 성장 가능성.",
+    "related_stocks": [
+      "CJ온스타일"
+    ],
+    "link": "https://www.news1.kr/industry/distribution/6099426",
+    "pub_date": "Sun, 15 Mar 2026 08:10:00 +0900",
+    "analyzed_at": "2026-03-14T23:36:46.790521"
+  },
+  {
+    "title": "이상일 시장 “철도망 확충은 시민의 염원…서명으로 실현 앞당길 것”",
+    "score": 1,
+    "reason": "철도망 확충이 지역 경제에 긍정적 영향을 미칠 수 있음.",
+    "related_stocks": [],
+    "link": "https://view.asiae.co.kr/article/2026031508103402424",
+    "pub_date": "Sun, 15 Mar 2026 08:10:00 +0900",
+    "analyzed_at": "2026-03-14T23:36:46.790523"
+  },
+  {
+    "title": "[AI 메모리 전쟁] 삼성·SK하이닉스 'HBM 독주'에 균열 오나…대만 난야...",
+    "score": -3,
+    "reason": "예상치 못한 도전자의 등장으로 시장 점유율 위협.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.g-enews.com/view.php?ud=202603150757301505fbbec65dfb_1",
+    "pub_date": "Sun, 15 Mar 2026 08:10:00 +0900",
+    "analyzed_at": "2026-03-14T23:36:46.790527"
+  },
+  {
+    "title": "삼성전자 노조 '메모리 4억5000만원·비메모리 3억원'…성과급 요구 논란",
+    "score": -2,
+    "reason": "성과급 요구로 인한 경영 부담 증가 우려.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "https://www.thepublic.kr/news/articleView.html?idxno=297422",
+    "pub_date": "Sun, 15 Mar 2026 08:08:00 +0900",
+    "analyzed_at": "2026-03-14T23:36:46.790529"
+  },
+  {
+    "title": "삼성전자, 인도 '테크 파트너 서밋'서 디스플레이 혁신상 수상",
+    "score": 2,
+    "reason": "해외 시장에서의 경쟁력 강화로 긍정적 신호.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "https://www.theguru.co.kr/news/article.html?no=99218",
+    "pub_date": "Sun, 15 Mar 2026 08:02:00 +0900",
+    "analyzed_at": "2026-03-14T23:36:46.790530"
+  },
+  {
+    "title": "용인특례시, 시정과 시민의 삶 기록한 'Timeless용인' 사진 기록물 전시",
+    "score": 0,
+    "reason": "지역 문화 행사로 주식 시장에 직접적인 영향 없음",
+    "related_stocks": [],
+    "link": "http://www.econonews.co.kr/news/articleView.html?idxno=430983",
+    "pub_date": "Sun, 15 Mar 2026 08:26:00 +0900",
+    "analyzed_at": "2026-03-14T23:36:53.678824"
+  },
+  {
+    "title": "중동發 악재에 변동성 장세 지속…엔비디아·마이크론 이벤트 주목",
+    "score": 3,
+    "reason": "메모리 반도체 수요 확인 시 삼성전자와 SK하이닉스에 긍정적 영향 예상",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.hankyung.com/article/2026031392256",
+    "pub_date": "Sun, 15 Mar 2026 08:01:00 +0900",
+    "analyzed_at": "2026-03-14T23:36:53.678832"
+  },
+  {
+    "title": "초고속 민생추경,10조∼20조 유력…“휴일 반납하고 최대한 빨리”",
+    "score": 4,
+    "reason": "법인세 증가로 삼성전자와 SK하이닉스의 영업이익 개선 기대",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://biz.heraldcorp.com/article/10694343?ref=naver",
+    "pub_date": "Sun, 15 Mar 2026 08:01:00 +0900",
+    "analyzed_at": "2026-03-14T23:36:53.678833"
+  },
+  {
+    "title": "코스피 '숨 고르기'…개미만 일주일 새 9조 담았다",
+    "score": 2,
+    "reason": "개인 투자자의 순매수 증가로 SK하이닉스와 현대자동차에 긍정적",
+    "related_stocks": [
+      "SK하이닉스",
+      "현대자동차"
+    ],
+    "link": "https://www.bloter.net/news/articleView.html?idxno=656657",
+    "pub_date": "Sun, 15 Mar 2026 08:00:00 +0900",
+    "analyzed_at": "2026-03-14T23:36:53.678834"
+  },
+  {
+    "title": "[머스크 제국 균열] '처음부터 잘못 설계됐다'",
+    "score": -2,
+    "reason": "xAI 사태가 국내 반도체 생태계에 부정적 신호로 작용할 가능성",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.g-enews.com/view.php?ud=202603150738289293fbbec65dfb_1",
+    "pub_date": "Sun, 15 Mar 2026 07:58:00 +0900",
+    "analyzed_at": "2026-03-14T23:36:53.678835"
+  },
+  {
+    "title": "반도체값·중동 리스크에…삼성·LG 완제품 사업 부담 커졌다",
+    "score": -3,
+    "reason": "반도체 가격 상승과 중동 리스크로 인해 주요 기업의 사업 부담이 증가하여 부정적인 영향을 미칠 것으로 예상됨.",
+    "related_stocks": [
+      "삼성전자",
+      "LG전자"
+    ],
+    "link": "https://www.cstimes.com/news/articleView.html?idxno=697535",
+    "pub_date": "Sun, 15 Mar 2026 08:36:00 +0900",
+    "analyzed_at": "2026-03-14T23:37:05.026658"
+  },
+  {
+    "title": "수능 사탐런 심해지나…",
+    "score": 0,
+    "reason": "교육 정책 변화에 대한 우려가 있으나 주식 시장에 직접적인 영향은 미치지 않을 것으로 보임.",
+    "related_stocks": [],
+    "link": "https://www.yna.co.kr/view/AKR20260314024200530?input=1195m",
+    "pub_date": "Sun, 15 Mar 2026 08:30:00 +0900",
+    "analyzed_at": "2026-03-14T23:37:05.026667"
+  },
+  {
+    "title": "'낮↓·밤↑' 산업용 전기요금 개편…24시간 돌리는 업종은?",
+    "score": -2,
+    "reason": "전기요금 개편이 반도체 및 석유화학 업종에 부담을 줄 것으로 예상되어 부정적인 영향을 미칠 수 있음.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.newsis.com/view/NISX20260314_0003548174",
+    "pub_date": "Sun, 15 Mar 2026 08:30:00 +0900",
+    "analyzed_at": "2026-03-14T23:37:05.026668"
+  },
+  {
+    "title": "증권사 모험자본 확대...벤처 투자 넘어 생산적·포용 금융까지",
+    "score": 2,
+    "reason": "첨단 산업에 대한 투자 확대가 긍정적인 신호로 작용할 수 있어 약한 호재로 평가됨.",
+    "related_stocks": [
+      "삼성전자",
+      "LG화학"
+    ],
+    "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=640925",
+    "pub_date": "Sun, 15 Mar 2026 08:28:00 +0900",
+    "analyzed_at": "2026-03-14T23:37:05.026670"
+  },
+  {
+    "title": "로베코운용 “K-증시 변동성 확대에도…한국 기업 펀더멘털 견조”",
+    "score": 3,
+    "reason": "기업 펀더멘털이 견조하다는 긍정적인 평가가 장기 투자에 대한 신뢰를 높여 강한 호재로 작용할 수 있음.",
+    "related_stocks": [
+      "삼성전자",
+      "현대차"
+    ],
+    "link": "https://www.dailian.co.kr/news/view/1620582/?sc=Naver",
+    "pub_date": "Sun, 15 Mar 2026 08:27:00 +0900",
+    "analyzed_at": "2026-03-14T23:37:05.026671"
+  },
+  {
+    "title": "경기도 '무역위기 대응 패키지' 600개사 모집…중동 수출기업 추가지원",
+    "score": 1,
+    "reason": "무역위기 대응을 위한 지원책이 긍정적이나, 실질적인 효과는 제한적일 것으로 보임.",
+    "related_stocks": [
+      "삼성전자",
+      "LG전자"
+    ],
+    "link": "http://www.econonews.co.kr/news/articleView.html?idxno=430986",
+    "pub_date": "Sun, 15 Mar 2026 08:20:00 +0900",
+    "analyzed_at": "2026-03-14T23:37:05.026673"
+  },
+  {
+    "title": "청주시립무용단 정기공연 ‘직지 인더스트리 5.0’ 4월 9일 개최",
+    "score": 0,
+    "reason": "문화 행사로 주식 시장에 미치는 영향은 미미할 것으로 판단됨.",
+    "related_stocks": [],
+    "link": "https://www.joongdo.co.kr/web/view.php?key=20260315010004665",
+    "pub_date": "Sun, 15 Mar 2026 08:16:00 +0900",
+    "analyzed_at": "2026-03-14T23:37:05.026674"
+  },
+  {
+    "title": "하나증권으로 국내주식 옮기고 주식 매수 쿠폰 받아가세요",
+    "score": 2,
+    "reason": "고객 유치를 위한 이벤트로 긍정적인 영향이 예상됨.",
+    "related_stocks": [
+      "하나증권"
+    ],
+    "link": "https://www.thepublic.kr/news/articleView.html?idxno=297380",
+    "pub_date": "Sun, 15 Mar 2026 08:10:00 +0900",
+    "analyzed_at": "2026-03-14T23:37:13.461505"
+  },
+  {
+    "title": "토스증권, 5주년 기념 브랜드 광고 캠페인 '인류의 호재' 공개",
+    "score": 2,
+    "reason": "브랜드 이미지 강화와 고객 신뢰도 향상에 기여할 것으로 보임.",
+    "related_stocks": [
+      "토스증권"
+    ],
+    "link": "https://www.thepublic.kr/news/articleView.html?idxno=297395",
+    "pub_date": "Sun, 15 Mar 2026 08:08:00 +0900",
+    "analyzed_at": "2026-03-14T23:37:13.461515"
+  },
+  {
+    "title": "IREN, AI 인프라 확장 전략에도 주가 소폭 상승",
+    "score": 1,
+    "reason": "AI 인프라 확장 전략이 긍정적이나 주가 상승폭이 미미함.",
+    "related_stocks": [
+      "IREN"
+    ],
+    "link": "https://www.tokenpost.kr/news/cryptocurrency/339567",
+    "pub_date": "Sun, 15 Mar 2026 08:02:00 +0900",
+    "analyzed_at": "2026-03-14T23:37:13.461517"
+  },
+  {
+    "title": "비트마인, 이더리움 재단과 OTC 거래로 5,000 ETH 추가 매수",
+    "score": 3,
+    "reason": "기관 투자자의 매수로 인해 긍정적인 수익 모델 구축 가능성이 있음.",
+    "related_stocks": [
+      "비트마인"
+    ],
+    "link": "https://www.tokenpost.kr/news/cryptocurrency/339566",
+    "pub_date": "Sun, 15 Mar 2026 08:02:00 +0900",
+    "analyzed_at": "2026-03-14T23:37:13.461519"
+  },
+  {
+    "title": "써클, 주식 변동성 속 스테이블코인 시장 점유율 확대",
+    "score": 2,
+    "reason": "스테이블코인 시장 점유율 확대가 장기적인 신뢰성 제고에 기여할 것으로 예상됨.",
+    "related_stocks": [
+      "써클"
+    ],
+    "link": "https://www.tokenpost.kr/news/cryptocurrency/339568",
+    "pub_date": "Sun, 15 Mar 2026 08:02:00 +0900",
+    "analyzed_at": "2026-03-14T23:37:13.461520"
+  },
+  {
+    "title": "금메달 '반도체 소부장에 기회…심텍·티씨케이 주목'",
+    "score": 3,
+    "reason": "반도체 관련 기업에 대한 긍정적인 전망이 주가에 긍정적 영향을 미칠 것으로 보임.",
+    "related_stocks": [
+      "심텍",
+      "티씨케이"
+    ],
+    "link": "https://www.hankyung.com/article/2026031268536",
+    "pub_date": "Sun, 15 Mar 2026 08:01:00 +0900",
+    "analyzed_at": "2026-03-14T23:37:13.461522"
   }
 ]
