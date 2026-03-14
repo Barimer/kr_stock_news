@@ -17315,5 +17315,211 @@
     "link": "http://www.metroseoul.co.kr/article/20260314500026",
     "pub_date": "Sat, 14 Mar 2026 16:48:00 +0900",
     "analyzed_at": "2026-03-14T07:51:24.473956"
+  },
+  {
+    "title": "이상일 용인특례시장, 기계연구원 방문…'반도체 소부장 협력 강화'",
+    "score": 4,
+    "reason": "반도체 산업에 대한 대규모 투자와 협력 강화는 긍정적인 신호로 해석됨.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.startuptoday.co.kr/news/articleView.html?idxno=598673",
+    "pub_date": "Sat, 14 Mar 2026 17:46:00 +0900",
+    "analyzed_at": "2026-03-14T08:48:49.725885"
+  },
+  {
+    "title": "삼성전자, 영업이익 240조 간다...주가 전망도 ‘장밋빛’",
+    "score": 4,
+    "reason": "증권사들의 긍정적인 목표주가 상향과 메모리 반도체 공급난은 삼성전자에 강한 호재.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "https://magazine.hankyung.com/business/article/202603140985b",
+    "pub_date": "Sat, 14 Mar 2026 17:45:00 +0900",
+    "analyzed_at": "2026-03-14T08:48:49.725895"
+  },
+  {
+    "title": "부안군, 중견기업 DH그룹과 1500억 원 투자협약 체결",
+    "score": 3,
+    "reason": "주요 기업과의 협력 및 미래 전략 산업으로의 확장은 긍정적인 성장 가능성을 시사.",
+    "related_stocks": [
+      "삼성전자",
+      "현대자동차"
+    ],
+    "link": "https://news.tf.co.kr/read/national/2302209.htm",
+    "pub_date": "Sat, 14 Mar 2026 17:40:00 +0900",
+    "analyzed_at": "2026-03-14T08:48:49.725897"
+  },
+  {
+    "title": "상법 개정에 자사주 소각 행렬…'코리아 디스카운트' 해소 기대↑",
+    "score": 4,
+    "reason": "자사주 소각은 주주 가치를 높이는 긍정적인 조치로, 시장에 긍정적인 영향을 미칠 것으로 예상됨.",
+    "related_stocks": [
+      "삼성전자",
+      "셀트리온"
+    ],
+    "link": "https://www.newsway.co.kr/news/view?ud=2026031314272932724",
+    "pub_date": "Sat, 14 Mar 2026 17:36:00 +0900",
+    "analyzed_at": "2026-03-14T08:48:49.725899"
+  },
+  {
+    "title": "이 대통령 '20조 신속 추경' 지시에...野·전문가 '재정 원칙 파괴' 반...",
+    "score": 1,
+    "reason": "추경은 긍정적이나 재정 원칙에 대한 우려가 있어 중립적인 영향.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.pennmike.com/news/articleView.html?idxno=116745",
+    "pub_date": "Sat, 14 Mar 2026 17:02:00 +0900",
+    "analyzed_at": "2026-03-14T08:48:49.725900"
+  },
+  {
+    "title": "잠 못 드는 당신...‘숙면 박람회’서 해법 찾으세요",
+    "score": 0,
+    "reason": "이벤트 관련 뉴스로 주가에 미치는 영향이 없음.",
+    "related_stocks": [],
+    "link": "https://www.mk.co.kr/article/11987572",
+    "pub_date": "Sat, 14 Mar 2026 17:01:00 +0900",
+    "analyzed_at": "2026-03-14T08:48:49.725902"
+  },
+  {
+    "title": "[1] 민주 전남광주특별시장 첫 격돌…산업·경제비전 '7인7색'",
+    "score": 4,
+    "reason": "김영록 후보의 반도체 중심의 경제 비전은 관련 산업에 긍정적인 영향을 미칠 것으로 예상됨.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.newsis.com/view/NISX20260314_0003548314",
+    "pub_date": "Sat, 14 Mar 2026 17:34:00 +0900",
+    "analyzed_at": "2026-03-14T08:49:02.214247"
+  },
+  {
+    "title": "[2] [중동發 경제위기] '글로벌 물류 동맥 경화' 해상 운임 1710 돌파",
+    "score": -3,
+    "reason": "물류비용 상승이 기업 수익성에 부정적인 영향을 미쳐 주가에 악재로 작용할 가능성이 큼.",
+    "related_stocks": [
+      "현대차",
+      "LG화학"
+    ],
+    "link": "https://www.econovill.com/news/articleView.html?idxno=733200",
+    "pub_date": "Sat, 14 Mar 2026 17:28:00 +0900",
+    "analyzed_at": "2026-03-14T08:49:02.214258"
+  },
+  {
+    "title": "[3] '트럼프 행정부, 틱톡 美사업 매각 중재 대가로 100억달러 수수료 받는...",
+    "score": 0,
+    "reason": "정치적 이슈로 인해 반도체 기업에 미치는 영향이 불확실하여 중립적인 평가.",
+    "related_stocks": [
+      "엔비디아",
+      "AMD"
+    ],
+    "link": "https://www.cbci.co.kr/news/articleView.html?idxno=560978",
+    "pub_date": "Sat, 14 Mar 2026 17:20:00 +0900",
+    "analyzed_at": "2026-03-14T08:49:02.214260"
+  },
+  {
+    "title": "[4] 초전도체 테마에 폭등한 신성델타테크… 지금 들어가도 될까?",
+    "score": 2,
+    "reason": "초전도체 상용화 기대감으로 주가가 급등했으나, 실제 사업과의 연관성이 낮아 약한 호재로 평가.",
+    "related_stocks": [
+      "신성델타테크"
+    ],
+    "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=436745",
+    "pub_date": "Sat, 14 Mar 2026 17:20:00 +0900",
+    "analyzed_at": "2026-03-14T08:49:02.214261"
+  },
+  {
+    "title": "[5] 與 전남광주특별시장 경선 합동연설…'李 대통령 인연' 경쟁",
+    "score": 4,
+    "reason": "신산업 육성 및 청년 일자리 창출 공약이 반도체 산업에 긍정적인 영향을 미칠 것으로 예상됨.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://view.asiae.co.kr/article/2026031417113087686",
+    "pub_date": "Sat, 14 Mar 2026 17:11:00 +0900",
+    "analyzed_at": "2026-03-14T08:49:02.214263"
+  },
+  {
+    "title": "[6] 이번주 국내 주요 금융일정(3.16~3.20)",
+    "score": 1,
+    "reason": "AI 반도체 기업 간담회가 예정되어 있어 관련 산업에 긍정적인 신호로 작용할 가능성이 있음.",
+    "related_stocks": [
+      "NVIDIA",
+      "AMD"
+    ],
+    "link": "https://www.newspim.com/news/view/20260313001041",
+    "pub_date": "Sat, 14 Mar 2026 17:00:00 +0900",
+    "analyzed_at": "2026-03-14T08:49:02.214265"
+  },
+  {
+    "title": "[7] 與 전남·광주 통합특별시장 경선 합동연설회…초대 시장 경쟁 본격화",
+    "score": 4,
+    "reason": "AI 및 반도체 산업 육성 계획이 주목받아 관련 기업에 긍정적인 영향을 미칠 것으로 예상됨.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://news.tf.co.kr/read/ptoday/2302207.htm",
+    "pub_date": "Sat, 14 Mar 2026 17:00:00 +0900",
+    "analyzed_at": "2026-03-14T08:49:02.214266"
+  },
+  {
+    "title": "이스트에이드, AI로 만든 프로필 앱 '미브' 화제… 비즈니스 지형 바꾼",
+    "score": 4,
+    "reason": "AI 기술 접목과 K-웹툰의 글로벌 확장성이 긍정적인 투자 심리를 자극하고 있다.",
+    "related_stocks": [
+      "이스트에이드"
+    ],
+    "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=436748",
+    "pub_date": "Sat, 14 Mar 2026 17:40:00 +0900",
+    "analyzed_at": "2026-03-14T08:49:11.751112"
+  },
+  {
+    "title": "하나증권, 국내주식 이전 이벤트 실시",
+    "score": 2,
+    "reason": "고객 유치를 위한 이벤트가 긍정적이나, 직접적인 주가 영향은 제한적이다.",
+    "related_stocks": [
+      "하나증권"
+    ],
+    "link": "http://www.bizwnews.com/news/articleView.html?idxno=128807",
+    "pub_date": "Sat, 14 Mar 2026 17:14:00 +0900",
+    "analyzed_at": "2026-03-14T08:49:11.751121"
+  },
+  {
+    "title": "전쟁 긴장 속 되살아난 비트코인…7만2000달러 다시 돌파, 시장 디커플링",
+    "score": 3,
+    "reason": "비트코인의 가격 상승이 지정학적 리스크 속에서도 긍정적인 신호로 해석된다.",
+    "related_stocks": [
+      "비트코인"
+    ],
+    "link": "https://www.tokenpost.kr/news/cryptocurrency/339477",
+    "pub_date": "Sat, 14 Mar 2026 17:10:00 +0900",
+    "analyzed_at": "2026-03-14T08:49:11.751123"
+  },
+  {
+    "title": "와이즈넛, 코스닥 상장 후 첫 승부수… 'RAG 솔루션'으로 초격차 확보",
+    "score": 4,
+    "reason": "클라우드 전환 속도가 기업 가치 상승의 핵심으로 작용할 것으로 기대된다.",
+    "related_stocks": [
+      "와이즈넛"
+    ],
+    "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=436743",
+    "pub_date": "Sat, 14 Mar 2026 17:02:00 +0900",
+    "analyzed_at": "2026-03-14T08:49:11.751124"
+  },
+  {
+    "title": "비트코인 10년 내 ‘최대 10배’ 가능성…리크 에델만 장기 강세론 주목",
+    "score": 3,
+    "reason": "장기적인 비트코인 상승 가능성이 긍정적으로 작용할 수 있다.",
+    "related_stocks": [
+      "비트코인"
+    ],
+    "link": "https://www.tokenpost.kr/news/cryptocurrency/339476",
+    "pub_date": "Sat, 14 Mar 2026 16:54:00 +0900",
+    "analyzed_at": "2026-03-14T08:49:11.751126"
   }
 ]
