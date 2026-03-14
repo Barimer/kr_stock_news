@@ -18542,5 +18542,208 @@
     "link": "https://www.g-enews.com/view.php?ud=2026031417342646860c8c1c064d_1",
     "pub_date": "Sun, 15 Mar 2026 05:30:00 +0900",
     "analyzed_at": "2026-03-14T20:42:24.179773"
+  },
+  {
+    "title": "지금은 정책의 시대…자산관리도 기민해야",
+    "score": 0,
+    "reason": "주도주와 테마주에 대한 언급은 있으나 구체적인 호재나 악재가 없어 중립적.",
+    "related_stocks": [],
+    "link": "https://magazine.hankyung.com/money/article/202602236922c",
+    "pub_date": "Sun, 15 Mar 2026 06:02:00 +0900",
+    "analyzed_at": "2026-03-14T21:04:20.256158"
+  },
+  {
+    "title": "[주간증시전망] 美 연준, 유가 급등에 어떤 신호 보낼까… 엔비디아 기...",
+    "score": 3,
+    "reason": "삼성전자와 SK하이닉스의 엔비디아 협업 소식은 긍정적인 시장 기대를 불러일으킬 수 있음.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://biz.chosun.com/stock/stock_general/2026/03/15/NNPRTV6NH5FY5BCSKCQD7UWKN4/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+    "pub_date": "Sun, 15 Mar 2026 06:01:00 +0900",
+    "analyzed_at": "2026-03-14T21:04:20.256167"
+  },
+  {
+    "title": "전자업계 덮친 원자잿값 인플레…삼성전자 원가 부담 8조원↑",
+    "score": -3,
+    "reason": "원자재 가격 상승으로 인한 삼성전자의 원가 부담 증가는 실적에 부정적 영향을 미칠 것으로 예상됨.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "https://www.yna.co.kr/view/AKR20260313132100003?input=1195m",
+    "pub_date": "Sun, 15 Mar 2026 06:01:00 +0900",
+    "analyzed_at": "2026-03-14T21:04:20.256169"
+  },
+  {
+    "title": "HBM '큰 손' 움직이다…젠슨 황·최태원 vs 리사 수·이재용 충출동",
+    "score": 2,
+    "reason": "삼성전자와 네이버의 협업 논의는 긍정적인 신호이나 구체적인 성과가 없어 약한 호재로 평가.",
+    "related_stocks": [
+      "삼성전자",
+      "네이버"
+    ],
+    "link": "https://www.dailian.co.kr/news/view/1620483/?sc=Naver",
+    "pub_date": "Sun, 15 Mar 2026 06:01:00 +0900",
+    "analyzed_at": "2026-03-14T21:04:20.256171"
+  },
+  {
+    "title": "'역대최대 실적' SK하이닉스 작년 연구개발비도 역대최대 6.7조",
+    "score": 4,
+    "reason": "SK하이닉스의 역대 최대 실적과 연구개발비는 긍정적인 신호로, 반도체 시장에서의 경쟁력 강화에 기여할 것.",
+    "related_stocks": [
+      "SK하이닉스"
+    ],
+    "link": "https://www.yna.co.kr/view/AKR20260313138400003?input=1195m",
+    "pub_date": "Sun, 15 Mar 2026 06:00:00 +0900",
+    "analyzed_at": "2026-03-14T21:04:20.256173"
+  },
+  {
+    "title": "[주간증시전망] 유가·엔비디아에 쏠린 눈…거버넌스 개선 모멘텀도",
+    "score": 3,
+    "reason": "삼성전자와 SK하이닉스의 엔비디아 협업 소식은 반도체주에 긍정적인 영향을 미칠 것으로 예상됨.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1702371",
+    "pub_date": "Sun, 15 Mar 2026 06:00:00 +0900",
+    "analyzed_at": "2026-03-14T21:04:20.256174"
+  },
+  {
+    "title": "'이란 전쟁'에 흔들리는 코스피…고유가·강달러 변동성 지속",
+    "score": -2,
+    "reason": "지정학적 리스크와 경제적 불확실성이 코스피에 부정적인 영향을 미칠 것으로 보임.",
+    "related_stocks": [],
+    "link": "https://www.news1.kr/finance/general-stock/6101032",
+    "pub_date": "Sun, 15 Mar 2026 06:00:00 +0900",
+    "analyzed_at": "2026-03-14T21:04:20.256176"
+  },
+  {
+    "title": "상법 개정 앞두고 정기 주총 본격 시작…'경영권 방어' 나선 기업들",
+    "score": 1,
+    "reason": "정기 주총 개최는 기업의 투명성과 경영권 방어에 긍정적이나 직접적인 주가 영향은 미미할 것으로 판단.",
+    "related_stocks": [
+      "삼성전자",
+      "삼성SDI",
+      "삼성전기"
+    ],
+    "link": "https://www.news1.kr/finance/general-stock/6101050",
+    "pub_date": "Sun, 15 Mar 2026 06:00:00 +0900",
+    "analyzed_at": "2026-03-14T21:04:20.256180"
+  },
+  {
+    "title": "100대 기업 사외이사 평균 급여 9천만원 돌파…삼성전자 1위",
+    "score": 0,
+    "reason": "사외이사 급여 증가 소식은 기업의 경영 투명성과 관련 있으나 주가에 미치는 영향은 중립적.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "https://www.yna.co.kr/view/AKR20260313128500003?input=1195m",
+    "pub_date": "Sun, 15 Mar 2026 06:00:00 +0900",
+    "analyzed_at": "2026-03-14T21:04:20.256182"
+  },
+  {
+    "title": "[뉴욕증시 주간전망] 전쟁·FOMC·엔비디아 GTC에 촉각…마이크론 실적 ...",
+    "score": 3,
+    "reason": "마이크론 실적 발표가 삼성전자와 SK하이닉스에 긍정적인 영향을 미칠 가능성이 있어 기대감 존재.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.g-enews.com/view.php?ud=202603140300574029be84d87674_1",
+    "pub_date": "Sun, 15 Mar 2026 06:00:00 +0900",
+    "analyzed_at": "2026-03-14T21:04:20.256184"
+  },
+  {
+    "title": "엔비디아, GTC에서 추론 전용칩 공개 준비",
+    "score": -2,
+    "reason": "엔비디아의 공급 부족 문제로 인해 관련 종목의 생산 차질 우려가 커짐.",
+    "related_stocks": [
+      "SK하이닉스",
+      "마이크론"
+    ],
+    "link": "http://www.fnnews.com/news/202603150415150217",
+    "pub_date": "Sun, 15 Mar 2026 05:50:00 +0900",
+    "analyzed_at": "2026-03-14T21:04:27.929831"
+  },
+  {
+    "title": "중동불안·고유가에 초고속 민생추경…초과세수에 10조∼20조說",
+    "score": 3,
+    "reason": "정부의 민생 지원 정책이 삼성전자와 SK하이닉스의 영업이익에 긍정적인 영향을 미칠 것으로 예상됨.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.yna.co.kr/view/AKR20260314051500002?input=1195m",
+    "pub_date": "Sun, 15 Mar 2026 05:47:00 +0900",
+    "analyzed_at": "2026-03-14T21:04:27.929840"
+  },
+  {
+    "title": "삼전닉스는 믿어 롤코에도 돈 몰린다…잇따라 등장한 ETF",
+    "score": 4,
+    "reason": "삼성전자와 SK하이닉스에 집중 투자하는 ETF의 등장으로 두 종목의 주가 상승 기대감이 높아짐.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.mt.co.kr/stock/2026/03/15/2026031317333939695",
+    "pub_date": "Sun, 15 Mar 2026 05:44:00 +0900",
+    "analyzed_at": "2026-03-14T21:04:27.929842"
+  },
+  {
+    "title": "'AI 골드러시' 속 40개 유니콘 탄생...하드웨어·헬스케어 실물 경제 정",
+    "score": 4,
+    "reason": "AI 기술의 발전과 유니콘 기업의 탄생은 관련 산업에 긍정적인 영향을 미칠 것으로 예상됨.",
+    "related_stocks": [
+      "포지트론",
+      "반도체 관련주"
+    ],
+    "link": "https://www.g-enews.com/view.php?ud=2026031418400398252bd56fbc3c_1",
+    "pub_date": "Sun, 15 Mar 2026 06:02:00 +0900",
+    "analyzed_at": "2026-03-14T21:04:35.909092"
+  },
+  {
+    "title": "(주간증시전망)중동전에 FOMC까지…변동성 '여전'",
+    "score": 2,
+    "reason": "지정학적 리스크에도 불구하고 AI 인프라 투자 수혜가 기대되어 약한 호재로 작용할 가능성이 있음.",
+    "related_stocks": [
+      "반도체 관련주"
+    ],
+    "link": "http://www.newstomato.com/ReadNews.aspx?no=1294208&inflow=N",
+    "pub_date": "Sun, 15 Mar 2026 06:02:00 +0900",
+    "analyzed_at": "2026-03-14T21:04:35.909100"
+  },
+  {
+    "title": "LG전자, 작년 4분기 적자 딛고 올해 실적 반등 전망… TV 사업 수익성 개",
+    "score": 3,
+    "reason": "LG전자의 실적 반등 전망과 TV 수요 증가가 긍정적인 요소로 작용할 것으로 보임.",
+    "related_stocks": [
+      "LG전자"
+    ],
+    "link": "https://biz.chosun.com/it-science/ict/2026/03/15/57SJRWAFFJBCJG7YGDLZGFCYNA/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+    "pub_date": "Sun, 15 Mar 2026 06:01:00 +0900",
+    "analyzed_at": "2026-03-14T21:04:35.909101"
+  },
+  {
+    "title": "[지선PICK] '원초 친명' 김병욱, 성남시장 도전…",
+    "score": 0,
+    "reason": "정치적 발언으로 주식 시장에 미치는 영향이 크지 않아 중립적인 평가.",
+    "related_stocks": [],
+    "link": "https://www.dailian.co.kr/news/view/1620712/?sc=Naver",
+    "pub_date": "Sun, 15 Mar 2026 06:01:00 +0900",
+    "analyzed_at": "2026-03-14T21:04:35.909103"
+  },
+  {
+    "title": "코스닥액티브·바이오·커버드콜·AI반도체·美우주항공 [이주의 상장ET... ",
+    "score": 2,
+    "reason": "AI 반도체와 관련된 ETF의 상장은 해당 섹터에 긍정적인 영향을 미칠 것으로 예상됨.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://it.chosun.com/news/articleView.html?idxno=2023092158618",
+    "pub_date": "Sun, 15 Mar 2026 06:00:00 +0900",
+    "analyzed_at": "2026-03-14T21:04:38.884854"
   }
 ]
