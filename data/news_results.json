@@ -16894,5 +16894,88 @@
     "link": "http://www.jeollailbo.com/news/articleView.html?idxno=794658",
     "pub_date": "Sat, 14 Mar 2026 12:24:00 +0900",
     "analyzed_at": "2026-03-14T04:54:54.490715"
+  },
+  {
+    "title": "[위클리 IT템] 봄바람 맞으며 달릴 준비하는 그대, '오픈형 이어폰' 챙기...",
+    "score": 1,
+    "reason": "신제품 출시 소식이지만 시장 반응이 불확실하여 약한 호재로 평가됨.",
+    "related_stocks": [
+      "삼성전자",
+      "하만"
+    ],
+    "link": "https://www.techm.kr/news/articleView.html?idxno=150199",
+    "pub_date": "Sat, 14 Mar 2026 14:46:00 +0900",
+    "analyzed_at": "2026-03-14T05:54:13.241618"
+  },
+  {
+    "title": "이상일 용인특례시장, 한국기계연구원 찾아 반도체 소·부·장 지원 협력...",
+    "score": 3,
+    "reason": "반도체 산업 지원 정책이 긍정적이며 관련 기업에 도움이 될 것으로 예상됨.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.nbntv.kr/news/articleView.html?idxno=339541",
+    "pub_date": "Sat, 14 Mar 2026 14:12:00 +0900",
+    "analyzed_at": "2026-03-14T05:54:13.241627"
+  },
+  {
+    "title": "반도체 뚫고 가전 날았다···삼성 vs LG '연봉 전쟁' 승자는?",
+    "score": 2,
+    "reason": "경영진 보수 상승이 실적 개선을 반영하지만, 주가에 미치는 영향은 제한적임.",
+    "related_stocks": [
+      "삼성전자",
+      "LG전자"
+    ],
+    "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2405909",
+    "pub_date": "Sat, 14 Mar 2026 14:00:00 +0900",
+    "analyzed_at": "2026-03-14T05:54:13.241629"
+  },
+  {
+    "title": "이재용, 유럽서 배터리 챙겼다",
+    "score": 4,
+    "reason": "글로벌 전기차 시장 확대에 따른 전략적 행보로 긍정적인 영향을 미칠 것으로 보임.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "https://www.ntoday.co.kr/news/articleView.html?idxno=125925",
+    "pub_date": "Sat, 14 Mar 2026 13:56:00 +0900",
+    "analyzed_at": "2026-03-14T05:54:13.241631"
+  },
+  {
+    "title": "[부고] 박수균(SK이노베이션 본사부·한국핸드볼연맹 PR본부장)씨 부친...",
+    "score": 0,
+    "reason": "부고 소식은 주가에 중립적인 영향을 미침.",
+    "related_stocks": [
+      "SK이노베이션",
+      "SK하이닉스"
+    ],
+    "link": "https://www.thelec.kr/news/articleView.html?idxno=53514",
+    "pub_date": "Sat, 14 Mar 2026 12:36:00 +0900",
+    "analyzed_at": "2026-03-14T05:54:16.355554"
+  },
+  {
+    "title": "일본 없어도 된다... 풍원정밀, 100% 의존하던 OLED 핵심 소재 국산화",
+    "score": 4,
+    "reason": "국산화 성공으로 OLED 소재 공급망 안정화 및 경쟁력 강화 기대",
+    "related_stocks": [
+      "풍원정밀",
+      "디아이티",
+      "와이엠씨",
+      "나래나노텍",
+      "미래컴퍼니"
+    ],
+    "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=436711",
+    "pub_date": "Sat, 14 Mar 2026 14:46:00 +0900",
+    "analyzed_at": "2026-03-14T05:54:20.951302"
+  },
+  {
+    "title": "트럼프ㆍ시진핑의 담판… “중동 정세 향배, 美中 정상회담이 분수령”",
+    "score": 0,
+    "reason": "정상회담 소식은 중립적이며 주가에 즉각적인 영향 없음",
+    "related_stocks": [],
+    "link": "https://www.hankookilbo.com/news/article/A2026031214080000589?did=NA",
+    "pub_date": "Sat, 14 Mar 2026 14:00:00 +0900",
+    "analyzed_at": "2026-03-14T05:54:20.951311"
   }
 ]
