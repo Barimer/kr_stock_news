@@ -18290,5 +18290,41 @@
     "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2403083",
     "pub_date": "Sun, 15 Mar 2026 01:48:00 +0900",
     "analyzed_at": "2026-03-14T16:51:52.673843"
+  },
+  {
+    "title": "신정훈 '전남 서남권, 인구 100만명 규모 신남방 경제 거점 육성'",
+    "score": 3,
+    "reason": "반도체 및 첨단 제조 기업 유치 계획은 지역 경제에 긍정적인 영향을 미칠 것으로 예상됨.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=296122",
+    "pub_date": "Sun, 15 Mar 2026 02:22:00 +0900",
+    "analyzed_at": "2026-03-14T17:35:39.197239"
+  },
+  {
+    "title": "순천시-제너시스BBQ, 특급호텔 건립 등 '황금빛 투자' 맞손",
+    "score": 4,
+    "reason": "RE100 반도체 국가산업단지와의 연계는 지역 경제 활성화 및 투자 유치에 긍정적.",
+    "related_stocks": [
+      "LG전자",
+      "한화솔루션"
+    ],
+    "link": "https://www.pointdaily.co.kr/news/articleView.html?idxno=296121",
+    "pub_date": "Sun, 15 Mar 2026 02:08:00 +0900",
+    "analyzed_at": "2026-03-14T17:35:39.197248"
+  },
+  {
+    "title": "머스크 '테슬라 AI칩 생산공장 '테라팹' 계획, 7일 내 시작'",
+    "score": 5,
+    "reason": "테슬라의 반도체 생산 공장 건설 계획은 반도체 산업에 큰 호재로 작용할 가능성이 높음.",
+    "related_stocks": [
+      "NVIDIA",
+      "AMD"
+    ],
+    "link": "https://www.yna.co.kr/view/AKR20260315001700091?input=1195m",
+    "pub_date": "Sun, 15 Mar 2026 02:02:00 +0900",
+    "analyzed_at": "2026-03-14T17:35:39.197251"
   }
 ]
