@@ -18412,5 +18412,42 @@
     "link": "https://www.g-enews.com/view.php?ud=202603141829021809fbbec65dfb_1",
     "pub_date": "Sun, 15 Mar 2026 04:16:00 +0900",
     "analyzed_at": "2026-03-14T19:36:12.591395"
+  },
+  {
+    "title": "머스크의 도박, 테슬라 '테라팹'으로 '반도체 제국' 꿈꾼다",
+    "score": 4,
+    "reason": "테슬라의 반도체 자립 계획은 긍정적인 실적 개선을 기대하게 함.",
+    "related_stocks": [
+      "테슬라",
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "http://www.fnnews.com/news/202603150414538891",
+    "pub_date": "Sun, 15 Mar 2026 04:55:00 +0900",
+    "analyzed_at": "2026-03-14T19:59:09.239167"
+  },
+  {
+    "title": "[호르무즈 에너지 위기] 유가 100달러 시대 열렸다…호르무즈 봉쇄가 한...",
+    "score": -3,
+    "reason": "고유가와 원화 약세가 한국의 수출 경쟁력에 부정적인 영향을 미칠 것으로 예상됨.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.g-enews.com/view.php?ud=202603142005285781fbbec65dfb_1",
+    "pub_date": "Sun, 15 Mar 2026 04:46:00 +0900",
+    "analyzed_at": "2026-03-14T19:59:15.510048"
+  },
+  {
+    "title": "[중동 오일 쇼크] 호르무즈 봉쇄…유가 150달러·스태그플레이션, '에너...",
+    "score": -4,
+    "reason": "고유가와 고환율의 이중 압박이 한국 경제에 심각한 악재로 작용할 가능성이 높음.",
+    "related_stocks": [
+      "삼성전자",
+      "LG화학"
+    ],
+    "link": "https://www.g-enews.com/view.php?ud=202603141901427092fbbec65dfb_1",
+    "pub_date": "Sun, 15 Mar 2026 04:36:00 +0900",
+    "analyzed_at": "2026-03-14T19:59:15.510058"
   }
 ]
