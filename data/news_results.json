@@ -17165,5 +17165,155 @@
     "link": "https://www.tokenpost.kr/news/market/339456",
     "pub_date": "Sat, 14 Mar 2026 14:54:00 +0900",
     "analyzed_at": "2026-03-14T07:01:27.679889"
+  },
+  {
+    "title": "이상일 용인특례시장, 한국기계연구원서 반도체 산업 경쟁력 강화 방안",
+    "score": 4,
+    "reason": "삼성전자와 SK하이닉스의 대규모 투자로 반도체 산업의 경쟁력이 강화될 것으로 예상됨.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.geconomy.co.kr/news/article.html?no=317420",
+    "pub_date": "Sat, 14 Mar 2026 16:46:00 +0900",
+    "analyzed_at": "2026-03-14T07:51:05.100290"
+  },
+  {
+    "title": "연봉은 ‘0’원, 배당금은 3400억 재드래곤…재벌 총수 연봉 킹은?",
+    "score": 0,
+    "reason": "이재용의 연봉이 0원이지만 배당금 지급은 긍정적이나 주가에 미치는 영향은 중립적.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "https://www.segye.com/newsView/20260313509569?OutUrl=naver",
+    "pub_date": "Sat, 14 Mar 2026 16:34:00 +0900",
+    "analyzed_at": "2026-03-14T07:51:05.100298"
+  },
+  {
+    "title": "적금도 재밌게…카카오뱅크, '한달적금' 1400만 계좌 돌파",
+    "score": 2,
+    "reason": "카카오뱅크의 적금 상품이 인기를 끌며 고객 유치에 긍정적인 영향을 미칠 것으로 보임.",
+    "related_stocks": [
+      "카카오뱅크"
+    ],
+    "link": "http://www.bizwnews.com/news/articleView.html?idxno=128404",
+    "pub_date": "Sat, 14 Mar 2026 16:24:00 +0900",
+    "analyzed_at": "2026-03-14T07:51:05.100300"
+  },
+  {
+    "title": "다시 올라탈 기회?...'32만전자·170만닉스 간다'",
+    "score": 3,
+    "reason": "증권사들이 삼성전자와 SK하이닉스의 목표 주가를 높이며 긍정적인 전망을 제시함.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://news.jtbc.co.kr/article/NB12289642?influxDiv=NAVER",
+    "pub_date": "Sat, 14 Mar 2026 16:20:00 +0900",
+    "analyzed_at": "2026-03-14T07:51:05.100302"
+  },
+  {
+    "title": "\"올해 모니터 OLED 540만대 출하 예상\"...전년비 63%↑",
+    "score": 3,
+    "reason": "OLED 출하 증가가 삼성디스플레이와 LG디스플레이에 긍정적인 영향을 미칠 것으로 예상됨.",
+    "related_stocks": [
+      "삼성디스플레이",
+      "LG디스플레이"
+    ],
+    "link": "https://zdnet.co.kr/view/?no=20260314153002",
+    "pub_date": "Sat, 14 Mar 2026 16:01:00 +0900",
+    "analyzed_at": "2026-03-14T07:51:05.100303"
+  },
+  {
+    "title": "트럼프 행정부, 틱톡 중재로 돈방석 앉았다... 수수료 '15조 원' 잭팟",
+    "score": 4,
+    "reason": "틱톡 중재로 인한 대규모 수수료 수익이 기대되며, 관련 기업에 긍정적인 영향을 미칠 것으로 보임.",
+    "related_stocks": [
+      "엔비디아",
+      "AMD",
+      "인텔"
+    ],
+    "link": "https://www.insight.co.kr/news/546480",
+    "pub_date": "Sat, 14 Mar 2026 16:40:00 +0900",
+    "analyzed_at": "2026-03-14T07:51:21.589418"
+  },
+  {
+    "title": "與 전남광주특별시장 합동연설회…李대통령과 호흡, '명심' 강조",
+    "score": 2,
+    "reason": "AI 미래차 및 반도체 산업 육성 계획이 언급되어 긍정적인 정책 신호로 작용할 수 있음.",
+    "related_stocks": [
+      "전남 지역 기업",
+      "반도체 관련 기업"
+    ],
+    "link": "https://www.newsis.com/view/NISX20260314_0003548239",
+    "pub_date": "Sat, 14 Mar 2026 16:38:00 +0900",
+    "analyzed_at": "2026-03-14T07:51:21.589429"
+  },
+  {
+    "title": "상승 피로감에 쏟아진 매물... 기계株 두산로보틱스 로보스타 유진로봇...",
+    "score": -2,
+    "reason": "기계 및 반도체 관련 주식의 하락세가 지속되고 있어 부정적인 시장 심리를 반영.",
+    "related_stocks": [
+      "두산로보틱스",
+      "로보스타",
+      "유진로봇"
+    ],
+    "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=436735",
+    "pub_date": "Sat, 14 Mar 2026 16:22:00 +0900",
+    "analyzed_at": "2026-03-14T07:51:21.589432"
+  },
+  {
+    "title": "민주당 전남·광주 통합특별시장 예비후보 합동연설 '초대 시장 적임자...",
+    "score": 1,
+    "reason": "반도체 기업 유치 및 미래 산업 육성 공약이 있으나, 구체적인 실행 계획이 부족해 약한 호재로 평가.",
+    "related_stocks": [
+      "전남 지역 기업",
+      "반도체 관련 기업"
+    ],
+    "link": "https://www.nocutnews.co.kr/news/6484908?utm_source=naver&utm_medium=article&utm_campaign=20260314042014",
+    "pub_date": "Sat, 14 Mar 2026 16:21:00 +0900",
+    "analyzed_at": "2026-03-14T07:51:21.589433"
+  },
+  {
+    "title": "용인시-한국기계연구원, 반도체 첨단산업 육성 방안 모색",
+    "score": 3,
+    "reason": "반도체 산업 육성을 위한 구체적인 방안 모색이 긍정적으로 작용할 가능성이 있음.",
+    "related_stocks": [
+      "한국기계연구원",
+      "반도체 관련 기업"
+    ],
+    "link": "https://www.nspna.com/news/?mode=view&newsid=806234",
+    "pub_date": "Sat, 14 Mar 2026 16:14:00 +0900",
+    "analyzed_at": "2026-03-14T07:51:21.589435"
+  },
+  {
+    "title": "문일석 웃음종교 교주의 40가지 대 예언(시리즈-18)...“한국에 유학오...",
+    "score": 0,
+    "reason": "특별한 경제적 영향이나 주가에 대한 직접적인 언급이 없어 중립적 평가.",
+    "related_stocks": [],
+    "link": "http://www.breaknews.com/1191856",
+    "pub_date": "Sat, 14 Mar 2026 16:12:00 +0900",
+    "analyzed_at": "2026-03-14T07:51:21.589436"
+  },
+  {
+    "title": "김영록, 전남-광주 민주당 합동연설회서 '연습 필요 없는 ‘준비된 혁신...",
+    "score": 2,
+    "reason": "첨단 산업 육성 공약이 긍정적이나, 실현 가능성에 대한 의문이 남아 약한 호재로 평가.",
+    "related_stocks": [
+      "전남 지역 기업",
+      "반도체 관련 기업"
+    ],
+    "link": "http://www.breaknews.com/1191858",
+    "pub_date": "Sat, 14 Mar 2026 16:12:00 +0900",
+    "analyzed_at": "2026-03-14T07:51:21.589437"
+  },
+  {
+    "title": "성동청년비전포럼, 청년 주도 쌍방향 정책 토론 '똑톡' 성료",
+    "score": 0,
+    "reason": "주식 시장에 직접적인 영향이 없는 중립적인 뉴스",
+    "related_stocks": [],
+    "link": "http://www.metroseoul.co.kr/article/20260314500026",
+    "pub_date": "Sat, 14 Mar 2026 16:48:00 +0900",
+    "analyzed_at": "2026-03-14T07:51:24.473956"
   }
 ]
