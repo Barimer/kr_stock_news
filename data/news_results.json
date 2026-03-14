@@ -18279,5 +18279,16 @@
     "link": "https://www.tokenpost.kr/news/market/339535",
     "pub_date": "Sun, 15 Mar 2026 01:10:00 +0900",
     "analyzed_at": "2026-03-14T16:14:15.635405"
+  },
+  {
+    "title": "기석간 건국대 교수 공동연구팀, '모바일 베이퍼 챔버 열성능 예측 모델' 발표",
+    "score": 2,
+    "reason": "모바일 베이퍼 챔버 관련 기술 개발은 삼성전자에 긍정적인 영향을 미칠 수 있음.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2403083",
+    "pub_date": "Sun, 15 Mar 2026 01:48:00 +0900",
+    "analyzed_at": "2026-03-14T16:51:52.673843"
   }
 ]
