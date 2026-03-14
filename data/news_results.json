@@ -17854,5 +17854,25 @@
     "link": "https://www.m-i.kr/news/articleView.html?idxno=1346404",
     "pub_date": "Sat, 14 Mar 2026 19:58:00 +0900",
     "analyzed_at": "2026-03-14T11:32:31.849423"
+  },
+  {
+    "title": "상명대, 중국 산동공예미술학원과 자매결연…'디자인+AI' 융합 앞세워 글",
+    "score": 0,
+    "reason": "대학 간의 국제화 교류는 긍정적이나 주식 시장에 직접적인 영향은 없음.",
+    "related_stocks": [],
+    "link": "http://www.chungnamilbo.co.kr/news/articleView.html?idxno=877793",
+    "pub_date": "Sat, 14 Mar 2026 20:46:00 +0900",
+    "analyzed_at": "2026-03-14T11:58:50.480002"
+  },
+  {
+    "title": "바이트댄스, 말레이시아 '블랙웰' 데이터센터 구축 계획에 '수출 규제 우회'",
+    "score": -3,
+    "reason": "미국의 반도체 수출 규제 우회 시도가 기업 운영에 부정적인 영향을 미칠 수 있음.",
+    "related_stocks": [
+      "바이트댄스"
+    ],
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=207875",
+    "pub_date": "Sat, 14 Mar 2026 20:42:00 +0900",
+    "analyzed_at": "2026-03-14T11:58:50.480010"
   }
 ]
