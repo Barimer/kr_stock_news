@@ -17654,5 +17654,29 @@
     "link": "https://www.gukjenews.com/news/articleView.html?idxno=3529207",
     "pub_date": "Sat, 14 Mar 2026 17:54:00 +0900",
     "analyzed_at": "2026-03-14T09:42:54.396757"
+  },
+  {
+    "title": "엔비디아, GTC 2026서 어떤 AI 전략 내놓을까",
+    "score": 4,
+    "reason": "엔비디아의 AI 반도체와 파트너십 발표는 반도체 업계에 긍정적인 영향을 미칠 것으로 예상됨.",
+    "related_stocks": [
+      "엔비디아",
+      "삼성전자"
+    ],
+    "link": "https://www.bloter.net/news/articleView.html?idxno=656683",
+    "pub_date": "Sat, 14 Mar 2026 19:00:00 +0900",
+    "analyzed_at": "2026-03-14T10:02:34.581514"
+  },
+  {
+    "title": "국산 아이웨어 브랜드 ‘슬릭스틸’, SS 라인업 공개",
+    "score": 2,
+    "reason": "국내 반도체 후공정 기업과의 협력은 긍정적이나, 아이웨어 시장의 영향력은 제한적임.",
+    "related_stocks": [
+      "슬릭스틸",
+      "LG이노텍"
+    ],
+    "link": "http://www.fnnews.com/news/202603141852493059",
+    "pub_date": "Sat, 14 Mar 2026 18:58:00 +0900",
+    "analyzed_at": "2026-03-14T10:02:34.581523"
   }
 ]
