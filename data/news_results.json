@@ -16063,5 +16063,193 @@
     "link": "https://www.sisajournal.com/news/articleView.html?idxno=365610",
     "pub_date": "Sat, 14 Mar 2026 08:00:00 +0900",
     "analyzed_at": "2026-03-13T23:38:07.633938"
+  },
+  {
+    "title": "엄마와 한동안 전화 안하셨네요",
+    "score": 1,
+    "reason": "삼성전자의 AI 기능 개선은 긍정적이나 직접적인 주가 영향은 미미할 것으로 보임.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "https://www.newsis.com/view/NISX20260313_0003547376",
+    "pub_date": "Sat, 14 Mar 2026 09:00:00 +0900",
+    "analyzed_at": "2026-03-14T00:01:54.586729"
+  },
+  {
+    "title": "삼전·닉스? 엔비디아가 찍어준 유망종목은 '나OOO'",
+    "score": 3,
+    "reason": "엔비디아 CEO의 발언은 삼성전자와 SK하이닉스에 긍정적인 영향을 미칠 가능성이 높음.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.mt.co.kr/stock/2026/03/14/2026031321471791636",
+    "pub_date": "Sat, 14 Mar 2026 09:00:00 +0900",
+    "analyzed_at": "2026-03-14T00:01:54.586739"
+  },
+  {
+    "title": "[위클리 PICK 3] 미국-이란戰 여파 유가 폭등부터 빅테크 AI 인프라 투자",
+    "score": 4,
+    "reason": "삼성전자와 SK의 대규모 자사주 소각 발표는 주가에 긍정적인 영향을 줄 것으로 예상됨.",
+    "related_stocks": [
+      "삼성전자",
+      "SK"
+    ],
+    "link": "http://www.opinionnews.co.kr/news/articleView.html?idxno=134918",
+    "pub_date": "Sat, 14 Mar 2026 09:00:00 +0900",
+    "analyzed_at": "2026-03-14T00:01:54.586742"
+  },
+  {
+    "title": "\"32만전자·170만닉스 간다\"…눈높이 올리는 증권가",
+    "score": 2,
+    "reason": "증권사들의 목표주가 상향은 긍정적이나 변동성 확대 우려가 존재함.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.newsis.com/view/NISX20260313_0003547219",
+    "pub_date": "Sat, 14 Mar 2026 09:00:00 +0900",
+    "analyzed_at": "2026-03-14T00:01:54.586743"
+  },
+  {
+    "title": "원·달러 1500원 위협…삼성·하이닉스·LG전자, 환율 효과 셈법 분주",
+    "score": -2,
+    "reason": "환율 상승은 주요 기업에 부정적인 영향을 미칠 수 있어 악재로 작용할 가능성이 있음.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스",
+      "LG전자"
+    ],
+    "link": "https://www.newsis.com/view/NISX20260313_0003547752",
+    "pub_date": "Sat, 14 Mar 2026 09:00:00 +0900",
+    "analyzed_at": "2026-03-14T00:01:54.586745"
+  },
+  {
+    "title": "김영록 \"광주·전남 500조 반도체 투자유치…10만개 일자리 창출\"",
+    "score": 5,
+    "reason": "대규모 반도체 투자 유치는 삼성전자와 SK하이닉스에 매우 긍정적인 호재로 작용할 것임.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.pressian.com/pages/articles/2026031408502410677?utm_source=naver&utm_medium=search",
+    "pub_date": "Sat, 14 Mar 2026 08:52:00 +0900",
+    "analyzed_at": "2026-03-14T00:01:54.586747"
+  },
+  {
+    "title": "[주末머니]\"과거와는 다르다\"…유가 급등에도 영향 적은 이 업종",
+    "score": 0,
+    "reason": "업종 전반에 대한 언급이 있으나 삼성전자에 대한 직접적인 영향은 없음.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "https://view.asiae.co.kr/article/2026031307550855511",
+    "pub_date": "Sat, 14 Mar 2026 08:49:00 +0900",
+    "analyzed_at": "2026-03-14T00:01:54.586749"
+  },
+  {
+    "title": "SK하이닉스, '생산직 제외' 해피 프라이데이",
+    "score": -1,
+    "reason": "생산직 제외로 인한 형평성 문제로 노조의 반발이 우려됨.",
+    "related_stocks": [
+      "SK하이닉스"
+    ],
+    "link": "https://www.startuptoday.co.kr/news/articleView.html?idxno=598466",
+    "pub_date": "Sat, 14 Mar 2026 09:00:00 +0900",
+    "analyzed_at": "2026-03-14T00:02:01.054763"
+  },
+  {
+    "title": "박수균씨 부친상",
+    "score": 0,
+    "reason": "부고 소식으로 주가에 미치는 영향 없음.",
+    "related_stocks": [],
+    "link": "https://www.public25.com/news/articleView.html?idxno=41859",
+    "pub_date": "Sat, 14 Mar 2026 08:34:00 +0900",
+    "analyzed_at": "2026-03-14T00:02:01.054772"
+  },
+  {
+    "title": "박수균씨 부친상",
+    "score": 0,
+    "reason": "부고 소식으로 주가에 미치는 영향 없음.",
+    "related_stocks": [],
+    "link": "https://www.etnews.com/20260314000002",
+    "pub_date": "Sat, 14 Mar 2026 08:25:00 +0900",
+    "analyzed_at": "2026-03-14T00:02:01.054773"
+  },
+  {
+    "title": "박수균 SK이노베이션 본사부 부친상",
+    "score": 0,
+    "reason": "부고 소식으로 주가에 미치는 영향 없음.",
+    "related_stocks": [],
+    "link": "https://www.news2day.co.kr/article/20260314500002",
+    "pub_date": "Sat, 14 Mar 2026 08:18:00 +0900",
+    "analyzed_at": "2026-03-14T00:02:01.054775"
+  },
+  {
+    "title": "ASML보다 높은 한미반도체 영업이익률의 비결",
+    "score": 4,
+    "reason": "한미반도체의 높은 영업이익률은 AI 반도체 시장 확대와 부품 내재화 전략 덕분으로, 긍정적인 실적 개선을 나타냄.",
+    "related_stocks": [
+      "한미반도체"
+    ],
+    "link": "http://www.inews24.com/view/1948947",
+    "pub_date": "Sat, 14 Mar 2026 09:01:00 +0900",
+    "analyzed_at": "2026-03-14T00:02:09.281822"
+  },
+  {
+    "title": "[K증시돋보기] 코스닥 액티브ETF 격돌…삼성운용, 타임폴 누르고 '압승'",
+    "score": 2,
+    "reason": "코스닥 액티브 ETF의 성과가 긍정적이나, 전체 시장에 미치는 영향은 제한적임.",
+    "related_stocks": [
+      "성호전자",
+      "큐리언트"
+    ],
+    "link": "https://weekly.hankooki.com/news/articleView.html?idxno=7154497",
+    "pub_date": "Sat, 14 Mar 2026 09:00:00 +0900",
+    "analyzed_at": "2026-03-14T00:02:09.281831"
+  },
+  {
+    "title": "[S-이슈] 국제유가, 150~200달러 가능성… '오일쇼크' 우려 다시 확산",
+    "score": -3,
+    "reason": "국제 유가 급등이 전기요금 상승으로 이어질 가능성이 높아, 반도체와 자동차 산업에 부정적 영향을 미칠 수 있음.",
+    "related_stocks": [
+      "반도체 관련주",
+      "자동차 관련주"
+    ],
+    "link": "https://www.s-journal.co.kr/news/articleView.html?idxno=39355",
+    "pub_date": "Sat, 14 Mar 2026 09:00:00 +0900",
+    "analyzed_at": "2026-03-14T00:02:09.281833"
+  },
+  {
+    "title": "[ETF워치]'코스닥 액티브' 시대...운용사 '진검승부' 예고",
+    "score": 1,
+    "reason": "액티브 ETF의 운용 범위가 넓어질 것으로 보이나, 시장에 미치는 영향은 미미할 것으로 예상됨.",
+    "related_stocks": [],
+    "link": "https://news.bizwatch.co.kr/article/market/2026/03/13/0022",
+    "pub_date": "Sat, 14 Mar 2026 09:00:00 +0900",
+    "analyzed_at": "2026-03-14T00:02:09.281834"
+  },
+  {
+    "title": "오라클 '어닝 서프라이즈'...증권가도 '밸류에이션 상승 기대'",
+    "score": 3,
+    "reason": "오라클의 어닝 서프라이즈는 긍정적인 실적 개선을 나타내며, 밸류에이션 상승 기대감을 불러일으킴.",
+    "related_stocks": [
+      "오라클"
+    ],
+    "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01902406645383320",
+    "pub_date": "Sat, 14 Mar 2026 09:01:00 +0900",
+    "analyzed_at": "2026-03-14T00:02:14.386074"
+  },
+  {
+    "title": "머스크 'xAI, 초기 구축 부실했다'충격 발언...왜?",
+    "score": -2,
+    "reason": "머스크의 부정적인 발언은 xAI의 신뢰도와 향후 성장 가능성에 악영향을 미칠 수 있음.",
+    "related_stocks": [
+      "xAI",
+      "트위터"
+    ],
+    "link": "http://www.choicenews.co.kr/news/articleView.html?idxno=162318",
+    "pub_date": "Sat, 14 Mar 2026 08:46:00 +0900",
+    "analyzed_at": "2026-03-14T00:02:14.386083"
   }
 ]
