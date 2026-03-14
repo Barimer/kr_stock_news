@@ -18267,5 +18267,17 @@
     "link": "https://www.tokenpost.kr/news/cryptocurrency/339532",
     "pub_date": "Sun, 15 Mar 2026 00:28:00 +0900",
     "analyzed_at": "2026-03-14T15:45:31.082391"
+  },
+  {
+    "title": "월가 ‘토큰화 주식·24시간 거래’ 속도…기관은 ‘즉시결제’에 경계",
+    "score": 2,
+    "reason": "토큰화 주식과 24시간 거래는 긍정적인 시장 변화이나 즉시결제에 대한 우려가 존재함.",
+    "related_stocks": [
+      "금융 관련 주식",
+      "IT 관련 주식"
+    ],
+    "link": "https://www.tokenpost.kr/news/market/339535",
+    "pub_date": "Sun, 15 Mar 2026 01:10:00 +0900",
+    "analyzed_at": "2026-03-14T16:14:15.635405"
   }
 ]
