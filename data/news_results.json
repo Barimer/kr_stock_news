@@ -21349,5 +21349,311 @@
     "link": "http://www.fnnews.com/news/202603151653109845",
     "pub_date": "Sun, 15 Mar 2026 17:11:00 +0900",
     "analyzed_at": "2026-03-15T08:21:57.828561"
+  },
+  {
+    "title": "[인터뷰] 최승호 삼성전자 노조위원장 '회사만 수익 챙기는 시대 끝낼 ...",
+    "score": -3,
+    "reason": "노조의 총파업 찬반 투표와 사측의 부정적 발언은 회사의 내부 갈등을 부각시켜 주가에 악영향을 미칠 수 있다.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "https://www.ajunews.com/view/20260313160222430",
+    "pub_date": "Sun, 15 Mar 2026 18:02:00 +0900",
+    "analyzed_at": "2026-03-15T09:03:50.034188"
+  },
+  {
+    "title": "[미리보는 GTC 2026] 엔비디아, 세상 바꿀 AI 전략 공개하나…GPU 로드맵...",
+    "score": 2,
+    "reason": "엔비디아의 AI 전략 발표가 한국 반도체 기업들에게 긍정적인 영향을 미칠 가능성이 있다.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.ajunews.com/view/20260314105042669",
+    "pub_date": "Sun, 15 Mar 2026 18:02:00 +0900",
+    "analyzed_at": "2026-03-15T09:03:50.034197"
+  },
+  {
+    "title": "공급 부족 경고등 켜진 낸드 시장... 삼성전자·SK하이닉스 기대감 커진...",
+    "score": 4,
+    "reason": "낸드 시장의 공급 부족이 가격 상승으로 이어질 경우 삼성전자와 SK하이닉스의 수익성 개선이 기대된다.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.joongangenews.com/news/articleView.html?idxno=502572",
+    "pub_date": "Sun, 15 Mar 2026 18:00:00 +0900",
+    "analyzed_at": "2026-03-15T09:03:50.034199"
+  },
+  {
+    "title": "이재용도 '두렵다'는 CXMT…중국發 'D램 공습' 시작되나",
+    "score": -2,
+    "reason": "중국 기업의 D램 시장 진출 우려가 삼성전자와 SK하이닉스에 부정적인 영향을 미칠 수 있다.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.hankyung.com/article/2026031521041",
+    "pub_date": "Sun, 15 Mar 2026 17:59:00 +0900",
+    "analyzed_at": "2026-03-15T09:03:50.034201"
+  },
+  {
+    "title": "개미 이달들어 벌써 17조 담아…月최대 순매수 가나",
+    "score": 3,
+    "reason": "개인 투자자들의 대규모 순매수는 삼성전자와 SK하이닉스에 긍정적인 신호로 작용할 수 있다.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.sedaily.com/article/20019531?ref=naver",
+    "pub_date": "Sun, 15 Mar 2026 17:59:00 +0900",
+    "analyzed_at": "2026-03-15T09:03:50.034202"
+  },
+  {
+    "title": "제조원가 치솟아 팔아봐야 본전…칩플레이션에 AI 전략도 차질",
+    "score": -3,
+    "reason": "제조원가 상승과 노동조합의 성과급 요구는 삼성전자의 재정적 압박을 가중시켜 부정적인 영향을 미칠 수 있다.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "https://www.sedaily.com/article/20019529?ref=naver",
+    "pub_date": "Sun, 15 Mar 2026 17:58:00 +0900",
+    "analyzed_at": "2026-03-15T09:03:50.034204"
+  },
+  {
+    "title": "K-반도체 생태계의 진화... 네패스·에이직랜드 후공정 및 디자인하우스...",
+    "score": -1,
+    "reason": "삼성전자의 주가 하락은 외국인과 기관의 매도세에 의해 부정적인 영향을 받고 있다.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=436840",
+    "pub_date": "Sun, 15 Mar 2026 17:58:00 +0900",
+    "analyzed_at": "2026-03-15T09:03:50.034206"
+  },
+  {
+    "title": "삼성 기밀 빼낸 '특허괴물' 검거…'디테일 승부사' 박경택 부장검사",
+    "score": 1,
+    "reason": "특허 관리 사건의 해결은 삼성전자의 기술 보호에 긍정적인 영향을 미칠 수 있다.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "https://www.hankyung.com/article/2026031520671",
+    "pub_date": "Sun, 15 Mar 2026 17:54:00 +0900",
+    "analyzed_at": "2026-03-15T09:03:50.034210"
+  },
+  {
+    "title": "100대 기업 사외이사 평균급여 9천만원 돌파…삼성전자 1위",
+    "score": 0,
+    "reason": "사외이사 급여 증가가 삼성전자의 경영에 미치는 영향은 중립적이다.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "https://www.youthdaily.co.kr/news/article.html?no=215398",
+    "pub_date": "Sun, 15 Mar 2026 17:48:00 +0900",
+    "analyzed_at": "2026-03-15T09:03:50.034211"
+  },
+  {
+    "title": "'자사주 소각 시대'...주총 앞두고 자사주 처리에 바쁜 상장사들",
+    "score": 3,
+    "reason": "삼성전자의 자사주 소각 계획은 주주 가치를 높이는 긍정적인 요소로 작용할 수 있다.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01863046645383648",
+    "pub_date": "Sun, 15 Mar 2026 17:47:00 +0900",
+    "analyzed_at": "2026-03-15T09:03:50.034213"
+  },
+  {
+    "title": "中 메모리·파운드리…'원팀'으로 움직인다",
+    "score": 3,
+    "reason": "글로벌 AI 반도체업계의 협력 강화로 SK하이닉스의 수익성이 개선될 가능성이 높아짐.",
+    "related_stocks": [
+      "SK하이닉스",
+      "TSMC"
+    ],
+    "link": "https://www.hankyung.com/article/2026031521031",
+    "pub_date": "Sun, 15 Mar 2026 17:56:00 +0900",
+    "analyzed_at": "2026-03-15T09:03:59.798789"
+  },
+  {
+    "title": "중동 전쟁에도 반도체 낙관론…증권가 삼전닉스 목표가 '쑥'",
+    "score": 1,
+    "reason": "반도체 주가의 약세에도 불구하고 D램 및 낸드 가격 상승 전망이 긍정적.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.mk.co.kr/article/11988499",
+    "pub_date": "Sun, 15 Mar 2026 17:40:00 +0900",
+    "analyzed_at": "2026-03-15T09:03:59.798796"
+  },
+  {
+    "title": "하이닉스 새마을금고 배당률 17.2% '역대급'",
+    "score": 4,
+    "reason": "SK하이닉스의 경영 성과가 반영된 높은 배당률로 투자자 신뢰도 상승.",
+    "related_stocks": [
+      "SK하이닉스"
+    ],
+    "link": "https://www.mk.co.kr/article/11988490",
+    "pub_date": "Sun, 15 Mar 2026 17:39:00 +0900",
+    "analyzed_at": "2026-03-15T09:03:59.798798"
+  },
+  {
+    "title": "반도체 훈풍에 용인으로 몰리는 디벨로퍼들",
+    "score": 3,
+    "reason": "반도체 클러스터 조성으로 SK하이닉스와 삼성전자의 성장 기대감이 높아짐.",
+    "related_stocks": [
+      "SK하이닉스",
+      "삼성전자"
+    ],
+    "link": "https://www.mk.co.kr/article/11988483",
+    "pub_date": "Sun, 15 Mar 2026 17:34:00 +0900",
+    "analyzed_at": "2026-03-15T09:03:59.798799"
+  },
+  {
+    "title": "\"코스닥보단 코스피 유망…톱픽은 하이닉스·한미반도체\"",
+    "score": 4,
+    "reason": "SK하이닉스의 안정적인 수익 구조와 미래 성장 가능성에 대한 긍정적인 평가.",
+    "related_stocks": [
+      "SK하이닉스",
+      "한미반도체"
+    ],
+    "link": "https://www.hankyung.com/article/2026031519881",
+    "pub_date": "Sun, 15 Mar 2026 17:22:00 +0900",
+    "analyzed_at": "2026-03-15T09:03:59.798800"
+  },
+  {
+    "title": "민형배 의원 “광주 자동차산업, AI 미래모빌리티로 대전환” 선언",
+    "score": 4,
+    "reason": "자동차 산업의 대전환과 AI 기술 도입은 관련 기업에 긍정적인 영향을 미칠 것으로 예상됨.",
+    "related_stocks": [
+      "현대차",
+      "기아"
+    ],
+    "link": "https://www.seoul.co.kr/news/politics/local-election2026/2026/03/15/20260315500105?wlog_tag3=naver",
+    "pub_date": "Sun, 15 Mar 2026 18:01:00 +0900",
+    "analyzed_at": "2026-03-15T09:04:07.497473"
+  },
+  {
+    "title": "중동 전쟁 장기화 땐 ‘환율 1500원’ 뉴노멀…원화 약세 유독 심화",
+    "score": -3,
+    "reason": "환율 상승과 외국인 자금 이탈은 국내 증시에 부정적인 영향을 미칠 가능성이 큼.",
+    "related_stocks": [
+      "삼성전자",
+      "LG화학"
+    ],
+    "link": "https://www.joongang.co.kr/article/25411912",
+    "pub_date": "Sun, 15 Mar 2026 18:01:00 +0900",
+    "analyzed_at": "2026-03-15T09:04:07.497482"
+  },
+  {
+    "title": "노벨 경제학자의 경고…“한국, 실패 두려워하다간 미래설계 실패”",
+    "score": 2,
+    "reason": "AI 추진에 대한 강조는 긍정적이나 구체적인 정책이나 변화가 부족해 약한 호재로 평가됨.",
+    "related_stocks": [
+      "카카오",
+      "네이버"
+    ],
+    "link": "https://www.mk.co.kr/article/11988575",
+    "pub_date": "Sun, 15 Mar 2026 17:59:00 +0900",
+    "analyzed_at": "2026-03-15T09:04:07.497483"
+  },
+  {
+    "title": "1.2조 BTS 효과에 광화문 들썩 …'K관광 도약 분수령'",
+    "score": 3,
+    "reason": "K관광의 성장 가능성은 관련 산업에 긍정적인 영향을 미칠 것으로 보임.",
+    "related_stocks": [
+      "하나투어",
+      "인터파크"
+    ],
+    "link": "https://www.mk.co.kr/article/11988579",
+    "pub_date": "Sun, 15 Mar 2026 17:59:00 +0900",
+    "analyzed_at": "2026-03-15T09:04:07.497485"
+  },
+  {
+    "title": "금융 입문 빨라졌다…2030 투자 열풍",
+    "score": 3,
+    "reason": "2030 세대의 주식 및 ETF 투자 증가로 시장 활성화 기대.",
+    "related_stocks": [
+      "삼성전자",
+      "카카오"
+    ],
+    "link": "https://www.namdonews.com/news/articleView.html?idxno=903998",
+    "pub_date": "Sun, 15 Mar 2026 18:02:00 +0900",
+    "analyzed_at": "2026-03-15T09:04:17.333749"
+  },
+  {
+    "title": "[데일리안 오늘뉴스 종합] '李, '공소취소 거래설' 종식해야'…국민의힘...",
+    "score": 0,
+    "reason": "정치적 이슈로 주가에 미치는 영향이 불확실함.",
+    "related_stocks": [],
+    "link": "https://www.dailian.co.kr/news/view/1621018/?sc=Naver",
+    "pub_date": "Sun, 15 Mar 2026 17:55:00 +0900",
+    "analyzed_at": "2026-03-15T09:04:17.333759"
+  },
+  {
+    "title": "AI청능재활 솔루션 개발···난청인 어려움 해결 나선다",
+    "score": 2,
+    "reason": "AI 헬스케어 분야의 혁신적 접근으로 긍정적 전망.",
+    "related_stocks": [
+      "와이즈힐"
+    ],
+    "link": "http://www.mdilbo.com/detail/DDAuq0/753834",
+    "pub_date": "Sun, 15 Mar 2026 17:52:00 +0900",
+    "analyzed_at": "2026-03-15T09:04:17.333760"
+  },
+  {
+    "title": "원자재 불장 찾아왔지만 품목별 시세 등락 심해 '사이클' 잘 올라타야",
+    "score": 1,
+    "reason": "원자재 시장의 변동성이 크지만 AI 데이터센터 수요 증가로 긍정적 요소 존재.",
+    "related_stocks": [
+      "포스코",
+      "LG화학"
+    ],
+    "link": "https://www.mk.co.kr/article/11988506",
+    "pub_date": "Sun, 15 Mar 2026 17:40:00 +0900",
+    "analyzed_at": "2026-03-15T09:04:17.333762"
+  },
+  {
+    "title": "[차이나 급보] 중국 15차 5개년 계획 강요와 과학 기술 정책",
+    "score": 0,
+    "reason": "중국의 정책 변화가 한국 시장에 미치는 영향이 불확실함.",
+    "related_stocks": [],
+    "link": "http://www.hellodd.com/news/articleView.html?idxno=111154",
+    "pub_date": "Sun, 15 Mar 2026 17:36:00 +0900",
+    "analyzed_at": "2026-03-15T09:04:17.333763"
+  },
+  {
+    "title": "바클레이즈 '엔비디아 매수 기회…AI 투자 정점 아냐'",
+    "score": 4,
+    "reason": "AI 투자 지속 가능성에 대한 긍정적 전망으로 관련 주식에 호재.",
+    "related_stocks": [
+      "엔비디아",
+      "삼성전자"
+    ],
+    "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4403787",
+    "pub_date": "Sun, 15 Mar 2026 17:32:00 +0900",
+    "analyzed_at": "2026-03-15T09:04:17.333765"
+  },
+  {
+    "title": "최수연 네이버 대표 지난해 연봉 30억원… 이해진 의장 24억원",
+    "score": 2,
+    "reason": "주가 상승률과 연동된 보상으로 주주 가치 증대 기대.",
+    "related_stocks": [
+      "네이버"
+    ],
+    "link": "https://biz.chosun.com/it-science/ict/2026/03/15/6KW4YURH5VD77C63274LF54P5I/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+    "pub_date": "Sun, 15 Mar 2026 17:31:00 +0900",
+    "analyzed_at": "2026-03-15T09:04:17.333766"
+  },
+  {
+    "title": "좀비기업에 돈잔치 벌인 사모대출…개인엔 ‘환매’ 길 터줘 위기",
+    "score": -2,
+    "reason": "좀비기업 문제와 AI의 위협으로 시장 불안 요소 증가.",
+    "related_stocks": [],
+    "link": "https://www.sedaily.com/article/20019490?ref=naver",
+    "pub_date": "Sun, 15 Mar 2026 17:25:00 +0900",
+    "analyzed_at": "2026-03-15T09:04:17.333768"
   }
 ]
