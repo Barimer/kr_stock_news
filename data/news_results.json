@@ -21655,5 +21655,284 @@
     "link": "https://www.sedaily.com/article/20019490?ref=naver",
     "pub_date": "Sun, 15 Mar 2026 17:25:00 +0900",
     "analyzed_at": "2026-03-15T09:04:17.333768"
+  },
+  {
+    "title": "삼성전자 사운드바 글로벌 12년 연속 1위 달성",
+    "score": 4,
+    "reason": "글로벌 시장에서의 지속적인 1위 달성은 브랜드 가치와 매출 증대에 긍정적 영향을 미칠 것으로 예상됨.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "https://www.mk.co.kr/article/11988618",
+    "pub_date": "Sun, 15 Mar 2026 18:48:00 +0900",
+    "analyzed_at": "2026-03-15T09:51:09.480742"
+  },
+  {
+    "title": "부안 제3농공단지에 1500억원 투자협약",
+    "score": 2,
+    "reason": "1500억원의 투자협약은 긍정적이나, 구체적인 성과나 영향력이 명확하지 않음.",
+    "related_stocks": [
+      "DH글로벌",
+      "DH오토웨어"
+    ],
+    "link": "https://www.newscj.com/news/articleView.html?idxno=3384662",
+    "pub_date": "Sun, 15 Mar 2026 18:46:00 +0900",
+    "analyzed_at": "2026-03-15T09:51:09.480751"
+  },
+  {
+    "title": "칩플레이션에… 삼성 휴대폰도 ‘비상경영’",
+    "score": -3,
+    "reason": "비상경영 체제는 사업 부문 간의 심각한 문제를 나타내며, 이는 주가에 부정적 영향을 미칠 가능성이 높음.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "http://www.fnnews.com/news/202603151841437405",
+    "pub_date": "Sun, 15 Mar 2026 18:43:00 +0900",
+    "analyzed_at": "2026-03-15T09:51:09.480753"
+  },
+  {
+    "title": "트럼프 등에 업은 특허괴물 활개…“韓 첨단산업 위협”",
+    "score": -4,
+    "reason": "특허 소송은 삼성전자와 SK하이닉스에 큰 부담을 주며, 산업 전반에 부정적인 영향을 미칠 수 있음.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.sedaily.com/article/20019559?ref=naver",
+    "pub_date": "Sun, 15 Mar 2026 18:28:00 +0900",
+    "analyzed_at": "2026-03-15T09:51:09.480755"
+  },
+  {
+    "title": "이상일시장, 한국기계연구원서 반도체 산업 경쟁력 강화 방안 논의",
+    "score": 3,
+    "reason": "반도체 산업에 대한 투자와 지원 논의는 긍정적인 신호로, 관련 기업에 도움이 될 수 있음.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.kgnews.co.kr/news/article.html?no=887493",
+    "pub_date": "Sun, 15 Mar 2026 18:24:00 +0900",
+    "analyzed_at": "2026-03-15T09:51:09.480756"
+  },
+  {
+    "title": "로보티즈 뉴로메카 현대차 삼성전자 레인보우로보틱스 포스코DX…피지컬...",
+    "score": 1,
+    "reason": "로봇 산업의 부상은 긍정적이나, 삼성전자와의 직접적인 연관성이 약함.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "https://www.cbci.co.kr/news/articleView.html?idxno=561081",
+    "pub_date": "Sun, 15 Mar 2026 18:22:00 +0900",
+    "analyzed_at": "2026-03-15T09:51:09.480758"
+  },
+  {
+    "title": "사업부별 성과 왜곡·법적 문제... DX-DS부문 간 거래 엄격 제한",
+    "score": -2,
+    "reason": "부문 간 거래 제한은 내부 갈등을 나타내며, 이는 기업 운영에 부정적 영향을 미칠 수 있음.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "http://www.fnnews.com/news/202603151818403242",
+    "pub_date": "Sun, 15 Mar 2026 18:20:00 +0900",
+    "analyzed_at": "2026-03-15T09:51:09.480759"
+  },
+  {
+    "title": "D램값 1년새 850% 급등… 휴대폰 팔수록 손해볼 지경",
+    "score": -3,
+    "reason": "D램 가격 급등은 반도체 부문에 긍정적이나, DX 부문에 심각한 손실을 초래할 수 있음.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "http://www.fnnews.com/news/202603151818419201",
+    "pub_date": "Sun, 15 Mar 2026 18:20:00 +0900",
+    "analyzed_at": "2026-03-15T09:51:09.480763"
+  },
+  {
+    "title": "美정부 장단에 춤추는 '특허괴물', K반도체 정조준",
+    "score": -4,
+    "reason": "특허 소송의 결과는 기업에 큰 재정적 부담을 주며, 이는 주가에 부정적 영향을 미칠 가능성이 높음.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "http://www.fnnews.com/news/202603151812450734",
+    "pub_date": "Sun, 15 Mar 2026 18:14:00 +0900",
+    "analyzed_at": "2026-03-15T09:51:09.480765"
+  },
+  {
+    "title": "최대 20조 '초고속' 고유가 추경… 핀셋지원·소비쿠폰 가닥",
+    "score": 2,
+    "reason": "법인세 추가세수 증가는 긍정적이나, 직접적인 주가 영향은 제한적일 수 있음.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "http://www.fnnews.com/news/202603151811534557",
+    "pub_date": "Sun, 15 Mar 2026 18:13:00 +0900",
+    "analyzed_at": "2026-03-15T09:51:09.480766"
+  },
+  {
+    "title": "HBM 기술력·D램 수익성 두 마리 토끼 노리는 삼성·SK하닉",
+    "score": 4,
+    "reason": "삼성전자와 SK하이닉스의 기술력과 수익성 강화 계획은 긍정적인 실적 개선을 기대하게 함.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.kgnews.co.kr/news/article.html?no=887505",
+    "pub_date": "Sun, 15 Mar 2026 18:48:00 +0900",
+    "analyzed_at": "2026-03-15T09:51:19.620377"
+  },
+  {
+    "title": "“HBM만큼 높아진 D램 중요성”…삼성·SK하닉, LPDDR6 경쟁 ‘후끈’",
+    "score": 4,
+    "reason": "LPDDR6 출시로 D램 시장에서의 경쟁력 강화가 기대되며, 이는 실적에 긍정적 영향을 미칠 것.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.g-enews.com/view.php?ud=2026031512042083016ed0c62d49_1",
+    "pub_date": "Sun, 15 Mar 2026 18:10:00 +0900",
+    "analyzed_at": "2026-03-15T09:51:19.620385"
+  },
+  {
+    "title": "10년 내 ‘중국판 ASML’ 등장하고, 미국은 ‘반도체판 존스법’ 만들...",
+    "score": 2,
+    "reason": "반도체 시장의 안정적인 계약 상황은 긍정적이나, 장기적인 불확실성도 존재.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.g-enews.com/view.php?ud=2026031510112957096ed0c62d49_1",
+    "pub_date": "Sun, 15 Mar 2026 18:10:00 +0900",
+    "analyzed_at": "2026-03-15T09:51:19.620387"
+  },
+  {
+    "title": "30만전자·170만닉스 간다… 전쟁도 못 꺾는 '낙관론'",
+    "score": 3,
+    "reason": "증권가의 긍정적인 전망은 주가에 긍정적인 영향을 미칠 것으로 예상됨.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.chosun.com/opinion/economic_focus/2026/03/15/NETTFAFQDZB6TM54LX36QTFTLE/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+    "pub_date": "Sun, 15 Mar 2026 18:09:00 +0900",
+    "analyzed_at": "2026-03-15T09:51:19.620389"
+  },
+  {
+    "title": "멀미나는 한국 증시, 대형주 쏠림이 주범",
+    "score": -1,
+    "reason": "지정학적 리스크로 인한 변동성 증가는 시장에 부정적인 영향을 미칠 가능성이 있음.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "http://www.fnnews.com/news/202603151806531825",
+    "pub_date": "Sun, 15 Mar 2026 18:08:00 +0900",
+    "analyzed_at": "2026-03-15T09:51:19.620390"
+  },
+  {
+    "title": "용인특례시, 시정과 시민의 삶 기록한 ‘Timeless용인’ 사진 기록물 전...",
+    "score": 0,
+    "reason": "지역 행사 관련 뉴스로 주식 시장에 미치는 영향이 없음.",
+    "related_stocks": [],
+    "link": "http://www.fnnews.com/news/202603151806555097",
+    "pub_date": "Sun, 15 Mar 2026 18:08:00 +0900",
+    "analyzed_at": "2026-03-15T09:51:19.620391"
+  },
+  {
+    "title": "Korean authorities on alert as won flirts with 1,500 barrier",
+    "score": -3,
+    "reason": "외국인 자금 유출과 유가 상승으로 인해 한국 경제에 부정적인 영향을 미칠 것으로 예상됨.",
+    "related_stocks": [
+      "KOSPI",
+      "삼성전자",
+      "LG화학"
+    ],
+    "link": "https://www.koreaherald.com/article/10694544?ref=naver",
+    "pub_date": "Sun, 15 Mar 2026 15:23:00 +0900",
+    "analyzed_at": "2026-03-15T09:51:21.803134"
+  },
+  {
+    "title": "코아시아씨엠 주가 폭등랠리... 광학 렌즈 및 카메라모듈 공급망 강화",
+    "score": 3,
+    "reason": "광학 렌즈 및 카메라모듈 공급망 강화는 긍정적인 사업 확장을 의미함.",
+    "related_stocks": [
+      "코아시아씨엠",
+      "성우전자"
+    ],
+    "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=436862",
+    "pub_date": "Sun, 15 Mar 2026 18:46:00 +0900",
+    "analyzed_at": "2026-03-15T09:51:32.172775"
+  },
+  {
+    "title": "현대모비스, 램프 이어 범퍼 사업 매각 추진",
+    "score": 4,
+    "reason": "미래차 기술 중심으로 사업 포트폴리오 재편은 긍정적인 신호.",
+    "related_stocks": [
+      "현대모비스"
+    ],
+    "link": "https://www.newsis.com/view/NISX20260315_0003548909",
+    "pub_date": "Sun, 15 Mar 2026 18:45:00 +0900",
+    "analyzed_at": "2026-03-15T09:51:32.172783"
+  },
+  {
+    "title": "청년 창업·연구 아이디어 실현, 대구시가 지원합니다",
+    "score": 2,
+    "reason": "청년 창업 지원은 지역 경제에 긍정적 영향을 미칠 수 있음.",
+    "related_stocks": [],
+    "link": "https://www.dkilbo.com/news/articleView.html?idxno=537116",
+    "pub_date": "Sun, 15 Mar 2026 18:40:00 +0900",
+    "analyzed_at": "2026-03-15T09:51:32.172786"
+  },
+  {
+    "title": "2027학년도 수능 과탐 역대 최소 전망…사탐런·화학 기피 영향",
+    "score": -1,
+    "reason": "기초 과목에 대한 비선호는 교육 및 인재 양성에 부정적 영향을 미칠 수 있음.",
+    "related_stocks": [],
+    "link": "https://www.dkilbo.com/news/articleView.html?idxno=537138",
+    "pub_date": "Sun, 15 Mar 2026 18:40:00 +0900",
+    "analyzed_at": "2026-03-15T09:51:32.172788"
+  },
+  {
+    "title": "구미시, 'AI·디지털트윈'으로 청년 일자리 영토 확장 앞장",
+    "score": 3,
+    "reason": "AI와 반도체 기반 산업 전환은 긍정적인 경제적 기회를 제공할 것.",
+    "related_stocks": [],
+    "link": "https://www.dkilbo.com/news/articleView.html?idxno=537142",
+    "pub_date": "Sun, 15 Mar 2026 18:40:00 +0900",
+    "analyzed_at": "2026-03-15T09:51:32.172789"
+  },
+  {
+    "title": "인천 상장사 주총 예고…경영 전략 관심 집중",
+    "score": 2,
+    "reason": "주총 개최는 기업의 경영 방향에 대한 관심을 높일 수 있음.",
+    "related_stocks": [
+      "삼성바이오로직스",
+      "한미반도체"
+    ],
+    "link": "https://www.incheonilbo.com/news/articleView.html?idxno=1318785",
+    "pub_date": "Sun, 15 Mar 2026 18:40:00 +0900",
+    "analyzed_at": "2026-03-15T09:51:32.172790"
+  },
+  {
+    "title": "현대모비스, 범퍼사업 매각 검토...SDV 전환 속도",
+    "score": 4,
+    "reason": "차량용 반도체 등 고부가가치 분야로의 전환은 긍정적.",
+    "related_stocks": [
+      "현대모비스"
+    ],
+    "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01908966645383648",
+    "pub_date": "Sun, 15 Mar 2026 18:38:00 +0900",
+    "analyzed_at": "2026-03-15T09:51:32.172792"
+  },
+  {
+    "title": "명지대–아트랩, 반도체 패키징 신뢰성 산학협력 협약",
+    "score": 2,
+    "reason": "산학협력은 반도체 인재 양성에 긍정적인 영향을 미칠 것.",
+    "related_stocks": [],
+    "link": "https://www.naeil.com/news/read/581328?ref=naver",
+    "pub_date": "Sun, 15 Mar 2026 18:38:00 +0900",
+    "analyzed_at": "2026-03-15T09:51:32.172793"
   }
 ]
