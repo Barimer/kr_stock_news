@@ -24124,5 +24124,148 @@
     "link": "https://biz.chosun.com/stock/stock_general/2026/03/16/FXL2EVWUHFBDNDWLPD2KKTJ5PQ/?utm_source=naver&utm_medium=original&utm_campaign=biz",
     "pub_date": "Mon, 16 Mar 2026 06:01:00 +0900",
     "analyzed_at": "2026-03-15T21:37:12.083131"
+  },
+  {
+    "title": "코스피 6000은 반도체 사이클 영향?",
+    "score": 3,
+    "reason": "반도체 기업들의 이익 증가 예상은 긍정적인 신호로 작용할 수 있음.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "http://www.jbsori.com/news/articleView.html?idxno=17028",
+    "pub_date": "Mon, 16 Mar 2026 06:54:00 +0900",
+    "analyzed_at": "2026-03-15T22:00:27.095601"
+  },
+  {
+    "title": "[AI 반도체 공급망 위기] 삼성·SK하이닉스 'HBM 올인'",
+    "score": -2,
+    "reason": "표준 메모리 공급의 절벽은 반도체 시장에 부정적인 영향을 미칠 수 있음.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.g-enews.com/view.php?ud=202603160648594929fbbec65dfb_1",
+    "pub_date": "Mon, 16 Mar 2026 06:52:00 +0900",
+    "analyzed_at": "2026-03-15T22:00:27.095610"
+  },
+  {
+    "title": "'벚꽃 추경' 10~20조 거론…최고가격제에도 기름값 '찔끔'",
+    "score": 2,
+    "reason": "법인세 증가와 주식시장 거래 증가가 긍정적인 요소로 작용할 수 있음.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://biz.sbs.co.kr/article_hub/20000297533?division=NAVER",
+    "pub_date": "Mon, 16 Mar 2026 06:46:00 +0900",
+    "analyzed_at": "2026-03-15T22:00:27.095612"
+  },
+  {
+    "title": "유가에 데인 韓증시, 이번주 FOMC·엔비디아 GTC 등 빅 이벤트 대기",
+    "score": 1,
+    "reason": "반도체 및 AI 관련 이벤트가 주가에 긍정적인 영향을 미칠 가능성이 있음.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.sedaily.com/article/20019569?ref=naver",
+    "pub_date": "Mon, 16 Mar 2026 06:41:00 +0900",
+    "analyzed_at": "2026-03-15T22:00:27.095614"
+  },
+  {
+    "title": "삼성전자 인도 노조 또 '파업 예고'",
+    "score": -3,
+    "reason": "노사 갈등으로 인한 생산 차질은 부정적인 영향을 미칠 수 있음.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "https://www.kpinews.kr/newsView/1065562333555227",
+    "pub_date": "Mon, 16 Mar 2026 06:38:00 +0900",
+    "analyzed_at": "2026-03-15T22:00:27.095616"
+  },
+  {
+    "title": "[차세대 반도체] 반도체 메모리 100배 빠르게 만든다…",
+    "score": -1,
+    "reason": "차세대 기술의 상용화가 기존 시장에 위협이 될 수 있음.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.g-enews.com/view.php?ud=202603160635283790fbbec65dfb_1",
+    "pub_date": "Mon, 16 Mar 2026 06:38:00 +0900",
+    "analyzed_at": "2026-03-15T22:00:27.095617"
+  },
+  {
+    "title": "용인특례시, 이동읍에 광교호수공원 2배 넘는 국내 최대 호수공원 만든...",
+    "score": 0,
+    "reason": "지역 개발 소식은 주식 시장에 큰 영향을 미치지 않을 것으로 보임.",
+    "related_stocks": [],
+    "link": "http://www.suwonilbo.kr/news/articleView.html?idxno=315025",
+    "pub_date": "Mon, 16 Mar 2026 06:36:00 +0900",
+    "analyzed_at": "2026-03-15T22:00:27.095619"
+  },
+  {
+    "title": "SK하이닉스와 약 485억원 규모 반도체 제조장비 공급 계약 체결",
+    "score": 2,
+    "reason": "반도체 제조장비 공급 계약 체결은 긍정적이나 규모가 상대적으로 작음.",
+    "related_stocks": [
+      "SK하이닉스"
+    ],
+    "link": "https://www.news2day.co.kr/article/20260313500239",
+    "pub_date": "Mon, 16 Mar 2026 06:48:00 +0900",
+    "analyzed_at": "2026-03-15T22:00:32.577668"
+  },
+  {
+    "title": "증권가 SK하이닉스에 대한 긍정적 전망 지속",
+    "score": 4,
+    "reason": "AI 데이터센터 확산으로 메모리 반도체 수요 증가가 실적 개선을 기대하게 함.",
+    "related_stocks": [
+      "SK하이닉스"
+    ],
+    "link": "https://www.newstopkorea.com/news/articleView.html?idxno=43805",
+    "pub_date": "Mon, 16 Mar 2026 06:40:00 +0900",
+    "analyzed_at": "2026-03-15T22:00:32.577677"
+  },
+  {
+    "title": "전쟁 변수에 흔들리는 뉴욕증시…FOMC·AI 이벤트 동시 주목",
+    "score": 0,
+    "reason": "전반적인 시장 불확실성으로 주가에 미치는 영향이 중립적임.",
+    "related_stocks": [],
+    "link": "https://www.topstarnews.net/news/articleView.html?idxno=16005411",
+    "pub_date": "Mon, 16 Mar 2026 06:56:00 +0900",
+    "analyzed_at": "2026-03-15T22:00:41.120746"
+  },
+  {
+    "title": "삼성전기·LG이노텍, AI 열풍 타고 영업익 '1조 클럽' 입성 유력",
+    "score": 4,
+    "reason": "AI 반도체 관련 수요 증가로 실적 개선이 기대됨.",
+    "related_stocks": [
+      "삼성전기",
+      "LG이노텍"
+    ],
+    "link": "https://www.news1.kr/industry/general-industry/6100896",
+    "pub_date": "Mon, 16 Mar 2026 06:50:00 +0900",
+    "analyzed_at": "2026-03-15T22:00:41.120754"
+  },
+  {
+    "title": "[코스닥 레벨업③] '개미장서 기관장으로'…종투사 22조 실탄, 코스닥 '...",
+    "score": 3,
+    "reason": "첨단 산업에 대한 투자 확대가 긍정적인 신호로 작용할 가능성이 있음.",
+    "related_stocks": [],
+    "link": "https://www.news2day.co.kr/article/20260315500025",
+    "pub_date": "Mon, 16 Mar 2026 06:46:00 +0900",
+    "analyzed_at": "2026-03-15T22:00:41.120756"
+  },
+  {
+    "title": "콜마 윤상현, 김정관 장관에 'K뷰티 기술 유출 막아달라'",
+    "score": 1,
+    "reason": "K-뷰티의 중요성이 강조되나, 직접적인 주가 영향은 미미할 것으로 보임.",
+    "related_stocks": [
+      "콜마"
+    ],
+    "link": "https://www.news1.kr/industry/distribution/6100864",
+    "pub_date": "Mon, 16 Mar 2026 06:40:00 +0900",
+    "analyzed_at": "2026-03-15T22:00:41.120757"
   }
 ]
