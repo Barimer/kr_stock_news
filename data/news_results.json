@@ -23804,5 +23804,325 @@
     "link": "https://www.joongang.co.kr/article/25411992",
     "pub_date": "Mon, 16 Mar 2026 05:00:00 +0900",
     "analyzed_at": "2026-03-15T20:48:25.552896"
+  },
+  {
+    "title": "반도체 ETF, 전쟁 쇼크에도 자금 유입 1위",
+    "score": 4,
+    "reason": "반도체 ETF에 대한 자금 유입이 증가하며 대형 반도체주에 긍정적인 영향을 미칠 것으로 예상됨.",
+    "related_stocks": [
+      "SK하이닉스",
+      "삼성전자"
+    ],
+    "link": "https://www.meconomynews.com/news/articleView.html?idxno=128977",
+    "pub_date": "Mon, 16 Mar 2026 06:34:00 +0900",
+    "analyzed_at": "2026-03-15T21:36:37.980441"
+  },
+  {
+    "title": "[증시전략] 이란 전쟁 속 FOMC·GTC '슈퍼위크'…대응전략은?",
+    "score": 2,
+    "reason": "삼성전자와 네이버의 만남이 긍정적인 신호로 작용할 수 있으나, 전반적인 불확실성으로 인해 점수는 낮음.",
+    "related_stocks": [
+      "삼성전자",
+      "네이버"
+    ],
+    "link": "https://biz.sbs.co.kr/article_hub/20000297531?division=NAVER",
+    "pub_date": "Mon, 16 Mar 2026 06:34:00 +0900",
+    "analyzed_at": "2026-03-15T21:36:37.980448"
+  },
+  {
+    "title": "[AI돋보기] 검색창 대신 지갑 연 AI 에이전트…판이 바뀐다",
+    "score": 3,
+    "reason": "AI 기술의 발전이 삼성전자와 같은 대기업에 긍정적인 영향을 미칠 것으로 보임.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "https://www.yna.co.kr/view/AKR20260227029100017?input=1195m",
+    "pub_date": "Mon, 16 Mar 2026 06:33:00 +0900",
+    "analyzed_at": "2026-03-15T21:36:37.980450"
+  },
+  {
+    "title": "中企 상생형 AI 스마트공장 예산 2배 늘린다…AI 전환 속도",
+    "score": 3,
+    "reason": "AI 관련 예산 확대가 삼성전자와 현대자동차에 긍정적인 영향을 미칠 것으로 예상됨.",
+    "related_stocks": [
+      "삼성전자",
+      "현대자동차"
+    ],
+    "link": "https://www.news1.kr/industry/sb-founded/6100509",
+    "pub_date": "Mon, 16 Mar 2026 06:32:00 +0900",
+    "analyzed_at": "2026-03-15T21:36:37.980452"
+  },
+  {
+    "title": "3월 ‘주총 슈퍼위크’ 개화⋯ 개정 상법 앞 기업 vs 주주 ‘수 싸움’",
+    "score": 1,
+    "reason": "주총 일정이 다수 예정되어 있으나, 큰 변화가 없을 것으로 보여 점수는 낮음.",
+    "related_stocks": [
+      "삼성전자",
+      "현대모비스"
+    ],
+    "link": "https://www.viva100.com/article/20260315500372",
+    "pub_date": "Mon, 16 Mar 2026 06:28:00 +0900",
+    "analyzed_at": "2026-03-15T21:36:37.980453"
+  },
+  {
+    "title": "[외신 헤드라인] '이란, 위안화 거래 원유만 호르무즈 통과 검토'",
+    "score": 0,
+    "reason": "해외 뉴스로 직접적인 주가 영향은 없을 것으로 판단됨.",
+    "related_stocks": [],
+    "link": "https://biz.sbs.co.kr/article_hub/20000297529?division=NAVER",
+    "pub_date": "Mon, 16 Mar 2026 06:24:00 +0900",
+    "analyzed_at": "2026-03-15T21:36:37.980455"
+  },
+  {
+    "title": "무기에도 쓰는 반도체… 반도체·방산 산업 희비교차",
+    "score": 4,
+    "reason": "반도체 가격 상승이 삼성전자와 SK하이닉스에 긍정적인 영향을 미칠 것으로 예상됨.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://m.skyedaily.com/news_view.html?ID=300259",
+    "pub_date": "Mon, 16 Mar 2026 06:20:00 +0900",
+    "analyzed_at": "2026-03-15T21:36:37.980456"
+  },
+  {
+    "title": "소년공 출신이 만들고 이재용·이부진이 입는다…거부들의 ‘조용한 사...",
+    "score": 0,
+    "reason": "소비 트렌드에 대한 이야기로 주가에 미치는 영향은 미미할 것으로 보임.",
+    "related_stocks": [],
+    "link": "https://www.dt.co.kr/article/12051630?ref=naver",
+    "pub_date": "Mon, 16 Mar 2026 06:20:00 +0900",
+    "analyzed_at": "2026-03-15T21:36:37.980460"
+  },
+  {
+    "title": "엔비디아, 오늘 GTC서 추론 칩 공개하나...삼성·SK HBM4 주도권 싸움도...",
+    "score": 3,
+    "reason": "엔비디아와의 경쟁이 삼성전자와 SK하이닉스에 긍정적인 영향을 미칠 것으로 예상됨.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.sedaily.com/article/20019488?ref=naver",
+    "pub_date": "Mon, 16 Mar 2026 06:16:00 +0900",
+    "analyzed_at": "2026-03-15T21:36:37.980462"
+  },
+  {
+    "title": "금기깨고 '책임준공' 승부수…'래미안 벨트' 확장 [한강벨트 격전 SWOT 분...",
+    "score": 2,
+    "reason": "삼성물산의 초고층 기술력과 삼성전자와의 시너지가 긍정적으로 작용할 가능성이 있음.",
+    "related_stocks": [
+      "삼성물산",
+      "삼성전자"
+    ],
+    "link": "https://www.newsway.co.kr/news/view?ud=2026030907511901633",
+    "pub_date": "Mon, 16 Mar 2026 06:06:00 +0900",
+    "analyzed_at": "2026-03-15T21:36:37.980464"
+  },
+  {
+    "title": "골드만삭스 대답은: 외인 매도에 반도체 주가 흔들",
+    "score": -2,
+    "reason": "외국인 매도로 인해 반도체 주가가 약세를 보이고 있어 부정적인 영향이 예상됨.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.mk.co.kr/article/11988686",
+    "pub_date": "Mon, 16 Mar 2026 06:04:00 +0900",
+    "analyzed_at": "2026-03-15T21:36:50.140892"
+  },
+  {
+    "title": "‘HBM 승부사’ SK하이닉스 곽노정… 압구정 재건축에...",
+    "score": 2,
+    "reason": "SK하이닉스의 글로벌 반도체 시장에서의 위치 강화는 긍정적인 신호로 작용할 수 있음.",
+    "related_stocks": [
+      "SK하이닉스"
+    ],
+    "link": "https://m.skyedaily.com/news_view.html?ID=299988",
+    "pub_date": "Mon, 16 Mar 2026 06:04:00 +0900",
+    "analyzed_at": "2026-03-15T21:36:50.140898"
+  },
+  {
+    "title": "골디락스 장세…정교한 자산 배분이 승부처",
+    "score": 3,
+    "reason": "한국 증시의 목표주가 상향은 긍정적인 시장 전망을 반영하고 있음.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://magazine.hankyung.com/money/article/202602190030c",
+    "pub_date": "Mon, 16 Mar 2026 06:02:00 +0900",
+    "analyzed_at": "2026-03-15T21:36:50.140900"
+  },
+  {
+    "title": "지역 상장사 커져도 지역경기회복 어려워 자본·인력 붙들어놔야",
+    "score": 0,
+    "reason": "지역 경제 회복에 대한 우려가 있으나 직접적인 주가 영향은 없음.",
+    "related_stocks": [],
+    "link": "https://www.cctoday.co.kr/news/articleView.html?idxno=2227005",
+    "pub_date": "Mon, 16 Mar 2026 06:02:00 +0900",
+    "analyzed_at": "2026-03-15T21:36:50.140901"
+  },
+  {
+    "title": "삼성전자·하이닉스 아직 싸다",
+    "score": 4,
+    "reason": "삼성전자와 SK하이닉스의 저평가된 상태는 투자 매력도를 높이며 긍정적인 신호.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.kukinews.com/article/view/kuk202603110194",
+    "pub_date": "Mon, 16 Mar 2026 06:02:00 +0900",
+    "analyzed_at": "2026-03-15T21:36:50.140902"
+  },
+  {
+    "title": "트럼프 등에 업은 특허괴물, 韓 첨단산업 정조준",
+    "score": -3,
+    "reason": "특허 소송은 기업에 부정적인 영향을 미칠 수 있어 강한 악재로 작용.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.sedaily.com/article/20019570?ref=naver",
+    "pub_date": "Mon, 16 Mar 2026 06:01:00 +0900",
+    "analyzed_at": "2026-03-15T21:36:50.140903"
+  },
+  {
+    "title": "15조 캐피탈콜 장전한 SK, 美 신설 법인 앞세워 실리콘밸리 AI 정조준",
+    "score": 5,
+    "reason": "대규모 출자는 SK의 성장 가능성을 높이며 매우 긍정적인 신호.",
+    "related_stocks": [
+      "SK하이닉스",
+      "SK이노베이션"
+    ],
+    "link": "https://www.sportsseoul.com/news/read/1593772?ref=naver",
+    "pub_date": "Mon, 16 Mar 2026 06:01:00 +0900",
+    "analyzed_at": "2026-03-15T21:36:50.140905"
+  },
+  {
+    "title": "한국 로봇산업, 중국과 맞설 수 있나",
+    "score": 0,
+    "reason": "중국과의 경쟁에 대한 논의로 주가에 직접적인 영향 없음.",
+    "related_stocks": [],
+    "link": "https://www.hankyung.com/article/202603052222Q",
+    "pub_date": "Mon, 16 Mar 2026 06:31:00 +0900",
+    "analyzed_at": "2026-03-15T21:37:01.800403"
+  },
+  {
+    "title": "[사설] 중동 사태 대응한 추경, 제때 꼭 필요한 곳에 집행돼야",
+    "score": 2,
+    "reason": "추경 집행이 긍정적인 경제 효과를 가져올 것으로 예상됨.",
+    "related_stocks": [
+      "반도체 관련 기업"
+    ],
+    "link": "https://vop.co.kr/A00001689778.html",
+    "pub_date": "Mon, 16 Mar 2026 06:16:00 +0900",
+    "analyzed_at": "2026-03-15T21:37:01.800411"
+  },
+  {
+    "title": "\"한국판 안두릴 키운다\"…'K-방산' 활약에 中企·스타트업계 '훈풍'",
+    "score": 4,
+    "reason": "방산 분야의 민간 첨단 기술 기업 육성이 긍정적인 신호.",
+    "related_stocks": [
+      "방산 관련 기업",
+      "AI 및 로봇 기업"
+    ],
+    "link": "https://www.news1.kr/industry/sb-founded/6100697",
+    "pub_date": "Mon, 16 Mar 2026 06:15:00 +0900",
+    "analyzed_at": "2026-03-15T21:37:01.800413"
+  },
+  {
+    "title": "'뚜렷한 지지세' 없는 전남 동부권…특별시장 후보들, 오늘 현장 찾는다",
+    "score": 1,
+    "reason": "반도체 및 이차전지 육성 방안이 긍정적이나 정치적 요소가 강함.",
+    "related_stocks": [
+      "반도체 관련 기업",
+      "이차전지 기업"
+    ],
+    "link": "https://www.news1.kr/local/gwangju-jeonnam/6101784",
+    "pub_date": "Mon, 16 Mar 2026 06:15:00 +0900",
+    "analyzed_at": "2026-03-15T21:37:01.800414"
+  },
+  {
+    "title": "정상회담 앞둔 미중, 파리서 6시간 고위급 협의…16일 재개",
+    "score": -2,
+    "reason": "미중 간의 기술 거래 제한이 지속될 가능성이 있어 부정적 영향.",
+    "related_stocks": [
+      "반도체 관련 기업"
+    ],
+    "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008478193&plink=ORI&cooper=NAVER",
+    "pub_date": "Mon, 16 Mar 2026 06:13:00 +0900",
+    "analyzed_at": "2026-03-15T21:37:01.800415"
+  },
+  {
+    "title": "통신주, 방어주에서 위성·AI 성장주로... SK텔레콤 주도 [투자의 맥]",
+    "score": 4,
+    "reason": "통신주가 AI 성장주로 재평가되며 긍정적인 시장 전망을 반영하고 있다.",
+    "related_stocks": [
+      "SK텔레콤"
+    ],
+    "link": "https://www.meconomynews.com/news/articleView.html?idxno=128979",
+    "pub_date": "Mon, 16 Mar 2026 06:34:00 +0900",
+    "analyzed_at": "2026-03-15T21:37:12.083112"
+  },
+  {
+    "title": "[뉴욕 주간전망] 유가·FOMC 등 지켜봐야...변동성 커질 듯",
+    "score": 0,
+    "reason": "시장 변동성에 대한 경고로 중립적인 영향이 예상된다.",
+    "related_stocks": [],
+    "link": "http://www.opinionnews.co.kr/news/articleView.html?idxno=134984",
+    "pub_date": "Mon, 16 Mar 2026 06:30:00 +0900",
+    "analyzed_at": "2026-03-15T21:37:12.083122"
+  },
+  {
+    "title": "[차용범 칼럼] '현인(賢人)' 버핏은 왜, '애플' 팔고 'NYT'를 샀을까?",
+    "score": 1,
+    "reason": "버핏의 투자 변화가 시장에 약한 긍정적 신호를 줄 수 있다.",
+    "related_stocks": [
+      "뉴욕타임즈"
+    ],
+    "link": "http://www.civicnews.com/news/articleView.html?idxno=39415",
+    "pub_date": "Mon, 16 Mar 2026 06:10:00 +0900",
+    "analyzed_at": "2026-03-15T21:37:12.083124"
+  },
+  {
+    "title": "<메트로신문 3월 16일자 한줄 뉴스>",
+    "score": 2,
+    "reason": "AI 칩 경쟁이 증권사 수익에 긍정적인 영향을 미칠 것으로 보인다.",
+    "related_stocks": [],
+    "link": "http://www.metroseoul.co.kr/article/20260315500248",
+    "pub_date": "Mon, 16 Mar 2026 06:02:00 +0900",
+    "analyzed_at": "2026-03-15T21:37:12.083126"
+  },
+  {
+    "title": "국내 방산도 피지컬 AI 접목… 게임 공간서 ‘전투’ 배운다",
+    "score": 3,
+    "reason": "방산 분야의 AI 접목이 새로운 성장 동력을 제공할 것으로 기대된다.",
+    "related_stocks": [
+      "한화에어로",
+      "크래프톤"
+    ],
+    "link": "https://www.segye.com/newsView/20260315509416?OutUrl=naver",
+    "pub_date": "Mon, 16 Mar 2026 06:02:00 +0900",
+    "analyzed_at": "2026-03-15T21:37:12.083128"
+  },
+  {
+    "title": "엔지켐생명과학, '버전 3.0' 퀀텀 점프 선언에 주가 껑충",
+    "score": 5,
+    "reason": "AI 플랫폼 결합으로 신성장 동력 확보가 주가 급등으로 이어졌다.",
+    "related_stocks": [
+      "엔지켐생명과학"
+    ],
+    "link": "https://www.yakup.com/news/index.html?mode=view&cat=12&nid=324593",
+    "pub_date": "Mon, 16 Mar 2026 06:02:00 +0900",
+    "analyzed_at": "2026-03-15T21:37:12.083129"
+  },
+  {
+    "title": "‘보고서도 없던 코스닥’…증권업계 밸류업 바람에 ‘리서치 사각’ 메",
+    "score": 1,
+    "reason": "AI 및 로봇 관련 종목에 대한 관심이 증가하고 있어 긍정적인 신호로 해석된다.",
+    "related_stocks": [],
+    "link": "https://biz.chosun.com/stock/stock_general/2026/03/16/FXL2EVWUHFBDNDWLPD2KKTJ5PQ/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+    "pub_date": "Mon, 16 Mar 2026 06:01:00 +0900",
+    "analyzed_at": "2026-03-15T21:37:12.083131"
   }
 ]
