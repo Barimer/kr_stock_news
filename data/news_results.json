@@ -23114,5 +23114,27 @@
     "link": "https://www.cbci.co.kr/news/articleView.html?idxno=561082",
     "pub_date": "Mon, 16 Mar 2026 00:00:00 +0900",
     "analyzed_at": "2026-03-15T15:37:30.039935"
+  },
+  {
+    "title": "미 XRP 현물 ETF 자금 유입 멈췄다…가격은 ‘돌파’ 신호 포착",
+    "score": 0,
+    "reason": "자금 유입이 멈춘 것은 부정적이나 가격 돌파 신호가 긍정적이어서 중립적 영향.",
+    "related_stocks": [
+      "XRP"
+    ],
+    "link": "https://www.tokenpost.kr/news/cryptocurrency/339530",
+    "pub_date": "Mon, 16 Mar 2026 00:46:00 +0900",
+    "analyzed_at": "2026-03-15T16:01:06.249351"
+  },
+  {
+    "title": "[뉴스룸에서] 월가에 퍼지는 바퀴벌레들",
+    "score": -3,
+    "reason": "PIK 방식의 증가가 기업 가치와 수익성 악화를 시사하여 강한 악재로 작용.",
+    "related_stocks": [
+      "관련 종목 없음"
+    ],
+    "link": "https://www.kmib.co.kr/article/view.asp?arcid=1773552227&code=11171222&cp=nv",
+    "pub_date": "Mon, 16 Mar 2026 00:38:00 +0900",
+    "analyzed_at": "2026-03-15T16:01:06.249359"
   }
 ]
