@@ -22923,5 +22923,196 @@
     "link": "http://www.stoo.com/article.php?aid=105604048779",
     "pub_date": "Sun, 15 Mar 2026 23:22:00 +0900",
     "analyzed_at": "2026-03-15T14:46:10.326065"
+  },
+  {
+    "title": "美, 특허무효심판 제한 움직임… ‘특허괴물’ 키우고 K반도체 리스크",
+    "score": -4,
+    "reason": "특허 소송이 삼성전자와 SK하이닉스를 타깃으로 하여 강한 악재로 작용할 가능성이 높음.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.kmib.co.kr/article/view.asp?arcid=1773566044&code=11151400&cp=nv",
+    "pub_date": "Mon, 16 Mar 2026 00:21:00 +0900",
+    "analyzed_at": "2026-03-15T15:37:11.205216"
+  },
+  {
+    "title": "李정부 휴일도 반납하고 ‘추경 속도전’… 10조~20조 관측",
+    "score": 3,
+    "reason": "추경 규모가 예상보다 크면 삼성전자와 SK하이닉스에 긍정적인 영향을 미칠 수 있음.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.kmib.co.kr/article/view.asp?arcid=1773566029&code=11151100&cp=nv",
+    "pub_date": "Mon, 16 Mar 2026 00:20:00 +0900",
+    "analyzed_at": "2026-03-15T15:37:11.205225"
+  },
+  {
+    "title": "\"메모리 품귀, 내년 말까지\"…IT업계 '비용 폭탄' 비상",
+    "score": 2,
+    "reason": "메모리 품귀 현상이 삼성전자와 같은 대기업에 기회가 될 수 있으나 비용 증가 우려도 존재.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "https://www.namdonews.com/news/articleView.html?idxno=904052",
+    "pub_date": "Mon, 16 Mar 2026 00:06:00 +0900",
+    "analyzed_at": "2026-03-15T15:37:11.205228"
+  },
+  {
+    "title": "유가·환율 불안에…이르면 다음주 15조 안팎 추경",
+    "score": 3,
+    "reason": "법인세 초과 세수 예상이 긍정적이며, 반도체 기업에 유리한 환경 조성 가능성.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.joongang.co.kr/article/25411964",
+    "pub_date": "Mon, 16 Mar 2026 00:02:00 +0900",
+    "analyzed_at": "2026-03-15T15:37:11.205229"
+  },
+  {
+    "title": "[AI와 일자리③] 대전환 앞에선 노동시장…당장 감소보다 '직무 재편' 과...",
+    "score": 4,
+    "reason": "삼성전자의 AI 기반 생산 효율 향상 계획은 긍정적인 신호로 작용할 수 있음.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "https://news.tf.co.kr/read/economy/2301393.htm",
+    "pub_date": "Mon, 16 Mar 2026 00:01:00 +0900",
+    "analyzed_at": "2026-03-15T15:37:11.205231"
+  },
+  {
+    "title": "[2026서울마라톤] 박민호-정다은, 2023년 이어 3년 만의 국내부 男女부 ...",
+    "score": 0,
+    "reason": "스포츠 관련 뉴스로 주식 시장에 미치는 영향이 없음.",
+    "related_stocks": [],
+    "link": "https://sports.donga.com/sports/article/all/20260315/133533948/1",
+    "pub_date": "Mon, 16 Mar 2026 00:00:00 +0900",
+    "analyzed_at": "2026-03-15T15:37:11.205232"
+  },
+  {
+    "title": "코스피와 코스닥 시장의 거래량 증가",
+    "score": 2,
+    "reason": "거래량 증가가 시장의 활기를 나타내며 긍정적인 신호로 해석될 수 있음.",
+    "related_stocks": [],
+    "link": "https://koreajoongangdaily.joins.com/news/2026-03-16/opinion/columns/We-have-played-this-game-before/2545031",
+    "pub_date": "Mon, 16 Mar 2026 00:04:00 +0900",
+    "analyzed_at": "2026-03-15T15:37:14.298580"
+  },
+  {
+    "title": "AI·우주항공에 직접 투자… 체급 키우는 韓 VC",
+    "score": 3,
+    "reason": "한국 VC의 AI 및 우주항공 투자 확대는 산업 경쟁력 강화에 긍정적 영향을 미칠 것으로 예상됨.",
+    "related_stocks": [
+      "삼성전자",
+      "LG화학"
+    ],
+    "link": "https://www.chosun.com/economy/tech_it/2026/03/16/VYQGH6DIKNF4ZJTNEZOKKC4W5Y/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+    "pub_date": "Mon, 16 Mar 2026 00:35:00 +0900",
+    "analyzed_at": "2026-03-15T15:37:26.684035"
+  },
+  {
+    "title": "日, 에너지 안보 위해 LNG선 자국 내 건조 추진",
+    "score": -2,
+    "reason": "일본의 조선업 강화 정책은 한국 조선업체에 부정적인 영향을 미칠 수 있음.",
+    "related_stocks": [
+      "현대중공업",
+      "대우조선해양"
+    ],
+    "link": "https://www.chosun.com/economy/industry-company/2026/03/16/F4C6YAW3JBHDHJXZSBFIQNVLJQ/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+    "pub_date": "Mon, 16 Mar 2026 00:34:00 +0900",
+    "analyzed_at": "2026-03-15T15:37:26.684043"
+  },
+  {
+    "title": "韓·日, 일방적 수출 규제 자제 합의",
+    "score": 4,
+    "reason": "한일 간의 수출 규제 자제 합의는 반도체 및 디스플레이 산업에 긍정적인 영향을 줄 것으로 보임.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.chosun.com/economy/industry-company/2026/03/16/JTOOJKUHC5EPLAE5TXKQ7CQE6Q/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+    "pub_date": "Mon, 16 Mar 2026 00:33:00 +0900",
+    "analyzed_at": "2026-03-15T15:37:26.684045"
+  },
+  {
+    "title": "[글로벌 배터리 대전 (29)] 철-공기 배터리(中) - 미국이 상용화에 가장...",
+    "score": 2,
+    "reason": "배터리 기술 경쟁이 심화됨에 따라 한국 기업의 기술 개발에 긍정적인 자극이 될 수 있음.",
+    "related_stocks": [
+      "LG에너지솔루션",
+      "삼성SDI"
+    ],
+    "link": "https://www.news2day.co.kr/article/20260315500032",
+    "pub_date": "Mon, 16 Mar 2026 00:32:00 +0900",
+    "analyzed_at": "2026-03-15T15:37:26.684046"
+  },
+  {
+    "title": "안장헌 아산시장 예비후보, 시장 직속 AI정책보좌관 신설 약속",
+    "score": 1,
+    "reason": "AI 정책 보좌관 신설은 지역 산업 경쟁력 강화에 기여할 수 있으나, 직접적인 주가 영향은 제한적.",
+    "related_stocks": [
+      "삼성전자",
+      "카카오"
+    ],
+    "link": "http://www.newstnt.com/news/articleView.html?idxno=595814",
+    "pub_date": "Mon, 16 Mar 2026 00:30:00 +0900",
+    "analyzed_at": "2026-03-15T15:37:26.684048"
+  },
+  {
+    "title": "[취재수첩] 허술한 감시망에 구멍 뚫린 방산 공급망",
+    "score": -3,
+    "reason": "방산 공급망의 문제는 한국의 첨단 산업 전반에 부정적인 영향을 미칠 수 있음.",
+    "related_stocks": [
+      "한화에어로스페이스",
+      "현대로템"
+    ],
+    "link": "https://www.hankyung.com/article/2026031521131",
+    "pub_date": "Mon, 16 Mar 2026 00:22:00 +0900",
+    "analyzed_at": "2026-03-15T15:37:26.684049"
+  },
+  {
+    "title": "[시론] 중국의 5개년 계획과 에너지 정책",
+    "score": 0,
+    "reason": "중국의 정책은 한국 기업에 직접적인 영향을 미치지 않지만, 장기적으로 경쟁 구도를 형성할 수 있음.",
+    "related_stocks": [],
+    "link": "https://www.hankyung.com/article/2026031521221",
+    "pub_date": "Mon, 16 Mar 2026 00:20:00 +0900",
+    "analyzed_at": "2026-03-15T15:37:26.684050"
+  },
+  {
+    "title": "[한경에세이] 소부장 경쟁력 강화, 현장에 답이 있다",
+    "score": 2,
+    "reason": "소부장 기업의 경쟁력 강화는 한국 산업 전반에 긍정적인 영향을 미칠 것으로 예상됨.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.hankyung.com/article/2026031520791",
+    "pub_date": "Mon, 16 Mar 2026 00:17:00 +0900",
+    "analyzed_at": "2026-03-15T15:37:26.684051"
+  },
+  {
+    "title": "하현옥의 세계경제전망",
+    "score": -3,
+    "reason": "사모대출의 위험성이 커지고 있어 중소기업에 부정적인 영향을 미칠 가능성이 높음.",
+    "related_stocks": [
+      "중소기업 관련 주식"
+    ],
+    "link": "https://www.joongang.co.kr/article/25411979",
+    "pub_date": "Mon, 16 Mar 2026 00:14:00 +0900",
+    "analyzed_at": "2026-03-15T15:37:30.039925"
+  },
+  {
+    "title": "한패스 공모가 1만9000원 확정",
+    "score": 2,
+    "reason": "공모가 확정과 청약 일정 발표는 긍정적인 신호이나, 시장 반응은 미지수.",
+    "related_stocks": [
+      "한패스"
+    ],
+    "link": "https://www.cbci.co.kr/news/articleView.html?idxno=561082",
+    "pub_date": "Mon, 16 Mar 2026 00:00:00 +0900",
+    "analyzed_at": "2026-03-15T15:37:30.039935"
   }
 ]
