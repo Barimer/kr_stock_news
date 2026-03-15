@@ -22347,5 +22347,128 @@
     "link": "https://www.tokenpost.kr/news/cryptocurrency/339638",
     "pub_date": "Sun, 15 Mar 2026 20:28:00 +0900",
     "analyzed_at": "2026-03-15T11:42:11.664333"
+  },
+  {
+    "title": "칩플레이션에 전쟁 ‘겹악재’ 전자업계 ‘비용 절감’ 안간힘",
+    "score": -3,
+    "reason": "원재료 비용 상승으로 인한 전자업계의 부담이 커지고 있어 실적에 부정적 영향을 미칠 것으로 예상됨.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.khan.co.kr/article/202603152049015",
+    "pub_date": "Sun, 15 Mar 2026 20:49:00 +0900",
+    "analyzed_at": "2026-03-15T12:00:11.806825"
+  },
+  {
+    "title": "전쟁에 '돈복사' 멈춘 코스피…지금 '줍줍' 해야할 종목은",
+    "score": -2,
+    "reason": "전기·전자 업종을 제외한 나머지 업종의 EPS 감소가 나타나며 전반적인 시장 불안감을 초래하고 있음.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.hankyung.com/article/2026031399376",
+    "pub_date": "Sun, 15 Mar 2026 20:45:00 +0900",
+    "analyzed_at": "2026-03-15T12:00:11.806835"
+  },
+  {
+    "title": "“삼성보다 100만원 더 비싸” 346만원…모습 드러낸 ‘접는 아이폰’",
+    "score": -1,
+    "reason": "경쟁 제품의 가격 상승이 삼성전자 폴더블폰의 판매에 부정적인 영향을 미칠 가능성이 있음.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "https://biz.heraldcorp.com/article/10694614?ref=naver",
+    "pub_date": "Sun, 15 Mar 2026 20:41:00 +0900",
+    "analyzed_at": "2026-03-15T12:00:11.806837"
+  },
+  {
+    "title": "AWS, 세레브라스와 초고속 AI 추론 서비스 제공한다…LLM 추론 속도 대폭...",
+    "score": 4,
+    "reason": "AWS의 새로운 AI 추론 서비스는 클라우드 시장에서의 경쟁력을 강화할 것으로 예상됨.",
+    "related_stocks": [
+      "아마존",
+      "세레브라스 시스템즈"
+    ],
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=39068",
+    "pub_date": "Sun, 15 Mar 2026 20:56:00 +0900",
+    "analyzed_at": "2026-03-15T12:00:27.934897"
+  },
+  {
+    "title": "여수)논밭 위 '태양광' 곧 활성화‥농가 소득원 될까?",
+    "score": 2,
+    "reason": "태양광 활성화가 농가 소득에 긍정적인 영향을 미칠 것으로 보이나, 구체적인 성과는 미지수.",
+    "related_stocks": [
+      "신재생에너지 관련 기업"
+    ],
+    "link": "https://ysmbc.co.kr/NewsArticle/1509293",
+    "pub_date": "Sun, 15 Mar 2026 20:54:00 +0900",
+    "analyzed_at": "2026-03-15T12:00:27.934908"
+  },
+  {
+    "title": "이슈프리뷰)민주당 후보 예비경선..세계 물의날 행사",
+    "score": 0,
+    "reason": "정치적 행사로 주가에 미치는 영향은 크지 않을 것으로 판단됨.",
+    "related_stocks": [],
+    "link": "https://ysmbc.co.kr/NewsArticle/1509292",
+    "pub_date": "Sun, 15 Mar 2026 20:54:00 +0900",
+    "analyzed_at": "2026-03-15T12:00:27.934910"
+  },
+  {
+    "title": "민형배 후보, 2030년까지 일자리 10만개 창출...미래차 산업 대전환 구상",
+    "score": 3,
+    "reason": "미래차 산업에 대한 정책 발표는 관련 산업에 긍정적인 영향을 미칠 가능성이 있음.",
+    "related_stocks": [
+      "전기차 관련 기업",
+      "차량용 반도체 기업"
+    ],
+    "link": "http://www.ttlnews.com/news/articleView.html?idxno=3088749",
+    "pub_date": "Sun, 15 Mar 2026 20:46:00 +0900",
+    "analyzed_at": "2026-03-15T12:00:27.934915"
+  },
+  {
+    "title": "한은 “추경, 물가 자극 가능성 낮아”…필요성엔 ‘중립’",
+    "score": 1,
+    "reason": "추경에 대한 중립적인 입장은 경제 전반에 긍정적 영향을 미칠 수 있으나, 반도체 산업에 대한 직접적인 언급은 없음.",
+    "related_stocks": [
+      "반도체 관련 기업"
+    ],
+    "link": "https://www.khan.co.kr/article/202603152046015",
+    "pub_date": "Sun, 15 Mar 2026 20:46:00 +0900",
+    "analyzed_at": "2026-03-15T12:00:27.934917"
+  },
+  {
+    "title": "[공시] THE E&M·SKAI 등 32개 종목 '투자주의종목' 지정",
+    "score": -2,
+    "reason": "투자주의종목 지정은 해당 기업들의 주가에 부정적인 영향을 미칠 가능성이 높음.",
+    "related_stocks": [
+      "아이티엠반도체",
+      "서울반도체"
+    ],
+    "link": "http://www.newstnt.com/news/articleView.html?idxno=595795",
+    "pub_date": "Sun, 15 Mar 2026 20:46:00 +0900",
+    "analyzed_at": "2026-03-15T12:00:27.934919"
+  },
+  {
+    "title": "올해도 사탐런 이어지나…과탐 응시자 역대 최저 예상",
+    "score": -1,
+    "reason": "이공계 집중 육성 정책에도 불구하고 응시자 감소는 교육 및 인력 양성에 부정적인 영향을 미칠 수 있음.",
+    "related_stocks": [],
+    "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2403172",
+    "pub_date": "Sun, 15 Mar 2026 20:42:00 +0900",
+    "analyzed_at": "2026-03-15T12:00:27.934921"
+  },
+  {
+    "title": "이재명 대통령 '충남대전 통합 이뤄질 것… 충북 기회 고민해야'",
+    "score": 3,
+    "reason": "첨단산업 육성 정책은 지역 경제에 긍정적인 영향을 미칠 것으로 예상됨.",
+    "related_stocks": [
+      "반도체 관련 기업",
+      "이차전지 기업"
+    ],
+    "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2403163",
+    "pub_date": "Sun, 15 Mar 2026 20:42:00 +0900",
+    "analyzed_at": "2026-03-15T12:00:27.934922"
   }
 ]
