@@ -23200,5 +23200,62 @@
     "link": "https://www.tokenpost.kr/news/blockchain/339665",
     "pub_date": "Mon, 16 Mar 2026 01:12:00 +0900",
     "analyzed_at": "2026-03-15T16:51:20.559837"
+  },
+  {
+    "title": "“신뢰·실용성에 혁신 더했다”… 아이폰 떠나 갤럭시 갈아타는 Z세대",
+    "score": 4,
+    "reason": "Z세대의 합리적 소비 성향과 삼성전자의 신제품이 긍정적으로 맞물려 판매 증가가 예상됨.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "https://www.kmib.co.kr/article/view.asp?arcid=1773300705&code=11151400&cp=nv",
+    "pub_date": "Mon, 16 Mar 2026 02:23:00 +0900",
+    "analyzed_at": "2026-03-15T17:37:06.476573"
+  },
+  {
+    "title": "총파업 투표 삼전노조, 사업부간 내홍",
+    "score": -3,
+    "reason": "노조 내홍과 총파업 가능성은 삼성전자의 운영에 부정적인 영향을 미칠 수 있음.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "https://www.kmib.co.kr/article/view.asp?arcid=1773563293&code=11151400&cp=nv",
+    "pub_date": "Mon, 16 Mar 2026 02:22:00 +0900",
+    "analyzed_at": "2026-03-15T17:37:06.476584"
+  },
+  {
+    "title": "비밀번호 가려주고, 비서처럼 전화받고… 새 기능 ‘맘에 쏙’",
+    "score": 2,
+    "reason": "AI 기능 추가는 소비자 만족도를 높일 수 있으나, 큰 변화는 아닐 것으로 보임.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "https://www.kmib.co.kr/article/view.asp?arcid=1773297719&code=11151400&cp=nv",
+    "pub_date": "Mon, 16 Mar 2026 02:22:00 +0900",
+    "analyzed_at": "2026-03-15T17:37:06.476585"
+  },
+  {
+    "title": "이재명 정부 성공, 내가 파트너",
+    "score": 2,
+    "reason": "경기프리미엄버스 증차와 SMR 실증단지 유치는 지역 경제에 긍정적 영향을 미칠 것으로 예상됨.",
+    "related_stocks": [
+      "삼성전자",
+      "LG화학"
+    ],
+    "link": "https://www.thereport.co.kr/news/articleView.html?idxno=85337",
+    "pub_date": "Mon, 16 Mar 2026 02:18:00 +0900",
+    "analyzed_at": "2026-03-15T17:37:10.374848"
+  },
+  {
+    "title": "비트코인, 기술주·금과 디커플링 조짐…주간 최고 상승률 눈앞",
+    "score": 2,
+    "reason": "비트코인의 상승세가 다른 자산과의 상관관계 변화로 긍정적인 신호를 보이고 있어 약한 호재로 평가됨.",
+    "related_stocks": [
+      "비트코인 관련 주식",
+      "암호화폐 거래소 주식"
+    ],
+    "link": "https://www.tokenpost.kr/news/cryptocurrency/339669",
+    "pub_date": "Mon, 16 Mar 2026 01:54:00 +0900",
+    "analyzed_at": "2026-03-15T17:37:13.935638"
   }
 ]
