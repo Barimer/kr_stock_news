@@ -22103,5 +22103,123 @@
     "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4072129",
     "pub_date": "Sun, 15 Mar 2026 19:14:00 +0900",
     "analyzed_at": "2026-03-15T10:43:56.692226"
+  },
+  {
+    "title": "개미 몰린 ‘액티브 ETF’… 과도한 수익률 기대 금물",
+    "score": 0,
+    "reason": "액티브 ETF에 대한 경고는 중립적인 정보로 주가에 큰 영향을 미치지 않을 것으로 보임.",
+    "related_stocks": [
+      "SK하이닉스",
+      "삼성전자",
+      "현대차"
+    ],
+    "link": "https://www.segye.com/newsView/20260315509307?OutUrl=naver",
+    "pub_date": "Sun, 15 Mar 2026 19:54:00 +0900",
+    "analyzed_at": "2026-03-15T11:03:42.938461"
+  },
+  {
+    "title": "“배후수요가 삼전닉스인데 따질게 있나?”…용인 몰리는 디벨로퍼들",
+    "score": 4,
+    "reason": "반도체 클러스터 조성은 SK하이닉스와 삼성전자에 긍정적인 영향을 미칠 것으로 예상됨.",
+    "related_stocks": [
+      "SK하이닉스",
+      "삼성전자"
+    ],
+    "link": "https://www.mk.co.kr/article/11988634",
+    "pub_date": "Sun, 15 Mar 2026 19:47:00 +0900",
+    "analyzed_at": "2026-03-15T11:03:42.938471"
+  },
+  {
+    "title": "강원도민 7000명 몰렸다…김진태 지사, 도정보고회서 성과 공유",
+    "score": 3,
+    "reason": "강원도의 반도체 사업 추진이 긍정적인 투자 소식으로 작용할 가능성이 높음.",
+    "related_stocks": [
+      "강원랜드",
+      "삼성전자"
+    ],
+    "link": "https://www.segye.com/newsView/20260315509670?OutUrl=naver",
+    "pub_date": "Sun, 15 Mar 2026 20:02:00 +0900",
+    "analyzed_at": "2026-03-15T11:03:55.120425"
+  },
+  {
+    "title": "현대모비스, 범퍼 사업 매각 추진…미래車 사업 포트폴리오 재편",
+    "score": 4,
+    "reason": "미래 모빌리티 기술 중심으로의 포트폴리오 재편은 긍정적인 성장 가능성을 시사함.",
+    "related_stocks": [
+      "현대모비스",
+      "LG전자"
+    ],
+    "link": "https://www.dt.co.kr/article/12051640?ref=naver",
+    "pub_date": "Sun, 15 Mar 2026 19:55:00 +0900",
+    "analyzed_at": "2026-03-15T11:03:55.120435"
+  },
+  {
+    "title": "‘반도체값 급등’ 학교 PC 메모리 바꿔치기 적발",
+    "score": -1,
+    "reason": "반도체 가격 급등으로 인한 부정적 사건이 업계에 악영향을 미칠 수 있음.",
+    "related_stocks": [
+      "SK hynix",
+      "삼성전자"
+    ],
+    "link": "https://www.kyeongin.com/article/1760280",
+    "pub_date": "Sun, 15 Mar 2026 19:54:00 +0900",
+    "analyzed_at": "2026-03-15T11:03:55.120437"
+  },
+  {
+    "title": "[NGO 현장]사라지는 도시와 선거 언어 사이",
+    "score": 0,
+    "reason": "산업 유치에 대한 논의가 있으나 구체적인 성과가 부족해 주가에 미치는 영향은 없음.",
+    "related_stocks": [],
+    "link": "https://www.khan.co.kr/article/202603151948005",
+    "pub_date": "Sun, 15 Mar 2026 19:48:00 +0900",
+    "analyzed_at": "2026-03-15T11:03:55.120439"
+  },
+  {
+    "title": "[영상]김진태 “원주~춘천 고속철도 최우선”…원주 도정보고회서 반도체 육성 강조",
+    "score": 2,
+    "reason": "고속철도와 반도체 육성의 연계가 지역 경제에 긍정적인 영향을 미칠 수 있음.",
+    "related_stocks": [
+      "현대건설",
+      "삼성전자"
+    ],
+    "link": "https://www.kwnews.co.kr/page/view/2026031519435832882",
+    "pub_date": "Sun, 15 Mar 2026 19:44:00 +0900",
+    "analyzed_at": "2026-03-15T11:03:55.120444"
+  },
+  {
+    "title": "추미애, “경기도 잠재력 깨우겠다”...AI행정 등 ‘4대 비전’ 제시",
+    "score": 3,
+    "reason": "AI와 반도체 등 미래산업 집중 육성이 긍정적인 경제 성장 전망을 제시함.",
+    "related_stocks": [
+      "삼성전자",
+      "LG전자"
+    ],
+    "link": "https://www.ekn.kr/web/view.php?key=20260315021127964",
+    "pub_date": "Sun, 15 Mar 2026 19:42:00 +0900",
+    "analyzed_at": "2026-03-15T11:03:55.120446"
+  },
+  {
+    "title": "김동연, “경기도는 국정 제1동반자”…이재명 정부 성공을 일과 성과로...",
+    "score": 4,
+    "reason": "경기도의 미래산업 육성 계획이 긍정적인 투자 유치로 이어질 가능성이 높음.",
+    "related_stocks": [
+      "삼성전자",
+      "SK hynix"
+    ],
+    "link": "https://www.ekn.kr/web/view.php?key=20260315023317966",
+    "pub_date": "Sun, 15 Mar 2026 19:42:00 +0900",
+    "analyzed_at": "2026-03-15T11:03:55.120448"
+  },
+  {
+    "title": "[미국·이란 전쟁] 한은 “추경, 물가 자극 가능성 작아…성장률 영향은...",
+    "score": 2,
+    "reason": "반도체 수출 호조가 성장률에 긍정적인 영향을 미칠 것으로 예상됨.",
+    "related_stocks": [
+      "삼성전자",
+      "SK hynix"
+    ],
+    "link": "http://www.segyebiz.com/newsView/20260315510668?OutUrl=naver",
+    "pub_date": "Sun, 15 Mar 2026 19:40:00 +0900",
+    "analyzed_at": "2026-03-15T11:03:55.120450"
   }
 ]
