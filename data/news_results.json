@@ -22221,5 +22221,131 @@
     "link": "http://www.segyebiz.com/newsView/20260315510668?OutUrl=naver",
     "pub_date": "Sun, 15 Mar 2026 19:40:00 +0900",
     "analyzed_at": "2026-03-15T11:03:55.120450"
+  },
+  {
+    "title": "고유가·칩플레이션 '원자재 쇼크'...허리띠 졸라매는 기업들",
+    "score": -3,
+    "reason": "고유가로 인한 원자재 매입 부담 증가가 기업 실적에 부정적 영향을 미칠 것으로 예상됨.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01977846645383648",
+    "pub_date": "Sun, 15 Mar 2026 20:31:00 +0900",
+    "analyzed_at": "2026-03-15T11:41:54.149888"
+  },
+  {
+    "title": "삼성전자 사운드바, 글로벌 시장 12년 연속 1위… AI·프리미엄 오디오",
+    "score": 4,
+    "reason": "글로벌 시장에서의 12년 연속 1위 기록은 삼성전자의 브랜드 가치와 매출 성장에 긍정적 영향을 미칠 것임.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "https://www.mediafine.co.kr/news/articleView.html?idxno=75930",
+    "pub_date": "Sun, 15 Mar 2026 20:08:00 +0900",
+    "analyzed_at": "2026-03-15T11:41:54.149898"
+  },
+  {
+    "title": "삼성바이오로직스-美일라이릴리, 'LGL' 국내거점 설립",
+    "score": 3,
+    "reason": "삼성바이오로직스의 글로벌 진출 확대는 향후 성장 가능성을 높이는 긍정적인 요소임.",
+    "related_stocks": [
+      "삼성바이오로직스"
+    ],
+    "link": "https://www.gukjenews.com/news/articleView.html?idxno=3529634",
+    "pub_date": "Sun, 15 Mar 2026 20:08:00 +0900",
+    "analyzed_at": "2026-03-15T11:41:54.149900"
+  },
+  {
+    "title": "양지환 대신증권 센터장 '전쟁 공포가 만든 저점, 코스피 7500 시대의 서...",
+    "score": 3,
+    "reason": "한국의 반도체와 IT 산업의 중요성이 강조되며 긍정적인 전망이 제시됨.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01987686645383648",
+    "pub_date": "Sun, 15 Mar 2026 20:39:00 +0900",
+    "analyzed_at": "2026-03-15T11:42:08.051225"
+  },
+  {
+    "title": "유영하 의원, 서문시장 방문... '상인 주권 시대 열겠다'",
+    "score": 2,
+    "reason": "삼성 반도체 공장 유치 계획이 지역 경제에 긍정적인 영향을 미칠 것으로 예상됨.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "https://news.bbsi.co.kr/news/articleView.html?idxno=4072138",
+    "pub_date": "Sun, 15 Mar 2026 20:38:00 +0900",
+    "analyzed_at": "2026-03-15T11:42:08.051234"
+  },
+  {
+    "title": "민형배 '광주 자동차산업 , AI 미래모빌리티로 대전환' 선언",
+    "score": 2,
+    "reason": "자동차 산업의 AI 및 반도체 전환이 긍정적인 변화로 작용할 가능성이 있음.",
+    "related_stocks": [
+      "현대차",
+      "기아"
+    ],
+    "link": "http://www.newsworker.co.kr/news/articleView.html?idxno=417522",
+    "pub_date": "Sun, 15 Mar 2026 20:36:00 +0900",
+    "analyzed_at": "2026-03-15T11:42:08.051236"
+  },
+  {
+    "title": "구미시, ‘AI·디지털트윈’으로 청년 일자리 영토 넓힌다",
+    "score": 2,
+    "reason": "AI와 반도체 산업의 전환 필요성이 강조되며 지역 경제에 긍정적인 영향을 미칠 것으로 보임.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.ksmnews.co.kr/news/view.php?idx=595034",
+    "pub_date": "Sun, 15 Mar 2026 20:32:00 +0900",
+    "analyzed_at": "2026-03-15T11:42:08.051240"
+  },
+  {
+    "title": "논밭 위 '태양광' 곧 활성화‥농가 소득원 될까?",
+    "score": 1,
+    "reason": "신재생에너지원으로서의 태양광의 가능성이 언급되지만, 반도체와의 연관성은 약함.",
+    "related_stocks": [
+      "한화솔루션"
+    ],
+    "link": "https://kjmbc.co.kr/NewsArticle/1509281",
+    "pub_date": "Sun, 15 Mar 2026 20:25:00 +0900",
+    "analyzed_at": "2026-03-15T11:42:08.051243"
+  },
+  {
+    "title": "김진태 지사, 원주에서 두 번째 도정보고회",
+    "score": 2,
+    "reason": "반도체 산업 육성 계획이 지역 경제에 긍정적인 영향을 미칠 것으로 예상됨.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "https://www.mbceg.co.kr/post/134448",
+    "pub_date": "Sun, 15 Mar 2026 20:16:00 +0900",
+    "analyzed_at": "2026-03-15T11:42:08.051244"
+  },
+  {
+    "title": "AI 데이터센터 설계의 핵심, ‘Silicon to System’ 통합 해석",
+    "score": 1,
+    "reason": "반도체 설계 전략에 대한 논의가 있지만, 직접적인 주가 영향은 미미할 것으로 보임.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.hellot.net/news/article.html?no=111386",
+    "pub_date": "Sun, 15 Mar 2026 20:14:00 +0900",
+    "analyzed_at": "2026-03-15T11:42:08.051246"
+  },
+  {
+    "title": "유가 120달러 가능성…비트코인 사상 최고가 회복에 변수 되나",
+    "score": -3,
+    "reason": "유가 상승이 미국 주식시장에 부정적 영향을 미칠 것으로 예상됨.",
+    "related_stocks": [
+      "석유 관련 주식",
+      "비트코인 관련 주식"
+    ],
+    "link": "https://www.tokenpost.kr/news/cryptocurrency/339638",
+    "pub_date": "Sun, 15 Mar 2026 20:28:00 +0900",
+    "analyzed_at": "2026-03-15T11:42:11.664333"
   }
 ]
