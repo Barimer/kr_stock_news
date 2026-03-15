@@ -23282,5 +23282,156 @@
     "link": "https://www.g-enews.com/view.php?ud=202603151639362793fbbec65dfb_1",
     "pub_date": "Mon, 16 Mar 2026 03:36:00 +0900",
     "analyzed_at": "2026-03-15T19:00:15.814803"
+  },
+  {
+    "title": "한밭대서 개발한 전원 변환장치, 누리호에 탑재",
+    "score": 3,
+    "reason": "국산 우주 소자·부품의 기술력 향상으로 관련 산업에 긍정적 영향을 미칠 것으로 예상됨.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.donga.com/news/Society/article/all/20260315/133534204/2",
+    "pub_date": "Mon, 16 Mar 2026 04:33:00 +0900",
+    "analyzed_at": "2026-03-15T19:38:04.562797"
+  },
+  {
+    "title": "“결승선만 보며 악착같이 버텨… 3년만에 정상 기뻐요”",
+    "score": 0,
+    "reason": "개인적인 성취에 관한 뉴스로 주식 시장에 미치는 영향이 없음.",
+    "related_stocks": [],
+    "link": "https://www.donga.com/news/Sports/article/all/20260316/133534998/2",
+    "pub_date": "Mon, 16 Mar 2026 04:32:00 +0900",
+    "analyzed_at": "2026-03-15T19:38:04.562805"
+  },
+  {
+    "title": "'AI 시장 판도 풍향계' 엔비디아 GTC... 삼성·SK, 현대차 등 국내 주요 ...",
+    "score": 4,
+    "reason": "삼성전자와 SK하이닉스의 기술력 강조가 긍정적인 투자 신호로 작용할 가능성이 높음.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.hankookilbo.com/news/article/A2026031515290003368?did=NA",
+    "pub_date": "Mon, 16 Mar 2026 04:31:00 +0900",
+    "analyzed_at": "2026-03-15T19:38:04.562807"
+  },
+  {
+    "title": "[AI 투자 대전] “빅테크, AI 자본 지출 974조 원, 멈추지 않고 있다”",
+    "score": 5,
+    "reason": "삼성전자와 SK하이닉스의 실적 개선 전망이 매우 긍정적이며, AI 투자 확대가 주가에 큰 호재로 작용할 것임.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.g-enews.com/view.php?ud=202603151703492647fbbec65dfb_1",
+    "pub_date": "Mon, 16 Mar 2026 04:16:00 +0900",
+    "analyzed_at": "2026-03-15T19:38:04.562809"
+  },
+  {
+    "title": "전쟁·고유가 악재 속… '파월의 입' 촉각",
+    "score": -1,
+    "reason": "글로벌 경제 불확실성이 반도체 산업에 부정적인 영향을 미칠 가능성이 있음.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.mt.co.kr/stock/2026/03/16/2026031519524350096",
+    "pub_date": "Mon, 16 Mar 2026 04:05:00 +0900",
+    "analyzed_at": "2026-03-15T19:38:04.562810"
+  },
+  {
+    "title": "허리띠 죄는 삼성, 머리띠 매는 노조",
+    "score": -2,
+    "reason": "비용 절감과 노조의 파업 요구가 삼성전자의 운영에 부정적인 영향을 미칠 수 있음.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "https://www.mt.co.kr/industry/2026/03/16/2026031519292336078",
+    "pub_date": "Mon, 16 Mar 2026 04:04:00 +0900",
+    "analyzed_at": "2026-03-15T19:38:04.562812"
+  },
+  {
+    "title": "이재용, 獨서 '배터리 세일즈'… 삼성SDI, 반등 실마리 찾는다",
+    "score": 2,
+    "reason": "이재용 회장의 해외 활동이 삼성SDI의 실적 개선에 긍정적인 영향을 미칠 가능성이 있음.",
+    "related_stocks": [
+      "삼성SDI"
+    ],
+    "link": "https://www.mt.co.kr/industry/2026/03/16/2026031519492937897",
+    "pub_date": "Mon, 16 Mar 2026 04:04:00 +0900",
+    "analyzed_at": "2026-03-15T19:38:04.562813"
+  },
+  {
+    "title": "'삼성전자 + SK하이닉스'에 베팅… ETF '투톱 전략' 확산",
+    "score": 3,
+    "reason": "삼성전자와 SK하이닉스에 대한 집중 투자가 긍정적인 시장 흐름을 이끌 것으로 예상됨.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.mt.co.kr/stock/2026/03/16/2026031519543253526",
+    "pub_date": "Mon, 16 Mar 2026 04:04:00 +0900",
+    "analyzed_at": "2026-03-15T19:38:04.562817"
+  },
+  {
+    "title": "국제유가 100달러 넘자, 환율 장중 1500원 다시 돌파",
+    "score": -3,
+    "reason": "환율 상승과 경제 펀더멘털 약화는 전반적인 경제에 부정적 영향을 미칠 수 있다.",
+    "related_stocks": [
+      "삼성전자",
+      "LG화학"
+    ],
+    "link": "https://www.donga.com/news/Inter/article/all/20260316/133535389/2",
+    "pub_date": "Mon, 16 Mar 2026 04:34:00 +0900",
+    "analyzed_at": "2026-03-15T19:38:13.367662"
+  },
+  {
+    "title": "미·중, 정상회담 앞둔 고위급 협의…16일 재개",
+    "score": 2,
+    "reason": "미중 간의 협의 재개는 긍정적인 신호로, 일부 기업에 호재가 될 수 있다.",
+    "related_stocks": [
+      "SK하이닉스",
+      "현대차"
+    ],
+    "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8508864&ref=A",
+    "pub_date": "Mon, 16 Mar 2026 04:29:00 +0900",
+    "analyzed_at": "2026-03-15T19:38:13.367671"
+  },
+  {
+    "title": "미중, 정상회담 앞 파리서 6시간 고위급 협의…16일 재개(종합)",
+    "score": 2,
+    "reason": "미중 간의 협의 재개는 긍정적인 신호로, 일부 기업에 호재가 될 수 있다.",
+    "related_stocks": [
+      "SK하이닉스",
+      "현대차"
+    ],
+    "link": "https://www.yna.co.kr/view/AKR20260315047452083?input=1195m",
+    "pub_date": "Mon, 16 Mar 2026 04:13:00 +0900",
+    "analyzed_at": "2026-03-15T19:38:13.367673"
+  },
+  {
+    "title": "[인천 톺아보기] 유정복표 첨단산업의 종착역...‘첨단산업 수도 인천’",
+    "score": 3,
+    "reason": "첨단산업 육성 계획은 관련 기업에 긍정적인 영향을 미칠 것으로 예상된다.",
+    "related_stocks": [
+      "삼성전자",
+      "LG전자"
+    ],
+    "link": "https://www.ekn.kr/web/view.php?key=20260315023227892",
+    "pub_date": "Mon, 16 Mar 2026 04:10:00 +0900",
+    "analyzed_at": "2026-03-15T19:38:13.367675"
+  },
+  {
+    "title": "그거 제 업무 아닌데요",
+    "score": -2,
+    "reason": "AI로 인한 자발적 과로와 불안정한 고용 상황이 부정적인 영향을 미칠 것으로 예상됨.",
+    "related_stocks": [
+      "현대차",
+      "AI 관련 기업"
+    ],
+    "link": "https://www.hankookilbo.com/news/article/A2026031113240001803?did=NA",
+    "pub_date": "Mon, 16 Mar 2026 04:31:00 +0900",
+    "analyzed_at": "2026-03-15T19:38:16.550718"
   }
 ]
