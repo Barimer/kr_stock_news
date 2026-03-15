@@ -23257,5 +23257,30 @@
     "link": "https://www.tokenpost.kr/news/cryptocurrency/339669",
     "pub_date": "Mon, 16 Mar 2026 01:54:00 +0900",
     "analyzed_at": "2026-03-15T17:37:13.935638"
+  },
+  {
+    "title": "[기술패권] 로봇 5배 격차·전력난 정면 돌파… 미국, AI·SMR·데이터센",
+    "score": 2,
+    "reason": "삼성전자와 SK하이닉스가 데이터 센터 확장에서 수혜를 받을 가능성이 있으나, 로봇 부품 수출에 대한 부정적 요인이 존재함.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.g-enews.com/view.php?ud=202603151643114435fbbec65dfb_1",
+    "pub_date": "Mon, 16 Mar 2026 03:46:00 +0900",
+    "analyzed_at": "2026-03-15T19:00:10.542572"
+  },
+  {
+    "title": "스태그플레이션 경고 나온다, “금리 낮추면 물가 폭탄, 묶어두면 침체...",
+    "score": -4,
+    "reason": "미국의 소비 위축이 한국의 주요 수출 품목에 부정적인 영향을 미칠 것으로 예상됨.",
+    "related_stocks": [
+      "삼성전자",
+      "현대차",
+      "LG전자"
+    ],
+    "link": "https://www.g-enews.com/view.php?ud=202603151639362793fbbec65dfb_1",
+    "pub_date": "Mon, 16 Mar 2026 03:36:00 +0900",
+    "analyzed_at": "2026-03-15T19:00:15.814803"
   }
 ]
