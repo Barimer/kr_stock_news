@@ -22685,5 +22685,118 @@
     "link": "https://www.tokenpost.kr/news/cryptocurrency/339641",
     "pub_date": "Sun, 15 Mar 2026 21:10:00 +0900",
     "analyzed_at": "2026-03-15T13:15:35.508493"
+  },
+  {
+    "title": "[금융핫이슈] 외국인이 팔아치운 삼성전자·하이닉스, 골드만삭스가 '매...",
+    "score": -3,
+    "reason": "외국인의 대규모 매도와 전쟁이라는 불확실성이 주가에 부정적 영향을 미침.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.pennmike.com/news/articleView.html?idxno=116771",
+    "pub_date": "Sun, 15 Mar 2026 22:48:00 +0900",
+    "analyzed_at": "2026-03-15T13:59:26.458079"
+  },
+  {
+    "title": "美 오스틴 한인상공회의소 8년 만에 재출범…\"K-기업 진출 가교 역할\"",
+    "score": 2,
+    "reason": "삼성전자 반도체 공장 유치로 한국 기업의 진출이 활발해질 것으로 기대됨.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "https://www.ytn.co.kr/replay/view.php?idx=46&key=202603152120144310",
+    "pub_date": "Sun, 15 Mar 2026 21:20:00 +0900",
+    "analyzed_at": "2026-03-15T13:59:26.458087"
+  },
+  {
+    "title": "반도체 호황, 마냥 웃을 수 없는 이유",
+    "score": -3,
+    "reason": "반도체 공급 증가로 인한 가격 하락 우려가 제기됨.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.segye.com/newsView/20260315508402?OutUrl=naver",
+    "pub_date": "Sun, 15 Mar 2026 22:51:00 +0900",
+    "analyzed_at": "2026-03-15T13:59:29.534530"
+  },
+  {
+    "title": "2026년 이커머스 3대 키워드는 무엇",
+    "score": 0,
+    "reason": "소비 시장 규모에 대한 정보는 있으나 주가에 미치는 영향은 불확실함.",
+    "related_stocks": [],
+    "link": "https://byline.network/?p=9004111222595176",
+    "pub_date": "Sun, 15 Mar 2026 22:50:00 +0900",
+    "analyzed_at": "2026-03-15T13:59:32.528651"
+  },
+  {
+    "title": "가계대출 줄이고 산업투자 집중..508조 '생산적 금융' 경쟁 본격(종합)",
+    "score": 4,
+    "reason": "정부의 전략 산업에 대한 대규모 자금 공급은 관련 기업의 성장 가능성을 높여 긍정적인 영향을 미칠 것으로 예상됨.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스",
+      "LG화학"
+    ],
+    "link": "http://www.4th.kr/news/articleView.html?idxno=2109077",
+    "pub_date": "Sun, 15 Mar 2026 22:50:00 +0900",
+    "analyzed_at": "2026-03-15T13:59:43.528115"
+  },
+  {
+    "title": "용인특례시, 국가철도망 반영 촉구 서명운동 추진",
+    "score": 2,
+    "reason": "반도체 클러스터와 관련된 교통 인프라 확장은 지역 경제에 긍정적인 영향을 미칠 수 있음.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=824344",
+    "pub_date": "Sun, 15 Mar 2026 22:40:00 +0900",
+    "analyzed_at": "2026-03-15T13:59:43.528125"
+  },
+  {
+    "title": "산업통상부, 세종에 반도체 소재 생산 기반 마련…JK머트리얼즈 세종캠",
+    "score": 3,
+    "reason": "반도체 소재 생산 기반 마련은 산업 경쟁력을 높이는 데 기여할 것으로 보임.",
+    "related_stocks": [
+      "JK머트리얼즈",
+      "삼성전자"
+    ],
+    "link": "http://www.econonews.co.kr/news/articleView.html?idxno=431051",
+    "pub_date": "Sun, 15 Mar 2026 22:30:00 +0900",
+    "analyzed_at": "2026-03-15T13:59:43.528127"
+  },
+  {
+    "title": "호르무즈 해협 위기와 한국의 민생경제",
+    "score": -3,
+    "reason": "무역 압박 우려는 한국 경제에 부정적인 영향을 미칠 수 있어 악재로 작용할 가능성이 높음.",
+    "related_stocks": [
+      "현대차",
+      "삼성전자"
+    ],
+    "link": "http://www.tongilnews.com/news/articleView.html?idxno=216045",
+    "pub_date": "Sun, 15 Mar 2026 22:30:00 +0900",
+    "analyzed_at": "2026-03-15T13:59:43.528129"
+  },
+  {
+    "title": "용인시, 고교학점제·대입 변화 대응 진로진학 특강",
+    "score": 1,
+    "reason": "교육 인프라 강화는 장기적으로 긍정적이나 즉각적인 주가 영향은 미미할 것으로 판단됨.",
+    "related_stocks": [],
+    "link": "http://www.globalepic.co.kr/view.php?ud=2026031421535261835f69d33b22_29",
+    "pub_date": "Sun, 15 Mar 2026 22:28:00 +0900",
+    "analyzed_at": "2026-03-15T13:59:43.528130"
+  },
+  {
+    "title": "고용노동부-안전보건공단, '화학사고 예방 우수사례집' 발간",
+    "score": 1,
+    "reason": "안전 관리 시스템 구축은 기업의 안정성을 높일 수 있으나, 직접적인 주가 영향은 제한적임.",
+    "related_stocks": [
+      "SK레조낙"
+    ],
+    "link": "http://www.econonews.co.kr/news/articleView.html?idxno=431032",
+    "pub_date": "Sun, 15 Mar 2026 22:20:00 +0900",
+    "analyzed_at": "2026-03-15T13:59:43.528132"
   }
 ]
