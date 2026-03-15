@@ -22470,5 +22470,220 @@
     "link": "https://www.ccdailynews.com/news/articleView.html?idxno=2403163",
     "pub_date": "Sun, 15 Mar 2026 20:42:00 +0900",
     "analyzed_at": "2026-03-15T12:00:27.934922"
+  },
+  {
+    "title": "삼성전자, 글로벌 사운드바 시장 12년 연속 1위",
+    "score": 4,
+    "reason": "12년 연속 1위 달성은 브랜드 신뢰도와 매출 증가에 긍정적 영향을 미칠 것으로 예상됨.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "http://www.ttlnews.com/news/articleView.html?idxno=3088724",
+    "pub_date": "Sun, 15 Mar 2026 22:08:00 +0900",
+    "analyzed_at": "2026-03-15T13:15:15.100913"
+  },
+  {
+    "title": "이재용 딸 손에 든 '애플' 눈길",
+    "score": 0,
+    "reason": "개인적인 일상 공개로 주가에 직접적인 영향은 없음.",
+    "related_stocks": [],
+    "link": "https://magazine.hankyung.com/business/article/202603152403b",
+    "pub_date": "Sun, 15 Mar 2026 21:57:00 +0900",
+    "analyzed_at": "2026-03-15T13:15:15.100923"
+  },
+  {
+    "title": "상위 0.02% '오너家 집사'로 나선 증권가",
+    "score": 0,
+    "reason": "뉴스 내용이 주가에 미치는 영향이 불확실하여 중립적.",
+    "related_stocks": [],
+    "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02013926645383648",
+    "pub_date": "Sun, 15 Mar 2026 21:52:00 +0900",
+    "analyzed_at": "2026-03-15T13:15:15.100925"
+  },
+  {
+    "title": "이상일 용인특례시장, 국가철도망 반영 촉구 서명운동 추진",
+    "score": 1,
+    "reason": "삼성전자 기흥캠퍼스와 관련된 인프라 개발은 긍정적이나 직접적인 호재는 아님.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "https://www.startuptoday.co.kr/news/articleView.html?idxno=598756",
+    "pub_date": "Sun, 15 Mar 2026 21:42:00 +0900",
+    "analyzed_at": "2026-03-15T13:15:15.100927"
+  },
+  {
+    "title": "삼전·하닉 하락에 개미들 ‘공포’",
+    "score": -2,
+    "reason": "주가 하락으로 개인 투자자들의 불안감이 커지고 있어 부정적인 영향.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.munhwa.com/article/11574674?ref=naver",
+    "pub_date": "Sun, 15 Mar 2026 21:40:00 +0900",
+    "analyzed_at": "2026-03-15T13:15:15.100928"
+  },
+  {
+    "title": "미-이란 충돌에 출렁이는 증시",
+    "score": -1,
+    "reason": "국제 정세 불안으로 인해 주식 시장에 부정적인 영향을 미칠 가능성이 있음.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "http://www.knnews.co.kr/news/articleView.php?idxno=1484163",
+    "pub_date": "Sun, 15 Mar 2026 21:18:00 +0900",
+    "analyzed_at": "2026-03-15T13:15:15.100930"
+  },
+  {
+    "title": "마이클 버리의 코스피 종말론",
+    "score": -3,
+    "reason": "부정적인 전망이 주식 시장에 악영향을 미칠 수 있어 강한 악재로 판단됨.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "https://www.mk.co.kr/article/11987518",
+    "pub_date": "Sun, 15 Mar 2026 21:01:00 +0900",
+    "analyzed_at": "2026-03-15T13:15:15.100931"
+  },
+  {
+    "title": "한준호 후보, 서울-양평 고속도로 조속 재개해야...이재명 대통령과 정...",
+    "score": 3,
+    "reason": "반도체 벨트 완성과 같은 대규모 프로젝트 제안은 긍정적인 경제적 영향을 미칠 수 있음.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.ajunews.com/view/20260315213346115",
+    "pub_date": "Sun, 15 Mar 2026 22:12:00 +0900",
+    "analyzed_at": "2026-03-15T13:15:28.423811"
+  },
+  {
+    "title": "[경기도 소식] '무역위기 대응 패키지' 참여기업 모집 외",
+    "score": 2,
+    "reason": "중소기업 지원 정책은 해당 산업군에 긍정적인 영향을 줄 수 있음.",
+    "related_stocks": [
+      "LG화학",
+      "한화솔루션"
+    ],
+    "link": "https://www.ajunews.com/view/20260315164103045",
+    "pub_date": "Sun, 15 Mar 2026 22:02:00 +0900",
+    "analyzed_at": "2026-03-15T13:15:28.423820"
+  },
+  {
+    "title": "김진태 지사, 도민 7000명과 만나 도정 현안·지역 발전방향 직접 설명",
+    "score": 3,
+    "reason": "4조원 규모의 투자 계획은 지역 경제와 관련 산업에 긍정적인 영향을 미칠 것으로 예상됨.",
+    "related_stocks": [
+      "삼성전자",
+      "LG전자"
+    ],
+    "link": "https://www.ajunews.com/view/20260315210236111",
+    "pub_date": "Sun, 15 Mar 2026 22:00:00 +0900",
+    "analyzed_at": "2026-03-15T13:15:28.423822"
+  },
+  {
+    "title": "사천 항공 정비 산업 지원 방안 모색",
+    "score": 2,
+    "reason": "AI 데이터센터 및 반도체 특구 지정은 장기적으로 산업 발전에 기여할 수 있음.",
+    "related_stocks": [
+      "한화에어로스페이스",
+      "현대모비스"
+    ],
+    "link": "http://www.gnmaeil.com/news/articleView.html?idxno=582384",
+    "pub_date": "Sun, 15 Mar 2026 21:48:00 +0900",
+    "analyzed_at": "2026-03-15T13:15:28.423823"
+  },
+  {
+    "title": "[인천대학교 2025년 예비창업패키지 선정기업] AI 기반 비전 솔루션 전문...",
+    "score": 2,
+    "reason": "AI 및 반도체 관련 스타트업의 성장은 해당 산업의 발전을 촉진할 수 있음.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://magazine.hankyung.com/job-joy/article/202603152401d",
+    "pub_date": "Sun, 15 Mar 2026 21:48:00 +0900",
+    "analyzed_at": "2026-03-15T13:15:28.423824"
+  },
+  {
+    "title": "[인천대학교 2025년 예비창업패키지 선정기업] 온디바이스용 AI 반도체 ...",
+    "score": 3,
+    "reason": "뉴로모픽 기술 기반의 AI 반도체 개발은 혁신적인 기술로 주목받을 가능성이 있음.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://magazine.hankyung.com/job-joy/article/202603152397d",
+    "pub_date": "Sun, 15 Mar 2026 21:46:00 +0900",
+    "analyzed_at": "2026-03-15T13:15:28.423826"
+  },
+  {
+    "title": "'냉탕·온탕' 롤러코스피, 잠 못드는 개미들",
+    "score": -1,
+    "reason": "전쟁 뉴스로 인한 불안감은 반도체 주식에 부정적인 영향을 미칠 수 있음.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=541735",
+    "pub_date": "Sun, 15 Mar 2026 21:44:00 +0900",
+    "analyzed_at": "2026-03-15T13:15:28.423827"
+  },
+  {
+    "title": "양자 설계~실증 전주기 자율 연구 원스톱 체계 구축",
+    "score": 3,
+    "reason": "양자 및 반도체 산업의 혁신 허브 육성 계획은 장기적으로 긍정적인 영향을 미칠 수 있음.",
+    "related_stocks": [
+      "삼성전자",
+      "LG전자"
+    ],
+    "link": "https://www.ulsanpress.net/news/articleView.html?idxno=571028",
+    "pub_date": "Sun, 15 Mar 2026 21:43:00 +0900",
+    "analyzed_at": "2026-03-15T13:15:28.423828"
+  },
+  {
+    "title": "부진경자청, 태웅서 'BJFEZ 기업현장투어'",
+    "score": 0,
+    "reason": "중립적인 행사로 주가에 큰 영향을 미치지 않을 것으로 보임.",
+    "related_stocks": [
+      "태웅"
+    ],
+    "link": "http://www.gnmaeil.com/news/articleView.html?idxno=582397",
+    "pub_date": "Sun, 15 Mar 2026 21:50:00 +0900",
+    "analyzed_at": "2026-03-15T13:15:35.508481"
+  },
+  {
+    "title": "美 ‘클래리티’ 법안 시간 싸움…4월 말 넘기면 사실상 무산 경고",
+    "score": -3,
+    "reason": "비트코인 약세장 경고와 주식시장 급락 가능성으로 인해 부정적인 영향을 미칠 수 있음.",
+    "related_stocks": [
+      "비트코인"
+    ],
+    "link": "https://www.tokenpost.kr/news/policy/339644",
+    "pub_date": "Sun, 15 Mar 2026 21:18:00 +0900",
+    "analyzed_at": "2026-03-15T13:15:35.508490"
+  },
+  {
+    "title": "\"디지털 금융 리더십은 'IT•AI•보안' 융합 통한 고객 가치 만드는 것\"",
+    "score": 2,
+    "reason": "AI와 IT 융합에 대한 긍정적인 비전 제시로 일부 투자자에게 긍정적 영향을 줄 수 있음.",
+    "related_stocks": [
+      "케이티엔에프"
+    ],
+    "link": "http://www.itdaily.kr/news/articleView.html?idxno=238408",
+    "pub_date": "Sun, 15 Mar 2026 21:14:00 +0900",
+    "analyzed_at": "2026-03-15T13:15:35.508491"
+  },
+  {
+    "title": "예측시장까지 파고든 AI 거래…폴리마켓 ‘머신 vs 인간’ 경쟁 시작",
+    "score": 1,
+    "reason": "AI 거래의 중요성이 강조되며 일부 투자자에게 관심을 끌 수 있으나 큰 호재는 아님.",
+    "related_stocks": [
+      "폴리마켓"
+    ],
+    "link": "https://www.tokenpost.kr/news/cryptocurrency/339641",
+    "pub_date": "Sun, 15 Mar 2026 21:10:00 +0900",
+    "analyzed_at": "2026-03-15T13:15:35.508493"
   }
 ]
