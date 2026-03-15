@@ -23433,5 +23433,53 @@
     "link": "https://www.hankookilbo.com/news/article/A2026031113240001803?did=NA",
     "pub_date": "Mon, 16 Mar 2026 04:31:00 +0900",
     "analyzed_at": "2026-03-15T19:38:16.550718"
+  },
+  {
+    "title": "반도체만 웃었다…상장사 64% ‘어닝 쇼크’",
+    "score": 3,
+    "reason": "삼성전자와 SK하이닉스의 실적이 예상치를 초과했지만, 다른 산업군의 부진이 우려됨.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.geconomy.co.kr/news/article.html?no=317460",
+    "pub_date": "Mon, 16 Mar 2026 04:46:00 +0900",
+    "analyzed_at": "2026-03-15T20:00:31.202609"
+  },
+  {
+    "title": "테슬라, 삼성 대신 반도체 직접 생산 계획 발표",
+    "score": 3,
+    "reason": "테슬라의 반도체 자립은 삼성의 반도체 수익성에 부정적 영향을 미칠 수 있음.",
+    "related_stocks": [
+      "삼성전자",
+      "테슬라"
+    ],
+    "link": "https://biz.sbs.co.kr/article_hub/20000297517?division=NAVER",
+    "pub_date": "Mon, 16 Mar 2026 04:54:00 +0900",
+    "analyzed_at": "2026-03-15T20:00:35.000312"
+  },
+  {
+    "title": "[모닝 뉴스브리핑] 온체인 조작 및 담보 청산, Venus에 손실 발생 外",
+    "score": -2,
+    "reason": "온체인 조작과 담보 청산으로 인한 손실은 암호화폐 시장에 부정적인 영향을 미칠 수 있음.",
+    "related_stocks": [
+      "비트코인",
+      "Venus"
+    ],
+    "link": "https://www.tokenpost.kr/news/briefing/339678",
+    "pub_date": "Mon, 16 Mar 2026 04:52:00 +0900",
+    "analyzed_at": "2026-03-15T20:00:41.054145"
+  },
+  {
+    "title": "‘크립토 록앤롤 시대’ 저문다…ETF·기관 인프라가 시장 중심으로",
+    "score": -1,
+    "reason": "암호화폐 시장의 투기적 요소가 약화되면서 전통 자산으로의 이동이 예상됨.",
+    "related_stocks": [
+      "암호화폐 관련 주식",
+      "ETF 관련 주식"
+    ],
+    "link": "https://www.tokenpost.kr/news/insights/339676",
+    "pub_date": "Mon, 16 Mar 2026 04:40:00 +0900",
+    "analyzed_at": "2026-03-15T20:00:41.054154"
   }
 ]
