@@ -28890,5 +28890,70 @@
     "link": "http://www.fnnews.com/news/202603170042172887",
     "pub_date": "Tue, 17 Mar 2026 00:45:00 +0900",
     "analyzed_at": "2026-03-16T16:45:26.167344"
+  },
+  {
+    "title": "사회 잘 이해하고 AI 잘 부리는 ‘인간 관리자’가 살아남는다",
+    "score": 2,
+    "reason": "삼성전자의 인재 양성 프로그램 개선은 긍정적인 신호이나 직접적인 실적 개선으로 이어질지는 불확실함.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "https://www.kmib.co.kr/article/view.asp?arcid=1773650323&code=11131100&cp=nv",
+    "pub_date": "Tue, 17 Mar 2026 02:05:00 +0900",
+    "analyzed_at": "2026-03-16T17:48:44.324327"
+  },
+  {
+    "title": "유가·금리하락 호르무즈 개방 기대감에 뉴욕증시 상승…기술주 강세 속...",
+    "score": 3,
+    "reason": "반도체 및 기술주 강세가 한국 시장에도 긍정적인 영향을 미칠 것으로 예상됨.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.thefairnews.co.kr/news/articleView.html?idxno=71621",
+    "pub_date": "Tue, 17 Mar 2026 02:20:00 +0900",
+    "analyzed_at": "2026-03-16T17:48:51.698221"
+  },
+  {
+    "title": "유정복 시장 '일자리는 경제 원동력…바이오·반도체 등 6대 산업 육성 ...",
+    "score": 2,
+    "reason": "바이오와 반도체 산업 육성 계획이 긍정적이나 구체적인 실적 개선은 미비함.",
+    "related_stocks": [
+      "셀트리온",
+      "LG화학"
+    ],
+    "link": "https://www.cstimes.com/news/articleView.html?idxno=697769",
+    "pub_date": "Tue, 17 Mar 2026 02:06:00 +0900",
+    "analyzed_at": "2026-03-16T17:48:51.698232"
+  },
+  {
+    "title": "황대호 의원 '3선 도전 대신 백의종군하며 한준호 지지하겠다' 선언",
+    "score": 0,
+    "reason": "정치적 발언으로 주가에 직접적인 영향은 없음.",
+    "related_stocks": [],
+    "link": "https://www.thereport.co.kr/news/articleView.html?idxno=85388",
+    "pub_date": "Tue, 17 Mar 2026 02:00:00 +0900",
+    "analyzed_at": "2026-03-16T17:48:51.698235"
+  },
+  {
+    "title": "경과원·이천시, 반도체 소부장 육성 ‘맞손’…시제품·판로개척 지원",
+    "score": 3,
+    "reason": "반도체 소부장 기업 육성 프로그램이 긍정적인 산업 지원으로 평가됨.",
+    "related_stocks": [
+      "한미반도체",
+      "이오테크닉스"
+    ],
+    "link": "https://www.segye.com/newsView/20260317500554?OutUrl=naver",
+    "pub_date": "Tue, 17 Mar 2026 01:58:00 +0900",
+    "analyzed_at": "2026-03-16T17:48:51.698237"
+  },
+  {
+    "title": "비트코인 반등의 실체는 ‘숏 청산’…추세 상승 분기점 맞나",
+    "score": 0,
+    "reason": "비트코인의 반등이 숏 청산에 의한 것이며 주식 시장에 미치는 영향이 불확실함.",
+    "related_stocks": [],
+    "link": "https://www.tokenpost.kr/news/cryptocurrency/339993",
+    "pub_date": "Tue, 17 Mar 2026 01:48:00 +0900",
+    "analyzed_at": "2026-03-16T17:48:55.020833"
   }
 ]
