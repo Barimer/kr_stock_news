@@ -26130,5 +26130,398 @@
     "link": "https://www.theguru.co.kr/news/article.html?no=99282",
     "pub_date": "Mon, 16 Mar 2026 14:08:00 +0900",
     "analyzed_at": "2026-03-16T05:34:18.199196"
+  },
+  {
+    "title": "정부, 기업 부담 완화 '전기료 개편'…'반도체·철강·석화' 우려",
+    "score": -2,
+    "reason": "전기료 개편이 반도체 산업에 미치는 불확실성이 우려되며, 비용 절감 효과가 불확실함.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=824494",
+    "pub_date": "Mon, 16 Mar 2026 16:00:00 +0900",
+    "analyzed_at": "2026-03-16T07:01:41.697238"
+  },
+  {
+    "title": "SKT, AX 전환 본격화…삼성전자, '갤럭시 버즈 커스텀 랩' 운영 [IT오늘]",
+    "score": 2,
+    "reason": "삼성전자의 새로운 고객 경험 제공이 브랜드 이미지 개선에 기여할 것으로 예상됨.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "http://www.sisaon.co.kr/news/articleView.html?idxno=181435",
+    "pub_date": "Mon, 16 Mar 2026 16:00:00 +0900",
+    "analyzed_at": "2026-03-16T07:01:41.697247"
+  },
+  {
+    "title": "[마감시황] 유가∙환율 부담 속 코스피, 1.1% 상승…5540대서 장 마감",
+    "score": 1,
+    "reason": "코스피 상승에도 불구하고 유가와 환율 부담이 여전히 존재하여 긍정적이나 제한적 영향.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "http://www.segyebiz.com/newsView/20260316514631?OutUrl=naver",
+    "pub_date": "Mon, 16 Mar 2026 16:00:00 +0900",
+    "analyzed_at": "2026-03-16T07:01:41.697249"
+  },
+  {
+    "title": "GTC 2026, '추론·에이전트·피지컬 AI'로 무게 이동",
+    "score": 3,
+    "reason": "삼성전자의 HBM4 생산 계획이 엔비디아와의 협력으로 긍정적인 실적을 기대하게 함.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.newswhoplus.com/news/articleView.html?idxno=56862",
+    "pub_date": "Mon, 16 Mar 2026 16:00:00 +0900",
+    "analyzed_at": "2026-03-16T07:01:41.697251"
+  },
+  {
+    "title": "[마감시황] 코스피 1%대 상승…반도체 강세 속 5550선 근접",
+    "score": 2,
+    "reason": "반도체 강세로 인해 코스피가 상승했으나, 전반적인 시장 불확실성은 여전함.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.ekn.kr/web/view.php?key=20260316025398182",
+    "pub_date": "Mon, 16 Mar 2026 16:00:00 +0900",
+    "analyzed_at": "2026-03-16T07:01:41.697253"
+  },
+  {
+    "title": "[증시-마감] 유가·환율 부담에도 선방한 코스피…1.1%대 상승",
+    "score": 2,
+    "reason": "반도체 주식의 상승이 코스피를 지탱하고 있으나, 외부 요인에 대한 우려가 남아있음.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4403936",
+    "pub_date": "Mon, 16 Mar 2026 16:00:00 +0900",
+    "analyzed_at": "2026-03-16T07:01:41.697254"
+  },
+  {
+    "title": "[경인방송 경제뉴스] 한국투자증권, 4차 IMA 상품 3천억원 모집",
+    "score": 1,
+    "reason": "삼성전자의 AI 인증 취득이 긍정적이나, 직접적인 주가 영향은 제한적.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "https://news.ifm.kr/news/articleView.html?idxno=466882",
+    "pub_date": "Mon, 16 Mar 2026 16:00:00 +0900",
+    "analyzed_at": "2026-03-16T07:01:41.697256"
+  },
+  {
+    "title": "코스피, 소폭 상승 5540선 마감...삼전·하닉 ↑",
+    "score": 1,
+    "reason": "삼성전자와 SK하이닉스의 상승이 긍정적이나, 전반적인 시장 상황은 여전히 불안정.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.cstimes.com/news/articleView.html?idxno=697709",
+    "pub_date": "Mon, 16 Mar 2026 16:00:00 +0900",
+    "analyzed_at": "2026-03-16T07:01:41.697260"
+  },
+  {
+    "title": "반도체 투톱 견인에 코스피 5500 안착…환율 1500원 임박",
+    "score": 3,
+    "reason": "반도체 주식의 강세가 코스피 안착에 기여하고 있어 긍정적인 신호.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.nocutnews.co.kr/news/6485631?utm_source=naver&utm_medium=article&utm_campaign=20260316035944",
+    "pub_date": "Mon, 16 Mar 2026 16:00:00 +0900",
+    "analyzed_at": "2026-03-16T07:01:41.697262"
+  },
+  {
+    "title": "국제 유가 10% 오르면 국내 제조업 생산비용 0.71% 증가",
+    "score": -1,
+    "reason": "유가 상승이 제조업 생산비용에 부정적인 영향을 미칠 것으로 예상됨.",
+    "related_stocks": [
+      "삼성전자",
+      "현대차"
+    ],
+    "link": "https://www.khan.co.kr/article/202603161559001",
+    "pub_date": "Mon, 16 Mar 2026 15:59:00 +0900",
+    "analyzed_at": "2026-03-16T07:01:41.697264"
+  },
+  {
+    "title": "[마감시황]코스피, 고유가·고환율에도 상승 마감…SK하이닉스 7% 급등",
+    "score": 4,
+    "reason": "반도체 대장주 SK하이닉스의 급등과 긍정적인 글로벌 이벤트가 주가에 긍정적인 영향을 미침.",
+    "related_stocks": [
+      "SK하이닉스",
+      "삼성전자"
+    ],
+    "link": "https://www.newsway.co.kr/news/view?ud=2026031615493816819",
+    "pub_date": "Mon, 16 Mar 2026 15:58:00 +0900",
+    "analyzed_at": "2026-03-16T07:01:50.561236"
+  },
+  {
+    "title": "코스피 상승 마감했지만...환율, 리먼 사태 이후 첫 장중 1500 돌파",
+    "score": -2,
+    "reason": "환율 상승이 기업 실적에 부정적인 영향을 미칠 가능성이 있어 약한 악재로 작용.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=251521",
+    "pub_date": "Mon, 16 Mar 2026 15:58:00 +0900",
+    "analyzed_at": "2026-03-16T07:01:50.561246"
+  },
+  {
+    "title": "바이낸스 한국 주식지수 선물 출시…손 놓고 바라보는 국내 거래소",
+    "score": 3,
+    "reason": "글로벌 투자자들의 접근성이 높아져 한국 주식시장에 긍정적인 영향을 미칠 것으로 예상됨.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스",
+      "현대차"
+    ],
+    "link": "https://www.ajunews.com/view/20260316151907778",
+    "pub_date": "Mon, 16 Mar 2026 15:58:00 +0900",
+    "analyzed_at": "2026-03-16T07:01:50.561248"
+  },
+  {
+    "title": "국민의힘 “이재명 정권 '방탄 독재-민생 파탄-공소취소 거래 의혹 밝혀...",
+    "score": -2,
+    "reason": "정치적 불안정성이 커지며 시장에 부정적 영향을 미칠 가능성이 높음.",
+    "related_stocks": [],
+    "link": "http://www.breaknews.com/1192134",
+    "pub_date": "Mon, 16 Mar 2026 15:48:00 +0900",
+    "analyzed_at": "2026-03-16T07:02:04.899047"
+  },
+  {
+    "title": "5549.85 찍은 코스피의 역설…지수 올랐는데 종목 하락 646개",
+    "score": -1,
+    "reason": "지수 상승에도 불구하고 많은 종목이 하락하여 시장의 불안정성을 나타냄.",
+    "related_stocks": [],
+    "link": "https://www.wikitree.co.kr/articles/1125280",
+    "pub_date": "Mon, 16 Mar 2026 15:46:00 +0900",
+    "analyzed_at": "2026-03-16T07:02:04.899055"
+  },
+  {
+    "title": "Seoul shares close over 1 pct higher despite oil price hikes",
+    "score": 2,
+    "reason": "유가 상승에도 불구하고 코스피가 상승하여 긍정적인 시장 신호로 해석됨.",
+    "related_stocks": [],
+    "link": "https://en.yna.co.kr/view/AEN20260316006600320?input=2106m",
+    "pub_date": "Mon, 16 Mar 2026 15:41:00 +0900",
+    "analyzed_at": "2026-03-16T07:02:04.899056"
+  },
+  {
+    "title": "KOSPI 200 Closing Price List-4",
+    "score": 0,
+    "reason": "종목별 가격 변동이 있으나 전체적인 시장 방향성에 큰 영향을 미치지 않음.",
+    "related_stocks": [],
+    "link": "https://en.yna.co.kr/view/AEN20260316007200320?input=2106m",
+    "pub_date": "Mon, 16 Mar 2026 15:40:00 +0900",
+    "analyzed_at": "2026-03-16T07:02:04.899058"
+  },
+  {
+    "title": "KOSPI 200 Closing Price List-2",
+    "score": 0,
+    "reason": "종목별 가격 변동이 있으나 전체적인 시장 방향성에 큰 영향을 미치지 않음.",
+    "related_stocks": [],
+    "link": "https://en.yna.co.kr/view/AEN20260316007000320?input=2106m",
+    "pub_date": "Mon, 16 Mar 2026 15:40:00 +0900",
+    "analyzed_at": "2026-03-16T07:02:04.899059"
+  },
+  {
+    "title": "KOSPI 200 Closing Price List-5",
+    "score": 0,
+    "reason": "종목별 가격 변동이 있으나 전체적인 시장 방향성에 큰 영향을 미치지 않음.",
+    "related_stocks": [],
+    "link": "https://en.yna.co.kr/view/AEN20260316007300320?input=2106m",
+    "pub_date": "Mon, 16 Mar 2026 15:40:00 +0900",
+    "analyzed_at": "2026-03-16T07:02:04.899060"
+  },
+  {
+    "title": "KOSPI 200 Closing Price List-3",
+    "score": 0,
+    "reason": "종목별 가격 변동이 있으나 전체적인 시장 방향성에 큰 영향을 미치지 않음.",
+    "related_stocks": [],
+    "link": "https://en.yna.co.kr/view/AEN20260316007100320?input=2106m",
+    "pub_date": "Mon, 16 Mar 2026 15:40:00 +0900",
+    "analyzed_at": "2026-03-16T07:02:04.899061"
+  },
+  {
+    "title": "KOSPI 200 Closing Price List-1",
+    "score": 0,
+    "reason": "종목별 가격 변동이 있으나 전체적인 시장 방향성에 큰 영향을 미치지 않음.",
+    "related_stocks": [],
+    "link": "https://en.yna.co.kr/view/AEN20260316006900320?input=2106m",
+    "pub_date": "Mon, 16 Mar 2026 15:40:00 +0900",
+    "analyzed_at": "2026-03-16T07:02:04.899063"
+  },
+  {
+    "title": "(URGENT) KOSPI closes 1.14 pct higher despite oil price hike",
+    "score": 2,
+    "reason": "유가 상승에도 불구하고 코스피가 상승하여 긍정적인 시장 신호로 해석됨.",
+    "related_stocks": [],
+    "link": "https://en.yna.co.kr/view/AEN20260316006300320?input=2106m",
+    "pub_date": "Mon, 16 Mar 2026 15:34:00 +0900",
+    "analyzed_at": "2026-03-16T07:02:04.899064"
+  },
+  {
+    "title": "KOSPI 5,549.85 UP 62.61 points (close)",
+    "score": 2,
+    "reason": "코스피가 상승하여 시장에 긍정적인 영향을 미침.",
+    "related_stocks": [],
+    "link": "https://en.yna.co.kr/view/AEN20260316006400320?input=2106m",
+    "pub_date": "Mon, 16 Mar 2026 15:33:00 +0900",
+    "analyzed_at": "2026-03-16T07:02:04.899065"
+  },
+  {
+    "title": "유가 출렁일 때마다 흔들린 코스피…반도체 랠리에 반등 마감",
+    "score": 3,
+    "reason": "반도체 업종의 강세로 코스피가 반등하며 긍정적인 시장 분위기를 형성하고 있음.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03995046645383976",
+    "pub_date": "Mon, 16 Mar 2026 16:01:00 +0900",
+    "analyzed_at": "2026-03-16T07:02:12.921032"
+  },
+  {
+    "title": "대우루컴즈, 공공 조달 PC 시장 3년 연속 1위",
+    "score": 1,
+    "reason": "공공 PC 시장에서의 1위는 긍정적이나 원가 상승으로 출하량 감소 우려가 있음.",
+    "related_stocks": [
+      "대우루컴즈"
+    ],
+    "link": "https://www.etnews.com/20260316000258",
+    "pub_date": "Mon, 16 Mar 2026 16:01:00 +0900",
+    "analyzed_at": "2026-03-16T07:02:12.921041"
+  },
+  {
+    "title": "[ET단상] 생산의 가치를 지키는 전기요금의 원칙",
+    "score": 0,
+    "reason": "전기요금 원칙에 대한 논의는 중립적이며 주가에 직접적인 영향 없음.",
+    "related_stocks": [],
+    "link": "https://www.etnews.com/20260316000181",
+    "pub_date": "Mon, 16 Mar 2026 16:01:00 +0900",
+    "analyzed_at": "2026-03-16T07:02:12.921043"
+  },
+  {
+    "title": "현대차정몽구 재단, 과학기술 장학생 학술교류 행사 개최",
+    "score": 2,
+    "reason": "과학기술 분야의 연구 성과 소개는 긍정적이나 직접적인 주가 영향은 제한적.",
+    "related_stocks": [
+      "현대차"
+    ],
+    "link": "https://www.getnews.co.kr/news/articleView.html?idxno=864569",
+    "pub_date": "Mon, 16 Mar 2026 16:00:00 +0900",
+    "analyzed_at": "2026-03-16T07:02:12.921044"
+  },
+  {
+    "title": "레인보우로보틱스 주가 72만원 마감...3만원 뚝, 따로 가는 분위기",
+    "score": -2,
+    "reason": "주가 하락이 지속되고 있어 투자 심리에 부정적 영향을 미칠 것으로 예상됨.",
+    "related_stocks": [
+      "레인보우로보틱스"
+    ],
+    "link": "https://www.cbci.co.kr/news/articleView.html?idxno=561229",
+    "pub_date": "Mon, 16 Mar 2026 15:58:00 +0900",
+    "analyzed_at": "2026-03-16T07:02:33.764825"
+  },
+  {
+    "title": "연준 메시지·중동 긴장 겹친 한주…비트코인, 단기 방향성 갈릴까",
+    "score": 0,
+    "reason": "금리 인하와 지정학적 리스크가 혼재하여 주가에 미치는 영향이 불확실함.",
+    "related_stocks": [],
+    "link": "https://www.tokenpost.kr/news/economy/339814",
+    "pub_date": "Mon, 16 Mar 2026 15:56:00 +0900",
+    "analyzed_at": "2026-03-16T07:02:33.764835"
+  },
+  {
+    "title": "웹케시, 89억 규모 자사주 소각···주주가치 제고",
+    "score": 4,
+    "reason": "자사주 소각을 통한 주주가치 제고는 긍정적인 신호로 해석됨.",
+    "related_stocks": [
+      "웹케시"
+    ],
+    "link": "http://www.wsobi.com/news/articleView.html?idxno=307255",
+    "pub_date": "Mon, 16 Mar 2026 15:52:00 +0900",
+    "analyzed_at": "2026-03-16T07:02:33.764836"
+  },
+  {
+    "title": "증권가, 실적 잔치에도 채용은 ‘찔끔’… 공채 규모 예년과 비슷한 이",
+    "score": 1,
+    "reason": "실적 개선에도 불구하고 채용이 미비하여 향후 성장성에 대한 우려가 존재함.",
+    "related_stocks": [],
+    "link": "https://biz.chosun.com/stock/stock_general/2026/03/16/K2ZH775YQVFBBJAHDJWNENC2EI/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+    "pub_date": "Mon, 16 Mar 2026 15:51:00 +0900",
+    "analyzed_at": "2026-03-16T07:02:33.764837"
+  },
+  {
+    "title": "웹케시, 자사주 68만여주 소각 결정 … 주주가치 제고",
+    "score": 4,
+    "reason": "자사주 소각을 통한 주주환원 조치는 긍정적인 평가를 받을 가능성이 높음.",
+    "related_stocks": [
+      "웹케시"
+    ],
+    "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=641515",
+    "pub_date": "Mon, 16 Mar 2026 15:46:00 +0900",
+    "analyzed_at": "2026-03-16T07:02:33.764839"
+  },
+  {
+    "title": "웹케시, 89억 규모 자사주 소각 ··· 주주가치 제고 행보 지속",
+    "score": 4,
+    "reason": "지속적인 자사주 소각은 주주가치 제고에 긍정적인 영향을 미침.",
+    "related_stocks": [
+      "웹케시"
+    ],
+    "link": "https://www.datanet.co.kr/news/articleView.html?idxno=210107",
+    "pub_date": "Mon, 16 Mar 2026 15:46:00 +0900",
+    "analyzed_at": "2026-03-16T07:02:33.764840"
+  },
+  {
+    "title": "B2B 영업·마케팅 솔루션 기업 웨이온, '수출바우처' 수행기관 선정",
+    "score": 2,
+    "reason": "수출바우처 선정은 긍정적인 사업 확장을 의미하지만, 즉각적인 주가 영향은 제한적임.",
+    "related_stocks": [
+      "웨이온"
+    ],
+    "link": "https://www.newspim.com/news/view/20260316000955",
+    "pub_date": "Mon, 16 Mar 2026 15:45:00 +0900",
+    "analyzed_at": "2026-03-16T07:02:33.764841"
+  },
+  {
+    "title": "[파워인터뷰 화제人] 전교중 지투지바이오 사장 “지속성 약물 전달 플",
+    "score": 1,
+    "reason": "AI와 관련된 혁신적인 기술 언급은 긍정적이나 구체적인 사업 성과가 부족함.",
+    "related_stocks": [],
+    "link": "https://news.mtn.co.kr/news-detail/2026031613332395171",
+    "pub_date": "Mon, 16 Mar 2026 15:42:00 +0900",
+    "analyzed_at": "2026-03-16T07:02:33.764843"
+  },
+  {
+    "title": "[장외시황] 한패스·메쥬 공모주 청약 시작…비상장 시장 반등",
+    "score": 2,
+    "reason": "비상장 시장 반등은 긍정적이나 공모주 청약의 성공 여부에 따라 달라질 수 있음.",
+    "related_stocks": [
+      "한패스",
+      "메쥬"
+    ],
+    "link": "https://www.etoday.co.kr/news/view/2565821",
+    "pub_date": "Mon, 16 Mar 2026 15:42:00 +0900",
+    "analyzed_at": "2026-03-16T07:02:33.764844"
+  },
+  {
+    "title": "웹케시, 89억 규모 자사주 소각…주주가치 제고 행보 가속",
+    "score": 4,
+    "reason": "자사주 소각은 주주가치 제고에 긍정적인 영향을 미치며, 지속적인 환원 정책이 기대됨.",
+    "related_stocks": [
+      "웹케시"
+    ],
+    "link": "http://www.datanews.co.kr/news/article.html?no=143807",
+    "pub_date": "Mon, 16 Mar 2026 15:40:00 +0900",
+    "analyzed_at": "2026-03-16T07:02:33.764845"
   }
 ]
