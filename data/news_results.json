@@ -29619,5 +29619,329 @@
     "link": "https://www.chosun.com/international/international_general/2026/03/17/SJZWC2L5QJEBHEPFM3VSIQOCZE/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
     "pub_date": "Tue, 17 Mar 2026 05:14:00 +0900",
     "analyzed_at": "2026-03-16T20:59:52.931023"
+  },
+  {
+    "title": "[반도체 인플레이션 경보] AI 반도체 월 매출 123조 첫 돌파…슈퍼 사이...",
+    "score": -2,
+    "reason": "반도체 가격 인상은 단기적으로 기업의 비용 증가를 초래할 수 있어 부정적 영향을 미칠 수 있다.",
+    "related_stocks": [
+      "삼성전자",
+      "넥스칩"
+    ],
+    "link": "https://www.g-enews.com/view.php?ud=202603170644428658fbbec65dfb_1",
+    "pub_date": "Tue, 17 Mar 2026 06:50:00 +0900",
+    "analyzed_at": "2026-03-16T21:52:18.902564"
+  },
+  {
+    "title": "피지컬AI '별의 순간' 온다…한국 기회 잡을까",
+    "score": 2,
+    "reason": "한국 기업들이 로봇 기술에 집중하고 있어 향후 성장 가능성이 있다.",
+    "related_stocks": [
+      "삼성전자",
+      "현대자동차"
+    ],
+    "link": "https://news.bizwatch.co.kr/article/industry/2026/03/16/0027",
+    "pub_date": "Tue, 17 Mar 2026 06:50:00 +0900",
+    "analyzed_at": "2026-03-16T21:52:18.902573"
+  },
+  {
+    "title": "한화세미텍, 美 남부 공략 가속화…'FHP Reps'와 파트너십 체결",
+    "score": 3,
+    "reason": "미국 시장에서의 파트너십 체결은 성장 기회를 확대할 수 있는 긍정적인 요소이다.",
+    "related_stocks": [
+      "한화세미텍",
+      "삼성전자"
+    ],
+    "link": "https://www.kpinews.kr/newsView/1065562872661137",
+    "pub_date": "Tue, 17 Mar 2026 06:49:00 +0900",
+    "analyzed_at": "2026-03-16T21:52:18.902575"
+  },
+  {
+    "title": "최태원 회장 GTC 첫 방문…SK하이닉스, 메모리 경쟁력 과시",
+    "score": 3,
+    "reason": "메모리 반도체 분야에서의 협력 논의는 긍정적인 시그널로 작용할 수 있다.",
+    "related_stocks": [
+      "SK하이닉스",
+      "삼성전자"
+    ],
+    "link": "http://www.metroseoul.co.kr/article/20260317500009",
+    "pub_date": "Tue, 17 Mar 2026 06:46:00 +0900",
+    "analyzed_at": "2026-03-16T21:52:18.902576"
+  },
+  {
+    "title": "젠슨 황, GTC서 '삼성에 감사'…삼성, 엔비디아 긴밀 협력(종합)",
+    "score": 4,
+    "reason": "삼성과 엔비디아 간의 협력 강화는 반도체 시장에서 긍정적인 영향을 미칠 것으로 예상된다.",
+    "related_stocks": [
+      "삼성전자",
+      "엔비디아"
+    ],
+    "link": "https://www.yna.co.kr/view/AKR20260316154451091?input=1195m",
+    "pub_date": "Tue, 17 Mar 2026 06:44:00 +0900",
+    "analyzed_at": "2026-03-16T21:52:18.902578"
+  },
+  {
+    "title": "[인터뷰] “축음기 시대에 멈춘 음악을 깨운다”…작곡가 출신 CEO 이성...",
+    "score": 0,
+    "reason": "특정 기업의 성장 가능성에 대한 언급이 있으나 주식 시장에 미치는 영향은 미미하다.",
+    "related_stocks": [],
+    "link": "https://biz.heraldcorp.com/article/10695632?ref=naver",
+    "pub_date": "Tue, 17 Mar 2026 06:42:00 +0900",
+    "analyzed_at": "2026-03-16T21:52:18.902579"
+  },
+  {
+    "title": "젠슨황 “삼성이 AI칩 만든다”…1조 달러 청사진 공개",
+    "score": 5,
+    "reason": "삼성전자의 AI 칩 생산 참여는 향후 큰 시장 기회를 창출할 수 있는 매우 긍정적인 소식이다.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "https://www.bntnews.co.kr/article/view/bnt202603170012",
+    "pub_date": "Tue, 17 Mar 2026 06:42:00 +0900",
+    "analyzed_at": "2026-03-16T21:52:18.902581"
+  },
+  {
+    "title": "K증시 24시간 10배 베팅…바이낸스, EWYUSDT 선물 상장",
+    "score": 1,
+    "reason": "레버리지 상품의 출시는 투자자에게 새로운 기회를 제공하지만, 위험도 동반한다.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202603161549292160349",
+    "pub_date": "Tue, 17 Mar 2026 06:40:00 +0900",
+    "analyzed_at": "2026-03-16T21:52:18.902585"
+  },
+  {
+    "title": "삼성전자, GTC서 HBM4E 첫 공개…엔비디아와 ‘AI 인프라 동맹’ 강화",
+    "score": 4,
+    "reason": "차세대 AI 메모리 공개는 삼성전자의 기술력과 시장 경쟁력을 강화할 수 있는 긍정적인 요소이다.",
+    "related_stocks": [
+      "삼성전자",
+      "엔비디아"
+    ],
+    "link": "https://www.mk.co.kr/article/11989841",
+    "pub_date": "Tue, 17 Mar 2026 06:39:00 +0900",
+    "analyzed_at": "2026-03-16T21:52:18.902587"
+  },
+  {
+    "title": "삼성전자, 엔비디아 GTC서 차세대 HBM4E 칩 최초 공개",
+    "score": 4,
+    "reason": "차세대 기술 공개는 삼성전자의 시장 지배력을 높일 수 있는 중요한 요소이다.",
+    "related_stocks": [
+      "삼성전자",
+      "엔비디아"
+    ],
+    "link": "http://www.newsdream.kr/news/articleView.html?idxno=109520",
+    "pub_date": "Tue, 17 Mar 2026 06:36:00 +0900",
+    "analyzed_at": "2026-03-16T21:52:18.902588"
+  },
+  {
+    "title": "SK하이닉스, GTC 2026 참가…‘메모리 경쟁력’ 공개",
+    "score": 4,
+    "reason": "엔비디아와의 협업을 통해 AI 메모리 기술을 선보이며 긍정적인 시장 반응을 이끌어낼 것으로 예상됨.",
+    "related_stocks": [
+      "SK하이닉스"
+    ],
+    "link": "https://www.mk.co.kr/article/11989844",
+    "pub_date": "Tue, 17 Mar 2026 06:43:00 +0900",
+    "analyzed_at": "2026-03-16T21:52:29.846854"
+  },
+  {
+    "title": "SK하이닉스, '엔비디아 GTC 2026' 참가…AI 인프라 핵심 '메모리 경쟁력'",
+    "score": 4,
+    "reason": "글로벌 AI 콘퍼런스 참가로 SK하이닉스의 메모리 기술이 주목받을 것으로 기대됨.",
+    "related_stocks": [
+      "SK하이닉스"
+    ],
+    "link": "http://www.popcornnews.net/news/articleView.html?idxno=115260",
+    "pub_date": "Tue, 17 Mar 2026 06:40:00 +0900",
+    "analyzed_at": "2026-03-16T21:52:29.846863"
+  },
+  {
+    "title": "SK하이닉스, 엔비디아 GTC 2026서 AI 메모리 솔루션 대거 공개",
+    "score": 4,
+    "reason": "AI 메모리 기술 경쟁력을 강조하며 시장에서 긍정적인 반응을 이끌어낼 가능성이 높음.",
+    "related_stocks": [
+      "SK하이닉스"
+    ],
+    "link": "https://www.asiatime.co.kr/article/20260317500002",
+    "pub_date": "Tue, 17 Mar 2026 06:38:00 +0900",
+    "analyzed_at": "2026-03-16T21:52:29.846864"
+  },
+  {
+    "title": "[증시전략] 엔비디아, 추론 전용칩·새 CPU 공개…주목할 점은?",
+    "score": 2,
+    "reason": "GTC 행사로 인해 반도체 관련 주식이 긍정적인 영향을 받을 것으로 보이나, 직접적인 호재는 아님.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://biz.sbs.co.kr/article_hub/20000297829?division=NAVER",
+    "pub_date": "Tue, 17 Mar 2026 06:34:00 +0900",
+    "analyzed_at": "2026-03-16T21:52:29.846866"
+  },
+  {
+    "title": "SK하이닉스, 엔비디아 협력 과시…최태원·곽노정 총출동 [GTC 2026]",
+    "score": 4,
+    "reason": "최태원 회장과 경영진의 참석으로 SK하이닉스의 메모리 기술이 더욱 부각될 것으로 예상됨.",
+    "related_stocks": [
+      "SK하이닉스"
+    ],
+    "link": "https://www.hankyung.com/article/202603175337i",
+    "pub_date": "Tue, 17 Mar 2026 06:31:00 +0900",
+    "analyzed_at": "2026-03-16T21:52:29.846867"
+  },
+  {
+    "title": "최태원·곽노정 나란히⋯ SK하이닉스, GTC서 ‘AI 메모리’ 경쟁력 뽐내",
+    "score": 4,
+    "reason": "AI 시대의 핵심 인프라로서 메모리 기술을 강조하며 긍정적인 시장 반응을 이끌어낼 것으로 보임.",
+    "related_stocks": [
+      "SK하이닉스"
+    ],
+    "link": "https://www.viva100.com/article/20260317500022",
+    "pub_date": "Tue, 17 Mar 2026 06:24:00 +0900",
+    "analyzed_at": "2026-03-16T21:52:29.846868"
+  },
+  {
+    "title": "미국증시 나스닥100 '활짝'...메모리 반도체주 · MSTR '껑충'",
+    "score": 4,
+    "reason": "주요 반도체주가 급등하며 나스닥100 지수가 상승, 긍정적인 시장 분위기 조성.",
+    "related_stocks": [
+      "웨스턴 디지털",
+      "MSTR"
+    ],
+    "link": "http://www.choicenews.co.kr/news/articleView.html?idxno=162375",
+    "pub_date": "Tue, 17 Mar 2026 06:44:00 +0900",
+    "analyzed_at": "2026-03-16T21:52:36.165538"
+  },
+  {
+    "title": "호르무즈 개방 기대감에 뉴욕 증시 동반 상승 마감",
+    "score": 3,
+    "reason": "AI와 반도체 관련주 상승으로 전반적인 증시 상승, 긍정적인 투자 심리.",
+    "related_stocks": [
+      "AI 관련주",
+      "반도체 관련주"
+    ],
+    "link": "https://www.ytn.co.kr/_ln/0104_202603170641485345",
+    "pub_date": "Tue, 17 Mar 2026 06:41:00 +0900",
+    "analyzed_at": "2026-03-16T21:52:36.165546"
+  },
+  {
+    "title": "뉴욕증시, 국제유가 하락에 나란히 상승…나스닥 1.2%↑",
+    "score": 2,
+    "reason": "국제유가 하락이 긍정적으로 작용하며 증시 상승, 그러나 반도체 대장주 상승폭은 제한적.",
+    "related_stocks": [
+      "엔비디아"
+    ],
+    "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=834248",
+    "pub_date": "Tue, 17 Mar 2026 06:40:00 +0900",
+    "analyzed_at": "2026-03-16T21:52:36.165547"
+  },
+  {
+    "title": "'전기차 캐즘 완화' LG유플러스볼트업 매출 5배…적자 개선은 숙제",
+    "score": 2,
+    "reason": "매출 증가가 긍정적이나 적자 개선이 필요해 약한 호재로 평가됨.",
+    "related_stocks": [
+      "LG유플러스",
+      "카카오모빌리티"
+    ],
+    "link": "https://www.mt.co.kr/tech/2026/03/17/2026031614012822657",
+    "pub_date": "Tue, 17 Mar 2026 06:30:00 +0900",
+    "analyzed_at": "2026-03-16T21:52:54.503013"
+  },
+  {
+    "title": "AI주 다시 끌어올린 월가…유가 하락에 나스닥 1.2%↑[월스트리트in]",
+    "score": 3,
+    "reason": "AI 관련 기술주 강세가 긍정적인 시장 분위기를 조성하고 있어 강한 호재로 판단됨.",
+    "related_stocks": [
+      "나스닥",
+      "AI 관련 주식"
+    ],
+    "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02250086645384304",
+    "pub_date": "Tue, 17 Mar 2026 06:27:00 +0900",
+    "analyzed_at": "2026-03-16T21:52:54.503021"
+  },
+  {
+    "title": "“삼전닉스 이어갈 ‘텐배거’ 더 있다”…에이피알 찍었던 남자의 원픽...",
+    "score": 3,
+    "reason": "AI 관련 업체에 대한 긍정적인 전망이 주목받고 있어 강한 호재로 평가됨.",
+    "related_stocks": [
+      "삼전닉스",
+      "AI 관련 주식"
+    ],
+    "link": "https://www.mk.co.kr/article/11989826",
+    "pub_date": "Tue, 17 Mar 2026 06:19:00 +0900",
+    "analyzed_at": "2026-03-16T21:52:54.503023"
+  },
+  {
+    "title": "“뉴욕 주식 시장, 고유가 타격 작다...약세장 없을 것”",
+    "score": 1,
+    "reason": "고유가에도 불구하고 기업 실적이 탄탄하다는 점에서 약한 호재로 판단됨.",
+    "related_stocks": [
+      "뉴욕 주식 시장 관련 주식"
+    ],
+    "link": "https://www.g-enews.com/view.php?ud=202603170147292454be84d87674_1",
+    "pub_date": "Tue, 17 Mar 2026 06:06:00 +0900",
+    "analyzed_at": "2026-03-16T21:52:54.503024"
+  },
+  {
+    "title": "저축은행 예금금리 다시 들썩…증시 대기자금 잡기 경쟁",
+    "score": 0,
+    "reason": "자금 유입에 대한 경쟁이 있지만 주가에 미치는 영향은 중립적임.",
+    "related_stocks": [
+      "저축은행",
+      "증권사"
+    ],
+    "link": "https://news.mtn.co.kr/news-detail/2026031614485175730",
+    "pub_date": "Tue, 17 Mar 2026 06:04:00 +0900",
+    "analyzed_at": "2026-03-16T21:52:54.503026"
+  },
+  {
+    "title": "유가 하락에 뉴욕증시 일제히 반등…엔비디아 등 M7 상승",
+    "score": 3,
+    "reason": "유가 하락이 긍정적인 영향을 미쳐 강한 호재로 평가됨.",
+    "related_stocks": [
+      "엔비디아",
+      "M7 관련 주식"
+    ],
+    "link": "https://biz.sbs.co.kr/article_hub/20000297834?division=NAVER",
+    "pub_date": "Tue, 17 Mar 2026 06:02:00 +0900",
+    "analyzed_at": "2026-03-16T21:52:54.503027"
+  },
+  {
+    "title": "‘반도체 슈퍼사이클’ 올라탄 삼성·SK…보수 늘리고 기술통 키운다",
+    "score": 4,
+    "reason": "반도체 수요 증가와 경영진 보상 체계 개선이 긍정적 요소로 작용해 강한 호재로 판단됨.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.kukinews.com/article/view/kuk202603160239",
+    "pub_date": "Tue, 17 Mar 2026 06:02:00 +0900",
+    "analyzed_at": "2026-03-16T21:52:54.503028"
+  },
+  {
+    "title": "\"PB 활용·AI 역량 자산관리 성패 가를 것\"",
+    "score": 1,
+    "reason": "AI 활용에 대한 언급이 있으나 구체적인 호재는 부족해 약한 호재로 평가됨.",
+    "related_stocks": [
+      "키움증권",
+      "자산관리 관련 주식"
+    ],
+    "link": "https://www.kbanker.co.kr/news/articleView.html?idxno=224397",
+    "pub_date": "Tue, 17 Mar 2026 06:00:00 +0900",
+    "analyzed_at": "2026-03-16T21:52:54.503029"
+  },
+  {
+    "title": "유가·금리·달러 '3각 압박'…전문가 \"펀더멘털 확인, 비중확대 조언\"",
+    "score": 0,
+    "reason": "지정학적 리스크 해결 기미가 보이지만 주가에 미치는 영향은 중립적임.",
+    "related_stocks": [
+      "국내 증시 관련 주식"
+    ],
+    "link": "https://www.etoday.co.kr/news/view/2565801",
+    "pub_date": "Tue, 17 Mar 2026 06:00:00 +0900",
+    "analyzed_at": "2026-03-16T21:52:54.503030"
   }
 ]
