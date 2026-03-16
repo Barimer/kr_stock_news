@@ -28749,5 +28749,146 @@
     "link": "http://www.newswell.co.kr/news/articleView.html?idxno=16739",
     "pub_date": "Tue, 17 Mar 2026 00:02:00 +0900",
     "analyzed_at": "2026-03-16T15:34:44.175034"
+  },
+  {
+    "title": "입사하면 ‘성과급만 1억4000만원’ 받는데…삼성전자보다 SK하이닉스 선호도 상승",
+    "score": 3,
+    "reason": "SK하이닉스의 인재 유치 경쟁력이 강화되며 긍정적인 이미지가 형성되고 있다.",
+    "related_stocks": [
+      "SK하이닉스"
+    ],
+    "link": "https://www.sedaily.com/article/20019964?ref=naver",
+    "pub_date": "Tue, 17 Mar 2026 01:31:00 +0900",
+    "analyzed_at": "2026-03-16T16:45:02.289209"
+  },
+  {
+    "title": "용인 이동저수지, 480㏊ 초대형 호수공원로 대변신",
+    "score": 0,
+    "reason": "지역 개발 소식이나 주식 시장에 미치는 영향이 크지 않다.",
+    "related_stocks": [],
+    "link": "https://www.thereport.co.kr/news/articleView.html?idxno=85380",
+    "pub_date": "Tue, 17 Mar 2026 00:36:00 +0900",
+    "analyzed_at": "2026-03-16T16:45:02.289219"
+  },
+  {
+    "title": "SK하이닉스, 삼성전자 제치고 ‘입사 희망 대기업’ 1위로",
+    "score": 4,
+    "reason": "SK하이닉스의 인재 우대 정책이 긍정적인 기업 이미지와 함께 주가에 긍정적 영향을 미칠 것으로 예상된다.",
+    "related_stocks": [
+      "SK하이닉스"
+    ],
+    "link": "https://www.chosun.com/economy/industry-company/2026/03/17/ZPORREZ3ABF5HILOCJDFIB3Z7A/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+    "pub_date": "Tue, 17 Mar 2026 00:34:00 +0900",
+    "analyzed_at": "2026-03-16T16:45:02.289222"
+  },
+  {
+    "title": "유가 하락에 금융 시장 빠르게 안정…증시 반등, 달러 하락",
+    "score": 3,
+    "reason": "유가 하락으로 인한 금융 시장 안정은 메모리 반도체 업체에 긍정적인 영향을 미침.",
+    "related_stocks": [
+      "마이크론",
+      "샌디스크"
+    ],
+    "link": "http://www.fnnews.com/news/202603170133450053",
+    "pub_date": "Tue, 17 Mar 2026 01:38:00 +0900",
+    "analyzed_at": "2026-03-16T16:45:20.708467"
+  },
+  {
+    "title": "[GAM] 미∙중 무역협상, 금융∙부동산 등 리스크 관리 강화, 산업 고도화...",
+    "score": 2,
+    "reason": "신흥 산업 육성 계획은 긍정적이나 구체적인 실적 개선과 연결되지는 않음.",
+    "related_stocks": [],
+    "link": "https://www.newspim.com/news/view/20260317000004",
+    "pub_date": "Tue, 17 Mar 2026 01:11:00 +0900",
+    "analyzed_at": "2026-03-16T16:45:20.708477"
+  },
+  {
+    "title": "마이크론, 대만 통뤄에 두 번째 반도체 공장 추진…AI 메모리 수요 대응",
+    "score": 4,
+    "reason": "마이크론의 공장 증설은 AI 메모리 수요에 대한 긍정적인 대응으로 실적 개선 기대.",
+    "related_stocks": [
+      "마이크론"
+    ],
+    "link": "https://www.g-enews.com/view.php?ud=202603161754232299a1f309431_1",
+    "pub_date": "Tue, 17 Mar 2026 01:02:00 +0900",
+    "analyzed_at": "2026-03-16T16:45:20.708479"
+  },
+  {
+    "title": "미·중 파리 고위급 협상 종료…희토류·관세·에너지 충돌 속 중동 변수...",
+    "score": -2,
+    "reason": "미중 간의 갈등 지속은 반도체 산업에 부정적인 영향을 미칠 가능성이 있음.",
+    "related_stocks": [],
+    "link": "https://www.joongangenews.com/news/articleView.html?idxno=502951",
+    "pub_date": "Tue, 17 Mar 2026 01:00:00 +0900",
+    "analyzed_at": "2026-03-16T16:45:20.708483"
+  },
+  {
+    "title": "K-바이오, 이란 변수에 '휘청'…원료 자급 '숙제'",
+    "score": -1,
+    "reason": "글로벌 보건 안보 경쟁이 치열해지면서 K-바이오의 원료 자급 문제는 악재로 작용할 수 있음.",
+    "related_stocks": [],
+    "link": "http://www.yonhapnewstv.co.kr/MYH20260317005232ROP",
+    "pub_date": "Tue, 17 Mar 2026 00:53:00 +0900",
+    "analyzed_at": "2026-03-16T16:45:20.708484"
+  },
+  {
+    "title": "한준호-제종길 정책 간담회서 경기도-안산시 상호 협력 방안 논의",
+    "score": 1,
+    "reason": "안산을 반도체와 AI 산업 중심지로 혁신하려는 노력은 긍정적이나 실질적 효과는 미지수.",
+    "related_stocks": [],
+    "link": "https://www.thereport.co.kr/news/articleView.html?idxno=85385",
+    "pub_date": "Tue, 17 Mar 2026 00:50:00 +0900",
+    "analyzed_at": "2026-03-16T16:45:20.708486"
+  },
+  {
+    "title": "미국서 청천백일기 내걸고… 美·日·대만 3도시, 반도체 동맹",
+    "score": 3,
+    "reason": "반도체 공급망 안정성을 위한 3자 MOU 체결은 긍정적인 신호.",
+    "related_stocks": [],
+    "link": "https://www.chosun.com/international/international_general/2026/03/17/ISADC5M2ONBJBOWV2WMDUHSU4E/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+    "pub_date": "Tue, 17 Mar 2026 00:46:00 +0900",
+    "analyzed_at": "2026-03-16T16:45:20.708487"
+  },
+  {
+    "title": "삼성重, 조선업계 최초 ‘로봇 배관 공장’ 가동",
+    "score": 2,
+    "reason": "자동화 공장은 조선업 경쟁력 향상에 기여할 것으로 보이나 반도체와의 직접적 연관성은 낮음.",
+    "related_stocks": [
+      "삼성중공업"
+    ],
+    "link": "https://www.kmib.co.kr/article/view.asp?arcid=1773653615&code=11151400&cp=nv",
+    "pub_date": "Tue, 17 Mar 2026 00:43:00 +0900",
+    "analyzed_at": "2026-03-16T16:45:20.708489"
+  },
+  {
+    "title": "‘중동 쇼크’에 바닥난 에틸렌… 조선·건설·반도체 줄줄이 ‘비상’",
+    "score": -3,
+    "reason": "에틸렌 공급 문제는 반도체 산업에 부정적인 영향을 미칠 가능성이 높음.",
+    "related_stocks": [],
+    "link": "https://www.kmib.co.kr/article/view.asp?arcid=1773653265&code=11151400&cp=nv",
+    "pub_date": "Tue, 17 Mar 2026 00:42:00 +0900",
+    "analyzed_at": "2026-03-16T16:45:20.708491"
+  },
+  {
+    "title": "서클 주가 한 달 새 100% 급등…스테이블코인, ‘가장 뜨거운 크립토 트...",
+    "score": 4,
+    "reason": "서클 주가의 급등은 스테이블코인에 대한 긍정적인 시장 반응을 나타내며, 크립토 테마의 강세를 시사한다.",
+    "related_stocks": [
+      "서클(CRCL)"
+    ],
+    "link": "https://www.tokenpost.kr/news/market/339991",
+    "pub_date": "Tue, 17 Mar 2026 01:28:00 +0900",
+    "analyzed_at": "2026-03-16T16:45:26.167335"
+  },
+  {
+    "title": "BIS '중동 전쟁 장기화 땐 금리 급등·금융시장 매도세 확대'",
+    "score": -3,
+    "reason": "중동 전쟁 장기화 우려는 금융시장에 부정적인 영향을 미치며, 주식시장 압박을 가중시킬 가능성이 크다.",
+    "related_stocks": [
+      "미국 대형 기술주"
+    ],
+    "link": "http://www.fnnews.com/news/202603170042172887",
+    "pub_date": "Tue, 17 Mar 2026 00:45:00 +0900",
+    "analyzed_at": "2026-03-16T16:45:26.167344"
   }
 ]
