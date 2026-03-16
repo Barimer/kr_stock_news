@@ -29266,5 +29266,358 @@
     "link": "https://www.tokenpost.kr/news/cryptocurrency/340052",
     "pub_date": "Tue, 17 Mar 2026 04:26:00 +0900",
     "analyzed_at": "2026-03-16T20:02:15.303217"
+  },
+  {
+    "title": "‘아이폰’ 지고 ‘AI 서버’ 떴다… 폭스콘, 2026년 또 한 번의 역대급...",
+    "score": 4,
+    "reason": "폭스콘의 AI 인프라 구축 전략은 한국 반도체 기업들에게 기회가 될 것으로 보인다.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.g-enews.com/view.php?ud=202603161819277350c8c1c064d_1",
+    "pub_date": "Tue, 17 Mar 2026 05:56:00 +0900",
+    "analyzed_at": "2026-03-16T20:59:18.787198"
+  },
+  {
+    "title": "엔비디아, 추론 칩 공개 “삼성에 감사”…2027년까지 1조달러 매출 예...",
+    "score": 4,
+    "reason": "삼성전자가 엔비디아의 칩 생산에 기여하며 긍정적인 관계를 유지하고 있다.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "https://www.khan.co.kr/article/202603170556001",
+    "pub_date": "Tue, 17 Mar 2026 05:56:00 +0900",
+    "analyzed_at": "2026-03-16T20:59:18.787207"
+  },
+  {
+    "title": "인력난 덮친 미 제조현장, '두 발로 걷는' 휴머노이드 로봇이 구원투수...",
+    "score": 2,
+    "reason": "두산로보틱스와 삼성전자의 투자로 북미 시장에서의 성장 가능성이 보인다.",
+    "related_stocks": [
+      "두산로보틱스",
+      "삼성전자"
+    ],
+    "link": "https://www.g-enews.com/view.php?ud=2026031620142581412bd56fbc3c_1",
+    "pub_date": "Tue, 17 Mar 2026 05:56:00 +0900",
+    "analyzed_at": "2026-03-16T20:59:18.787210"
+  },
+  {
+    "title": "TV 공장 가동률 73%까지 '뚝'…수익성 압박 커진 가전업계",
+    "score": -2,
+    "reason": "TV 사업 부진으로 삼성전자의 수익성에 부정적인 영향을 미칠 것으로 예상된다.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "https://www.mt.co.kr/industry/2026/03/17/2026031615504744579",
+    "pub_date": "Tue, 17 Mar 2026 05:50:00 +0900",
+    "analyzed_at": "2026-03-16T20:59:18.787211"
+  },
+  {
+    "title": "삼성전자, 엔비디아 'GTC 2026'서 7세대 HBM4E 최초 공개",
+    "score": 4,
+    "reason": "삼성전자가 차세대 메모리 기술을 공개하며 기술력을 과시하고 있다.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "https://www.goodnews1.com/news/articleView.html?idxno=457679",
+    "pub_date": "Tue, 17 Mar 2026 05:46:00 +0900",
+    "analyzed_at": "2026-03-16T20:59:18.787213"
+  },
+  {
+    "title": "삼성전자, HBM4E 최초 공개…\"토털 솔루션으로 엔비디아와 AI 동맹 강화...",
+    "score": 4,
+    "reason": "삼성전자가 엔비디아와의 협력을 통해 AI 시장에서의 입지를 강화하고 있다.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "https://www.industrynews.co.kr/news/articleView.html?idxno=79035",
+    "pub_date": "Tue, 17 Mar 2026 05:46:00 +0900",
+    "analyzed_at": "2026-03-16T20:59:18.787214"
+  },
+  {
+    "title": "엔비디아 ‘그로크 LP30‘ 칩, 삼성전자가 만든다",
+    "score": 4,
+    "reason": "삼성전자가 엔비디아의 주요 칩을 생산함으로써 중요한 파트너십을 유지하고 있다.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "https://www.viva100.com/article/20260317500017",
+    "pub_date": "Tue, 17 Mar 2026 05:44:00 +0900",
+    "analyzed_at": "2026-03-16T20:59:18.787216"
+  },
+  {
+    "title": "삼성전자·SK하닉, GTC 참가…HBM 기술력·엔비디아 동맹 '과시'",
+    "score": 4,
+    "reason": "삼성전자와 SK하이닉스가 기술력을 과시하며 AI 시대에 대한 준비가 잘 되어 있다.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.news1.kr/industry/general-industry/6103178",
+    "pub_date": "Tue, 17 Mar 2026 05:40:00 +0900",
+    "analyzed_at": "2026-03-16T20:59:18.787220"
+  },
+  {
+    "title": "젠슨 황 CEO, \"삼성전자가 그록(Groq)3 제조하고 있어\" 공식 언급...",
+    "score": 4,
+    "reason": "엔비디아 CEO의 언급은 삼성전자의 기술력과 신뢰성을 높이는 긍정적인 요소이다.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "http://www.beyondpost.co.kr/view.php?ud=2026031705334621282aaae0046f_30",
+    "pub_date": "Tue, 17 Mar 2026 05:40:00 +0900",
+    "analyzed_at": "2026-03-16T20:59:18.787222"
+  },
+  {
+    "title": "삼성전자, 엔비디아 GTC서 HBM4E 첫 공개...4TB/s 수준",
+    "score": 4,
+    "reason": "삼성전자가 HBM4E를 공개하며 메모리 시장에서의 경쟁력을 강화하고 있다.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "http://www.inews24.com/view/1949650",
+    "pub_date": "Tue, 17 Mar 2026 05:37:00 +0900",
+    "analyzed_at": "2026-03-16T20:59:18.787223"
+  },
+  {
+    "title": "SK하이닉스, 엔비디아 'GTC 2026'서 AI 메모리 초격차 과시",
+    "score": 4,
+    "reason": "엔비디아와의 협력 강화 및 AI 메모리 기술 공개는 SK하이닉스의 시장 경쟁력을 높이는 긍정적인 요소로 작용할 것.",
+    "related_stocks": [
+      "SK하이닉스"
+    ],
+    "link": "https://www.goodnews1.com/news/articleView.html?idxno=457681",
+    "pub_date": "Tue, 17 Mar 2026 05:56:00 +0900",
+    "analyzed_at": "2026-03-16T20:59:34.646967"
+  },
+  {
+    "title": "SK하이닉스, 엔비디아 밀착 과시…젠슨황 서명 'DGX 스파크' 전시",
+    "score": 4,
+    "reason": "엔비디아와의 밀접한 협력 관계를 강조하며 AI 메모리 기술을 전시한 것은 긍정적인 신호.",
+    "related_stocks": [
+      "SK하이닉스"
+    ],
+    "link": "http://www.inews24.com/view/1949731",
+    "pub_date": "Tue, 17 Mar 2026 05:53:00 +0900",
+    "analyzed_at": "2026-03-16T20:59:34.646975"
+  },
+  {
+    "title": "[GTC2026]SK하이닉스, 최태원 회장 나서 빅테크와 AI 메모리 협력 논의",
+    "score": 3,
+    "reason": "최태원 회장의 참석과 빅테크와의 협력 논의는 SK하이닉스의 전략적 위치를 강화하는 요소.",
+    "related_stocks": [
+      "SK하이닉스"
+    ],
+    "link": "https://www.etnews.com/20260317000011",
+    "pub_date": "Tue, 17 Mar 2026 05:49:00 +0900",
+    "analyzed_at": "2026-03-16T20:59:34.646976"
+  },
+  {
+    "title: [GTC 2026] 'AI 승부처는 메모리'…SK하이닉스, 엔비디아 GTC서 HBM4 전면 전시: '엔비디아 협업존' HBM4 전시…긴밀한 파트너십 재확인 최태원·곽노정 현장 방문…글로벌 AI 협력 확대 모색 아주경제=새너제이(미국)=조성준 기자 critic@ajunews.com 엔비디아 GTC 2026 SK하이닉스 전시관 전경...  ": 4,
+    "reason": "HBM4 전시와 엔비디아와의 파트너십 재확인은 SK하이닉스의 기술력과 시장 위치를 더욱 강화할 것으로 예상됨.",
+    "related_stocks": [
+      "SK하이닉스"
+    ],
+    "link": "https://www.ajunews.com/view/20260317053526035",
+    "pub_date": "Tue, 17 Mar 2026 05:44:00 +0900",
+    "analyzed_at": "2026-03-16T20:59:34.646978"
+  },
+  {
+    "title": "엔비디아 GTC에 최태원·곽노정 참석…SK하이닉스, 협력 과시",
+    "score": 3,
+    "reason": "최태원과 곽노정의 참석은 SK하이닉스의 글로벌 협력 강화를 나타내며 긍정적인 신호.",
+    "related_stocks": [
+      "SK하이닉스"
+    ],
+    "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4404013",
+    "pub_date": "Tue, 17 Mar 2026 05:36:00 +0900",
+    "analyzed_at": "2026-03-16T20:59:34.646979"
+  },
+  {
+    "title": "‘용쓰는’ 삼전·SK하닉…엔비디아·AMD·마이크론 ‘3각 빅 이벤트’ ...",
+    "score": 2,
+    "reason": "반도체 업종의 강세와 관련된 긍정적인 분위기는 SK하이닉스에 약한 호재로 작용할 수 있음.",
+    "related_stocks": [
+      "SK하이닉스"
+    ],
+    "link": "https://www.dt.co.kr/article/12051911?ref=naver",
+    "pub_date": "Tue, 17 Mar 2026 05:35:00 +0900",
+    "analyzed_at": "2026-03-16T20:59:34.646980"
+  },
+  {
+    "title": "'엔비디아 GTC'에 최태원 출격…SK, AI 메모리 경쟁력 선보인다",
+    "score": 4,
+    "reason": "AI 메모리 솔루션을 선보이는 것은 SK하이닉스의 기술적 우위를 강조하는 중요한 기회.",
+    "related_stocks": [
+      "SK하이닉스"
+    ],
+    "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01823686645384304",
+    "pub_date": "Tue, 17 Mar 2026 05:32:00 +0900",
+    "analyzed_at": "2026-03-16T20:59:34.646984"
+  },
+  {
+    "title": "최태원, HBM4 들고 엔비디아 GTC 찾았다",
+    "score": 4,
+    "reason": "HBM4 전시와 함께 AI 메모리 칩을 선보이는 것은 SK하이닉스의 기술력과 시장 경쟁력을 부각시키는 요소.",
+    "related_stocks": [
+      "SK하이닉스"
+    ],
+    "link": "https://www.sedaily.com/article/20020144?ref=naver",
+    "pub_date": "Tue, 17 Mar 2026 05:31:00 +0900",
+    "analyzed_at": "2026-03-16T20:59:34.646985"
+  },
+  {
+    "title": "엔비디아 1.65%, 마이크론 3.68%↑...호르무츠해협 개방 가능성에 반도체...",
+    "score": 2,
+    "reason": "호르무즈 해협 개방 기대감으로 반도체 주가 상승, 긍정적 신호이나 단기적 영향.",
+    "related_stocks": [
+      "엔비디아",
+      "마이크론"
+    ],
+    "link": "http://www.beyondpost.co.kr/view.php?ud=202603170550532762aaae0046f_30",
+    "pub_date": "Tue, 17 Mar 2026 05:58:00 +0900",
+    "analyzed_at": "2026-03-16T20:59:45.064485"
+  },
+  {
+    "title": "신정훈 '광주 기술·전남 에너지 결합···보스턴형 혁신도시 만들겠다...",
+    "score": 1,
+    "reason": "장기적인 전략 제시로 긍정적이나 실질적 효과는 시간이 필요함.",
+    "related_stocks": [],
+    "link": "http://www.mdilbo.com/detail/0kIA7d/753886",
+    "pub_date": "Tue, 17 Mar 2026 05:56:00 +0900",
+    "analyzed_at": "2026-03-16T20:59:45.064494"
+  },
+  {
+    "title": "엔비디아 'AI 칩으로 2027년까지 1조달러 매출'",
+    "score": 4,
+    "reason": "AI 칩 시장의 성장 전망으로 엔비디아의 매출 증가 기대, 강한 호재.",
+    "related_stocks": [
+      "엔비디아"
+    ],
+    "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1702510",
+    "pub_date": "Tue, 17 Mar 2026 05:56:00 +0900",
+    "analyzed_at": "2026-03-16T20:59:45.064496"
+  },
+  {
+    "title": "[美증시 특징주] 나스닥 '톱10' 기술주 오랜만에 동반 상승...",
+    "score": 2,
+    "reason": "기술주 동반 상승으로 긍정적이나 전반적인 시장 불확실성 존재.",
+    "related_stocks": [],
+    "link": "https://www.mediapen.com/news/view/1087311",
+    "pub_date": "Tue, 17 Mar 2026 05:56:00 +0900",
+    "analyzed_at": "2026-03-16T20:59:45.064498"
+  },
+  {
+    "title": "엔비디아, 현대차·BYD 등과 자율주행 협력 확대...",
+    "score": 3,
+    "reason": "자율주행 협력 확대는 엔비디아의 성장 가능성을 높이는 긍정적 요소.",
+    "related_stocks": [
+      "엔비디아",
+      "현대차",
+      "BYD"
+    ],
+    "link": "http://www.4th.kr/news/articleView.html?idxno=2109141",
+    "pub_date": "Tue, 17 Mar 2026 05:56:00 +0900",
+    "analyzed_at": "2026-03-16T20:59:45.064499"
+  },
+  {
+    "title": "뉴욕증시, 유가 하락에 반등…S&P500, 전쟁 후 최대 상승",
+    "score": 3,
+    "reason": "유가 하락으로 인한 반등과 반도체 주가 상승은 긍정적 신호.",
+    "related_stocks": [
+      "엔비디아",
+      "마이크론"
+    ],
+    "link": "https://www.newsis.com/view/NISX20260317_0003550759",
+    "pub_date": "Tue, 17 Mar 2026 05:55:00 +0900",
+    "analyzed_at": "2026-03-16T20:59:45.064500"
+  },
+  {
+    "title": "유가 하락에 뉴욕증시 반등…나스닥 1.2% 상승",
+    "score": 2,
+    "reason": "유가 하락으로 인한 반등은 긍정적이나 시장 불확실성 여전.",
+    "related_stocks": [],
+    "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1702509",
+    "pub_date": "Tue, 17 Mar 2026 05:48:00 +0900",
+    "analyzed_at": "2026-03-16T20:59:45.064502"
+  },
+  {
+    "title": "中 반도체 자급자족 ‘정밀 타격’… 日·美 장악한 ‘포토레지스트’...",
+    "score": -2,
+    "reason": "중국의 반도체 자급자족 전략은 글로벌 반도체 시장에 부정적 영향을 미칠 수 있음.",
+    "related_stocks": [],
+    "link": "https://www.g-enews.com/view.php?ud=2026031617580878110c8c1c064d_1",
+    "pub_date": "Tue, 17 Mar 2026 05:46:00 +0900",
+    "analyzed_at": "2026-03-16T20:59:45.064503"
+  },
+  {
+    "title": "나스닥 1.2% 하락…유가 하락에 인공지능 관련주 강세",
+    "score": 0,
+    "reason": "유가 하락과 AI 관련주 강세가 상반된 영향을 미쳐 중립적",
+    "related_stocks": [
+      "엔비디아",
+      "테슬라"
+    ],
+    "link": "https://www.news1.kr/world/international-economy/6103223",
+    "pub_date": "Tue, 17 Mar 2026 05:46:00 +0900",
+    "analyzed_at": "2026-03-16T20:59:52.931010"
+  },
+  {
+    "title": "뉴욕증시, '호르무즈 해협 숨통' 기대에 일제히 반등…나스닥 1.22%↑",
+    "score": 2,
+    "reason": "호르무즈 해협 관련 긍정적 기대감으로 투자 심리 개선",
+    "related_stocks": [
+      "테슬라",
+      "엔비디아"
+    ],
+    "link": "https://www.newspim.com/news/view/20260317000020",
+    "pub_date": "Tue, 17 Mar 2026 05:44:00 +0900",
+    "analyzed_at": "2026-03-16T20:59:52.931018"
+  },
+  {
+    "title": "뉴욕증시, 호르무즈 해협 열리나…다우·S&P 5일만에 상승 마감",
+    "score": 2,
+    "reason": "호르무즈 해협 통과 소식으로 시장 반등, 긍정적 신호",
+    "related_stocks": [
+      "오픈AI",
+      "TPG"
+    ],
+    "link": "https://www.yna.co.kr/view/AKR20260317008800009?input=1195m",
+    "pub_date": "Tue, 17 Mar 2026 05:40:00 +0900",
+    "analyzed_at": "2026-03-16T20:59:52.931020"
+  },
+  {
+    "title": "[뉴욕증시]FOMC 앞두고 유가 하락…나스닥 1%대 상승 마감",
+    "score": 1,
+    "reason": "유가 하락이 긍정적 영향을 미쳤으나 단기적 반등 우려",
+    "related_stocks": [
+      "엔비디아"
+    ],
+    "link": "https://view.asiae.co.kr/article/2026031705390225686",
+    "pub_date": "Tue, 17 Mar 2026 05:39:00 +0900",
+    "analyzed_at": "2026-03-16T20:59:52.931021"
+  },
+  {
+    "title": "갈수록 첨단화… 美·이란 전쟁 이끄는 ‘AI 주식’에 주목하라",
+    "score": -1,
+    "reason": "AI 거품 붕괴 우려로 부정적 시각이 존재",
+    "related_stocks": [
+      "AI 관련주"
+    ],
+    "link": "https://www.chosun.com/economy/money/2026/03/17/PG4B4KX66FFBHAD4LHTS7IXI3E/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+    "pub_date": "Tue, 17 Mar 2026 05:21:00 +0900",
+    "analyzed_at": "2026-03-16T20:59:52.931022"
+  },
+  {
+    "title": "호르무즈 해협 열리려 하자 국제 유가 2.8%↓ 뉴욕 증시 1%↑",
+    "score": 2,
+    "reason": "유가 하락과 함께 증시 상승, 긍정적 시장 반응",
+    "related_stocks": [
+      "엔비디아"
+    ],
+    "link": "https://www.chosun.com/international/international_general/2026/03/17/SJZWC2L5QJEBHEPFM3VSIQOCZE/?utm_source=naver&utm_medium=referral&utm_campaign=naver-news",
+    "pub_date": "Tue, 17 Mar 2026 05:14:00 +0900",
+    "analyzed_at": "2026-03-16T20:59:52.931023"
   }
 ]
