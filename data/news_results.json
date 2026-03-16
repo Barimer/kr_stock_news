@@ -29943,5 +29943,318 @@
     "link": "https://www.etoday.co.kr/news/view/2565801",
     "pub_date": "Tue, 17 Mar 2026 06:00:00 +0900",
     "analyzed_at": "2026-03-16T21:52:54.503030"
+  },
+  {
+    "title": "국내주식 ETF로 몰리는 개인자금…퇴직연금까지 더해져 증시 영향력 커",
+    "score": 2,
+    "reason": "ETF 자금 유입은 중소형 종목의 주가 변동성을 높일 수 있어 긍정적인 신호.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02751926645384304",
+    "pub_date": "Tue, 17 Mar 2026 07:41:00 +0900",
+    "analyzed_at": "2026-03-16T22:43:44.965430"
+  },
+  {
+    "title": "삼성전자, GTC서 7세대 HBM4E 최초 공개...엔비디아와 AI 동맹 고도화",
+    "score": 4,
+    "reason": "차세대 메모리 기술 공개는 삼성전자의 기술력 강화와 시장 경쟁력 향상에 기여할 것으로 예상.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "https://www.public25.com/news/articleView.html?idxno=41996",
+    "pub_date": "Tue, 17 Mar 2026 07:38:00 +0900",
+    "analyzed_at": "2026-03-16T22:43:44.965438"
+  },
+  {
+    "title": "삼성전자, 엔비디아 GTC서 HBM4E 첫 공개",
+    "score": 4,
+    "reason": "HBM4E 기술 공개는 삼성전자의 반도체 부문에 긍정적인 영향을 미칠 것으로 보임.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "https://hbnpress.com/news/view/1065566045962441",
+    "pub_date": "Tue, 17 Mar 2026 07:38:00 +0900",
+    "analyzed_at": "2026-03-16T22:43:44.965440"
+  },
+  {
+    "title": "에프엔에스테크, 소재·부품 성장 본격화…수익성 개선 기대-SK",
+    "score": 3,
+    "reason": "반도체 관련 주요 고객 확보로 수익성 개선이 기대되어 긍정적인 평가.",
+    "related_stocks": [
+      "에프엔에스테크"
+    ],
+    "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02742086645384304",
+    "pub_date": "Tue, 17 Mar 2026 07:38:00 +0900",
+    "analyzed_at": "2026-03-16T22:43:44.965442"
+  },
+  {
+    "title": "젠슨 황 '삼성에 감사'…깐부는 계속된다, 새 협력까지",
+    "score": 4,
+    "reason": "삼성전자의 파운드리 참여는 향후 협력 강화를 통해 긍정적인 시너지를 기대하게 함.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "https://www.hankyung.com/article/2026031754167",
+    "pub_date": "Tue, 17 Mar 2026 07:37:00 +0900",
+    "analyzed_at": "2026-03-16T22:43:44.965443"
+  },
+  {
+    "title": "“삼성에 정말 감사드린다”…엔비디아 젠슨 황이 ‘삼성’ 특별히 언급",
+    "score": 4,
+    "reason": "엔비디아와의 협력 강화는 삼성전자의 파운드리 사업에 긍정적인 영향을 미칠 것으로 예상.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "https://www.mk.co.kr/article/11989857",
+    "pub_date": "Tue, 17 Mar 2026 07:37:00 +0900",
+    "analyzed_at": "2026-03-16T22:43:44.965445"
+  },
+  {
+    "title": "젠슨 황, 삼성 '콕' 집어 '정말 감사하다' 말한 이유는?",
+    "score": 4,
+    "reason": "삼성전자의 파운드리 사업 참여는 향후 수익성에 긍정적인 영향을 미칠 것으로 보임.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "http://mbn.mk.co.kr/pages/news/newsView.php?category=mbn00003&news_seq_no=5182146",
+    "pub_date": "Tue, 17 Mar 2026 07:37:00 +0900",
+    "analyzed_at": "2026-03-16T22:43:44.965446"
+  },
+  {
+    "title": "성과급 1억4천' SK하이닉스, 삼성전자 제치고 '입사하고 싶은 회사 1위",
+    "score": 2,
+    "reason": "SK하이닉스의 인지도 상승은 긍정적이나, 직접적인 주가 영향은 제한적일 수 있음.",
+    "related_stocks": [
+      "SK하이닉스"
+    ],
+    "link": "https://news.tvchosun.com/site/data/html_dir/2026/03/17/2026031790043.html",
+    "pub_date": "Tue, 17 Mar 2026 07:37:00 +0900",
+    "analyzed_at": "2026-03-16T22:43:44.965450"
+  },
+  {
+    "title": "[Who Is ?] 김우석 삼성자산운용 대표이사",
+    "score": 0,
+    "reason": "인사 발표는 중립적이며 주가에 미치는 영향은 크지 않을 것으로 판단.",
+    "related_stocks": [
+      "삼성자산운용"
+    ],
+    "link": "https://www.businesspost.co.kr/BP?command=article_view&num=433066",
+    "pub_date": "Tue, 17 Mar 2026 07:36:00 +0900",
+    "analyzed_at": "2026-03-16T22:43:44.965452"
+  },
+  {
+    "title": "삼성전자, GTC 2026서 HBM4E 첫 공개...초당 대역폭 4TB",
+    "score": 4,
+    "reason": "HBM4E 기술 공개는 삼성전자의 기술적 우위를 강화할 것으로 기대됨.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "https://www.thelec.kr/news/articleView.html?idxno=53586",
+    "pub_date": "Tue, 17 Mar 2026 07:32:00 +0900",
+    "analyzed_at": "2026-03-16T22:43:44.965454"
+  },
+  {
+    "title": "SK하이닉스, 美 엔비디아 GTC 2026서 '메모리 기술 경쟁력' 알린다",
+    "score": 4,
+    "reason": "글로벌 AI 콘퍼런스에서 메모리 기술 경쟁력을 알리는 것은 긍정적인 홍보 효과를 가져올 것으로 예상됨.",
+    "related_stocks": [
+      "SK하이닉스"
+    ],
+    "link": "https://www.it-b.co.kr/news/articleView.html?idxno=87279",
+    "pub_date": "Tue, 17 Mar 2026 07:36:00 +0900",
+    "analyzed_at": "2026-03-16T22:43:55.297947"
+  },
+  {
+    "title": "삼성전자·SK하이닉스, 엔비디아 GTC 동반 참가…AI 메모리 경쟁력 공개",
+    "score": 4,
+    "reason": "두 회사의 동반 참가로 AI 메모리 기술에 대한 기대감이 높아져 주가에 긍정적인 영향을 미칠 것으로 보임.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.joongang.co.kr/article/25412311",
+    "pub_date": "Tue, 17 Mar 2026 07:30:00 +0900",
+    "analyzed_at": "2026-03-16T22:43:55.297954"
+  },
+  {
+    "title": "[마켓 프리뷰] 고유가에도 'GTC 2026' 기대감…환율 부담 확대",
+    "score": 3,
+    "reason": "반도체 업황에 대한 긍정적인 전망이 주가 상승을 이끌었으나, 고유가와 환율 부담이 여전히 존재함.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://biz.sbs.co.kr/article_hub/20000297848?division=NAVER",
+    "pub_date": "Tue, 17 Mar 2026 07:30:00 +0900",
+    "analyzed_at": "2026-03-16T22:43:55.297955"
+  },
+  {
+    "title": "젠슨 황 엔비디아 CEO “그록 만들어준 삼성에 감사”",
+    "score": 3,
+    "reason": "삼성전자의 기술력이 강조되며 긍정적인 이미지가 형성되었으나, 직접적인 주가 영향은 제한적일 수 있음.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "https://www.dt.co.kr/article/12051946?ref=naver",
+    "pub_date": "Tue, 17 Mar 2026 07:25:00 +0900",
+    "analyzed_at": "2026-03-16T22:43:55.297957"
+  },
+  {
+    "title": "젠슨 황, '삼성에 감사'…GTC서 '삼성이 그록3 LPU 칩을 만들고 있다'",
+    "score": 3,
+    "reason": "삼성전자의 기술력에 대한 긍정적인 언급이 주가에 긍정적인 영향을 미칠 것으로 예상됨.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "https://www.ngonews.kr/news/articleView.html?idxno=226333",
+    "pub_date": "Tue, 17 Mar 2026 07:20:00 +0900",
+    "analyzed_at": "2026-03-16T22:43:55.297958"
+  },
+  {
+    "title": "[GTC 2026] 젠슨 황 '2027년까지 1조 달러 수주 전망'",
+    "score": 4,
+    "reason": "엔비디아의 수주 전망이 삼성전자와 SK하이닉스에 기회가 될 수 있어 긍정적인 신호로 해석됨.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.g-enews.com/view.php?ud=202603170704058645fbbec65dfb_1",
+    "pub_date": "Tue, 17 Mar 2026 07:16:00 +0900",
+    "analyzed_at": "2026-03-16T22:43:55.297959"
+  },
+  {
+    "title": "[뉴욕증시] 호르무즈 해협 열리나…다우·S&P 5일만에 상승 마감",
+    "score": 2,
+    "reason": "미국 증시의 상승은 한국 반도체 및 IT 주식에 긍정적인 영향을 미칠 것으로 예상됨.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4404026",
+    "pub_date": "Tue, 17 Mar 2026 07:42:00 +0900",
+    "analyzed_at": "2026-03-16T22:44:01.857233"
+  },
+  {
+    "title": "두산, AI 서버 구조 변화 수혜 기대…CCL 수요 확대",
+    "score": 3,
+    "reason": "두산의 반도체 관련 사업 확장은 실적 개선 기대감을 높임.",
+    "related_stocks": [
+      "두산",
+      "LG이노텍"
+    ],
+    "link": "http://www.newsprime.co.kr/news/article.html?no=727129",
+    "pub_date": "Tue, 17 Mar 2026 07:42:00 +0900",
+    "analyzed_at": "2026-03-16T22:44:01.857241"
+  },
+  {
+    "title: [넥스트-샷] 호르무즈 개방 기대감에 3대 지수 반등합니다: ": 2,
+    "reason": "IT 대형주 반등이 한국 시장에 긍정적인 심리적 영향을 줄 것으로 보임.",
+    "related_stocks": [
+      "삼성전자",
+      "카카오"
+    ],
+    "link": "https://www.womaneconomy.co.kr/news/articleView.html?idxno=251141",
+    "pub_date": "Tue, 17 Mar 2026 07:40:00 +0900",
+    "analyzed_at": "2026-03-16T22:44:01.857244"
+  },
+  {
+    "title": "이란 사태로 1500원 육박한 환율…iM證 “고환율 부정적이지만…단기에...",
+    "score": 1,
+    "reason": "고환율이 일부 기업에 부담을 줄 수 있으나, 반도체 업종에는 긍정적 영향을 미칠 가능성이 있음.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://biz.chosun.com/stock/stock_general/2026/03/17/476WETPWVZBO7NJRWCTDKOJFY4/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+    "pub_date": "Tue, 17 Mar 2026 07:38:00 +0900",
+    "analyzed_at": "2026-03-16T22:44:01.857246"
+  },
+  {
+    "title": "뉴욕증시, 호르무즈해협 봉쇄 해제 기대감 등 영향 상승⋯엔비디아·테...",
+    "score": 2,
+    "reason": "유가 하락과 AI 칩 제조 발표로 투자 심리가 개선되었으나, 직접적인 한국 주식 시장에 미치는 영향은 제한적.",
+    "related_stocks": [
+      "엔비디아",
+      "테슬라"
+    ],
+    "link": "http://www.econonews.co.kr/news/articleView.html?idxno=431257",
+    "pub_date": "Tue, 17 Mar 2026 07:40:00 +0900",
+    "analyzed_at": "2026-03-16T22:44:16.301781"
+  },
+  {
+    "title": "동작구 ‘청년 성장 멘토링’ 운영",
+    "score": 1,
+    "reason": "청년 금융 교육 프로그램은 긍정적이나, 주식 시장에 미치는 영향은 미미함.",
+    "related_stocks": [],
+    "link": "https://biz.heraldcorp.com/article/10695667?ref=naver",
+    "pub_date": "Tue, 17 Mar 2026 07:37:00 +0900",
+    "analyzed_at": "2026-03-16T22:44:16.301788"
+  },
+  {
+    "title": "[Who Is ?] 최원혁 HMM 대표이사 사장",
+    "score": 0,
+    "reason": "HMM의 자율운항 솔루션 도입은 기술적 진전을 의미하나, 주가에 즉각적인 영향을 미치지 않을 것으로 보임.",
+    "related_stocks": [
+      "HMM"
+    ],
+    "link": "https://www.businesspost.co.kr/BP?command=article_view&num=433068",
+    "pub_date": "Tue, 17 Mar 2026 07:36:00 +0900",
+    "analyzed_at": "2026-03-16T22:44:16.301790"
+  },
+  {
+    "title": "[Who Is ?] 구윤철 경제부총리 겸 재정경제부 장관",
+    "score": 4,
+    "reason": "국민성장펀드와 세제 인센티브 강화는 신산업에 긍정적인 영향을 미칠 것으로 예상됨.",
+    "related_stocks": [],
+    "link": "https://www.businesspost.co.kr/BP?command=article_view&num=433069",
+    "pub_date": "Tue, 17 Mar 2026 07:36:00 +0900",
+    "analyzed_at": "2026-03-16T22:44:16.301791"
+  },
+  {
+    "title": "뉴욕증시, 호르무즈 개방 기대감에 상승 마감... 국제유가, 5% 이상 급락",
+    "score": 2,
+    "reason": "호르무즈 해협 개방 기대감은 긍정적이나, 유가 급락은 일부 산업에 부정적 영향을 미칠 수 있음.",
+    "related_stocks": [],
+    "link": "https://www.getnews.co.kr/news/articleView.html?idxno=864643",
+    "pub_date": "Tue, 17 Mar 2026 07:30:00 +0900",
+    "analyzed_at": "2026-03-16T22:44:16.301792"
+  },
+  {
+    "title": "호르무즈 해협 '부분 해빙'에 뉴욕증시 반등…다우·S&P 5일 만에 상승",
+    "score": 2,
+    "reason": "해협의 부분 해빙은 긍정적이나, 한국 시장에 미치는 영향은 제한적.",
+    "related_stocks": [],
+    "link": "http://www.newsroad.co.kr/news/articleView.html?idxno=56154",
+    "pub_date": "Tue, 17 Mar 2026 07:30:00 +0900",
+    "analyzed_at": "2026-03-16T22:44:16.301793"
+  },
+  {
+    "title": "산업연 “국제유가 10% 오르면 제조업 생산비용 0.71% 상승”",
+    "score": -2,
+    "reason": "유가 상승이 제조업에 부정적 영향을 미칠 것으로 예상되어 악재로 작용.",
+    "related_stocks": [],
+    "link": "https://www.sedaily.com/article/20020164?ref=naver",
+    "pub_date": "Tue, 17 Mar 2026 07:14:00 +0900",
+    "analyzed_at": "2026-03-16T22:44:16.301794"
+  },
+  {
+    "title": "원·달러 환율 17년 만에 정규장 1500원 돌파…시장 ‘고착화’ 우려",
+    "score": -3,
+    "reason": "환율 상승은 경제 불안정을 초래할 수 있어 강한 악재로 판단됨.",
+    "related_stocks": [],
+    "link": "https://www.sedaily.com/article/20020161?ref=naver",
+    "pub_date": "Tue, 17 Mar 2026 07:12:00 +0900",
+    "analyzed_at": "2026-03-16T22:44:16.301795"
+  },
+  {
+    "title": "부동산 시장 말로 휘어잡는 대통령의 ‘본인 등판’",
+    "score": 1,
+    "reason": "대통령의 주식시장 언급은 긍정적이나, 구체적인 정책이 없어 영향은 제한적.",
+    "related_stocks": [],
+    "link": "https://www.sisain.co.kr/news/articleView.html?idxno=57511",
+    "pub_date": "Tue, 17 Mar 2026 07:09:00 +0900",
+    "analyzed_at": "2026-03-16T22:44:16.301796"
   }
 ]
