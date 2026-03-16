@@ -28193,5 +28193,287 @@
     "link": "https://www.tokenpost.kr/news/cryptocurrency/339896",
     "pub_date": "Mon, 16 Mar 2026 20:36:00 +0900",
     "analyzed_at": "2026-03-16T12:38:37.625117"
+  },
+  {
+    "title": "법무법인 수안, 김예지 변호사 영입",
+    "score": 0,
+    "reason": "법무법인 영입 소식은 중립적이며 주가에 큰 영향을 미치지 않을 것으로 보임.",
+    "related_stocks": [],
+    "link": "https://www.segye.com/newsView/20260316517129?OutUrl=naver",
+    "pub_date": "Mon, 16 Mar 2026 23:03:00 +0900",
+    "analyzed_at": "2026-03-16T14:08:47.613573"
+  },
+  {
+    "title": "별걸 다 꾸미는 시대",
+    "score": 1,
+    "reason": "삼성전자의 마케팅 활동은 긍정적이나, 직접적인 실적 개선으로 이어지지 않을 가능성이 높음.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "https://www.segye.com/newsView/20260316516545?OutUrl=naver",
+    "pub_date": "Mon, 16 Mar 2026 23:03:00 +0900",
+    "analyzed_at": "2026-03-16T14:08:47.613600"
+  },
+  {
+    "title": "대구시, 삼성전자와 자립준비청년 ‘희망디딤돌’ 놓는다",
+    "score": 2,
+    "reason": "사회공헌 사업은 기업 이미지 개선에 기여할 수 있으나, 단기적인 주가 영향은 제한적.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "https://www.segye.com/newsView/20260316516729?OutUrl=naver",
+    "pub_date": "Mon, 16 Mar 2026 23:03:00 +0900",
+    "analyzed_at": "2026-03-16T14:08:47.613602"
+  },
+  {
+    "title": "BS한양, ‘고덕국제신도시 수자인풍경채 1·2단지’ 4월 분양",
+    "score": 1,
+    "reason": "부동산 개발 소식은 긍정적이나 삼성전자와의 직접적인 연관성은 낮음.",
+    "related_stocks": [],
+    "link": "https://www.segye.com/newsView/20260316516325?OutUrl=naver",
+    "pub_date": "Mon, 16 Mar 2026 23:02:00 +0900",
+    "analyzed_at": "2026-03-16T14:08:47.613604"
+  },
+  {
+    "title": "대구시-삼성전자, 자립준비청년 '희망디딤돌' 맞손",
+    "score": 2,
+    "reason": "사회공헌 협약은 긍정적이나 주가에 미치는 영향은 제한적일 것으로 판단됨.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "https://www.newscj.com/news/articleView.html?idxno=3385112",
+    "pub_date": "Mon, 16 Mar 2026 22:52:00 +0900",
+    "analyzed_at": "2026-03-16T14:08:47.613606"
+  },
+  {
+    "title": "로이터 '中 화훙그룹, 7나노 반도체 제조 공정 준비'",
+    "score": -2,
+    "reason": "중국의 반도체 기술 발전은 삼성전자에게 경쟁 압박을 가할 수 있어 부정적 요소.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "https://www.hankyung.com/article/202603165177i",
+    "pub_date": "Mon, 16 Mar 2026 22:29:00 +0900",
+    "analyzed_at": "2026-03-16T14:08:47.613607"
+  },
+  {
+    "title": "[코스피 시대 전문가에 묻다②] 경제학자 “실적과 투자환경 변화가 밀... ",
+    "score": 0,
+    "reason": "전문가 의견은 중립적이며 주가에 직접적인 영향을 미치지 않을 것으로 보임.",
+    "related_stocks": [],
+    "link": "https://www.yeongnam.com/web/view.php?key=20260316029121378",
+    "pub_date": "Mon, 16 Mar 2026 22:20:00 +0900",
+    "analyzed_at": "2026-03-16T14:08:47.613609"
+  },
+  {
+    "title": "[대구시정] 대구시-삼성전자, 자립준비청년 '희망디딤돌' 놓아 外",
+    "score": 2,
+    "reason": "사회공헌 사업은 긍정적이나 주가에 미치는 영향은 제한적일 것으로 판단됨.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "https://ilyo.co.kr/?ac=article_view&entry_id=509685",
+    "pub_date": "Mon, 16 Mar 2026 22:18:00 +0900",
+    "analyzed_at": "2026-03-16T14:08:47.613613"
+  },
+  {
+    "title": "대구시-삼성전자, 자립준비청년 지원 협약 체결",
+    "score": 2,
+    "reason": "사회적 책임을 다하는 모습은 긍정적이나 주가에 미치는 영향은 제한적.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=824700",
+    "pub_date": "Mon, 16 Mar 2026 22:04:00 +0900",
+    "analyzed_at": "2026-03-16T14:08:47.613615"
+  },
+  {
+    "title": "[미리보는 이데일리 신문] 뛰는 K푸드 위 나는 C푸드, 韓 공략 속도",
+    "score": 0,
+    "reason": "다양한 산업 소식이 포함되어 있으나 삼성전자와의 직접적인 연관성은 낮음.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=05638326645383976",
+    "pub_date": "Mon, 16 Mar 2026 21:56:00 +0900",
+    "analyzed_at": "2026-03-16T14:08:47.613616"
+  },
+  {
+    "title": "[인터뷰] 조상호 '젊은 추진력으로 세종의 미래 직접 돌파할 것'",
+    "score": 3,
+    "reason": "세종의 미래 산업 생태계 구축 가능성이 긍정적으로 작용할 것으로 보임.",
+    "related_stocks": [
+      "SK하이닉스",
+      "바이오 기업"
+    ],
+    "link": "https://www.newscj.com/news/articleView.html?idxno=3385084",
+    "pub_date": "Mon, 16 Mar 2026 22:16:00 +0900",
+    "analyzed_at": "2026-03-16T14:08:50.865800"
+  },
+  {
+    "title": "KOSPI 상승, KOSDAQ 하락",
+    "score": 0,
+    "reason": "KOSPI는 상승했으나 KOSDAQ은 하락하여 전체적으로 중립적인 상황",
+    "related_stocks": [],
+    "link": "https://www.arirang.com/news/view?id=293743",
+    "pub_date": "Mon, 16 Mar 2026 20:00:00 +0900",
+    "analyzed_at": "2026-03-16T14:08:55.707925"
+  },
+  {
+    "title": "[1] 쓸 수 있는 물은 1%, 정의롭게 흘러야 한다[기고/임상준]",
+    "score": 0,
+    "reason": "물 자원 관리에 대한 논의는 중요하지만 주가에 직접적인 영향은 없음.",
+    "related_stocks": [],
+    "link": "https://www.donga.com/news/Opinion/article/all/20260316/133543130/2",
+    "pub_date": "Mon, 16 Mar 2026 23:07:00 +0900",
+    "analyzed_at": "2026-03-16T14:09:12.835199"
+  },
+  {
+    "title": "[2] 영진전문대, 해외취업연수사업 4개 과정 선정…‘해외취업 전국 1위’",
+    "score": 0,
+    "reason": "해외 취업 연수 사업은 교육 관련 소식으로 주가에 큰 영향을 미치지 않음.",
+    "related_stocks": [],
+    "link": "https://www.sentv.co.kr/article/view/sentv202603160228",
+    "pub_date": "Mon, 16 Mar 2026 23:04:00 +0900",
+    "analyzed_at": "2026-03-16T14:09:12.835208"
+  },
+  {
+    "title": "[3] 한국폴리텍대학 아산캠퍼스, 재직자 대상 공작기계 기술교육과정 진행",
+    "score": 0,
+    "reason": "기술 교육 관련 뉴스로 주식 시장에 미치는 영향이 적음.",
+    "related_stocks": [],
+    "link": "http://www.ccnnews.co.kr/news/articleView.html?idxno=404163",
+    "pub_date": "Mon, 16 Mar 2026 23:00:00 +0900",
+    "analyzed_at": "2026-03-16T14:09:12.835209"
+  },
+  {
+    "title": "[4] 인천시, '제2회 고용심의회' 개최…",
+    "score": 0,
+    "reason": "고용 관련 정책 논의는 중요하지만 주가에 직접적인 영향은 없음.",
+    "related_stocks": [],
+    "link": "http://www.bizwnews.com/news/articleView.html?idxno=129185",
+    "pub_date": "Mon, 16 Mar 2026 22:56:00 +0900",
+    "analyzed_at": "2026-03-16T14:09:12.835210"
+  },
+  {
+    "title": "[5] '고유가'에 추경 3월 말 편성...",
+    "score": 4,
+    "reason": "반도체 업황 호조로 인한 초과 세수 활용은 긍정적인 경제 신호로 해석됨.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.ytn.co.kr/_ln/0102_202603162252052168",
+    "pub_date": "Mon, 16 Mar 2026 22:52:00 +0900",
+    "analyzed_at": "2026-03-16T14:09:12.835212"
+  },
+  {
+    "title": "[6] 2월 무역호황 속 섬유패션 '못 웃었다'…",
+    "score": 3,
+    "reason": "반도체 수출 증가로 인한 무역 호황은 긍정적인 경제 지표로 작용.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "http://www.ktnews.com/news/articleView.html?idxno=144744",
+    "pub_date": "Mon, 16 Mar 2026 22:50:00 +0900",
+    "analyzed_at": "2026-03-16T14:09:12.835213"
+  },
+  {
+    "title": "[7] 미국 뉴욕증시 상승 출발…국채금리 하락·유가 안정 기대",
+    "score": 3,
+    "reason": "기술주와 반도체 업종의 상승은 한국 시장에도 긍정적인 영향을 미칠 것으로 예상됨.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.topstarnews.net/news/articleView.html?idxno=16006799",
+    "pub_date": "Mon, 16 Mar 2026 22:44:00 +0900",
+    "analyzed_at": "2026-03-16T14:09:12.835215"
+  },
+  {
+    "title": "비트코인, 지정학 불안에도 강세…기관 중심 ‘소유 구조’ 변화 영향받",
+    "score": 3,
+    "reason": "비트코인의 강세는 기관 투자자들의 소유 구조 변화로 긍정적인 영향을 미칠 것으로 보임.",
+    "related_stocks": [
+      "스트레티지(MSTR)"
+    ],
+    "link": "https://www.tokenpost.kr/news/cryptocurrency/339953",
+    "pub_date": "Mon, 16 Mar 2026 23:06:00 +0900",
+    "analyzed_at": "2026-03-16T14:09:26.339288"
+  },
+  {
+    "title": "코인데스크20 지수 5% 반등…구성 자산 20개 전부 상승",
+    "score": 2,
+    "reason": "위험자산 선호가 강해지는 시장 분위기로 인해 긍정적인 신호가 나타남.",
+    "related_stocks": [],
+    "link": "https://www.tokenpost.kr/news/cryptocurrency/339948",
+    "pub_date": "Mon, 16 Mar 2026 22:54:00 +0900",
+    "analyzed_at": "2026-03-16T14:09:26.339298"
+  },
+  {
+    "title": "한국수자원공사, 일본 기업에 AI·디지털트윈 물관리 운영체계 선봬",
+    "score": 1,
+    "reason": "AI 및 디지털트윈 기술 도입은 긍정적이나 직접적인 주가 영향은 제한적.",
+    "related_stocks": [
+      "한국수자원공사"
+    ],
+    "link": "http://www.econonews.co.kr/news/articleView.html?idxno=431175",
+    "pub_date": "Mon, 16 Mar 2026 22:40:00 +0900",
+    "analyzed_at": "2026-03-16T14:09:26.339300"
+  },
+  {
+    "title": "크립토 자산관리 플랫폼 아브라, SPAC 합병 통해 나스닥 상장 추진",
+    "score": 2,
+    "reason": "SPAC 합병을 통한 상장은 긍정적인 시장 반응을 이끌어낼 가능성이 있음.",
+    "related_stocks": [],
+    "link": "https://www.tokenpost.kr/news/cryptocurrency/339944",
+    "pub_date": "Mon, 16 Mar 2026 22:38:00 +0900",
+    "analyzed_at": "2026-03-16T14:09:26.339302"
+  },
+  {
+    "title": "미 ‘CLARITY Act’ 변수…그레이스케일 “리플(XRP) 재평가 가능성”",
+    "score": 3,
+    "reason": "규제 법안 통과 시 XRP의 재평가 가능성이 높아져 긍정적인 영향을 미칠 수 있음.",
+    "related_stocks": [
+      "리플(XRP)"
+    ],
+    "link": "https://www.tokenpost.kr/news/policy/339943",
+    "pub_date": "Mon, 16 Mar 2026 22:36:00 +0900",
+    "analyzed_at": "2026-03-16T14:09:26.339303"
+  },
+  {
+    "title": "뉴욕증시 프리뷰, 호르무즈 긴장 속 美 주가선물 상승",
+    "score": 2,
+    "reason": "미국 주가선물 상승은 긍정적인 시장 심리를 반영하며 암호화폐 관련 주식에도 긍정적.",
+    "related_stocks": [
+      "엔비디아",
+      "메타"
+    ],
+    "link": "https://www.newspim.com/news/view/20260316001223",
+    "pub_date": "Mon, 16 Mar 2026 22:25:00 +0900",
+    "analyzed_at": "2026-03-16T14:09:26.339310"
+  },
+  {
+    "title": "대표·창업자 제쳤다…지난해 네이버 연봉킹은 '이 사람'",
+    "score": 0,
+    "reason": "연봉 관련 뉴스는 주가에 직접적인 영향을 미치지 않음.",
+    "related_stocks": [
+      "네이버"
+    ],
+    "link": "https://www.ddaily.co.kr/page/view/2026031618042750302",
+    "pub_date": "Mon, 16 Mar 2026 22:17:00 +0900",
+    "analyzed_at": "2026-03-16T14:09:26.339312"
+  },
+  {
+    "title": "메타플래닛, 408억 엔 유상증자 완료…비트코인 축적 전략 확대",
+    "score": 3,
+    "reason": "유상증자를 통한 비트코인 축적 전략은 긍정적인 성장 가능성을 시사함.",
+    "related_stocks": [
+      "메타플래닛"
+    ],
+    "link": "https://www.tokenpost.kr/news/cryptocurrency/339922",
+    "pub_date": "Mon, 16 Mar 2026 21:42:00 +0900",
+    "analyzed_at": "2026-03-16T14:09:26.339313"
   }
 ]
