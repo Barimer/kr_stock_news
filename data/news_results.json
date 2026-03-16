@@ -28955,5 +28955,157 @@
     "link": "https://www.tokenpost.kr/news/cryptocurrency/339993",
     "pub_date": "Tue, 17 Mar 2026 01:48:00 +0900",
     "analyzed_at": "2026-03-16T17:48:55.020833"
+  },
+  {
+    "title": "[미중 반도체 전쟁] TSMC '아시아적 규율' 고수, 삼성과 SK하이닉스는",
+    "score": -2,
+    "reason": "삼성전자와 SK하이닉스의 조직 문화 문제로 인해 경쟁력 저하 우려가 있음.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.g-enews.com/view.php?ud=202603161728322773fbbec65dfb_1",
+    "pub_date": "Tue, 17 Mar 2026 03:56:00 +0900",
+    "analyzed_at": "2026-03-16T19:19:50.469885"
+  },
+  {
+    "title": "\"10년간 1원도 잃은 적 없다\" 비결은 달러?...'100억 자산가' 투자법",
+    "score": 0,
+    "reason": "투자 전략에 대한 개인적인 의견으로 주가에 직접적인 영향 없음.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "https://www.mt.co.kr/stock/2026/03/17/2026031617180389871",
+    "pub_date": "Tue, 17 Mar 2026 03:30:00 +0900",
+    "analyzed_at": "2026-03-16T19:19:50.469896"
+  },
+  {
+    "title": "[단독] 최태원, 엔비디아 2인자와 나란히 젠슨 황 기조연설 ‘직관’",
+    "score": 3,
+    "reason": "삼성전자가 엔비디아와의 협력으로 경쟁력을 강화할 가능성이 높음.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://biz.heraldcorp.com/article/10695615?ref=naver",
+    "pub_date": "Tue, 17 Mar 2026 03:19:00 +0900",
+    "analyzed_at": "2026-03-16T19:19:50.469898"
+  },
+  {
+    "title": "[GTC 2026 개막] 엔비디아, 추론 중심 'AI 인프라 시대' 선언 …깊어지는...",
+    "score": 4,
+    "reason": "AI 데이터센터 확대와 HBM4 경쟁으로 삼성전자와 SK하이닉스의 중요성이 증가함.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.ajunews.com/view/20260316090758290",
+    "pub_date": "Tue, 17 Mar 2026 03:00:00 +0900",
+    "analyzed_at": "2026-03-16T19:19:50.469900"
+  },
+  {
+    "title": "[북한 IT 위장취업] 딥페이크로 면접 통과한 북한 해커…유럽 대기업 IT...",
+    "score": -3,
+    "reason": "북한 해커의 위장 취업은 보안 위협을 증가시켜 관련 기업에 부정적 영향을 미칠 수 있다.",
+    "related_stocks": [
+      "안랩",
+      "이스트소프트"
+    ],
+    "link": "https://www.g-enews.com/view.php?ud=202603161734322132fbbec65dfb_1",
+    "pub_date": "Tue, 17 Mar 2026 04:06:00 +0900",
+    "analyzed_at": "2026-03-16T19:20:09.504504"
+  },
+  {
+    "title": "[초점] 엔비디아 ‘AI 추론 시대’ 시험대…GPU 제국 흔들리나",
+    "score": 0,
+    "reason": "엔비디아의 기술 변화는 시장에 중립적인 영향을 미칠 것으로 보인다.",
+    "related_stocks": [
+      "엔비디아",
+      "삼성전자"
+    ],
+    "link": "https://www.g-enews.com/view.php?ud=2026031619040936969a1f309431_1",
+    "pub_date": "Tue, 17 Mar 2026 04:02:00 +0900",
+    "analyzed_at": "2026-03-16T19:20:09.504514"
+  },
+  {
+    "title": "AI 승부수 던진 신세계…데이터센터에 10조 이상 투자",
+    "score": 4,
+    "reason": "신세계의 대규모 AI 데이터센터 투자로 IT 및 반도체 산업에 긍정적인 영향을 미칠 것으로 예상된다.",
+    "related_stocks": [
+      "신세계",
+      "삼성전자"
+    ],
+    "link": "https://www.hankyung.com/article/2026031652281",
+    "pub_date": "Tue, 17 Mar 2026 04:01:00 +0900",
+    "analyzed_at": "2026-03-16T19:20:09.504518"
+  },
+  {
+    "title": "신세계, 국내최대 AI 데이터센터 짓는다…美트럼프 행정부 수출 1호",
+    "score": 4,
+    "reason": "신세계의 AI 데이터센터 건설은 국내 IT 인프라 확장에 기여할 것으로 보인다.",
+    "related_stocks": [
+      "신세계",
+      "LG CNS"
+    ],
+    "link": "https://www.news1.kr/industry/distribution/6103200",
+    "pub_date": "Tue, 17 Mar 2026 04:00:00 +0900",
+    "analyzed_at": "2026-03-16T19:20:09.504520"
+  },
+  {
+    "title": "\"제조업 혈류부터 살리자\" 정부, 석탄발전 상한제도 풀었다",
+    "score": -2,
+    "reason": "석탄발전 상한제 해제는 환경 규제 완화로 일부 산업에 긍정적일 수 있으나, 전반적인 환경 우려를 초래할 수 있다.",
+    "related_stocks": [
+      "두산중공업",
+      "한전"
+    ],
+    "link": "https://www.mt.co.kr/economy/2026/03/17/2026031620072544319",
+    "pub_date": "Tue, 17 Mar 2026 04:00:00 +0900",
+    "analyzed_at": "2026-03-16T19:20:09.504522"
+  },
+  {
+    "title": "유안타증권, 19일 금융센터평촌지점서 투자설명회 개최",
+    "score": 1,
+    "reason": "AI 반도체 산업에 대한 관심을 높이는 설명회는 긍정적인 투자 분위기를 조성할 수 있다.",
+    "related_stocks": [
+      "유안타증권",
+      "삼성전자"
+    ],
+    "link": "http://www.bizwnews.com/news/articleView.html?idxno=129083",
+    "pub_date": "Tue, 17 Mar 2026 03:48:00 +0900",
+    "analyzed_at": "2026-03-16T19:20:09.504524"
+  },
+  {
+    "title": "[투자를IT다] 2026년 3월 2주차 IT기업 주요 소식과 시장 전망",
+    "score": -1,
+    "reason": "메모리 반도체 공급 문제는 기업의 실적에 부정적인 영향을 미칠 것으로 예상된다.",
+    "related_stocks": [
+      "SK hynix",
+      "삼성전자"
+    ],
+    "link": "https://it.donga.com/108563/",
+    "pub_date": "Tue, 17 Mar 2026 03:10:00 +0900",
+    "analyzed_at": "2026-03-16T19:20:09.504525"
+  },
+  {
+    "title": "유가 43% 폭등에도 미국 GDP 2.7% 성장… 이란 전쟁에도 '경기침체' 대신...",
+    "score": 2,
+    "reason": "미국의 GDP 성장과 제조업 투자 확대는 한국 반도체 및 전력기기 수출에 긍정적인 영향을 미칠 수 있다.",
+    "related_stocks": [
+      "삼성전자",
+      "LG전자"
+    ],
+    "link": "https://www.g-enews.com/view.php?ud=202603161715455348fbbec65dfb_1",
+    "pub_date": "Tue, 17 Mar 2026 03:06:00 +0900",
+    "analyzed_at": "2026-03-16T19:20:09.504527"
+  },
+  {
+    "title": "야데니, 역발상 투자 신호에 회의적 입장으로 전환",
+    "score": -2,
+    "reason": "투자 전략가의 회의적 입장은 시장에 부정적인 신호로 작용할 수 있음.",
+    "related_stocks": [],
+    "link": "https://www.newspim.com/news/view/20260317000016",
+    "pub_date": "Tue, 17 Mar 2026 04:10:00 +0900",
+    "analyzed_at": "2026-03-16T19:20:12.067554"
   }
 ]
