@@ -29107,5 +29107,164 @@
     "link": "https://www.newspim.com/news/view/20260317000016",
     "pub_date": "Tue, 17 Mar 2026 04:10:00 +0900",
     "analyzed_at": "2026-03-16T19:20:12.067554"
+  },
+  {
+    "title": "[글로벌 비즈 브리핑] 엔비디아 GTC 개막...젠슨 황 \"매출 1조 달러까지...",
+    "score": 0,
+    "reason": "중립적인 정보로 주가에 큰 영향을 미치지 않을 것으로 보임.",
+    "related_stocks": [
+      "삼성전자",
+      "TSMC"
+    ],
+    "link": "https://biz.sbs.co.kr/article_hub/20000297824?division=NAVER",
+    "pub_date": "Tue, 17 Mar 2026 04:55:00 +0900",
+    "analyzed_at": "2026-03-16T20:01:50.895166"
+  },
+  {
+    "title": "로이터 \"中 화훙그룹, 7나노 반도체 제조 공정 준비\"",
+    "score": -2,
+    "reason": "중국의 반도체 제조 능력 향상은 한국 반도체 기업에 부정적인 영향을 미칠 수 있음.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://biz.sbs.co.kr/article_hub/20000297820?division=NAVER",
+    "pub_date": "Tue, 17 Mar 2026 04:39:00 +0900",
+    "analyzed_at": "2026-03-16T20:01:50.895175"
+  },
+  {
+    "title": "[AI 머니게임] 사모 대출 부도율 9.2% 경보…AI 데이터센터 '1250억 달러 ...",
+    "score": -3,
+    "reason": "부도율 상승이 반도체 기업 실적에 부정적인 영향을 미칠 것으로 예상됨.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.g-enews.com/view.php?ud=202603161756502422fbbec65dfb_1",
+    "pub_date": "Tue, 17 Mar 2026 04:36:00 +0900",
+    "analyzed_at": "2026-03-16T20:01:50.895177"
+  },
+  {
+    "title": "부안군에 ‘피지컬 AI-방산’ 제조기지 조성",
+    "score": 2,
+    "reason": "미래 전략 산업으로의 확장은 긍정적인 신호이나, 직접적인 주가 영향은 제한적.",
+    "related_stocks": [
+      "삼성전자",
+      "현대자동차"
+    ],
+    "link": "https://www.donga.com/news/Society/article/all/20260316/133542297/2",
+    "pub_date": "Tue, 17 Mar 2026 04:33:00 +0900",
+    "analyzed_at": "2026-03-16T20:01:50.895179"
+  },
+  {
+    "title": "[시론] 복합적 위기에 직면한 한국경제",
+    "score": -1,
+    "reason": "한국 경제의 복합적 위기는 전반적인 투자 심리에 부정적 영향을 미칠 수 있음.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202603160827585120222",
+    "pub_date": "Tue, 17 Mar 2026 04:20:00 +0900",
+    "analyzed_at": "2026-03-16T20:01:50.895180"
+  },
+  {
+    "title": "삼성, GTC서 차세대 HBM4E 최초 공개… 엔비디아와 AI 동맹 고도화",
+    "score": 4,
+    "reason": "삼성전자가 차세대 메모리 기술을 공개하며 엔비디아와의 협력을 강화하여 AI 반도체 시장에서의 경쟁력을 높임.",
+    "related_stocks": [
+      "삼성전자",
+      "엔비디아"
+    ],
+    "link": "https://www.hankyung.com/article/202603175242i",
+    "pub_date": "Tue, 17 Mar 2026 05:01:00 +0900",
+    "analyzed_at": "2026-03-16T20:02:07.349732"
+  },
+  {
+    "title": "[오늘의 주요일정]금융·증권(3월17일 화요일)",
+    "score": 0,
+    "reason": "주요일정은 시장에 직접적인 영향을 미치지 않음.",
+    "related_stocks": [],
+    "link": "https://www.newsis.com/view/NISX20260316_0003549919",
+    "pub_date": "Tue, 17 Mar 2026 05:00:00 +0900",
+    "analyzed_at": "2026-03-16T20:02:07.349743"
+  },
+  {
+    "title": "엔비디아 “AI칩으로 1500조원 매출”…젠슨 황 “무어의 법칙 끝났다”...",
+    "score": 3,
+    "reason": "엔비디아의 AI 반도체 수요 증가와 매출 전망이 긍정적이나 경쟁 심화 우려도 존재.",
+    "related_stocks": [
+      "엔비디아"
+    ],
+    "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01640006645384304",
+    "pub_date": "Tue, 17 Mar 2026 04:43:00 +0900",
+    "analyzed_at": "2026-03-16T20:02:07.349746"
+  },
+  {
+    "title": "마이크론, 대만에 두 번째 메모리 칩 공장 건설",
+    "score": 3,
+    "reason": "마이크론의 공장 건설은 생산 능력 확대를 의미하며 긍정적인 신호.",
+    "related_stocks": [
+      "마이크론"
+    ],
+    "link": "https://biz.sbs.co.kr/article_hub/20000297821?division=NAVER",
+    "pub_date": "Tue, 17 Mar 2026 04:42:00 +0900",
+    "analyzed_at": "2026-03-16T20:02:07.349747"
+  },
+  {
+    "title": "중동 전쟁에 반도체 공급망 부담 가중…TSMC 생산 차질 우려",
+    "score": -3,
+    "reason": "중동 전쟁으로 인한 공급망 리스크가 반도체 생산에 부정적인 영향을 미칠 것으로 예상됨.",
+    "related_stocks": [
+      "TSMC"
+    ],
+    "link": "https://www.bloter.net/news/articleView.html?idxno=656846",
+    "pub_date": "Tue, 17 Mar 2026 04:36:00 +0900",
+    "analyzed_at": "2026-03-16T20:02:07.349749"
+  },
+  {
+    "title": "[美증시 특징주] 국제유가 급락에 반도체주 '훨훨'...마이크론·샌디스...",
+    "score": 2,
+    "reason": "미국 증시에서 반도체주가 상승했으나 국제유가 급락의 영향으로 인한 일시적 상승일 수 있음.",
+    "related_stocks": [
+      "마이크론",
+      "샌디스크"
+    ],
+    "link": "https://www.mediapen.com/news/view/1087303",
+    "pub_date": "Tue, 17 Mar 2026 04:32:00 +0900",
+    "analyzed_at": "2026-03-16T20:02:07.349750"
+  },
+  {
+    "title": "“무어의 법칙 끝났다”…젠슨 황 “AI시대엔 가속컴퓨팅이 해답”",
+    "score": 1,
+    "reason": "젠슨 황의 발언은 반도체 기술 발전의 방향성을 제시하지만, 큰 호재로 보기에는 부족함.",
+    "related_stocks": [
+      "엔비디아"
+    ],
+    "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=01584246645384304",
+    "pub_date": "Tue, 17 Mar 2026 04:26:00 +0900",
+    "analyzed_at": "2026-03-16T20:02:07.349752"
+  },
+  {
+    "title": "티 로우 프라이스, 밈코인까지 담는 액티브 크립토 ETF 예고…다자산 경...",
+    "score": 2,
+    "reason": "액티브 ETF의 도입은 암호화폐 시장에 긍정적인 영향을 미칠 것으로 예상됨.",
+    "related_stocks": [
+      "티 로우 프라이스"
+    ],
+    "link": "https://www.tokenpost.kr/news/cryptocurrency/340067",
+    "pub_date": "Tue, 17 Mar 2026 04:58:00 +0900",
+    "analyzed_at": "2026-03-16T20:02:15.303208"
+  },
+  {
+    "title": "이더리움, ‘슈퍼트렌드’ 매수 전환…ETF 자금 유입·고래 매집 겹쳤다",
+    "score": 4,
+    "reason": "이더리움의 가격 상승과 ETF 자금 유입은 긍정적인 신호로 작용할 가능성이 높음.",
+    "related_stocks": [
+      "이더리움"
+    ],
+    "link": "https://www.tokenpost.kr/news/cryptocurrency/340052",
+    "pub_date": "Tue, 17 Mar 2026 04:26:00 +0900",
+    "analyzed_at": "2026-03-16T20:02:15.303217"
   }
 ]
