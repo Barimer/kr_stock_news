@@ -33966,5 +33966,295 @@
     "link": "https://www.ggilbo.com/news/articleView.html?idxno=1147253",
     "pub_date": "Tue, 17 Mar 2026 19:40:00 +0900",
     "analyzed_at": "2026-03-17T11:33:37.216169"
+  },
+  {
+    "title": "[헬로스톡] 3월 17일 주목할 종목: 케이엠더블유·포스코인터내셔널·상...",
+    "score": 3,
+    "reason": "중국산 장비 규제로 국내 업체들이 대안으로 부상하며 긍정적인 전망이 제시됨.",
+    "related_stocks": [
+      "케이엠더블유",
+      "포스코인터내셔널"
+    ],
+    "link": "https://www.hellot.net/news/article.html?no=111426",
+    "pub_date": "Tue, 17 Mar 2026 21:30:00 +0900",
+    "analyzed_at": "2026-03-17T12:35:16.962124"
+  },
+  {
+    "title": "코스피, 기관 매수에 상승 마감...SK스퀘어, LG에너지솔루션 상승 VS 한화...",
+    "score": 2,
+    "reason": "기관 매수로 인해 주요 종목들이 상승하며 긍정적인 시장 분위기 형성.",
+    "related_stocks": [
+      "SK스퀘어",
+      "LG에너지솔루션"
+    ],
+    "link": "http://www.econonews.co.kr/news/articleView.html?idxno=431386",
+    "pub_date": "Tue, 17 Mar 2026 21:30:00 +0900",
+    "analyzed_at": "2026-03-17T12:35:16.962138"
+  },
+  {
+    "title": "美 정부 'LG에너지솔루션-테슬라 6조원 LFP 배터리 계약'…미시간 공장...",
+    "score": 4,
+    "reason": "LG에너지솔루션과 테슬라의 대규모 계약 체결로 긍정적인 실적 기대.",
+    "related_stocks": [
+      "LG에너지솔루션",
+      "테슬라"
+    ],
+    "link": "https://www.newspim.com/news/view/20260317001380",
+    "pub_date": "Tue, 17 Mar 2026 21:26:00 +0900",
+    "analyzed_at": "2026-03-17T12:35:16.962141"
+  },
+  {
+    "title": "엔비디아 'AI 플랫폼 확대'…삼성·SK·현대차 협력",
+    "score": 4,
+    "reason": "삼성, SK, 현대차와의 협력으로 AI 분야에서의 성장 가능성이 높아짐.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.obsnews.co.kr/news/articleView.html?idxno=1517601",
+    "pub_date": "Tue, 17 Mar 2026 21:22:00 +0900",
+    "analyzed_at": "2026-03-17T12:35:16.962142"
+  },
+  {
+    "title": "농업 터 떠난 자리, 반도체·AI 온다…수원시, 탑동 이노베이션밸리 19일...",
+    "score": 2,
+    "reason": "반도체 및 AI 관련 인프라 구축으로 지역 경제 활성화 기대.",
+    "related_stocks": [
+      "삼성전자",
+      "현대차"
+    ],
+    "link": "https://www.etnews.com/20260317000455",
+    "pub_date": "Tue, 17 Mar 2026 21:21:00 +0900",
+    "analyzed_at": "2026-03-17T12:35:16.962144"
+  },
+  {
+    "title": "젠슨 황 “삼성에 감사…우리 위해 그록3 LPU 만들고 있어”",
+    "score": 3,
+    "reason": "엔비디아와 삼성 간의 협력 강화로 긍정적인 시너지 효과 기대.",
+    "related_stocks": [
+      "삼성전자",
+      "엔비디아"
+    ],
+    "link": "https://www.donga.com/news/Economy/article/all/20260317/133548688/1",
+    "pub_date": "Tue, 17 Mar 2026 21:17:00 +0900",
+    "analyzed_at": "2026-03-17T12:35:16.962146"
+  },
+  {
+    "title": "엔비디아 AI 수요 1조달러 상향…월가 전망 뛰어넘나",
+    "score": 4,
+    "reason": "AI 인프라 투자 확대에 따른 HBM 수요 증가로 삼성과 SK에 긍정적.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.topstarnews.net/news/articleView.html?idxno=16007744",
+    "pub_date": "Tue, 17 Mar 2026 21:12:00 +0900",
+    "analyzed_at": "2026-03-17T12:35:16.962148"
+  },
+  {
+    "title": "[데일리안 오늘뉴스 종합] 장동혁, 오세훈에 '멋진 경선 치러달라'…부...",
+    "score": 1,
+    "reason": "이재용 회장과의 회동이 기대되지만 직접적인 주가 영향은 미미.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "https://www.dailian.co.kr/news/view/1621995/?sc=Naver",
+    "pub_date": "Tue, 17 Mar 2026 21:09:00 +0900",
+    "analyzed_at": "2026-03-17T12:35:16.962152"
+  },
+  {
+    "title": "[EBN 오늘(17일) 이슈 종합] 젠슨 황 삼성·SK와 'AI 동맹' 전면 확대, 4대...",
+    "score": 4,
+    "reason": "AI 동맹 확대가 삼성과 SK의 경쟁력 강화에 기여할 것으로 예상.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1702624",
+    "pub_date": "Tue, 17 Mar 2026 21:04:00 +0900",
+    "analyzed_at": "2026-03-17T12:35:16.962154"
+  },
+  {
+    "title": "천당과 지옥 사이…코스피의 줄타기",
+    "score": 2,
+    "reason": "레버리지 ETF 도입 추진으로 시장의 변동성이 커질 가능성.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "https://www.mk.co.kr/article/11987534",
+    "pub_date": "Tue, 17 Mar 2026 21:01:00 +0900",
+    "analyzed_at": "2026-03-17T12:35:16.962156"
+  },
+  {
+    "title": "SK하이닉스 전현직 최고경영진도 후한 보상",
+    "score": 2,
+    "reason": "임직원 보상이 긍정적인 신호로 작용할 수 있으나, 큰 영향력은 없음.",
+    "related_stocks": [
+      "SK하이닉스"
+    ],
+    "link": "https://thetracker.co.kr/View.aspx?No=4007411",
+    "pub_date": "Tue, 17 Mar 2026 21:24:00 +0900",
+    "analyzed_at": "2026-03-17T12:35:25.379260"
+  },
+  {
+    "title": "GTC 찾은 최태원 회장…AI 인프라 경쟁 한복판으로",
+    "score": 3,
+    "reason": "AI 인프라 경쟁에서의 참여는 긍정적인 이미지와 기회를 제공.",
+    "related_stocks": [
+      "SK하이닉스"
+    ],
+    "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=297745",
+    "pub_date": "Tue, 17 Mar 2026 21:06:00 +0900",
+    "analyzed_at": "2026-03-17T12:35:25.379267"
+  },
+  {
+    "title": "'깐부' 행사장 직접 찾은 최태원",
+    "score": 1,
+    "reason": "최태원 회장의 직접 참여는 긍정적이나 큰 실적 변화는 기대하기 어려움.",
+    "related_stocks": [
+      "SK하이닉스"
+    ],
+    "link": "https://www.hankookilbo.com/news/article/A2026031716450002919?did=NA",
+    "pub_date": "Tue, 17 Mar 2026 21:01:00 +0900",
+    "analyzed_at": "2026-03-17T12:35:25.379269"
+  },
+  {
+    "title": "삼성전자는 ‘기술력’, 하이닉스는 ‘파트너십’…라이벌들의 차별화",
+    "score": 2,
+    "reason": "경쟁 상황에서의 차별화 전략은 긍정적이나, 실질적인 성과는 미비할 수 있음.",
+    "related_stocks": [
+      "SK하이닉스",
+      "삼성전자"
+    ],
+    "link": "https://www.khan.co.kr/article/202603172057035",
+    "pub_date": "Tue, 17 Mar 2026 20:57:00 +0900",
+    "analyzed_at": "2026-03-17T12:35:25.379270"
+  },
+  {
+    "title": "최태원 “하이닉스, ADR 상장 검토”",
+    "score": 4,
+    "reason": "ADR 상장은 해외 투자자 유치에 긍정적 영향을 미칠 것으로 예상됨.",
+    "related_stocks": [
+      "SK하이닉스"
+    ],
+    "link": "https://www.khan.co.kr/article/202603172057015",
+    "pub_date": "Tue, 17 Mar 2026 20:57:00 +0900",
+    "analyzed_at": "2026-03-17T12:35:25.379271"
+  },
+  {
+    "title": "키움증권, 국내선물옵션 거래 수수료 최대 90% 할인 이벤트 진행",
+    "score": 3,
+    "reason": "수수료 대폭 인하로 거래 활성화 기대, 고객 유치에 긍정적",
+    "related_stocks": [
+      "키움증권"
+    ],
+    "link": "https://www.thepublic.kr/news/articleView.html?idxno=297775",
+    "pub_date": "Tue, 17 Mar 2026 20:54:00 +0900",
+    "analyzed_at": "2026-03-17T12:35:28.712168"
+  },
+  {
+    "title": "진보당 백승재, 도지사 출마…\"호남 통합\"",
+    "score": 2,
+    "reason": "반도체 및 AI 관련 공약이 포함되어 있어 지역 경제에 긍정적 영향을 미칠 가능성이 있음.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://jtv.co.kr/2021/?c=3/10&uid=2201259",
+    "pub_date": "Tue, 17 Mar 2026 21:30:00 +0900",
+    "analyzed_at": "2026-03-17T12:35:40.008845"
+  },
+  {
+    "title": "호서대, 카이스트 등 14개 기관과 AI 딥테크 오픈이노베이션 협력",
+    "score": 3,
+    "reason": "AI 및 반도체 분야의 협력이 이루어져 향후 기술 발전과 기업 성장에 긍정적 영향을 미칠 것으로 예상됨.",
+    "related_stocks": [
+      "LG전자",
+      "카카오"
+    ],
+    "link": "https://www.newscj.com/news/articleView.html?idxno=3385464",
+    "pub_date": "Tue, 17 Mar 2026 21:28:00 +0900",
+    "analyzed_at": "2026-03-17T12:35:40.008852"
+  },
+  {
+    "title": "정인화 광양시장 재선 도전 선언",
+    "score": 3,
+    "reason": "반도체 및 이차전지 산업 유치 계획이 지역 경제에 긍정적인 영향을 미칠 것으로 보임.",
+    "related_stocks": [
+      "LG화학",
+      "삼성SDI"
+    ],
+    "link": "https://www.newscj.com/news/articleView.html?idxno=3385466",
+    "pub_date": "Tue, 17 Mar 2026 21:28:00 +0900",
+    "analyzed_at": "2026-03-17T12:35:40.008853"
+  },
+  {
+    "title": "신수정 광주 북구청장·박종원 담양군수 출마 선언",
+    "score": 2,
+    "reason": "AI 스마트 농산업 및 반도체 융복합 밸리 유치 공약이 지역 산업 발전에 기여할 가능성이 있음.",
+    "related_stocks": [
+      "한화시스템",
+      "농심"
+    ],
+    "link": "https://www.ikbc.co.kr/article/view/kbc202603170069",
+    "pub_date": "Tue, 17 Mar 2026 21:23:00 +0900",
+    "analyzed_at": "2026-03-17T12:35:40.008855"
+  },
+  {
+    "title": "[장성군수] 민주당이냐 혁신당이냐",
+    "score": 2,
+    "reason": "반도체 전문인력 양성 및 데이터센터 유치 계획이 지역 경제에 긍정적 영향을 미칠 것으로 예상됨.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "http://www.kwangju.co.kr/article.php?aid=1773749700796785277",
+    "pub_date": "Tue, 17 Mar 2026 21:20:00 +0900",
+    "analyzed_at": "2026-03-17T12:35:40.008856"
+  },
+  {
+    "title": "엔비디아, 유럽 반도체 3사와 손잡았다...휴머노이드 로봇 시장 정조준",
+    "score": 4,
+    "reason": "엔비디아와 유럽 반도체 기업 간의 협력이 로봇 시장에서의 경쟁력을 높일 것으로 기대됨.",
+    "related_stocks": [
+      "엔비디아",
+      "인피니온"
+    ],
+    "link": "https://www.ppss.kr/news/articleView.html?idxno=288535",
+    "pub_date": "Tue, 17 Mar 2026 21:15:00 +0900",
+    "analyzed_at": "2026-03-17T12:35:40.008857"
+  },
+  {
+    "title": "[데스크칼럼] 지방선거와 '옥석 가리기'",
+    "score": 1,
+    "reason": "신산업 육성에 대한 필요성이 언급되었으나 구체적인 정책이 부족해 영향력이 제한적임.",
+    "related_stocks": [],
+    "link": "https://www.idaegu.co.kr/news/articleView.html?idxno=541964",
+    "pub_date": "Tue, 17 Mar 2026 21:14:00 +0900",
+    "analyzed_at": "2026-03-17T12:35:40.008858"
+  },
+  {
+    "title": "피지컬 AI 밸류체인 덕분인가...드디어 살아나는 LG그룹주",
+    "score": 4,
+    "reason": "LG전자의 로봇 공개로 인한 긍정적인 기대감이 LG그룹주에 강한 호재로 작용할 것으로 보임.",
+    "related_stocks": [
+      "LG전자",
+      "LG화학"
+    ],
+    "link": "https://www.mk.co.kr/article/11987539",
+    "pub_date": "Tue, 17 Mar 2026 21:01:00 +0900",
+    "analyzed_at": "2026-03-17T12:35:45.757387"
+  },
+  {
+    "title": "젠슨 황, 엔지니어 연봉 절반 토큰으로 지급 제안…",
+    "score": 2,
+    "reason": "AI 연산량을 보상 체계에 포함하는 논의가 생산성 향상 기대감을 주지만, 구체적인 실행 여부는 불확실.",
+    "related_stocks": [
+      "NVIDIA",
+      "오픈AI"
+    ],
+    "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=642161",
+    "pub_date": "Tue, 17 Mar 2026 21:00:00 +0900",
+    "analyzed_at": "2026-03-17T12:35:45.757395"
   }
 ]
