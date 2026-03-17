@@ -35032,5 +35032,53 @@
     "link": "https://www.newspim.com/news/view/20260318000003",
     "pub_date": "Wed, 18 Mar 2026 00:29:00 +0900",
     "analyzed_at": "2026-03-17T16:43:01.155622"
+  },
+  {
+    "title": "[6·3 지방선거] 양향자 경기도지사 경선후보①",
+    "score": 2,
+    "reason": "반도체 기술의 중요성을 강조하며 긍정적인 산업 전망을 제시함.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.polinews.co.kr/news/articleView.html?idxno=725689",
+    "pub_date": "Wed, 18 Mar 2026 01:50:00 +0900",
+    "analyzed_at": "2026-03-17T17:45:40.143958"
+  },
+  {
+    "title": "방사청, 올해 9.3조 투입 '첨단전력 대전환'",
+    "score": 4,
+    "reason": "국방 분야의 대규모 투자와 국산화 추진은 관련 기업에 긍정적인 영향을 미칠 것으로 예상됨.",
+    "related_stocks": [
+      "한화에어로스페이스",
+      "LIG넥스원"
+    ],
+    "link": "https://www.goodmorningcc.com/news/articleView.html?idxno=443053",
+    "pub_date": "Wed, 18 Mar 2026 02:28:00 +0900",
+    "analyzed_at": "2026-03-17T17:45:51.447448"
+  },
+  {
+    "title": "전남광주특별시장 TV토론회…20조 예산 활용처부터 '주청사 위치' 뇌관...",
+    "score": 3,
+    "reason": "대기업 유치를 위한 메가펀드 조성 계획은 지역 경제와 관련 산업에 긍정적인 영향을 줄 수 있음.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.pressian.com/pages/articles/2026031720442800788?utm_source=naver&utm_medium=search",
+    "pub_date": "Wed, 18 Mar 2026 02:24:00 +0900",
+    "analyzed_at": "2026-03-17T17:45:51.447457"
+  },
+  {
+    "title": "이광재 “WBC 슈퍼스타 오타니의 절실함 배워야”",
+    "score": 3,
+    "reason": "150조원 규모의 국민성장펀드는 다양한 산업에 투자될 예정으로, 전반적인 경제 활성화에 기여할 것으로 보임.",
+    "related_stocks": [
+      "LG화학",
+      "삼성SDI"
+    ],
+    "link": "http://www.newstomato.com/ReadNews.aspx?no=1294620&inflow=N",
+    "pub_date": "Wed, 18 Mar 2026 01:44:00 +0900",
+    "analyzed_at": "2026-03-17T17:45:51.447459"
   }
 ]
