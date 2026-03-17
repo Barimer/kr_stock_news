@@ -35222,5 +35222,187 @@
     "link": "https://www.apnews.kr/news/articleView.html?idxno=3046855",
     "pub_date": "Wed, 18 Mar 2026 03:52:00 +0900",
     "analyzed_at": "2026-03-17T19:15:30.805163"
+  },
+  {
+    "title": "‘평균 연봉 1억 8500만원’ SK하이닉스, 1년 만에 7000만원 뛰었다",
+    "score": 4,
+    "reason": "SK하이닉스의 평균 연봉 급등은 인재 유치와 기업 이미지 개선에 긍정적 영향을 미칠 것으로 예상됨.",
+    "related_stocks": [
+      "SK하이닉스"
+    ],
+    "link": "http://www.fnnews.com/news/202603171844202640",
+    "pub_date": "Wed, 18 Mar 2026 04:41:00 +0900",
+    "analyzed_at": "2026-03-17T20:00:57.205424"
+  },
+  {
+    "title": "자립 준비 청년에 주거부터 취업까지 지원",
+    "score": 1,
+    "reason": "삼성전자의 사회공헌 활동은 긍정적이나, 주가에 미치는 영향은 제한적임.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "https://www.donga.com/news/Society/article/all/20260317/133550481/2",
+    "pub_date": "Wed, 18 Mar 2026 04:34:00 +0900",
+    "analyzed_at": "2026-03-17T20:00:57.205434"
+  },
+  {
+    "title": "이란-中-인도 선박 호르무즈 통과 허용에… 국제유가 일단 꺾여",
+    "score": 2,
+    "reason": "국제 유가 하락은 일부 기업에 긍정적 영향을 미칠 수 있으나, 전반적인 시장에 미치는 영향은 미미함.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.donga.com/news/Economy/article/all/20260318/133551767/2",
+    "pub_date": "Wed, 18 Mar 2026 04:34:00 +0900",
+    "analyzed_at": "2026-03-17T20:00:57.205436"
+  },
+  {
+    "title": "현대차-기아-엔비디아, 로보택시 공동개발… 운전자 없는 ‘레벨4 자율...",
+    "score": 3,
+    "reason": "현대차와 엔비디아의 협력은 자율주행 기술 발전에 긍정적이며, 시장 기대감을 높임.",
+    "related_stocks": [
+      "현대차",
+      "기아"
+    ],
+    "link": "https://www.donga.com/news/Economy/article/all/20260318/133551986/2",
+    "pub_date": "Wed, 18 Mar 2026 04:32:00 +0900",
+    "analyzed_at": "2026-03-17T20:00:57.205438"
+  },
+  {
+    "title": "AMD 리사 수 오늘 첫 방한, 엔비디아 이어 K칩 협력 논의",
+    "score": 2,
+    "reason": "AMD와의 협력 논의는 긍정적이나, 구체적인 성과가 없는 상태에서의 발표로 점수는 제한적임.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "https://www.donga.com/news/Economy/article/all/20260318/133551984/2",
+    "pub_date": "Wed, 18 Mar 2026 04:32:00 +0900",
+    "analyzed_at": "2026-03-17T20:00:57.205440"
+  },
+  {
+    "title": "엔비디아 AI칩 ‘학습 → 추론’ 진화… 핵심부품 삼성이 공급",
+    "score": 4,
+    "reason": "삼성전자가 엔비디아의 AI 칩 공급자로서의 역할을 강화하며, 이는 매출 증가로 이어질 가능성이 높음.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "https://www.donga.com/news/Economy/article/all/20260318/133551990/2",
+    "pub_date": "Wed, 18 Mar 2026 04:32:00 +0900",
+    "analyzed_at": "2026-03-17T20:00:57.205441"
+  },
+  {
+    "title": "경사노위 위원장 'AI와 노동의 상생' 의제 공론화…지역 사회적 대화 지...",
+    "score": 0,
+    "reason": "사회적 대화 주제는 중요하나, 주가에 직접적인 영향을 미치지 않음.",
+    "related_stocks": [],
+    "link": "https://www.hankookilbo.com/news/article/A2026031616040004280?did=NA",
+    "pub_date": "Wed, 18 Mar 2026 04:31:00 +0900",
+    "analyzed_at": "2026-03-17T20:00:57.205443"
+  },
+  {
+    "title": "엔비디아 생태계 확장하는 젠슨 황… 지상엔 에이전트 깔고 이제 우주로",
+    "score": 3,
+    "reason": "삼성과 엔비디아의 협력 확대는 긍정적인 신호로, 관련 기업의 성장 가능성을 높임.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.hankookilbo.com/news/article/A2026031713500002982?did=NA",
+    "pub_date": "Wed, 18 Mar 2026 04:30:00 +0900",
+    "analyzed_at": "2026-03-17T20:00:57.205447"
+  },
+  {
+    "title": "삼성전자 '엔비디아 협력, AI 에이전트·디지털트윈 혁신으로 확장'",
+    "score": 4,
+    "reason": "삼성전자의 엔비디아와의 협력은 AI 분야에서의 혁신을 가져올 것으로 기대됨.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "https://biz.sbs.co.kr/article_hub/20000298099?division=NAVER",
+    "pub_date": "Wed, 18 Mar 2026 04:23:00 +0900",
+    "analyzed_at": "2026-03-17T20:00:57.205449"
+  },
+  {
+    "title": "오산 '백년동행' 소통, 도시 미래까지 꺼냈...",
+    "score": 4,
+    "reason": "반도체 산업 전략 공개는 지역 경제와 관련 기업에 긍정적인 영향을 미칠 것으로 예상됨.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.newsfreezone.co.kr/news/articleView.html?idxno=680256",
+    "pub_date": "Wed, 18 Mar 2026 05:00:00 +0900",
+    "analyzed_at": "2026-03-17T20:01:14.566948"
+  },
+  {
+    "title": "유가 불안에도 마이크론·TSMC 급등",
+    "score": 3,
+    "reason": "미국 반도체 주가 급등은 한국 반도체 기업에도 긍정적인 영향을 미칠 가능성이 있음.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.mediapen.com/news/view/1087541",
+    "pub_date": "Wed, 18 Mar 2026 04:58:00 +0900",
+    "analyzed_at": "2026-03-17T20:01:14.566957"
+  },
+  {
+    "title": "AI, 이제 냄새까지 읽는다…질병 진단부터 반도체·향수 산업까지 확장",
+    "score": 3,
+    "reason": "AI 기술의 반도체 산업 적용은 혁신적인 발전으로, 관련 기업에 긍정적인 신호.",
+    "related_stocks": [
+      "삼성전자",
+      "LG전자"
+    ],
+    "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1702628",
+    "pub_date": "Wed, 18 Mar 2026 04:58:00 +0900",
+    "analyzed_at": "2026-03-17T20:01:14.566958"
+  },
+  {
+    "title": "젠슨 황, '순환거래' 논란에 '성공할 거라 믿는 회사에 지원'",
+    "score": 1,
+    "reason": "엔비디아 CEO의 발언은 긍정적이나, 논란이 지속될 경우 부정적 영향도 우려됨.",
+    "related_stocks": [
+      "엔비디아",
+      "삼성전자"
+    ],
+    "link": "https://www.yna.co.kr/view/AKR20260318005600091?input=1195m",
+    "pub_date": "Wed, 18 Mar 2026 04:54:00 +0900",
+    "analyzed_at": "2026-03-17T20:01:14.566960"
+  },
+  {
+    "title": "초고압 송전선로 갈등 확산...",
+    "score": -2,
+    "reason": "송전선로 건설 갈등은 반도체 산업단지의 전력 공급에 부정적인 영향을 미칠 수 있음.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.ytn.co.kr/_ln/0115_202603180436421817",
+    "pub_date": "Wed, 18 Mar 2026 04:36:00 +0900",
+    "analyzed_at": "2026-03-17T20:01:14.566962"
+  },
+  {
+    "title": "美 정부, LG엔솔 ESS 배터리 계약 고객사 ‘테슬라’",
+    "score": 4,
+    "reason": "LG엔솔의 테슬라와의 계약은 긍정적인 실적 개선을 기대하게 함.",
+    "related_stocks": [
+      "LG에너지솔루션"
+    ],
+    "link": "https://biz.sbs.co.kr/article_hub/20000298111?division=NAVER",
+    "pub_date": "Wed, 18 Mar 2026 04:53:00 +0900",
+    "analyzed_at": "2026-03-17T20:01:19.254316"
+  },
+  {
+    "title": "머스크 xAI, 월가 인재 영입 나섰다",
+    "score": 3,
+    "reason": "AI 분야의 인재 영입은 경쟁력을 높이고 긍정적인 사업 전망을 시사함.",
+    "related_stocks": [
+      "xAI"
+    ],
+    "link": "https://biz.sbs.co.kr/article_hub/20000298107?division=NAVER",
+    "pub_date": "Wed, 18 Mar 2026 04:41:00 +0900",
+    "analyzed_at": "2026-03-17T20:01:19.254324"
   }
 ]
