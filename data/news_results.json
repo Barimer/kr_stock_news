@@ -32953,5 +32953,338 @@
     "link": "https://www.ajunews.com/view/20260317170032791",
     "pub_date": "Tue, 17 Mar 2026 17:16:00 +0900",
     "analyzed_at": "2026-03-17T08:35:39.657797"
+  },
+  {
+    "title": "엔비디아, 베라 루빈·그록 3로 학습 넘어 추론까지··· 국내 AI 반도체",
+    "score": 4,
+    "reason": "차세대 GPU 아키텍처와 기술 발표는 AI 반도체 시장에 긍정적인 영향을 미칠 것으로 예상됨.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://it.donga.com/108571/",
+    "pub_date": "Tue, 17 Mar 2026 18:40:00 +0900",
+    "analyzed_at": "2026-03-17T09:41:08.647154"
+  },
+  {
+    "title": "울산에 550억 투자…반도체 세정제 공장 짓는 케이앤제이피엠",
+    "score": 3,
+    "reason": "반도체 산업에 대한 투자는 긍정적인 신호로, 관련 기업의 성장 가능성을 높임.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.hankyung.com/article/2026031777261",
+    "pub_date": "Tue, 17 Mar 2026 18:38:00 +0900",
+    "analyzed_at": "2026-03-17T09:41:08.647163"
+  },
+  {
+    "title": "삼성전자 파업 찬반 결정 D-1...노조 측 '성과급 조정은 곧 인적자원 경...",
+    "score": -2,
+    "reason": "노조의 파업 찬반 투표는 기업 운영에 불확실성을 초래할 수 있어 부정적인 요소로 작용.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "https://www.greened.kr/news/articleView.html?idxno=338132",
+    "pub_date": "Tue, 17 Mar 2026 18:37:00 +0900",
+    "analyzed_at": "2026-03-17T09:41:08.647165"
+  },
+  {
+    "title": "SK하이닉스 직원 평균 연봉 1억8500만원… 삼성전자보다 2700만원 높다",
+    "score": 1,
+    "reason": "직원 연봉 상승은 긍정적이나, 삼성전자와의 비교로 인한 경쟁 압박이 우려됨.",
+    "related_stocks": [
+      "SK하이닉스",
+      "삼성전자"
+    ],
+    "link": "https://www.hankookilbo.com/news/article/A2026031717140005853?did=NA",
+    "pub_date": "Tue, 17 Mar 2026 18:34:00 +0900",
+    "analyzed_at": "2026-03-17T09:41:08.647167"
+  },
+  {
+    "title": "삼성전자, '밀라노 디자인 위크 2026' 참가",
+    "score": 1,
+    "reason": "디자인 행사 참가로 브랜드 이미지 제고 가능성은 있으나, 직접적인 주가 영향은 미미할 듯.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160299797945376",
+    "pub_date": "Tue, 17 Mar 2026 18:32:00 +0900",
+    "analyzed_at": "2026-03-17T09:41:08.647168"
+  },
+  {
+    "title": "삼성전자, 'HBM4E·HBM5' 양대 조직 전격 가동···차세대 시장 '초격차...",
+    "score": 4,
+    "reason": "차세대 메모리 시장 선점을 위한 조직 개편은 긍정적인 성장 동력으로 작용할 것.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "https://www.ajunews.com/view/20260317155642708",
+    "pub_date": "Tue, 17 Mar 2026 18:30:00 +0900",
+    "analyzed_at": "2026-03-17T09:41:08.647170"
+  },
+  {
+    "title": "애플, 폴더블 시장 흔든다...첫해 점유율 30% 육박 전망",
+    "score": -1,
+    "reason": "애플의 시장 점유율 상승은 삼성전자에 부정적인 영향을 미칠 수 있음.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "https://www.ppss.kr/news/articleView.html?idxno=288498",
+    "pub_date": "Tue, 17 Mar 2026 18:30:00 +0900",
+    "analyzed_at": "2026-03-17T09:41:08.647172"
+  },
+  {
+    "title": "[사설] AI 중심 사업구조 개편, 신세계의 신선한 도전",
+    "score": 3,
+    "reason": "AI 관련 사업 구조 개편은 장기적으로 긍정적인 성장 가능성을 제시.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "http://www.fnnews.com/news/202603171827562289",
+    "pub_date": "Tue, 17 Mar 2026 18:29:00 +0900",
+    "analyzed_at": "2026-03-17T09:41:08.647176"
+  },
+  {
+    "title": "황상준 삼성전자 부사장 'HBM 올해 3배 증산… 절반 이상 HBM4로 전환'",
+    "score": 4,
+    "reason": "생산량 확대는 수익성 개선에 기여할 것으로 예상됨.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "https://www.dt.co.kr/article/12052179?ref=naver",
+    "pub_date": "Tue, 17 Mar 2026 18:27:00 +0900",
+    "analyzed_at": "2026-03-17T09:41:08.647178"
+  },
+  {
+    "title": "삼성전자, GTC서 HBM4E 최초 공개… '토털 솔루션'으로 엔비디아와 AI 동...",
+    "score": 5,
+    "reason": "HBM4E 기술 공개는 시장에서의 경쟁력을 크게 강화할 것으로 기대됨.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160290856175380",
+    "pub_date": "Tue, 17 Mar 2026 18:26:00 +0900",
+    "analyzed_at": "2026-03-17T09:41:08.647179"
+  },
+  {
+    "title": "SK하이닉스, 서울에 해외 고객사 전용 공간 마련",
+    "score": 2,
+    "reason": "해외 고객사 전용 공간 마련은 긍정적인 사업 확장을 의미하지만, 직접적인 실적 개선과는 거리가 있어 약한 호재로 평가됨.",
+    "related_stocks": [
+      "SK하이닉스"
+    ],
+    "link": "https://www.dt.co.kr/article/12052182?ref=naver",
+    "pub_date": "Tue, 17 Mar 2026 18:38:00 +0900",
+    "analyzed_at": "2026-03-17T09:41:16.894464"
+  },
+  {
+    "title": "“사내부부면 작년에 4억쯤 벌었겠네”…평균 연봉 ‘1.85억’ 찍은 꿈의...",
+    "score": 3,
+    "reason": "직원 평균 연봉 상승은 기업의 재무 건전성을 나타내며, 긍정적인 신호로 작용할 수 있음.",
+    "related_stocks": [
+      "SK하이닉스"
+    ],
+    "link": "https://www.sedaily.com/article/20020609?ref=naver",
+    "pub_date": "Tue, 17 Mar 2026 18:37:00 +0900",
+    "analyzed_at": "2026-03-17T09:41:16.894473"
+  },
+  {
+    "title": "SK하이닉스, 평균 연봉 1억9000만원 육박",
+    "score": 4,
+    "reason": "연봉 상승은 인재 유치 및 기업 경쟁력 강화에 기여할 것으로 예상되어 강한 호재로 평가됨.",
+    "related_stocks": [
+      "SK하이닉스"
+    ],
+    "link": "https://www.m-i.kr/news/articleView.html?idxno=1351726",
+    "pub_date": "Tue, 17 Mar 2026 18:28:00 +0900",
+    "analyzed_at": "2026-03-17T09:41:16.894475"
+  },
+  {
+    "title": "SK하이닉스 평균 연봉 1억8500만원…역대 최대",
+    "score": 3,
+    "reason": "역대 최대 연봉은 기업의 성장 가능성을 시사하며, 긍정적인 요소로 작용할 수 있음.",
+    "related_stocks": [
+      "SK하이닉스"
+    ],
+    "link": "https://www.kado.net/news/articleView.html?idxno=2039278",
+    "pub_date": "Tue, 17 Mar 2026 18:28:00 +0900",
+    "analyzed_at": "2026-03-17T09:41:16.894476"
+  },
+  {
+    "title": "최태원 “SK하이닉스 美 ADR 상장 검토”…글로벌 자금도 모은다",
+    "score": 5,
+    "reason": "미국 ADR 상장은 글로벌 자본 유치와 기업 가치 상승에 크게 기여할 것으로 예상되어 매우 강한 호재로 평가됨.",
+    "related_stocks": [
+      "SK하이닉스"
+    ],
+    "link": "https://www.segye.com/newsView/20260317518451?OutUrl=naver",
+    "pub_date": "Tue, 17 Mar 2026 18:28:00 +0900",
+    "analyzed_at": "2026-03-17T09:41:16.894478"
+  },
+  {
+    "title": "최태원 '하이닉스 美 상장 검토… D램값 안정화 방안 곧 발표'",
+    "score": 4,
+    "reason": "미국 상장 검토와 D램 가격 안정화 방안 발표는 긍정적인 시장 반응을 이끌어낼 가능성이 높아 강한 호재로 평가됨.",
+    "related_stocks": [
+      "SK하이닉스"
+    ],
+    "link": "http://www.fnnews.com/news/202603171824102089",
+    "pub_date": "Tue, 17 Mar 2026 18:25:00 +0900",
+    "analyzed_at": "2026-03-17T09:41:16.894479"
+  },
+  {
+    "title": "카나프테라퓨틱스, 상장 후 급등 기세 꺾여...9%대 하락",
+    "score": -2,
+    "reason": "상장 후 주가 하락은 투자자 신뢰에 부정적 영향을 미칠 수 있음.",
+    "related_stocks": [
+      "카나프테라퓨틱스"
+    ],
+    "link": "https://www.hitnews.co.kr/news/articleView.html?idxno=74657",
+    "pub_date": "Tue, 17 Mar 2026 18:04:00 +0900",
+    "analyzed_at": "2026-03-17T09:41:22.522874"
+  },
+  {
+    "title": "코스닥 거래대금 사상 최고치",
+    "score": 4,
+    "reason": "거래대금 증가와 긍정적인 시장 분위기는 전체 주식 시장에 호재로 작용할 가능성이 높음.",
+    "related_stocks": [],
+    "link": "https://www.bigtanews.co.kr/article/view/big202603170014",
+    "pub_date": "Tue, 17 Mar 2026 17:42:00 +0900",
+    "analyzed_at": "2026-03-17T09:41:22.522882"
+  },
+  {
+    "title": "키움증권, 국내선물옵션 수수료 '90% 할인' 이벤트 진행",
+    "score": 3,
+    "reason": "수수료 인하는 거래 활성화에 기여할 것으로 예상되어 긍정적 요소.",
+    "related_stocks": [
+      "키움증권"
+    ],
+    "link": "https://www.kpinews.kr/newsView/1065602289426722",
+    "pub_date": "Tue, 17 Mar 2026 17:38:00 +0900",
+    "analyzed_at": "2026-03-17T09:41:22.522884"
+  },
+  {
+    "title": "한투-JP모간자산운용 MOU 체결… '글로벌 투자 솔루션 강화'",
+    "score": 2,
+    "reason": "글로벌 투자 솔루션 강화를 통한 자본 배분 구조 개선은 긍정적이나 직접적인 주가 영향은 제한적.",
+    "related_stocks": [
+      "한화투자증권",
+      "JP모간"
+    ],
+    "link": "https://www.rcast.co.kr/news/articleView.html?idxno=30309",
+    "pub_date": "Tue, 17 Mar 2026 18:40:00 +0900",
+    "analyzed_at": "2026-03-17T09:41:31.061890"
+  },
+  {
+    "title": "'특별고립도'를 넘어 '호남대통합'으로",
+    "score": 1,
+    "reason": "청년 유입과 지역 발전을 위한 구체적 방안 제시는 긍정적이나 주식 시장에 미치는 영향은 미미.",
+    "related_stocks": [
+      "전북은행",
+      "호남석유"
+    ],
+    "link": "http://www.domin.co.kr/news/articleView.html?idxno=1548876",
+    "pub_date": "Tue, 17 Mar 2026 18:40:00 +0900",
+    "analyzed_at": "2026-03-17T09:41:31.061899"
+  },
+  {
+    "title": "정부, 'K-엔비디아 프로젝트' 50조원 금융 지원...AI 반도체 유니콘 육성",
+    "score": 4,
+    "reason": "대규모 금융 지원은 AI 반도체 산업에 긍정적인 영향을 미칠 것으로 예상됨.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.kyeonggi.com/article/20260317580547",
+    "pub_date": "Tue, 17 Mar 2026 18:40:00 +0900",
+    "analyzed_at": "2026-03-17T09:41:31.061901"
+  },
+  {
+    "title": "[브리프]삼립 대상 롯데웰푸드 동원F&B 해태제과",
+    "score": 0,
+    "reason": "특정 기업에 대한 직접적인 영향이 없으며, 중립적인 내용.",
+    "related_stocks": [],
+    "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=350649",
+    "pub_date": "Tue, 17 Mar 2026 18:40:00 +0900",
+    "analyzed_at": "2026-03-17T09:41:31.061909"
+  },
+  {
+    "title": "정부, ‘K-엔비디아’ 육성 나선다…AI·반도체에 50조원 투입",
+    "score": 4,
+    "reason": "AI 및 반도체 분야에 대한 대규모 투자는 관련 기업에 긍정적인 영향을 미칠 것으로 보임.",
+    "related_stocks": [
+      "삼성전자",
+      "LG전자"
+    ],
+    "link": "https://www.asiatoday.co.kr/view.php?key=20260317010005198",
+    "pub_date": "Tue, 17 Mar 2026 18:38:00 +0900",
+    "analyzed_at": "2026-03-17T09:41:31.061910"
+  },
+  {
+    "title": "박종원 도의원, 담양군수 출마 공식 선언",
+    "score": 1,
+    "reason": "지역 발전을 위한 계획은 긍정적이나 주식 시장에 미치는 영향은 제한적.",
+    "related_stocks": [
+      "담양농협",
+      "전남개발공사"
+    ],
+    "link": "http://www.jndn.com/article.php?aid=1773740098428991003",
+    "pub_date": "Tue, 17 Mar 2026 18:38:00 +0900",
+    "analyzed_at": "2026-03-17T09:41:31.061912"
+  },
+  {
+    "title": "[AI의 종목 이야기] 노무라, 인도 니프티지수 목표치 15% 하향 조정",
+    "score": -2,
+    "reason": "인도 주식 시장에 대한 부정적인 전망이 한국 주식 시장에도 영향을 미칠 수 있음.",
+    "related_stocks": [],
+    "link": "https://www.newspim.com/news/view/20260317001287",
+    "pub_date": "Tue, 17 Mar 2026 18:36:00 +0900",
+    "analyzed_at": "2026-03-17T09:41:39.577576"
+  },
+  {
+    "title": "이통 3사 주총 시즌 돌입…조직 안정화·신뢰 회복에 방점",
+    "score": 2,
+    "reason": "이통 3사의 조직 안정화 및 신뢰 회복 노력은 긍정적인 신호로 해석될 수 있음.",
+    "related_stocks": [
+      "SK텔레콤",
+      "KT",
+      "LG유플러스"
+    ],
+    "link": "http://www.sisafocus.co.kr/news/articleView.html?idxno=357260",
+    "pub_date": "Tue, 17 Mar 2026 18:34:00 +0900",
+    "analyzed_at": "2026-03-17T09:41:39.577585"
+  },
+  {
+    "title": "양자 컴퓨터, 글로벌 금융·시스템도 파괴?...세일러 '비트코인만 망하'",
+    "score": -3,
+    "reason": "AI와 양자 컴퓨터의 부정적 영향에 대한 우려가 주식 시장에 악재로 작용할 가능성이 있음.",
+    "related_stocks": [],
+    "link": "http://coinreaders.com/224367",
+    "pub_date": "Tue, 17 Mar 2026 18:32:00 +0900",
+    "analyzed_at": "2026-03-17T09:41:39.577586"
+  },
+  {
+    "title": "SK하이닉스, 직원 평균 연봉 1억8500만 원 '역대 최대'",
+    "score": 4,
+    "reason": "사상 최고 실적 달성과 직원 급여 증가는 긍정적인 기업 이미지와 주가 상승 요인으로 작용할 수 있음.",
+    "related_stocks": [
+      "SK하이닉스"
+    ],
+    "link": "https://www.nocutnews.co.kr/news/6486543?utm_source=naver&utm_medium=article&utm_campaign=20260317062254",
+    "pub_date": "Tue, 17 Mar 2026 18:23:00 +0900",
+    "analyzed_at": "2026-03-17T09:41:39.577588"
+  },
+  {
+    "title": "젠슨 황 '삼성, 생큐'…차세대 AI칩 한국에 맡겼다",
+    "score": 3,
+    "reason": "차세대 AI칩 개발에 대한 긍정적인 소식은 관련 기업에 호재로 작용할 가능성이 높음.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=05280806645384304",
+    "pub_date": "Tue, 17 Mar 2026 18:21:00 +0900",
+    "analyzed_at": "2026-03-17T09:41:39.577589"
   }
 ]
