@@ -35708,5 +35708,287 @@
     "link": "https://www.joongang.co.kr/article/25412601",
     "pub_date": "Wed, 18 Mar 2026 05:00:00 +0900",
     "analyzed_at": "2026-03-17T20:59:43.824975"
+  },
+  {
+    "title": "삼성 출신 변리사 모십니다",
+    "score": 2,
+    "reason": "신한은행의 전문 심사역 채용은 기업 여신 심사에 긍정적인 영향을 미칠 것으로 예상됨.",
+    "related_stocks": [
+      "신한은행"
+    ],
+    "link": "https://www.news1.kr/finance/general-finance/6104107",
+    "pub_date": "Wed, 18 Mar 2026 06:47:00 +0900",
+    "analyzed_at": "2026-03-17T21:51:08.659599"
+  },
+  {
+    "title": "마이크론, 시총 5000억달러 첫 돌파",
+    "score": 4,
+    "reason": "HBM4와 AI 수요 증가로 인해 메모리 시장의 공급 부족이 심화되고 있어 긍정적인 전망.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스",
+      "마이크론"
+    ],
+    "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02332086645384632",
+    "pub_date": "Wed, 18 Mar 2026 06:44:00 +0900",
+    "analyzed_at": "2026-03-17T21:51:08.659609"
+  },
+  {
+    "title": "강남 아파트 '세금 폭탄' 현실로?",
+    "score": 0,
+    "reason": "서울 공시가 상승은 부동산 시장에 영향을 미칠 수 있으나 주식 시장에 직접적인 영향은 없음.",
+    "related_stocks": [],
+    "link": "https://biz.sbs.co.kr/article_hub/20000298124?division=NAVER",
+    "pub_date": "Wed, 18 Mar 2026 06:42:00 +0900",
+    "analyzed_at": "2026-03-17T21:51:08.659611"
+  },
+  {
+    "title": "[GTC 2026] 송용호 삼성 AI센터장 '엔비디아·시높시스와 반도체 디지털'",
+    "score": 3,
+    "reason": "삼성전자의 AI 관련 협력 확대는 반도체 산업에 긍정적인 영향을 미칠 것으로 보임.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "https://dealsite.co.kr/articles/158618",
+    "pub_date": "Wed, 18 Mar 2026 06:38:00 +0900",
+    "analyzed_at": "2026-03-17T21:51:08.659613"
+  },
+  {
+    "title": "[증시전략] 이란 전쟁에 고민 커진 연준, FOMC 관전 포인트는?",
+    "score": -1,
+    "reason": "이란 전쟁 관련 불확실성이 주식 시장에 부정적인 영향을 미치고 있음.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://biz.sbs.co.kr/article_hub/20000298122?division=NAVER",
+    "pub_date": "Wed, 18 Mar 2026 06:32:00 +0900",
+    "analyzed_at": "2026-03-17T21:51:08.659614"
+  },
+  {
+    "title": "메모리 못 구하면 도태",
+    "score": 3,
+    "reason": "AI 시대에 메모리 물량 확보의 중요성이 강조되며 삼성전자와 SK하이닉스에 긍정적인 신호.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.sedaily.com/article/20020647?ref=naver",
+    "pub_date": "Wed, 18 Mar 2026 06:31:00 +0900",
+    "analyzed_at": "2026-03-17T21:51:08.659616"
+  },
+  {
+    "title": "리사 수 AMD CEO, 오늘 방한...",
+    "score": 3,
+    "reason": "AMD와 삼성전자의 협력 강화는 반도체 산업에 긍정적인 영향을 미칠 것으로 예상됨.",
+    "related_stocks": [
+      "삼성전자",
+      "AMD"
+    ],
+    "link": "https://zdnet.co.kr/view/?no=20260317184413",
+    "pub_date": "Wed, 18 Mar 2026 06:31:00 +0900",
+    "analyzed_at": "2026-03-17T21:51:08.659617"
+  },
+  {
+    "title": "젠슨황 호재마저 격추시킨 이란드론...",
+    "score": -2,
+    "reason": "이란 드론 공격 소식이 주가 상승폭을 반납하게 하여 부정적인 영향을 미침.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.mk.co.kr/article/11990977",
+    "pub_date": "Wed, 18 Mar 2026 06:28:00 +0900",
+    "analyzed_at": "2026-03-17T21:51:08.659621"
+  },
+  {
+    "title": "'방한' 리사수, 삼성과 전방위 협력...",
+    "score": 4,
+    "reason": "리사 수 CEO의 방한은 삼성전자와의 협력 강화를 통해 긍정적인 시너지를 기대할 수 있음.",
+    "related_stocks": [
+      "삼성전자",
+      "AMD"
+    ],
+    "link": "http://www.yonhapnewstv.co.kr/MYH20260318062314OlR",
+    "pub_date": "Wed, 18 Mar 2026 06:24:00 +0900",
+    "analyzed_at": "2026-03-17T21:51:08.659623"
+  },
+  {
+    "title": "엔비디아 GTC 승자는 메모리 반도체·구리 커넥터...",
+    "score": 4,
+    "reason": "AI 확산에 따른 메모리 반도체의 수혜가 예상되어 긍정적인 전망.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스",
+      "마이크론"
+    ],
+    "link": "https://www.g-enews.com/view.php?ud=202603180055079627be84d87674_1",
+    "pub_date": "Wed, 18 Mar 2026 06:10:00 +0900",
+    "analyzed_at": "2026-03-17T21:51:08.659624"
+  },
+  {
+    "title": "[N2 모닝 경제 브리핑-3월 18일] 美증시, 3대 지수 상승 마감…FOMC 앞두...",
+    "score": 0,
+    "reason": "미국 증시 상승은 긍정적이나 한국 주식 시장에 직접적인 영향은 없음.",
+    "related_stocks": [],
+    "link": "https://www.news2day.co.kr/article/20260317500037",
+    "pub_date": "Wed, 18 Mar 2026 06:50:00 +0900",
+    "analyzed_at": "2026-03-17T21:51:16.718915"
+  },
+  {
+    "title": "최태원 SK그룹 회장 '세계적인 메모리 칩 부족 현상 2030년까지 지속할...",
+    "score": 1,
+    "reason": "메모리 칩 부족 지속 전망은 SK하이닉스에 약간의 긍정적 요소로 작용할 수 있음.",
+    "related_stocks": [
+      "SK하이닉스"
+    ],
+    "link": "https://www.greened.kr/news/articleView.html?idxno=338142",
+    "pub_date": "Wed, 18 Mar 2026 06:47:00 +0900",
+    "analyzed_at": "2026-03-17T21:51:16.718923"
+  },
+  {
+    "title": "SK하이닉스, 현금 20조 불렸다… 엔비디아로 23조 매출 올려",
+    "score": 4,
+    "reason": "현금 증가와 매출 개선은 SK하이닉스의 재무 안정성을 크게 높임.",
+    "related_stocks": [
+      "SK하이닉스"
+    ],
+    "link": "http://www.newsroad.co.kr/news/articleView.html?idxno=56215",
+    "pub_date": "Wed, 18 Mar 2026 06:40:00 +0900",
+    "analyzed_at": "2026-03-17T21:51:16.718925"
+  },
+  {
+    "title": "SK하이닉스, 재무건전성 개선…美 매출비중 70%",
+    "score": 4,
+    "reason": "재무 건전성 개선과 높은 미국 매출 비중은 긍정적인 신호.",
+    "related_stocks": [
+      "SK하이닉스"
+    ],
+    "link": "https://biz.sbs.co.kr/article_hub/20000298132?division=NAVER",
+    "pub_date": "Wed, 18 Mar 2026 06:19:00 +0900",
+    "analyzed_at": "2026-03-17T21:51:16.718926"
+  },
+  {
+    "title": "코스피·코스닥 전 거래일(17일) 주요공시는?...SK하이닉스 소액주주 10...",
+    "score": 2,
+    "reason": "직원 연봉 증가와 소액주주 수 증가가 긍정적인 요소로 작용.",
+    "related_stocks": [
+      "SK하이닉스"
+    ],
+    "link": "https://www.pinpointnews.co.kr/news/articleView.html?idxno=437608",
+    "pub_date": "Wed, 18 Mar 2026 06:08:00 +0900",
+    "analyzed_at": "2026-03-17T21:51:16.718927"
+  },
+  {
+    "title": "반도체 초호황에 SK하이닉스 직원도, 주주도 모두 웃음꽃",
+    "score": 4,
+    "reason": "소액주주 증가와 직원 연봉 상승은 SK하이닉스의 긍정적인 성과를 나타냄.",
+    "related_stocks": [
+      "SK하이닉스"
+    ],
+    "link": "https://www.segye.com/newsView/20260317520173?OutUrl=naver",
+    "pub_date": "Wed, 18 Mar 2026 06:04:00 +0900",
+    "analyzed_at": "2026-03-17T21:51:16.718928"
+  },
+  {
+    "title": "성경에 돈 이야기 2,350번… 교회, ‘돈맹’ 탈출하려면",
+    "score": 0,
+    "reason": "주식 시장과 직접적인 연관성이 없는 일반적인 사회적 담론으로 주가에 영향 없음.",
+    "related_stocks": [],
+    "link": "https://www.christiantoday.co.kr/news/373995",
+    "pub_date": "Wed, 18 Mar 2026 06:14:00 +0900",
+    "analyzed_at": "2026-03-17T21:51:18.597368"
+  },
+  {
+    "title": "[GTC2026]엔비디아 ‘1조달러 주문’ 자신감…“블랙웰·베라 루빈만 계...",
+    "score": 4,
+    "reason": "엔비디아의 대규모 주문 전망은 반도체 산업에 긍정적인 신호로 작용할 가능성이 높음.",
+    "related_stocks": [
+      "엔비디아",
+      "삼성전자"
+    ],
+    "link": "https://www.mk.co.kr/article/11990987",
+    "pub_date": "Wed, 18 Mar 2026 06:48:00 +0900",
+    "analyzed_at": "2026-03-17T21:51:24.562725"
+  },
+  {
+    "title": "전쟁 후 'ETF 장바구니' 달라졌다...상위 7개 '물갈이'",
+    "score": 2,
+    "reason": "ETF의 순매수 변화는 반도체 및 2차전지 산업에 대한 관심을 반영하며 긍정적.",
+    "related_stocks": [
+      "TIGER반도체10",
+      "KODEX레버리지"
+    ],
+    "link": "http://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202603180216&t=NN",
+    "pub_date": "Wed, 18 Mar 2026 06:43:00 +0900",
+    "analyzed_at": "2026-03-17T21:51:24.562734"
+  },
+  {
+    "title": "뉴욕증시, 국제유가 반등에도 이틀 연속 상승…나스닥 0.47%↑",
+    "score": 1,
+    "reason": "반도체 수요 지속 전망이 긍정적이나, 전체 시장 상승폭은 제한적.",
+    "related_stocks": [
+      "엔비디아",
+      "필라델피아 반도체지수"
+    ],
+    "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=834390",
+    "pub_date": "Wed, 18 Mar 2026 06:42:00 +0900",
+    "analyzed_at": "2026-03-17T21:51:24.562736"
+  },
+  {
+    "title": "변액보험, '불장'에 시장성 커져…신계약 3조원 몰렸다",
+    "score": 3,
+    "reason": "변액보험 시장의 성장과 신계약 증가가 긍정적인 신호로 작용할 수 있음.",
+    "related_stocks": [
+      "삼성생명",
+      "한화생명"
+    ],
+    "link": "http://www.fins.co.kr/news/articleView.html?idxno=107883",
+    "pub_date": "Wed, 18 Mar 2026 06:36:00 +0900",
+    "analyzed_at": "2026-03-17T21:51:32.727845"
+  },
+  {
+    "title": "[외신 헤드라인] '오픈AI, 앤트로픽 추격 속 전략 재편'",
+    "score": 1,
+    "reason": "AI 분야의 인재 채용이 긍정적이나 직접적인 주식 시장 영향은 미미함.",
+    "related_stocks": [
+      "카카오",
+      "네이버"
+    ],
+    "link": "https://biz.sbs.co.kr/article_hub/20000298121?division=NAVER",
+    "pub_date": "Wed, 18 Mar 2026 06:24:00 +0900",
+    "analyzed_at": "2026-03-17T21:51:32.727853"
+  },
+  {
+    "title": "유가 100달러에도 뉴욕증시 상승…연준 경계 속 ‘신중한 반등’",
+    "score": 0,
+    "reason": "유가 상승에도 불구하고 뉴욕증시의 반등은 중립적인 신호로 해석됨.",
+    "related_stocks": [],
+    "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02115606645384632",
+    "pub_date": "Wed, 18 Mar 2026 06:13:00 +0900",
+    "analyzed_at": "2026-03-17T21:51:32.727855"
+  },
+  {
+    "title": "[사설] 한화·KAI 전략적 협력 가속, ‘한국판 스페이스X’ 앞당기길",
+    "score": 4,
+    "reason": "한화와 KAI의 협력이 미래 성장 가능성을 높이며 긍정적인 영향을 미칠 것으로 예상됨.",
+    "related_stocks": [
+      "한화에어로스페이스",
+      "KAI"
+    ],
+    "link": "https://www.sedaily.com/article/20020623?ref=naver",
+    "pub_date": "Wed, 18 Mar 2026 06:06:00 +0900",
+    "analyzed_at": "2026-03-17T21:51:32.727856"
+  },
+  {
+    "title": "'내부거래 숙명' 삼성SDS, 6조원 실탄에도 갈 길 먼 주주환원",
+    "score": -2,
+    "reason": "주주환원 부족과 신사업 동력 부족이 부정적인 요소로 작용하고 있음.",
+    "related_stocks": [
+      "삼성SDS"
+    ],
+    "link": "https://www.sidae.com/article/2026031714321829637",
+    "pub_date": "Wed, 18 Mar 2026 06:00:00 +0900",
+    "analyzed_at": "2026-03-17T21:51:32.727857"
   }
 ]
