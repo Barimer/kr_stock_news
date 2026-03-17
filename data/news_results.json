@@ -36658,5 +36658,336 @@
     "link": "https://www.newspim.com/news/view/20260318000050",
     "pub_date": "Wed, 18 Mar 2026 08:05:00 +0900",
     "analyzed_at": "2026-03-17T23:19:50.229205"
+  },
+  {
+    "title": "삼성전자, 올해 주총 분위기는: ‘국민주’ 삼성전자의 제57기 정기 주주총회",
+    "score": 4,
+    "reason": "AI 반도체 시장 주도권 탈환 평가로 긍정적인 주총 분위기",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "https://www.mk.co.kr/article/11991043",
+    "pub_date": "Wed, 18 Mar 2026 08:54:00 +0900",
+    "analyzed_at": "2026-03-17T23:58:01.466434"
+  },
+  {
+    "title": "하반기 접는 폰 400만원 시대 열린다",
+    "score": -1,
+    "reason": "폴더블 스마트폰 가격 인상으로 소비자 부담 증가",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "https://view.asiae.co.kr/article/2026031717254879104",
+    "pub_date": "Wed, 18 Mar 2026 08:53:00 +0900",
+    "analyzed_at": "2026-03-17T23:58:01.466443"
+  },
+  {
+    "title": "한투운용 'ACE AI반도체TOP3+ ETF' 순자산액 5천억 돌파",
+    "score": 3,
+    "reason": "AI 반도체 관련 ETF의 높은 수익률로 긍정적인 투자 신호",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.yna.co.kr/view/AKR20260318029000008?input=1195m",
+    "pub_date": "Wed, 18 Mar 2026 08:53:00 +0900",
+    "analyzed_at": "2026-03-17T23:58:01.466445"
+  },
+  {
+    "title": "KB운용 'RISE 코리아밸류업' ETF, 순자산 8000억원 돌파",
+    "score": 2,
+    "reason": "ETF의 비용 경쟁력과 주요 종목 편입으로 긍정적",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://view.asiae.co.kr/article/2026031808534724855",
+    "pub_date": "Wed, 18 Mar 2026 08:53:00 +0900",
+    "analyzed_at": "2026-03-17T23:58:01.466447"
+  },
+  {
+    "title": "[특징주] '땡큐 엔비디아'…삼전·하이닉스·현대차 프리마켓서 동반 강세",
+    "score": 4,
+    "reason": "엔비디아와의 협력 기대감으로 주가 상승",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스",
+      "현대차"
+    ],
+    "link": "https://www.newsway.co.kr/news/view?ud=2026031808334821550",
+    "pub_date": "Wed, 18 Mar 2026 08:52:00 +0900",
+    "analyzed_at": "2026-03-17T23:58:01.466448"
+  },
+  {
+    "title": "반도체 공급난 삼성, 2028년 말 해소",
+    "score": 1,
+    "reason": "공급난 해소 전망이 있지만 장기적인 불확실성 존재",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.autodaily.co.kr/news/articleView.html?idxno=542442",
+    "pub_date": "Wed, 18 Mar 2026 08:52:00 +0900",
+    "analyzed_at": "2026-03-17T23:58:01.466450"
+  },
+  {
+    "title": "엔비디아, 추론전용 '그록' 칩 중국 수출 준비",
+    "score": 0,
+    "reason": "생산 일정 차이로 주가에 미치는 영향은 중립적",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "https://www.yna.co.kr/view/AKR20260318028700091?input=1195m",
+    "pub_date": "Wed, 18 Mar 2026 08:52:00 +0900",
+    "analyzed_at": "2026-03-17T23:58:01.466452"
+  },
+  {
+    "title": "삼성전자, 직원 보상 역대 최고…여성 장기근속도↑",
+    "score": 2,
+    "reason": "직원 보상 증가로 기업 이미지 개선 및 직원 만족도 상승",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "http://www.datanews.co.kr/news/article.html?no=143813",
+    "pub_date": "Wed, 18 Mar 2026 08:52:00 +0900",
+    "analyzed_at": "2026-03-17T23:58:01.466456"
+  },
+  {
+    "title": "한투운용 'ACE AI반도체TOP3+' ETF, 순자산액 5000억원 돌파",
+    "score": 3,
+    "reason": "AI 반도체 관련 ETF의 성장은 긍정적인 투자 신호",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://view.asiae.co.kr/article/2026031808475368202",
+    "pub_date": "Wed, 18 Mar 2026 08:47:00 +0900",
+    "analyzed_at": "2026-03-17T23:58:01.466458"
+  },
+  {
+    "title": "한투운용 ACE AI반도체TOP3+ ETF, 순자산액 5000억원 돌파",
+    "score": 3,
+    "reason": "소수 종목 집중 전략으로 수익률 상승 기대",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "http://www.newsdream.kr/news/articleView.html?idxno=109631",
+    "pub_date": "Wed, 18 Mar 2026 08:44:00 +0900",
+    "analyzed_at": "2026-03-17T23:58:01.466459"
+  },
+  {
+    "title": "울산시-케이앤제이피엠, 반도체 세정제 공장 신설 MOU 체결",
+    "score": 4,
+    "reason": "반도체 산업에 필요한 세정제 공급을 위한 공장 신설은 긍정적인 소식으로, 관련 기업의 성장 가능성을 높임.",
+    "related_stocks": [
+      "케이앤제이피엠",
+      "극동유화"
+    ],
+    "link": "http://www.metroseoul.co.kr/article/20260317500627",
+    "pub_date": "Wed, 18 Mar 2026 08:50:00 +0900",
+    "analyzed_at": "2026-03-17T23:58:10.214307"
+  },
+  {
+    "title": "3월 17일 주식시장 주요공시",
+    "score": 2,
+    "reason": "SK하이닉스와의 공급계약 체결은 긍정적이나, 규모가 상대적으로 작아 약한 호재로 평가됨.",
+    "related_stocks": [
+      "미래산업",
+      "SK하이닉스"
+    ],
+    "link": "https://www.catchnews.kr/news/articleView.html?idxno=121738",
+    "pub_date": "Wed, 18 Mar 2026 08:45:00 +0900",
+    "analyzed_at": "2026-03-17T23:58:10.214316"
+  },
+  {
+    "title": "KB證 'SK하닉, 2028년까지 반도체 공급 부족…목표가 170만원 유지'",
+    "score": 4,
+    "reason": "반도체 공급 부족 전망은 SK하이닉스에 긍정적이며, 목표주가 유지로 투자 신뢰를 높임.",
+    "related_stocks": [
+      "SK하이닉스"
+    ],
+    "link": "https://www.newsis.com/view/NISX20260318_0003552738",
+    "pub_date": "Wed, 18 Mar 2026 08:42:00 +0900",
+    "analyzed_at": "2026-03-17T23:58:10.214318"
+  },
+  {
+    "title": "KB운용 ‘RISE 코리아밸류업 ETF,’ 순자산 8000억 돌파",
+    "score": 3,
+    "reason": "주요 편입 종목에 SK하이닉스와 삼성전자가 포함되어 있어 긍정적인 시장 반응을 이끌어낼 가능성이 있음.",
+    "related_stocks": [
+      "SK하이닉스",
+      "삼성전자"
+    ],
+    "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=02876566645384632",
+    "pub_date": "Wed, 18 Mar 2026 08:41:00 +0900",
+    "analyzed_at": "2026-03-17T23:58:10.214320"
+  },
+  {
+    "title": "국제유가 상승폭 둔화와 GTC 2026 영향으로 반...",
+    "score": 0,
+    "reason": "국제유가의 변동성이 있지만 전반적인 주가는 혼조세를 보여 주가에 큰 영향 없음.",
+    "related_stocks": [],
+    "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=263309",
+    "pub_date": "Wed, 18 Mar 2026 08:32:00 +0900",
+    "analyzed_at": "2026-03-17T23:58:13.454539"
+  },
+  {
+    "title": "인천벤처투자㈜ 벤처투자회사 등록 승인…벤처투자 본격화",
+    "score": 3,
+    "reason": "반도체, 바이오 등 전략산업에 대한 투자 확대는 긍정적인 신호로 작용할 수 있음.",
+    "related_stocks": [
+      "인천벤처투자",
+      "반도체 관련 기업"
+    ],
+    "link": "https://www.dailian.co.kr/news/view/1622058/?sc=Naver",
+    "pub_date": "Wed, 18 Mar 2026 08:56:00 +0900",
+    "analyzed_at": "2026-03-17T23:58:24.720237"
+  },
+  {
+    "title": "경북도, 도정 전반과 산업 전 분야에 인공지능 전환",
+    "score": 4,
+    "reason": "인공지능 기술 주권 확보를 위한 정부의 적극적인 정책은 관련 산업에 긍정적 영향을 미칠 것으로 예상됨.",
+    "related_stocks": [
+      "AI 관련 기업",
+      "반도체 기업"
+    ],
+    "link": "https://www.joongdo.co.kr/web/view.php?key=20260318010005940",
+    "pub_date": "Wed, 18 Mar 2026 08:56:00 +0900",
+    "analyzed_at": "2026-03-17T23:58:24.720246"
+  },
+  {
+    "title": "경북도, 소버린 AI로 지방이 주도하는 초혁신 경제시대 연다",
+    "score": 4,
+    "reason": "AI 기술 주권 확보를 위한 전주기 생태계 조성은 지역 경제에 긍정적인 영향을 미칠 것으로 보임.",
+    "related_stocks": [
+      "AI 관련 기업",
+      "반도체 기업"
+    ],
+    "link": "https://www.hankyung.com/article/202603188618h",
+    "pub_date": "Wed, 18 Mar 2026 08:55:00 +0900",
+    "analyzed_at": "2026-03-17T23:58:24.720248"
+  },
+  {
+    "title": "[에너지·산업 정책 대전환①] “자유무역 시대 끝났다”…정부 주도 산...",
+    "score": -1,
+    "reason": "주요국의 산업 경쟁력 확보를 위한 보호무역 강화는 한국 기업에 부정적인 영향을 미칠 수 있음.",
+    "related_stocks": [
+      "반도체 기업",
+      "전기차 기업"
+    ],
+    "link": "https://www.ekn.kr/web/view.php?key=20260318027597816",
+    "pub_date": "Wed, 18 Mar 2026 08:54:00 +0900",
+    "analyzed_at": "2026-03-17T23:58:24.720249"
+  },
+  {
+    "title": "안성시, 반도체 특화단지 이름 공모전 개최",
+    "score": 2,
+    "reason": "반도체 특화단지의 정체성 강화는 장기적으로 긍정적인 영향을 미칠 수 있음.",
+    "related_stocks": [
+      "반도체 관련 기업"
+    ],
+    "link": "http://www.metroseoul.co.kr/article/20260317500663",
+    "pub_date": "Wed, 18 Mar 2026 08:54:00 +0900",
+    "analyzed_at": "2026-03-17T23:58:24.720251"
+  },
+  {
+    "title": "코윈테크, 국내 반도체기업과 로봇∙자동화시스템 공급계약",
+    "score": 3,
+    "reason": "반도체 기업과의 계약 체결은 코윈테크의 성장 가능성을 높이는 긍정적인 요소임.",
+    "related_stocks": [
+      "코윈테크",
+      "반도체 기업"
+    ],
+    "link": "https://daily.hankooki.com/news/articleView.html?idxno=1348274",
+    "pub_date": "Wed, 18 Mar 2026 08:54:00 +0900",
+    "analyzed_at": "2026-03-17T23:58:24.720252"
+  },
+  {
+    "title": "중동 전쟁이 밀어 올린 환율, 꺾일까…‘환율안정 3법’ 상임위 통과",
+    "score": 3,
+    "reason": "환율안정 3법 통과로 외환시장 안정 기대감이 높아져 긍정적인 영향을 미칠 것으로 보임.",
+    "related_stocks": [
+      "키움증권",
+      "서학개미"
+    ],
+    "link": "http://www.joseilbo.com/news/news_read.php?uid=564812&class=18&grp=",
+    "pub_date": "Wed, 18 Mar 2026 08:52:00 +0900",
+    "analyzed_at": "2026-03-17T23:58:37.028154"
+  },
+  {
+    "title": "채굴보다 매입이 빠르다…스트래티지, BTC 공급 쇼크 불러올까",
+    "score": 2,
+    "reason": "스트래티지가 비트코인 구매에 나선 것은 긍정적이나, 시장에 미치는 영향은 제한적일 수 있음.",
+    "related_stocks": [
+      "MSTR"
+    ],
+    "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=642202",
+    "pub_date": "Wed, 18 Mar 2026 08:50:00 +0900",
+    "analyzed_at": "2026-03-17T23:58:37.028163"
+  },
+  {
+    "title": "[모닝 리포트] \"환율안정 3법 통과 기대…달러/원 1500원 급등 가능성 제",
+    "score": 3,
+    "reason": "환율안정 3법의 긍정적인 효과가 기대되며 외환시장 안정에 기여할 것으로 예상됨.",
+    "related_stocks": [
+      "서학개미"
+    ],
+    "link": "https://www.newspim.com/news/view/20260318000144",
+    "pub_date": "Wed, 18 Mar 2026 08:49:00 +0900",
+    "analyzed_at": "2026-03-17T23:58:37.028164"
+  },
+  {
+    "title": "인천시 벤처투자 체계 본격 가동으로 지역 혁신기업 성장 견인",
+    "score": 4,
+    "reason": "인천시의 벤처투자 체계 가동은 지역 산업 발전에 긍정적인 영향을 미칠 것으로 기대됨.",
+    "related_stocks": [
+      "반도체",
+      "바이오"
+    ],
+    "link": "https://www.viva100.com/article/20260318500084",
+    "pub_date": "Wed, 18 Mar 2026 08:44:00 +0900",
+    "analyzed_at": "2026-03-17T23:58:37.028166"
+  },
+  {
+    "title": "[부산ㆍ경남 대학 브리핑 모음(3월18일)] 동아대 운영 부산사하구 어린",
+    "score": 0,
+    "reason": "특별한 주가 영향이 없으며, 교육 및 연구 협약에 대한 내용이 주를 이루고 있음.",
+    "related_stocks": [],
+    "link": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202603171720584990557",
+    "pub_date": "Wed, 18 Mar 2026 08:42:00 +0900",
+    "analyzed_at": "2026-03-17T23:58:37.028168"
+  },
+  {
+    "title": "강원 의료기기 산업 기술력... KIMES 2026서 뽐낸다",
+    "score": 2,
+    "reason": "강원 기업들의 기술력이 인정받을 가능성이 있으나, 시장에 미치는 영향은 제한적일 수 있음.",
+    "related_stocks": [
+      "굿플",
+      "비엘테크"
+    ],
+    "link": "http://www.fnnews.com/news/202603180818176761",
+    "pub_date": "Wed, 18 Mar 2026 08:39:00 +0900",
+    "analyzed_at": "2026-03-17T23:58:37.028169"
+  },
+  {
+    "title": "[오늘의 브릿지경제 1면] 서울 아파트 공시가격 18.67% 상승…보유세 최",
+    "score": 0,
+    "reason": "부동산 관련 뉴스로 주식 시장에 직접적인 영향은 미치지 않을 것으로 보임.",
+    "related_stocks": [],
+    "link": "https://www.viva100.com/article/20260317501095",
+    "pub_date": "Wed, 18 Mar 2026 08:36:00 +0900",
+    "analyzed_at": "2026-03-17T23:58:37.028170"
+  },
+  {
+    "title": "[서학개미 브리핑] 양도세 면제 혜택…환율안정 3법 상임위 통과",
+    "score": 3,
+    "reason": "양도세 면제 혜택과 환율안정 3법 통과는 해외 투자자들에게 긍정적인 신호로 작용할 수 있음.",
+    "related_stocks": [
+      "서학개미"
+    ],
+    "link": "https://biz.sbs.co.kr/article_hub/20000298154?division=NAVER",
+    "pub_date": "Wed, 18 Mar 2026 08:31:00 +0900",
+    "analyzed_at": "2026-03-17T23:58:37.028172"
   }
 ]
