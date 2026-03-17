@@ -32576,5 +32576,382 @@
     "link": "https://www.newspim.com/news/view/20260317000978",
     "pub_date": "Tue, 17 Mar 2026 16:20:00 +0900",
     "analyzed_at": "2026-03-17T07:32:15.341342"
+  },
+  {
+    "title": "젠슨 황 한마디에 웃은 삼성전자·현대차",
+    "score": 4,
+    "reason": "엔비디아와의 협력 발표로 삼성전자와 현대차 주가 상승, 긍정적인 시장 반응.",
+    "related_stocks": [
+      "삼성전자",
+      "현대차"
+    ],
+    "link": "https://www.hankyung.com/article/2026031776261",
+    "pub_date": "Tue, 17 Mar 2026 17:33:00 +0900",
+    "analyzed_at": "2026-03-17T08:34:49.346725"
+  },
+  {
+    "title": "강력한 AI 기능에 프라이버시 보호까지..인니 소비자 초고가폰 ‘갤럭...",
+    "score": 3,
+    "reason": "갤럭시 S26 시리즈의 높은 판매량이 삼성전자의 매출에 긍정적 영향을 미칠 것으로 예상.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "http://www.fnnews.com/news/202603171703310586",
+    "pub_date": "Tue, 17 Mar 2026 17:33:00 +0900",
+    "analyzed_at": "2026-03-17T08:34:49.346734"
+  },
+  {
+    "title": "삼성, 또 '마의 벽' 깼다…엔비디아 홀린 K반도체",
+    "score": 5,
+    "reason": "엔비디아의 AI 추론 전용 칩 위탁 생산 발표로 삼성전자의 기술력과 시장 지배력 강화.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "https://www.mt.co.kr/industry/2026/03/17/2026031717052633969",
+    "pub_date": "Tue, 17 Mar 2026 17:32:00 +0900",
+    "analyzed_at": "2026-03-17T08:34:49.346736"
+  },
+  {
+    "title": "AMD CEO, 전영현·노태문·한진만 만난다…이재용 회장과 회동 가능성도",
+    "score": 2,
+    "reason": "AMD CEO와의 만남이 삼성전자의 반도체 사업에 긍정적인 영향을 미칠 가능성.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=834352",
+    "pub_date": "Tue, 17 Mar 2026 17:32:00 +0900",
+    "analyzed_at": "2026-03-17T08:34:49.346738"
+  },
+  {
+    "title": "SK하이닉스, 직원 평균연봉 1억8500만원…최태원 회장 47억 수령",
+    "score": 1,
+    "reason": "SK하이닉스의 높은 평균 연봉이 긍정적인 기업 이미지에 기여하지만, 삼성전자와의 직접적인 비교는 중립적.",
+    "related_stocks": [
+      "SK하이닉스",
+      "삼성전자"
+    ],
+    "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=834369",
+    "pub_date": "Tue, 17 Mar 2026 17:32:00 +0900",
+    "analyzed_at": "2026-03-17T08:34:49.346739"
+  },
+  {
+    "title": "리사 수 AMD 최고경영자, 18일 삼성전자 평택캠퍼스 방문",
+    "score": 2,
+    "reason": "AMD와의 협력 강화가 삼성전자의 반도체 사업에 긍정적인 영향을 미칠 것으로 기대.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "https://www.hani.co.kr/arti/economy/marketing/1249753.html",
+    "pub_date": "Tue, 17 Mar 2026 17:32:00 +0900",
+    "analyzed_at": "2026-03-17T08:34:49.346741"
+  },
+  {
+    "title": "젠슨황, GTC서 '삼성에 감사'…협력 강조",
+    "score": 3,
+    "reason": "엔비디아와의 협력 강조가 삼성전자의 시장 신뢰도를 높일 것으로 예상.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "http://www.yonhapnewstv.co.kr/MYH20260317173103YaD",
+    "pub_date": "Tue, 17 Mar 2026 17:31:00 +0900",
+    "analyzed_at": "2026-03-17T08:34:49.346742"
+  },
+  {
+    "title": "젠슨 황 'AI 추론칩 생산, 생큐 삼성'",
+    "score": 5,
+    "reason": "AI 추론칩 생산 계약 체결로 삼성전자의 기술력과 시장 점유율이 크게 향상될 것으로 보임.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "https://www.hankyung.com/article/2026031776631",
+    "pub_date": "Tue, 17 Mar 2026 17:31:00 +0900",
+    "analyzed_at": "2026-03-17T08:34:49.346746"
+  },
+  {
+    "title": "[퇴근길머니] '개미'도 벤처 투자…증권사에 '고배당' 봄바람",
+    "score": 2,
+    "reason": "삼성전자와 SK하이닉스의 주가 회복이 긍정적인 시장 분위기를 조성.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "http://www.yonhapnewstv.co.kr/MYH20260317173019GLR",
+    "pub_date": "Tue, 17 Mar 2026 17:31:00 +0900",
+    "analyzed_at": "2026-03-17T08:34:49.346748"
+  },
+  {
+    "title": "400만원 폰 나올까…칩플레이션에 폴더블폰 신제품 가격 폭등 예고",
+    "score": -1,
+    "reason": "부품 가격 상승으로 인한 제품 가격 인상이 소비자 수요에 부정적 영향을 미칠 가능성.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "https://www.newsis.com/view/NISX20260317_0003551973",
+    "pub_date": "Tue, 17 Mar 2026 17:30:00 +0900",
+    "analyzed_at": "2026-03-17T08:34:49.346750"
+  },
+  {
+    "title": "SK하이닉스, GTC 2026서 AI 메모리·솔루션 공개…엔비디아 협력 확대 배...",
+    "score": 4,
+    "reason": "AI 메모리 기술 공개와 엔비디아와의 협력 확대는 긍정적인 실적 개선을 기대하게 함.",
+    "related_stocks": [
+      "SK하이닉스"
+    ],
+    "link": "https://www.fetv.co.kr/news/article.html?no=215176",
+    "pub_date": "Tue, 17 Mar 2026 17:32:00 +0900",
+    "analyzed_at": "2026-03-17T08:34:59.493608"
+  },
+  {
+    "title": "최태원 SK그룹 회장'GTC 2026' 참석…'AI 생태계 혁신 파트너' 위상 강화",
+    "score": 3,
+    "reason": "최태원 회장의 참석으로 SK그룹의 AI 생태계 내 위상이 강화되어 긍정적인 이미지 형성.",
+    "related_stocks": [
+      "SK하이닉스",
+      "SK텔레콤"
+    ],
+    "link": "http://www.efnews.co.kr/news/articleView.html?idxno=128282",
+    "pub_date": "Tue, 17 Mar 2026 17:30:00 +0900",
+    "analyzed_at": "2026-03-17T08:34:59.493615"
+  },
+  {
+    "title": "최태원·젠슨 황, 커스텀 HBM 설계 맞손...'치맥 회동' 한 달 만에 재회",
+    "score": 3,
+    "reason": "엔비디아와의 협력 강화가 SK하이닉스의 기술력과 시장 경쟁력을 높일 것으로 기대됨.",
+    "related_stocks": [
+      "SK하이닉스"
+    ],
+    "link": "https://www.insightkorea.co.kr/news/articleView.html?idxno=242914",
+    "pub_date": "Tue, 17 Mar 2026 17:30:00 +0900",
+    "analyzed_at": "2026-03-17T08:34:59.493616"
+  },
+  {
+    "title": "SK하이닉스, 지난해 엔비디아 매출 23조원",
+    "score": 5,
+    "reason": "엔비디아로부터의 대규모 매출은 SK하이닉스의 재무 안정성을 크게 높이는 호재.",
+    "related_stocks": [
+      "SK하이닉스"
+    ],
+    "link": "https://www.sedaily.com/article/20020523?ref=naver",
+    "pub_date": "Tue, 17 Mar 2026 17:29:00 +0900",
+    "analyzed_at": "2026-03-17T08:34:59.493617"
+  },
+  {
+    "title": "키움증권, '국내선물옵션 수수료 최대 90% 할인' 이벤트",
+    "score": 4,
+    "reason": "수수료 대폭 인하로 거래 활성화가 기대되며, 고객 유치에 긍정적 영향을 미칠 것으로 보임.",
+    "related_stocks": [
+      "키움증권"
+    ],
+    "link": "https://www.financialpost.co.kr/news/articleView.html?idxno=251731",
+    "pub_date": "Tue, 17 Mar 2026 17:28:00 +0900",
+    "analyzed_at": "2026-03-17T08:35:06.522104"
+  },
+  {
+    "title": "[생생경제] ELS 상품 오해와 진실…그렇게 위험한건가",
+    "score": 0,
+    "reason": "ELS 상품에 대한 정보 제공이지만, 주가에 직접적인 영향은 없음.",
+    "related_stocks": [],
+    "link": "http://www.srtimes.kr/news/articleView.html?idxno=198861",
+    "pub_date": "Tue, 17 Mar 2026 17:20:00 +0900",
+    "analyzed_at": "2026-03-17T08:35:06.522113"
+  },
+  {
+    "title": "(2nd LD) Seoul shares rise for 2nd day on oil price retreat, tech boost",
+    "score": 3,
+    "reason": "KOSPI 상승은 긍정적인 시장 분위기를 반영하며, 기술주에 대한 기대감이 높아짐.",
+    "related_stocks": [
+      "삼성전자",
+      "LG전자"
+    ],
+    "link": "https://en.yna.co.kr/view/AEN20260317007852320?input=2106m",
+    "pub_date": "Tue, 17 Mar 2026 16:46:00 +0900",
+    "analyzed_at": "2026-03-17T08:35:06.522115"
+  },
+  {
+    "title": "키움증권, '국내선물옵션 수수료 최대 90% 할인 이벤트'",
+    "score": 4,
+    "reason": "수수료 대폭 인하로 거래 활성화가 기대되며, 고객 유치에 긍정적 영향을 미칠 것으로 보임.",
+    "related_stocks": [
+      "키움증권"
+    ],
+    "link": "https://www.sportschosun.com/life/2026-03-17/202603170100118410008263",
+    "pub_date": "Tue, 17 Mar 2026 16:36:00 +0900",
+    "analyzed_at": "2026-03-17T08:35:06.522117"
+  },
+  {
+    "title": "'K-엔비디아'에 50조 투입…AI 반도체 유니콘 5곳 육성",
+    "score": 4,
+    "reason": "AI 반도체 산업에 대한 대규모 금융 지원은 관련 기업들에게 긍정적인 영향을 미칠 것으로 예상됨.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.yna.co.kr/view/AKR20260317113552017?input=1195m",
+    "pub_date": "Tue, 17 Mar 2026 17:34:00 +0900",
+    "analyzed_at": "2026-03-17T08:35:24.821969"
+  },
+  {
+    "title": "[총수家] 구광모 LG 그룹 회장 ② ∣ '실패는 해답을 찾아가고 있다는 증...",
+    "score": 2,
+    "reason": "AI 반도체 및 플랫폼 관련 협업은 긍정적이나 구체적인 성과가 부족해 약한 호재로 평가됨.",
+    "related_stocks": [
+      "LG전자",
+      "LG디스플레이"
+    ],
+    "link": "https://www.cbci.co.kr/news/articleView.html?idxno=561475",
+    "pub_date": "Tue, 17 Mar 2026 17:34:00 +0900",
+    "analyzed_at": "2026-03-17T08:35:24.821978"
+  },
+  {
+    "title": "차세대 6G상용화 기대 … 통신 인프라株 상승세",
+    "score": 3,
+    "reason": "6G 상용화 기대감으로 통신 인프라 관련 주식이 상승세를 보이고 있어 긍정적인 신호.",
+    "related_stocks": [
+      "RFHIC",
+      "오픈랜"
+    ],
+    "link": "https://www.mk.co.kr/article/11990448",
+    "pub_date": "Tue, 17 Mar 2026 17:34:00 +0900",
+    "analyzed_at": "2026-03-17T08:35:24.821979"
+  },
+  {
+    "title": "\"포스트 엔비디아 찾는다\"…정부, '토종 AI 반도체'에 50조 승부수",
+    "score": 4,
+    "reason": "AI 반도체 육성을 위한 대규모 자금 지원은 산업 발전에 긍정적인 영향을 미칠 것으로 보임.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.youthdaily.co.kr/news/article.html?no=215592",
+    "pub_date": "Tue, 17 Mar 2026 17:34:00 +0900",
+    "analyzed_at": "2026-03-17T08:35:24.821981"
+  },
+  {
+    "title": "고려아연, 국내 유일 인듐 생산능력 확보…한미 양자컴퓨터 공급망 구축",
+    "score": 3,
+    "reason": "인듐 생산능력 확보는 반도체 및 양자컴퓨터 산업에 긍정적인 영향을 미칠 것으로 예상됨.",
+    "related_stocks": [
+      "고려아연"
+    ],
+    "link": "https://www.ceoscoredaily.com/page/view/2026031715495093258",
+    "pub_date": "Tue, 17 Mar 2026 17:34:00 +0900",
+    "analyzed_at": "2026-03-17T08:35:24.821982"
+  },
+  {
+    "title": "정인화 민선 9기 재선 출마 선언…광양 르네상스 시대 열겠다",
+    "score": 1,
+    "reason": "산업 대전환 관련 공약은 긍정적이나 구체적인 실행 계획이 부족해 약한 호재로 평가됨.",
+    "related_stocks": [],
+    "link": "https://www.nspna.com/news/?mode=view&newsid=806510",
+    "pub_date": "Tue, 17 Mar 2026 17:34:00 +0900",
+    "analyzed_at": "2026-03-17T08:35:24.821983"
+  },
+  {
+    "title": "삼성전자, HBM4E 실물 칩 세계 최초 공개... 엔비디아와 AI 메모리 독점...",
+    "score": 5,
+    "reason": "세계 최초의 HBM4E 실물 칩 공개는 삼성전자의 기술력을 부각시키며 매우 강한 호재로 작용할 것.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "https://www.insight.co.kr/news/546794",
+    "pub_date": "Tue, 17 Mar 2026 17:34:00 +0900",
+    "analyzed_at": "2026-03-17T08:35:24.821984"
+  },
+  {
+    "title": "평택시, 고위험 산업시설 드론 통합 안전관리 착수",
+    "score": 0,
+    "reason": "안전 관리 시스템 구축은 중립적인 뉴스로 주가에 큰 영향을 미치지 않을 것으로 보임.",
+    "related_stocks": [],
+    "link": "https://www.nspna.com/news/?mode=view&newsid=806513",
+    "pub_date": "Tue, 17 Mar 2026 17:34:00 +0900",
+    "analyzed_at": "2026-03-17T08:35:24.821986"
+  },
+  {
+    "title": "50조 투입 'K-엔비디아' 결실은 나스닥이 가져가나",
+    "score": -1,
+    "reason": "국내 기업들이 주요 혜택을 누리지 못할 경우 부정적인 영향을 미칠 수 있음.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.wowtv.co.kr/NewsCenter/News/Read?articleId=A202603170311&t=NNv",
+    "pub_date": "Tue, 17 Mar 2026 17:33:00 +0900",
+    "analyzed_at": "2026-03-17T08:35:24.821987"
+  },
+  {
+    "title": "[총수家] 신동빈 롯데그룹 회장 ② ∣ \"롯데의 새로운 역사를 함께 써 나...",
+    "score": 2,
+    "reason": "롯데의 AI 기반 디자인 연구센터 설립은 긍정적인 미래 성장 가능성을 시사함.",
+    "related_stocks": [
+      "롯데제과",
+      "롯데쇼핑"
+    ],
+    "link": "https://www.cbci.co.kr/news/articleView.html?idxno=561474",
+    "pub_date": "Tue, 17 Mar 2026 17:30:00 +0900",
+    "analyzed_at": "2026-03-17T08:35:39.657781"
+  },
+  {
+    "title": "[투자 노하우] 뉴욕증시, 유가 하락에 일제히 반등…나스닥 1.2%↑",
+    "score": 1,
+    "reason": "SK하이닉스의 미국 ADR 상장 검토는 긍정적이나 구체적인 실적 개선은 없음.",
+    "related_stocks": [
+      "SK하이닉스"
+    ],
+    "link": "https://biz.sbs.co.kr/article_hub/20000298004?division=NAVER",
+    "pub_date": "Tue, 17 Mar 2026 17:29:00 +0900",
+    "analyzed_at": "2026-03-17T08:35:39.657790"
+  },
+  {
+    "title": "[오늘의 주목주] 'MLCC 가격 인상 기대' 삼성전기 주가 8%대 상승, 코스...",
+    "score": 4,
+    "reason": "MLCC 가격 인상 기대는 삼성전기의 실적 개선에 긍정적인 영향을 미칠 것으로 예상됨.",
+    "related_stocks": [
+      "삼성전기"
+    ],
+    "link": "https://www.businesspost.co.kr/BP?command=article_view&num=433176",
+    "pub_date": "Tue, 17 Mar 2026 17:28:00 +0900",
+    "analyzed_at": "2026-03-17T08:35:39.657791"
+  },
+  {
+    "title": "스트레티지, 비트코인 2조3000억 원어치 추가 매입…보유량 76만 개로 늘...",
+    "score": 1,
+    "reason": "대규모 비트코인 매입은 긍정적이나 주식 시장에 미치는 영향은 제한적.",
+    "related_stocks": [
+      "STRC",
+      "MSTR"
+    ],
+    "link": "https://www.tokenpost.kr/news/cryptocurrency/340299",
+    "pub_date": "Tue, 17 Mar 2026 17:26:00 +0900",
+    "analyzed_at": "2026-03-17T08:35:39.657793"
+  },
+  {
+    "title": "국제유가 하락에 글로벌 증시 훈풍…삼전·하이닉스도 동반 강세",
+    "score": 3,
+    "reason": "글로벌 증시 훈풍과 AI 투자 계획은 삼성전자와 SK하이닉스에 긍정적 영향을 미침.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.donga.com/news/Economy/article/all/20260317/133548683/1",
+    "pub_date": "Tue, 17 Mar 2026 17:23:00 +0900",
+    "analyzed_at": "2026-03-17T08:35:39.657794"
+  },
+  {
+    "title": "동작구, 사회초년생 대상 금융 교육 강화",
+    "score": 0,
+    "reason": "금융 교육 강화는 긍정적이나 주식 시장에 직접적인 영향은 없음.",
+    "related_stocks": [],
+    "link": "https://biz.heraldcorp.com/article/10696445?ref=naver",
+    "pub_date": "Tue, 17 Mar 2026 17:17:00 +0900",
+    "analyzed_at": "2026-03-17T08:35:39.657795"
+  },
+  {
+    "title": "금통위원들 \"물가 상방 리스크 잠재…환율, 외환 순유출 경계\"",
+    "score": -2,
+    "reason": "물가 상승 리스크와 외환 순유출 우려는 시장에 부정적인 영향을 미칠 수 있음.",
+    "related_stocks": [],
+    "link": "https://www.ajunews.com/view/20260317170032791",
+    "pub_date": "Tue, 17 Mar 2026 17:16:00 +0900",
+    "analyzed_at": "2026-03-17T08:35:39.657797"
   }
 ]
