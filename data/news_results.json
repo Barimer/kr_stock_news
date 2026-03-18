@@ -38634,5 +38634,387 @@
     "link": "https://economist.co.kr/article/view/ecn202603180057",
     "pub_date": "Wed, 18 Mar 2026 16:32:00 +0900",
     "analyzed_at": "2026-03-18T07:48:19.448056"
+  },
+  {
+    "title": "코스피, 반도체 강세에 5900선 회복",
+    "score": 4,
+    "reason": "반도체 주식의 급등으로 코스피가 상승하며 긍정적인 시장 분위기를 조성함.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "http://www.newstomato.com/ReadNews.aspx?no=1294757&inflow=N",
+    "pub_date": "Wed, 18 Mar 2026 17:30:00 +0900",
+    "analyzed_at": "2026-03-18T08:31:47.969984"
+  },
+  {
+    "title": "밸류업·기술주 공모펀드 수익률 고공행진",
+    "score": 3,
+    "reason": "대형주와 핵심 소재·부품·장비 종목의 수익률 상승이 긍정적인 신호.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스",
+      "현대차"
+    ],
+    "link": "https://www.mk.co.kr/article/11991729",
+    "pub_date": "Wed, 18 Mar 2026 17:30:00 +0900",
+    "analyzed_at": "2026-03-18T08:31:47.969994"
+  },
+  {
+    "title": "한 달에 AI 구독료로 70만원 쓰는 이 남자 '투자, 모르겠으면 그냥 클로...",
+    "score": 0,
+    "reason": "투자에 대한 불확실성을 언급하며 주가에 미치는 영향이 없음.",
+    "related_stocks": [],
+    "link": "https://radio.ytn.co.kr/program/?f=2&id=107887&s_mcd=0478&s_hcd=01",
+    "pub_date": "Wed, 18 Mar 2026 17:30:00 +0900",
+    "analyzed_at": "2026-03-18T08:31:47.969996"
+  },
+  {
+    "title": "삼성전자, AMD 차세대 AI 가속기에 HBM4 우선 공급",
+    "score": 5,
+    "reason": "삼성전자가 AMD와의 협력을 통해 AI 메모리 시장에서의 우위를 강화.",
+    "related_stocks": [
+      "삼성전자",
+      "AMD"
+    ],
+    "link": "https://www.koit.co.kr/news/articleView.html?idxno=206238",
+    "pub_date": "Wed, 18 Mar 2026 17:28:00 +0900",
+    "analyzed_at": "2026-03-18T08:31:47.969997"
+  },
+  {
+    "title": "상반기 경기 북부, 남부권역별 ‘알짜 단지’ 등장",
+    "score": 1,
+    "reason": "주택 공급 증가가 삼성전자와 관련된 지역에서 긍정적 영향을 미칠 수 있음.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "http://www.lawissue.co.kr/view.php?ud=20260318172705755467191f6c6e_12",
+    "pub_date": "Wed, 18 Mar 2026 17:28:00 +0900",
+    "analyzed_at": "2026-03-18T08:31:47.969999"
+  },
+  {
+    "title": "포스코그룹, 중소기업에 기술 나눔…특허 112건 무상 이전",
+    "score": 2,
+    "reason": "기술 이전이 중소기업에 긍정적 영향을 미칠 수 있으나 삼성전자와의 직접적인 연관성은 낮음.",
+    "related_stocks": [
+      "포스코",
+      "삼성전자"
+    ],
+    "link": "https://zdnet.co.kr/view/?no=20260318165841",
+    "pub_date": "Wed, 18 Mar 2026 17:28:00 +0900",
+    "analyzed_at": "2026-03-18T08:31:47.970001"
+  },
+  {
+    "title": "삼성전자, 420만 국민주주와 약속 'AI·6G·로보틱스' 기업…제57기 주총",
+    "score": 3,
+    "reason": "주주총회에서 AI 및 미래 기술에 대한 비전 제시가 긍정적으로 작용할 가능성.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "https://www.gpkorea.com/news/articleView.html?idxno=141006",
+    "pub_date": "Wed, 18 Mar 2026 17:28:00 +0900",
+    "analyzed_at": "2026-03-18T08:31:47.970002"
+  },
+  {
+    "title": "삼성전자, AMD AI 가속기에 'HBM4' 우선 공급",
+    "score": 5,
+    "reason": "AI 반도체 시장에서의 경쟁력 강화를 위한 중요한 협력 발표.",
+    "related_stocks": [
+      "삼성전자",
+      "AMD"
+    ],
+    "link": "https://www.ziksir.com/news/articleView.html?idxno=127638",
+    "pub_date": "Wed, 18 Mar 2026 17:28:00 +0900",
+    "analyzed_at": "2026-03-18T08:31:47.970006"
+  },
+  {
+    "title": "[화보] 삼성전자 최대실적, 제57기 정기 주주총회 개최",
+    "score": 4,
+    "reason": "최대 실적 발표가 주가에 긍정적인 영향을 미칠 것으로 예상됨.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "https://www.joongboo.com/news/articleView.html?idxno=363720096",
+    "pub_date": "Wed, 18 Mar 2026 17:28:00 +0900",
+    "analyzed_at": "2026-03-18T08:31:47.970008"
+  },
+  {
+    "title": "'생존위기'서 '주도권 확보'로…1년 만에 확 바뀐 삼성전자 주총 [사설]",
+    "score": 3,
+    "reason": "주총에서의 긍정적인 변화가 주가에 긍정적인 영향을 미칠 수 있음.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "https://www.mk.co.kr/article/11991703",
+    "pub_date": "Wed, 18 Mar 2026 17:27:00 +0900",
+    "analyzed_at": "2026-03-18T08:31:47.970010"
+  },
+  {
+    "title": "[시황분석] 중동 변수 눌렀다…AI·정책 모멘텀에 코스피 5900선 재돌파",
+    "score": 4,
+    "reason": "삼성전자의 특별배당과 자사주 매입 발표로 주가가 급등하며 긍정적인 시장 분위기를 조성했다.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://news.ifm.kr/news/articleView.html?idxno=467097",
+    "pub_date": "Wed, 18 Mar 2026 17:26:00 +0900",
+    "analyzed_at": "2026-03-18T08:32:01.806413"
+  },
+  {
+    "title": "삼성전자 주총에서 드러난 '투자·환원 병행'…3월 주총 핵심 흐름 읽힌",
+    "score": 3,
+    "reason": "AI 투자 확대와 주주환원 정책이 긍정적인 기업 전략으로 평가받고 있다.",
+    "related_stocks": [
+      "삼성전자",
+      "LG전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.straightnews.co.kr/news/articleView.html?idxno=297846",
+    "pub_date": "Wed, 18 Mar 2026 17:24:00 +0900",
+    "analyzed_at": "2026-03-18T08:32:01.806422"
+  },
+  {
+    "title": "주성엔지니어링, '중국·삼성·SK' 설비투자 확대에 내년까지 낙수효과",
+    "score": 3,
+    "reason": "반도체 슈퍼사이클에 따른 설비투자 확대 기대감이 반도체 관련주에 긍정적인 영향을 미치고 있다.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스",
+      "주성엔지니어링"
+    ],
+    "link": "http://www.newsworker.co.kr/news/articleView.html?idxno=418036",
+    "pub_date": "Wed, 18 Mar 2026 17:24:00 +0900",
+    "analyzed_at": "2026-03-18T08:32:01.806424"
+  },
+  {
+    "title": "중동 분쟁 민감도 하락에 환율 10.5원 ↓… 코스피는 반도체 업고 5% 급",
+    "score": 4,
+    "reason": "삼성전자와 SK하이닉스의 급등으로 코스피가 크게 상승하며 긍정적인 시장 흐름을 보였다.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.daejonilbo.com/news/articleView.html?idxno=2263583",
+    "pub_date": "Wed, 18 Mar 2026 17:23:00 +0900",
+    "analyzed_at": "2026-03-18T08:32:01.806425"
+  },
+  {
+    "title": "SK하이닉스, 2030년까지 '자율형 팹' 구축…반도체 수급 불균형 해결책",
+    "score": 4,
+    "reason": "자율형 팹 구축 계획이 반도체 생산 효율성을 크게 향상시킬 것으로 기대된다.",
+    "related_stocks": [
+      "SK하이닉스"
+    ],
+    "link": "https://www.g-enews.com/view.php?ud=2026031816505379036ed0c62d49_1",
+    "pub_date": "Wed, 18 Mar 2026 17:22:00 +0900",
+    "analyzed_at": "2026-03-18T08:32:01.806426"
+  },
+  {
+    "title": "'곳간' 채운 SK하이닉스, 설비 투자 확대에도 부채 줄어",
+    "score": 4,
+    "reason": "현금창출력 개선과 함께 부채 감소가 긍정적인 재무 상태를 나타내고 있다.",
+    "related_stocks": [
+      "SK하이닉스"
+    ],
+    "link": "https://www.sidae.com/article/2026031813493446103",
+    "pub_date": "Wed, 18 Mar 2026 17:22:00 +0900",
+    "analyzed_at": "2026-03-18T08:32:01.806427"
+  },
+  {
+    "title": "코스피, 5900선 재돌파… 삼성전자·SK하이닉스 8% 급등",
+    "score": 4,
+    "reason": "반도체 대장주들의 급등으로 코스피가 5900선을 회복하며 긍정적인 시장 신호를 보였다.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.womennews.co.kr/news/articleView.html?idxno=275073",
+    "pub_date": "Wed, 18 Mar 2026 17:22:00 +0900",
+    "analyzed_at": "2026-03-18T08:32:01.806428"
+  },
+  {
+    "title": "코스피 5,900선 돌파...화장품 2틀째 강한 상승",
+    "score": 4,
+    "reason": "코스피가 5% 상승하며 긍정적인 시장 분위기를 반영하고 있어 강한 호재로 평가됨.",
+    "related_stocks": [
+      "화장품 관련 주식",
+      "반도체 관련 주식"
+    ],
+    "link": "https://www.thebk.co.kr/news/articleView.html?idxno=308538",
+    "pub_date": "Wed, 18 Mar 2026 17:28:00 +0900",
+    "analyzed_at": "2026-03-18T08:32:08.342321"
+  },
+  {
+    "title": "Yonhap News Summary",
+    "score": 4,
+    "reason": "KOSPI가 5% 상승하며 긍정적인 경제 신호를 나타내고 있어 강한 호재로 판단됨.",
+    "related_stocks": [
+      "화장품 관련 주식",
+      "반도체 관련 주식"
+    ],
+    "link": "https://en.yna.co.kr/view/AEN20260318010400315?input=2106m",
+    "pub_date": "Wed, 18 Mar 2026 17:07:00 +0900",
+    "analyzed_at": "2026-03-18T08:32:08.342330"
+  },
+  {
+    "title": "KOSPI jumps 5% as chip rally and policy signals lift sentiment",
+    "score": 4,
+    "reason": "반도체 주식 상승과 정책 신호가 긍정적인 영향을 미쳐 KOSPI가 5% 상승함.",
+    "related_stocks": [
+      "반도체 관련 주식",
+      "IT 관련 주식"
+    ],
+    "link": "http://www.kdfnews.com/news/articleView.html?idxno=180285",
+    "pub_date": "Wed, 18 Mar 2026 16:46:00 +0900",
+    "analyzed_at": "2026-03-18T08:32:08.342332"
+  },
+  {
+    "title": "(2nd LD) Seoul stocks jump over 5 pct on chip rally",
+    "score": 4,
+    "reason": "KOSPI의 5% 상승은 시장의 긍정적인 반응을 나타내며 강한 호재로 평가됨.",
+    "related_stocks": [
+      "반도체 관련 주식",
+      "IT 관련 주식"
+    ],
+    "link": "https://en.yna.co.kr/view/AEN20260318007052320?input=2106m",
+    "pub_date": "Wed, 18 Mar 2026 16:36:00 +0900",
+    "analyzed_at": "2026-03-18T08:32:08.342334"
+  },
+  {
+    "title": "청주상의 충북인력개발원, '충북 반도체 일환경개선 일도약장려금 지원'",
+    "score": 3,
+    "reason": "충북 반도체 산업에 대한 지원이 중소기업에 긍정적인 영향을 미칠 것으로 예상됨.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "http://www.dynews.co.kr/news/articleView.html?idxno=842892",
+    "pub_date": "Wed, 18 Mar 2026 17:30:00 +0900",
+    "analyzed_at": "2026-03-18T08:32:16.443340"
+  },
+  {
+    "title": "전남광주특별시 1호 선물, 미래신도시·첨단산업되나",
+    "score": 4,
+    "reason": "반도체 산업단지 조성이 지역 경제에 긍정적인 영향을 미칠 것으로 보임.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.namdonews.com/news/articleView.html?idxno=904441",
+    "pub_date": "Wed, 18 Mar 2026 17:30:00 +0900",
+    "analyzed_at": "2026-03-18T08:32:16.443348"
+  },
+  {
+    "title": "삼성전자·AMD, AI 메모리 솔루션 협력 확대",
+    "score": 5,
+    "reason": "삼성전자의 AI 메모리 기술 협력은 향후 수익성 개선에 크게 기여할 것으로 예상됨.",
+    "related_stocks": [
+      "삼성전자",
+      "AMD"
+    ],
+    "link": "https://www.globale.co.kr/news/articleView.html?idxno=37116",
+    "pub_date": "Wed, 18 Mar 2026 17:30:00 +0900",
+    "analyzed_at": "2026-03-18T08:32:16.443349"
+  },
+  {
+    "title": "생각만으로 결제, 뇌에 칩 심는 BCI 산업 키운다",
+    "score": 3,
+    "reason": "BCI 산업의 성장 가능성이 높아지며 관련 기술 개발이 활발해질 것으로 보임.",
+    "related_stocks": [
+      "삼성전자",
+      "LG전자"
+    ],
+    "link": "https://www.hankyung.com/article/2026031804271",
+    "pub_date": "Wed, 18 Mar 2026 17:29:00 +0900",
+    "analyzed_at": "2026-03-18T08:32:16.443351"
+  },
+  {
+    "title": "日 무역수지 두달 만에 흑자 전환",
+    "score": 1,
+    "reason": "일본의 반도체 수출 증가가 한국 반도체 기업에 미치는 영향은 제한적일 것으로 판단됨.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.mk.co.kr/article/11991724",
+    "pub_date": "Wed, 18 Mar 2026 17:29:00 +0900",
+    "analyzed_at": "2026-03-18T08:32:16.443352"
+  },
+  {
+    "title": "[증권가 이모저모] 개그맨·핀플루언서·대학생…대통령 앞에 선 개미들...",
+    "score": 0,
+    "reason": "개인 투자자들의 의견이 소개되었으나 주가에 미치는 영향은 불확실함.",
+    "related_stocks": [],
+    "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4404483",
+    "pub_date": "Wed, 18 Mar 2026 17:26:00 +0900",
+    "analyzed_at": "2026-03-18T08:32:26.623883"
+  },
+  {
+    "title": "한은, 디지털화폐 실전 단계 진입…'프로젝트 한강' 2단계 착수",
+    "score": 3,
+    "reason": "디지털화폐와 AI 기술 검증이 진행되어 금융 혁신 가능성을 높임.",
+    "related_stocks": [
+      "은행주",
+      "핀테크 관련주"
+    ],
+    "link": "https://www.ziksir.com/news/articleView.html?idxno=127639",
+    "pub_date": "Wed, 18 Mar 2026 17:26:00 +0900",
+    "analyzed_at": "2026-03-18T08:32:26.623892"
+  },
+  {
+    "title: [급등락주 짚어보기] 미국 FDA 현장 실사 최종 통과⋯경보제약 ‘上’": "인공지능(AI) 기반 신장 질환 예측 솔루션의 미국 시장 진출이 가시화되며 긍정적인 매수세가 형성됨.",
+    "score": 4,
+    "reason": "FDA 통과로 인해 경보제약의 시장 진출이 가시화되어 실적 개선 기대.",
+    "related_stocks": [
+      "경보제약"
+    ],
+    "link": "https://www.etoday.co.kr/news/view/2566853",
+    "pub_date": "Wed, 18 Mar 2026 17:20:00 +0900",
+    "analyzed_at": "2026-03-18T08:32:26.623893"
+  },
+  {
+    "title": "게이트, 13주년 글로벌 기념 행사 개최…AI·토큰화 자산 확대 강조",
+    "score": 2,
+    "reason": "AI와 토큰화 자산 확대에 대한 강조가 있으나 구체적인 실적 개선은 미비.",
+    "related_stocks": [
+      "게이트 관련주"
+    ],
+    "link": "https://www.tokenpost.kr/news/breaking/340738",
+    "pub_date": "Wed, 18 Mar 2026 17:20:00 +0900",
+    "analyzed_at": "2026-03-18T08:32:26.623895"
+  },
+  {
+    "title": "[기자수첩] AI의 종착역은 결국 '로봇', 미래에셋의 뚝심 있는 베팅",
+    "score": 1,
+    "reason": "AI와 로봇 산업에 대한 긍정적인 전망이 있으나 구체적인 투자 성과는 불확실.",
+    "related_stocks": [
+      "미래에셋 관련주"
+    ],
+    "link": "http://www.ttlnews.com/news/articleView.html?idxno=3089999",
+    "pub_date": "Wed, 18 Mar 2026 17:20:00 +0900",
+    "analyzed_at": "2026-03-18T08:32:26.623896"
+  },
+  {
+    "title": "삼성전자, 한국 기업 최초 시가총액 1천조 원 돌파",
+    "score": 5,
+    "reason": "삼성전자의 시가총액 1천조 원 돌파는 매우 긍정적인 신호로, 시장에 큰 영향을 미칠 것으로 예상됨.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "https://www.joongboo.com/news/articleView.html?idxno=363720086",
+    "pub_date": "Wed, 18 Mar 2026 17:18:00 +0900",
+    "analyzed_at": "2026-03-18T08:32:26.623897"
+  },
+  {
+    "title": "마드라스체크, WIS 2026서 협업 툴 '플로우(Flow)' AI 기능 시연 나선다.",
+    "score": 2,
+    "reason": "AI 기능 시연이 긍정적이나, 시장에 미치는 영향은 제한적일 것으로 보임.",
+    "related_stocks": [
+      "마드라스체크"
+    ],
+    "link": "https://kr.aving.net/news/articleView.html?idxno=1809589",
+    "pub_date": "Wed, 18 Mar 2026 17:18:00 +0900",
+    "analyzed_at": "2026-03-18T08:32:26.623898"
   }
 ]
