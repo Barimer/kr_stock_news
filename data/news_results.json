@@ -36989,5 +36989,439 @@
     "link": "https://biz.sbs.co.kr/article_hub/20000298154?division=NAVER",
     "pub_date": "Wed, 18 Mar 2026 08:31:00 +0900",
     "analyzed_at": "2026-03-17T23:58:37.028172"
+  },
+  {
+    "title": "한진만 삼성전자 사장 '파운드리 1~2년 내 좋은 성과'",
+    "score": 3,
+    "reason": "파운드리 사업의 긍정적인 전망이 주가에 긍정적인 영향을 미칠 것으로 예상됨.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "https://news.mtn.co.kr/news-detail/2026031811584348738",
+    "pub_date": "Wed, 18 Mar 2026 12:14:00 +0900",
+    "analyzed_at": "2026-03-18T03:16:01.361454"
+  },
+  {
+    "title": "네이버 찾은 리사 수 'AI 칩 공급 논의할 것…파트너십 강화'",
+    "score": 4,
+    "reason": "AI 칩 공급 확대 논의는 삼성전자와 네이버의 협력 강화를 통해 긍정적인 영향을 미칠 것으로 보임.",
+    "related_stocks": [
+      "삼성전자",
+      "네이버"
+    ],
+    "link": "https://view.asiae.co.kr/article/2026031812013361538",
+    "pub_date": "Wed, 18 Mar 2026 12:10:00 +0900",
+    "analyzed_at": "2026-03-18T03:16:01.361479"
+  },
+  {
+    "title": "오포가 지운 '주름', 삼성·애플 차기작에 불 지폈다",
+    "score": 2,
+    "reason": "경쟁사의 기술 혁신이 삼성전자의 제품에 대한 기대감을 높여 긍정적인 영향을 줄 수 있음.",
+    "related_stocks": [
+      "삼성전자",
+      "애플"
+    ],
+    "link": "https://www.bloter.net/news/articleView.html?idxno=656992",
+    "pub_date": "Wed, 18 Mar 2026 12:10:00 +0900",
+    "analyzed_at": "2026-03-18T03:16:01.361481"
+  },
+  {
+    "title": "[현장] 전영현 부회장 '반도체 부분 실패 다시는 없도록 하겠다'",
+    "score": 2,
+    "reason": "반도체 사업에 대한 강한 의지 표명은 투자자들에게 긍정적인 신호로 작용할 수 있음.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "http://www.thebigdata.co.kr/view.php?ud=202603181130537710ecbf9426b_23",
+    "pub_date": "Wed, 18 Mar 2026 12:10:00 +0900",
+    "analyzed_at": "2026-03-18T03:16:01.361483"
+  },
+  {
+    "title": "[단독] '방한' 리사 수 AMD CEO, 토종 AI 스타트업 업스테이지 만난다",
+    "score": 1,
+    "reason": "AI 스타트업과의 만남은 긍정적이나 직접적인 주가 영향은 제한적일 것으로 보임.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "https://www.hankyung.com/article/202603189408i",
+    "pub_date": "Wed, 18 Mar 2026 12:09:00 +0900",
+    "analyzed_at": "2026-03-18T03:16:01.361485"
+  },
+  {
+    "title": "전영현 대표 '올해 반도체 시장 1조 달러 전망…AI 사이클 기회 포착'",
+    "score": 4,
+    "reason": "반도체 시장의 긍정적인 전망은 삼성전자에게 큰 호재로 작용할 가능성이 높음.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "https://www.news1.kr/industry/general-industry/6105374",
+    "pub_date": "Wed, 18 Mar 2026 12:07:00 +0900",
+    "analyzed_at": "2026-03-18T03:16:01.361486"
+  },
+  {
+    "title": "[삼성전자 주총] 420만 주주 이목 쏠린 현장",
+    "score": 3,
+    "reason": "주주총회에서의 긍정적인 분위기는 삼성전자에 대한 신뢰를 높일 수 있음.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "http://www.00news.co.kr/news/articleView.html?idxno=102660",
+    "pub_date": "Wed, 18 Mar 2026 12:06:00 +0900",
+    "analyzed_at": "2026-03-18T03:16:01.361488"
+  },
+  {
+    "title": "[정기주총] 삼성SDI 최주선 '전고체·수주로 하반기 흑자 전환'",
+    "score": 3,
+    "reason": "하반기 흑자 전환 전망은 삼성SDI에 긍정적인 영향을 미칠 것으로 예상됨.",
+    "related_stocks": [
+      "삼성SDI"
+    ],
+    "link": "http://www.4th.kr/news/articleView.html?idxno=2109208",
+    "pub_date": "Wed, 18 Mar 2026 12:06:00 +0900",
+    "analyzed_at": "2026-03-18T03:16:01.361492"
+  },
+  {
+    "title": "전영현 삼성전자 부회장 '원스톱 솔루션' 강점으로 AI 반도체 주도권 ...",
+    "score": 4,
+    "reason": "AI 반도체 시장 주도권 확보를 위한 전략은 긍정적인 투자 신호로 작용할 수 있음.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "http://www.worktoday.co.kr/news/articleView.html?idxno=82634",
+    "pub_date": "Wed, 18 Mar 2026 12:04:00 +0900",
+    "analyzed_at": "2026-03-18T03:16:01.361494"
+  },
+  {
+    "title": "한투운용, 'ACE AI반도체TOP3+' 순자산 5294억 기록",
+    "score": 3,
+    "reason": "삼성전자와 SK하이닉스의 시장 점유율 상승은 긍정적인 투자 신호로 작용할 수 있음.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "http://www.bizwnews.com/news/articleView.html?idxno=129469",
+    "pub_date": "Wed, 18 Mar 2026 12:04:00 +0900",
+    "analyzed_at": "2026-03-18T03:16:01.361496"
+  },
+  {
+    "title": "도승용 SK하이닉스 부사장 “2030년까지 ‘자율형 팹’ 구축”",
+    "score": 4,
+    "reason": "AI 시대의 메모리 수요에 대응하기 위한 혁신적인 생산 시스템 구축 계획은 긍정적인 실적 개선 기대를 불러일으킴.",
+    "related_stocks": [
+      "SK하이닉스"
+    ],
+    "link": "https://www.etoday.co.kr/news/view/2566650",
+    "pub_date": "Wed, 18 Mar 2026 12:14:00 +0900",
+    "analyzed_at": "2026-03-18T03:16:17.062147"
+  },
+  {
+    "title": "삼성전자·SK하이닉스 쏠림 강했다… ‘TIGER 반도체TOP10 ETF’ 순자산 ...",
+    "score": 3,
+    "reason": "반도체 대형주에 대한 쏠림 현상은 시장의 긍정적인 신호로 해석될 수 있음.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.todayeconomic.com/news/article.html?no=29913",
+    "pub_date": "Wed, 18 Mar 2026 12:02:00 +0900",
+    "analyzed_at": "2026-03-18T03:16:17.062153"
+  },
+  {
+    "title": "상장사 주주 1456만명으로 사상 최대… 삼성전자는 100만명 이탈",
+    "score": 2,
+    "reason": "주주 수 증가가 긍정적이나, 삼성전자의 주주 이탈은 부정적인 요소로 작용할 수 있음.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://biz.chosun.com/stock/stock_general/2026/03/18/IHHEREBOGNFJBJVL4FSRKSP76Q/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+    "pub_date": "Wed, 18 Mar 2026 12:01:00 +0900",
+    "analyzed_at": "2026-03-18T03:16:17.062155"
+  },
+  {
+    "title": "반도체 애널리스트 '내가 아는 젠슨황은 전형적 장사꾼, 삼성에 엄지척...",
+    "score": 0,
+    "reason": "주가 상승에 대한 언급이 있으나, 직접적인 호재나 악재로 작용하지 않음.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://radio.ytn.co.kr/program/?f=2&id=107879&s_mcd=0206&s_hcd=15",
+    "pub_date": "Wed, 18 Mar 2026 12:00:00 +0900",
+    "analyzed_at": "2026-03-18T03:16:17.062156"
+  },
+  {
+    "title": "국민 3명 중 1명 주식 투자…주식부자 1등은 '강남 사는 50대 남성'",
+    "score": 1,
+    "reason": "주식 투자자 수 증가가 긍정적이나, 특정 종목에 대한 직접적인 영향은 미미함.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.joongang.co.kr/article/25412666",
+    "pub_date": "Wed, 18 Mar 2026 12:00:00 +0900",
+    "analyzed_at": "2026-03-18T03:16:17.062157"
+  },
+  {
+    "title": "SK하이닉스 도승용 부사장 '2030년까지 팹 구축해 AI 수요 대응'",
+    "score": 4,
+    "reason": "AI 수요에 대한 대응 전략은 장기적인 성장 가능성을 높이는 긍정적인 요소.",
+    "related_stocks": [
+      "SK하이닉스"
+    ],
+    "link": "https://www.newsis.com/view/NISX20260318_0003553389",
+    "pub_date": "Wed, 18 Mar 2026 11:58:00 +0900",
+    "analyzed_at": "2026-03-18T03:16:17.062159"
+  },
+  {
+    "title": "SK하이닉스 도승용 부사장, 엔비디아 GTC 2026 패널 토론 참여",
+    "score": 1,
+    "reason": "업계 행사 참여는 긍정적이나, 주가에 미치는 영향은 제한적.",
+    "related_stocks": [
+      "SK하이닉스"
+    ],
+    "link": "https://www.businesskorea.co.kr/news/articleView.html?idxno=265474",
+    "pub_date": "Wed, 18 Mar 2026 11:56:00 +0900",
+    "analyzed_at": "2026-03-18T03:16:17.062160"
+  },
+  {
+    "title": "주식 투자자 1500만명 시대…작년 소유자 수 역대 최대치 경신",
+    "score": 2,
+    "reason": "주식 소유자 수 증가가 긍정적이나, 특정 종목에 대한 영향은 미미함.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.newsquest.co.kr/news/articleView.html?idxno=263338",
+    "pub_date": "Wed, 18 Mar 2026 11:54:00 +0900",
+    "analyzed_at": "2026-03-18T03:16:17.062161"
+  },
+  {
+    "title": "미래에셋 'TIGER 반도체TOP10 ETF', 순자산 8조 돌파…AI 수요 확대에 반...",
+    "score": 3,
+    "reason": "반도체 ETF의 성장과 AI 수요 확대는 긍정적인 시장 신호로 해석됨.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.koreaittimes.com/news/articleView.html?idxno=151988",
+    "pub_date": "Wed, 18 Mar 2026 11:54:00 +0900",
+    "analyzed_at": "2026-03-18T03:16:17.062162"
+  },
+  {
+    "title": "Seoul shares up over 3.5 pct late Wed. morning on tech surge",
+    "score": 4,
+    "reason": "기술주 상승으로 KOSPI가 3.62% 급등하며 긍정적인 시장 분위기를 반영",
+    "related_stocks": [
+      "삼성전자",
+      "LG화학"
+    ],
+    "link": "https://en.yna.co.kr/view/AEN20260318004900320?input=2106m",
+    "pub_date": "Wed, 18 Mar 2026 11:31:00 +0900",
+    "analyzed_at": "2026-03-18T03:16:28.489659"
+  },
+  {
+    "title": "KOSPI Surges Over 2%, Surpassing 5760 Mark",
+    "score": 4,
+    "reason": "KOSPI가 2% 이상 상승하며 중요한 심리적 저항선을 돌파",
+    "related_stocks": [
+      "SK하이닉스",
+      "네이버"
+    ],
+    "link": "https://www.businesskorea.co.kr/news/articleView.html?idxno=265450",
+    "pub_date": "Wed, 18 Mar 2026 10:28:00 +0900",
+    "analyzed_at": "2026-03-18T03:16:28.489667"
+  },
+  {
+    "title": "S. Korean won rises for 2nd session ahead of U.S. Fed's rate decision",
+    "score": 3,
+    "reason": "대형 기술주 상승에 힘입어 KOSPI가 2.24% 상승, 긍정적인 신호",
+    "related_stocks": [
+      "카카오",
+      "삼성SDI"
+    ],
+    "link": "https://en.yna.co.kr/view/AEN20260318002700320?input=2106m",
+    "pub_date": "Wed, 18 Mar 2026 10:00:00 +0900",
+    "analyzed_at": "2026-03-18T03:16:28.489669"
+  },
+  {
+    "title": "Seoul shares open sharply higher on tech boost",
+    "score": 4,
+    "reason": "기술주 상승으로 KOSPI가 2.87% 급등하며 긍정적인 시작",
+    "related_stocks": [
+      "LG전자",
+      "한화솔루션"
+    ],
+    "link": "https://en.yna.co.kr/view/AEN20260318002300320?input=2106m",
+    "pub_date": "Wed, 18 Mar 2026 09:28:00 +0900",
+    "analyzed_at": "2026-03-18T03:16:28.489670"
+  },
+  {
+    "title": "은행들 '사장님 신용대출' 모시기 경쟁 불붙었다…속내는 '복잡'",
+    "score": 1,
+    "reason": "은행 간 경쟁 심화로 신용대출 시장에 긍정적인 영향, 그러나 전반적인 시장에 미치는 영향은 제한적",
+    "related_stocks": [
+      "신한은행",
+      "우리은행"
+    ],
+    "link": "https://news.bizwatch.co.kr/article/finance/2026/03/17/0036",
+    "pub_date": "Wed, 18 Mar 2026 09:28:00 +0900",
+    "analyzed_at": "2026-03-18T03:16:28.489672"
+  },
+  {
+    "title": "`디지털 금` 서사로 오른 비트코인, 다시 위험자산 돌아설 듯",
+    "score": -2,
+    "reason": "비트코인과 다른 자산 간의 상관관계가 부정적이며 KOSPI에 악영향",
+    "related_stocks": [
+      "비트코인",
+      "이더리움"
+    ],
+    "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03184886645384632",
+    "pub_date": "Wed, 18 Mar 2026 09:23:00 +0900",
+    "analyzed_at": "2026-03-18T03:16:28.489673"
+  },
+  {
+    "title": "‘Roller Kospi’: Iran war sends Korea’s market on a meme-fueled ride",
+    "score": -3,
+    "reason": "전쟁으로 인한 KOSPI의 급락이 시장에 부정적인 영향을 미침",
+    "related_stocks": [
+      "현대차",
+      "기아"
+    ],
+    "link": "https://koreajoongangdaily.joins.com/news/2026-03-18/business/industry/Roller-Kospi-Iran-war-sends-Koreas-market-on-a-memefueled-ride/2546834",
+    "pub_date": "Wed, 18 Mar 2026 09:13:00 +0900",
+    "analyzed_at": "2026-03-18T03:16:28.489675"
+  },
+  {
+    "title": "KOSPI 5,767.10 UP 126.62 points (open)",
+    "score": 2,
+    "reason": "KOSPI가 상승세로 시작하며 긍정적인 시장 분위기",
+    "related_stocks": [
+      "삼성전자",
+      "LG화학"
+    ],
+    "link": "https://en.yna.co.kr/view/AEN20260318002100320?input=2106m",
+    "pub_date": "Wed, 18 Mar 2026 09:01:00 +0900",
+    "analyzed_at": "2026-03-18T03:16:28.489676"
+  },
+  {
+    "title": "삼성전자 주총, 1년만에 분위기 반전…주주들 '마음고생 많으셨다' 격려",
+    "score": 2,
+    "reason": "주주들의 격려와 반도체 부문 경영성과에 대한 질문은 긍정적인 신호이나 실적 저조 우려가 남아있음.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "https://www.yna.co.kr/view/AKR20260318037051003?input=1195m",
+    "pub_date": "Wed, 18 Mar 2026 12:14:00 +0900",
+    "analyzed_at": "2026-03-18T03:16:34.865632"
+  },
+  {
+    "title": "국힘 중앙당 공관위, 경기 용인·성남·안산·남양주·김포시장 후보 공",
+    "score": 1,
+    "reason": "반도체 메가 클러스터 조성 언급은 긍정적이나 직접적인 주가 영향은 미미함.",
+    "related_stocks": [],
+    "link": "https://www.kgnews.co.kr/news/article.html?no=887959",
+    "pub_date": "Wed, 18 Mar 2026 12:10:00 +0900",
+    "analyzed_at": "2026-03-18T03:16:34.865640"
+  },
+  {
+    "title": "\"한국 최초·노르딕 공식 인정… 일본도 못했다\" 스타트업 누코드, BLE 6",
+    "score": 3,
+    "reason": "글로벌 반도체·IoT 생태계 내 공식 플레이어로 진입한 것은 긍정적인 발전.",
+    "related_stocks": [
+      "누코드"
+    ],
+    "link": "https://kr.aving.net/news/articleView.html?idxno=1809564",
+    "pub_date": "Wed, 18 Mar 2026 12:10:00 +0900",
+    "analyzed_at": "2026-03-18T03:16:34.865642"
+  },
+  {
+    "title": "[지선26, 선택!심판!] 반도체·판교·신도시 축 공천…국민의힘, 수도권",
+    "score": 2,
+    "reason": "수도권 반도체 개발벨트 정책은 긍정적이나 구체적인 실적과 연결되지 않음.",
+    "related_stocks": [],
+    "link": "http://www.hansbiz.co.kr/news/articleView.html?idxno=825250",
+    "pub_date": "Wed, 18 Mar 2026 12:10:00 +0900",
+    "analyzed_at": "2026-03-18T03:16:34.865643"
+  },
+  {
+    "title": "장덕현 삼성전기 사장 \"FC-BGA 증설...수요, 공급량 대비 50% 상회\"",
+    "score": 4,
+    "reason": "AI용 반도체 기판 증설 계획은 향후 실적 개선에 긍정적인 영향을 미칠 것으로 예상됨.",
+    "related_stocks": [
+      "삼성전기"
+    ],
+    "link": "http://www.fnnews.com/news/202603181140537791",
+    "pub_date": "Wed, 18 Mar 2026 12:09:00 +0900",
+    "analyzed_at": "2026-03-18T03:16:34.865644"
+  },
+  {
+    "title": "예금토큰 송금 가능해진다···한은, 디지털화폐 2단계 실험",
+    "score": 4,
+    "reason": "디지털 자산 거래에서 예금토큰을 지급수단으로 활용할 가능성이 높아져 강한 호재로 작용할 수 있음.",
+    "related_stocks": [
+      "금융주",
+      "핀테크 관련 주식"
+    ],
+    "link": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2407460",
+    "pub_date": "Wed, 18 Mar 2026 12:10:00 +0900",
+    "analyzed_at": "2026-03-18T03:16:44.947902"
+  },
+  {
+    "title": "[오후 뉴스브리핑] 연준 금리 결정 앞둔 비트코인 파생상품 시장 롱 포...",
+    "score": 0,
+    "reason": "연준 금리 결정과 관련된 내용으로 주가에 직접적인 영향이 없음.",
+    "related_stocks": [],
+    "link": "https://www.tokenpost.kr/news/briefing/340591",
+    "pub_date": "Wed, 18 Mar 2026 12:06:00 +0900",
+    "analyzed_at": "2026-03-18T03:16:44.947911"
+  },
+  {
+    "title": "한은, '프로젝트 한강' 2단계 본격 추진…국고금 집행 시범사업",
+    "score": 4,
+    "reason": "AI와 예금토큰 결제 가능성을 검증하며 디지털 자산 거래의 기반을 다지는 긍정적인 소식.",
+    "related_stocks": [
+      "금융주",
+      "핀테크 관련 주식"
+    ],
+    "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4404397",
+    "pub_date": "Wed, 18 Mar 2026 12:06:00 +0900",
+    "analyzed_at": "2026-03-18T03:16:44.947912"
+  },
+  {
+    "title": "한은, 디지털화폐 '프로젝트 한강' 2단계 착수…예금토큰 상용화 박차",
+    "score": 4,
+    "reason": "디지털화폐 상용화에 대한 연구가 지속되며 긍정적인 시장 반응을 이끌어낼 가능성이 있음.",
+    "related_stocks": [
+      "금융주",
+      "핀테크 관련 주식"
+    ],
+    "link": "https://www.news1.kr/economy/trend/6105292",
+    "pub_date": "Wed, 18 Mar 2026 12:04:00 +0900",
+    "analyzed_at": "2026-03-18T03:16:44.947914"
+  },
+  {
+    "title": "한은, '프로젝트 한강 2단계' 착수 … 디지털화폐 상용화 기반 다진다",
+    "score": 4,
+    "reason": "디지털화폐와 AI 결합으로 금융 서비스 혁신 가능성이 높아져 강한 호재로 작용.",
+    "related_stocks": [
+      "금융주",
+      "핀테크 관련 주식"
+    ],
+    "link": "https://biz.newdaily.co.kr/site/data/html/2026/03/18/2026031800207.html",
+    "pub_date": "Wed, 18 Mar 2026 12:02:00 +0900",
+    "analyzed_at": "2026-03-18T03:16:44.947916"
+  },
+  {
+    "title": "원화 스테이블코인 멈춘 새 한은 디지털화폐 프로젝트 부활",
+    "score": 3,
+    "reason": "디지털화폐 프로젝트의 부활은 긍정적인 신호로 작용할 수 있으나, 구체적인 성과는 미지수.",
+    "related_stocks": [
+      "금융주",
+      "핀테크 관련 주식"
+    ],
+    "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=03903206645384632",
+    "pub_date": "Wed, 18 Mar 2026 12:02:00 +0900",
+    "analyzed_at": "2026-03-18T03:16:44.947917"
   }
 ]
