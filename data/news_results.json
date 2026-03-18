@@ -39016,5 +39016,337 @@
     "link": "https://kr.aving.net/news/articleView.html?idxno=1809589",
     "pub_date": "Wed, 18 Mar 2026 17:18:00 +0900",
     "analyzed_at": "2026-03-18T08:32:26.623898"
+  },
+  {
+    "title": "코스피, 5%대 급등...\"전쟁에서 펀더멘털로\"",
+    "score": 4,
+    "reason": "코스피 급등과 주요 대기업 주가 상승은 긍정적인 시장 신호로 해석됨.",
+    "related_stocks": [
+      "SK하이닉스",
+      "삼성전자",
+      "현대차"
+    ],
+    "link": "https://www.betanews.net/article/view/beta202603180093",
+    "pub_date": "Wed, 18 Mar 2026 18:36:00 +0900",
+    "analyzed_at": "2026-03-18T09:38:17.550527"
+  },
+  {
+    "title": "[사설] 삼성전자 노조 파업 가결, 대화와 양보로 파국 막길",
+    "score": -3,
+    "reason": "삼성전자 노조의 총파업 예고는 기업 운영에 부정적인 영향을 미칠 가능성이 높음.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "http://www.fnnews.com/news/202603181833143469",
+    "pub_date": "Wed, 18 Mar 2026 18:35:00 +0900",
+    "analyzed_at": "2026-03-18T09:38:17.550535"
+  },
+  {
+    "title": "AMD 리사 수, 삼성 이재용과 만찬",
+    "score": 2,
+    "reason": "AMD와 삼성의 만남은 협력 가능성을 높이며 긍정적인 신호로 작용할 수 있음.",
+    "related_stocks": [
+      "삼성전자",
+      "AMD"
+    ],
+    "link": "https://www.yna.co.kr/view/PYH20260318196900013?input=1196m",
+    "pub_date": "Wed, 18 Mar 2026 18:34:00 +0900",
+    "analyzed_at": "2026-03-18T09:38:17.550537"
+  },
+  {
+    "title": "삼성 영빈관으로 들어서는 AMD 리사 수 차량",
+    "score": 0,
+    "reason": "단순한 만남 보도이므로 주가에 미치는 영향은 없음.",
+    "related_stocks": [],
+    "link": "https://www.yna.co.kr/view/PYH20260318197200013?input=1196m",
+    "pub_date": "Wed, 18 Mar 2026 18:34:00 +0900",
+    "analyzed_at": "2026-03-18T09:38:17.550539"
+  },
+  {
+    "title": "현대차, 작년 직원 평균 급여 1억3100만원…전년대비 5.6%↑",
+    "score": 1,
+    "reason": "직원 급여 인상은 긍정적이나 큰 호재로 작용하지는 않음.",
+    "related_stocks": [
+      "현대차"
+    ],
+    "link": "https://www.newspim.com/news/view/20260318001214",
+    "pub_date": "Wed, 18 Mar 2026 18:33:00 +0900",
+    "analyzed_at": "2026-03-18T09:38:17.550540"
+  },
+  {
+    "title": "전북 덮친 '주식 광풍'... 남은 건 빚투 열풍 '리스크'",
+    "score": -2,
+    "reason": "과도한 투자 열풍은 시장의 불안 요소로 작용할 수 있음.",
+    "related_stocks": [
+      "삼성전자",
+      "카카오",
+      "SK하이닉스",
+      "네이버"
+    ],
+    "link": "http://www.domin.co.kr/news/articleView.html?idxno=1549046",
+    "pub_date": "Wed, 18 Mar 2026 18:32:00 +0900",
+    "analyzed_at": "2026-03-18T09:38:17.550542"
+  },
+  {
+    "title": "한국투자증권, 지수·종목형 ELW 585종목 출시",
+    "score": 1,
+    "reason": "신상품 출시가 투자 기회를 제공하지만 큰 영향은 없음.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스",
+      "카카오"
+    ],
+    "link": "http://www.sisacast.kr/news/articleView.html?idxno=93655",
+    "pub_date": "Wed, 18 Mar 2026 18:32:00 +0900",
+    "analyzed_at": "2026-03-18T09:38:17.550543"
+  },
+  {
+    "title": "5만→20만전자 ‘삼전벽해’… 축제장 된 주총",
+    "score": 4,
+    "reason": "삼성전자의 주총에서 긍정적인 분위기가 형성되어 주가에 긍정적 영향을 미칠 것으로 예상됨.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "https://www.segye.com/newsView/20260318517505?OutUrl=naver",
+    "pub_date": "Wed, 18 Mar 2026 18:31:00 +0900",
+    "analyzed_at": "2026-03-18T09:38:17.550547"
+  },
+  {
+    "title": "‘삼성 쇼크’는 옛말, “위상이 달라졌다”… 글로벌 빅테크 ‘0순위 ...",
+    "score": 3,
+    "reason": "삼성전자의 위상 변화는 긍정적인 시장 신뢰를 높일 수 있음.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "https://www.segye.com/newsView/20260318517560?OutUrl=naver",
+    "pub_date": "Wed, 18 Mar 2026 18:30:00 +0900",
+    "analyzed_at": "2026-03-18T09:38:17.550548"
+  },
+  {
+    "title": "삼성전자·AMD, 차세대 AI 메모리 솔루션 협력 확대",
+    "score": 5,
+    "reason": "삼성전자와 AMD의 협력 확대는 혁신적인 기술 개발로 이어질 가능성이 높아 매우 긍정적.",
+    "related_stocks": [
+      "삼성전자",
+      "AMD"
+    ],
+    "link": "https://www.siminilbo.co.kr/news/newsview.php?ncode=1160291112411262",
+    "pub_date": "Wed, 18 Mar 2026 18:30:00 +0900",
+    "analyzed_at": "2026-03-18T09:38:17.550550"
+  },
+  {
+    "title": "SK하이닉스 '2030년까지 자율형 팹' 구축 계획 발표",
+    "score": 4,
+    "reason": "자율형 팹 구축은 기술 혁신과 생산성 향상을 기대할 수 있어 긍정적",
+    "related_stocks": [
+      "SK하이닉스"
+    ],
+    "link": "http://www.segyebiz.com/newsView/20260318519112?OutUrl=naver",
+    "pub_date": "Wed, 18 Mar 2026 18:34:00 +0900",
+    "analyzed_at": "2026-03-18T09:38:24.636304"
+  },
+  {
+    "title": "삼성전자와 SK하이닉스의 강세로 코스피 상승",
+    "score": 3,
+    "reason": "반도체 종목의 강세가 코스피 상승에 기여하여 긍정적",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.bigtanews.co.kr/article/view/big202603180015",
+    "pub_date": "Wed, 18 Mar 2026 18:30:00 +0900",
+    "analyzed_at": "2026-03-18T09:38:24.636313"
+  },
+  {
+    "title": "명분없는 파업에 ‘공든 탑’ 무너진다",
+    "score": -2,
+    "reason": "파업 우려는 기업 운영에 부정적 영향을 미칠 수 있어 악재",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.dt.co.kr/article/12052461?ref=naver",
+    "pub_date": "Wed, 18 Mar 2026 18:28:00 +0900",
+    "analyzed_at": "2026-03-18T09:38:24.636315"
+  },
+  {
+    "title": "[1] '코스피 중복상장 시총만 100조원, 원천 금지해야'",
+    "score": -2,
+    "reason": "한국의 낮은 PBR과 기업 가치 하락 우려로 부정적인 시각이 우세함.",
+    "related_stocks": [],
+    "link": "https://news.bizwatch.co.kr/article/market/2026/03/18/0053",
+    "pub_date": "Wed, 18 Mar 2026 18:37:00 +0900",
+    "analyzed_at": "2026-03-18T09:38:40.761254"
+  },
+  {
+    "title": "[2] 장관 대신 '자금줄' 찾아간 리벨리온 대표",
+    "score": 4,
+    "reason": "AI 산업에 대한 대규모 민관 투자 프로젝트로 긍정적인 성장 기대감이 높음.",
+    "related_stocks": [
+      "리벨리온",
+      "AI 관련 기업"
+    ],
+    "link": "https://www.thelec.kr/news/articleView.html?idxno=53741",
+    "pub_date": "Wed, 18 Mar 2026 18:36:00 +0900",
+    "analyzed_at": "2026-03-18T09:38:40.761263"
+  },
+  {
+    "title": "[3] 나종대 군산시의회 운영위원장, 군산시장 출마…",
+    "score": 2,
+    "reason": "현대차의 투자와 반도체 클러스터 논의로 지역 경제에 긍정적인 영향을 미칠 가능성이 있음.",
+    "related_stocks": [
+      "현대자동차",
+      "반도체 관련 기업"
+    ],
+    "link": "https://www.gukjenews.com/news/articleView.html?idxno=3532403",
+    "pub_date": "Wed, 18 Mar 2026 18:36:00 +0900",
+    "analyzed_at": "2026-03-18T09:38:40.761265"
+  },
+  {
+    "title": "[4] [사설] 에너지 안보 위기 고조, 공급망 확보에 전력 쏟아야",
+    "score": -3,
+    "reason": "반도체 산업에 대한 공급망 위기 경고로 부정적인 영향을 미칠 수 있음.",
+    "related_stocks": [
+      "반도체 관련 기업"
+    ],
+    "link": "http://www.fnnews.com/news/202603181833178984",
+    "pub_date": "Wed, 18 Mar 2026 18:35:00 +0900",
+    "analyzed_at": "2026-03-18T09:38:40.761267"
+  },
+  {
+    "title": "[5] 네이버, AMD와 AI 인프라 협력…GPU 생태계 확장",
+    "score": 3,
+    "reason": "글로벌 반도체 기업과의 협력으로 AI 인프라 경쟁력 강화 기대.",
+    "related_stocks": [
+      "네이버",
+      "AMD"
+    ],
+    "link": "http://www.kdfnews.com/news/articleView.html?idxno=180295",
+    "pub_date": "Wed, 18 Mar 2026 18:34:00 +0900",
+    "analyzed_at": "2026-03-18T09:38:40.761268"
+  },
+  {
+    "title": "[6] 상반기 내 한중 FTA 공동위 개최…韓 콘텐츠 지재권 보호 대책도 마련",
+    "score": 2,
+    "reason": "중국 내 반도체 공장 가동 원활화로 긍정적인 정책적 소통 기대.",
+    "related_stocks": [
+      "반도체 관련 기업"
+    ],
+    "link": "https://www.sedaily.com/article/20021161?ref=naver",
+    "pub_date": "Wed, 18 Mar 2026 18:33:00 +0900",
+    "analyzed_at": "2026-03-18T09:38:40.761270"
+  },
+  {
+    "title": "[7] [차관칼럼] AI 고속도로 달리는 우리 기업",
+    "score": 3,
+    "reason": "AI 반도체 산업의 중요성을 강조하며 긍정적인 성장 전망을 제시.",
+    "related_stocks": [
+      "AI 반도체 관련 기업"
+    ],
+    "link": "http://www.fnnews.com/news/202603181832115094",
+    "pub_date": "Wed, 18 Mar 2026 18:33:00 +0900",
+    "analyzed_at": "2026-03-18T09:38:40.761271"
+  },
+  {
+    "title": "[8] 김영록 “왜곡 주장” 정면 반격…민주당 경선, 후보 간 전면 충돌로 확...",
+    "score": 0,
+    "reason": "정치적 논란으로 주가에 미치는 영향이 중립적임.",
+    "related_stocks": [],
+    "link": "https://www.ekn.kr/web/view.php?key=20260318026388903",
+    "pub_date": "Wed, 18 Mar 2026 18:32:00 +0900",
+    "analyzed_at": "2026-03-18T09:38:40.761273"
+  },
+  {
+    "title": "AI의 종목 이야기 월마트 투자한 폰페, 시장 변동성 심화에 IPO 연기",
+    "score": -2,
+    "reason": "IPO 연기는 시장의 불확실성을 반영하며 투자 심리에 부정적 영향을 미칠 수 있음.",
+    "related_stocks": [],
+    "link": "https://www.newspim.com/news/view/20260318001212",
+    "pub_date": "Wed, 18 Mar 2026 18:31:00 +0900",
+    "analyzed_at": "2026-03-18T09:38:59.684787"
+  },
+  {
+    "title": "AI 활용 넘어 'AI 원어민'으로… 대학 교육부터 바꿔라",
+    "score": 1,
+    "reason": "AI 교육 관련 논의는 긍정적이나 직접적인 주가 영향은 미미할 것으로 보임.",
+    "related_stocks": [],
+    "link": "http://www.fnnews.com/news/202603181829521826",
+    "pub_date": "Wed, 18 Mar 2026 18:31:00 +0900",
+    "analyzed_at": "2026-03-18T09:38:59.684795"
+  },
+  {
+    "title": "중복상장 막고 코스닥 1·2부로 쪼개고…자본시장 개편 큰 틀 나왔다",
+    "score": 3,
+    "reason": "자본시장 개편은 긍정적인 투자 환경을 조성할 수 있어 관련 기업에 호재.",
+    "related_stocks": [],
+    "link": "https://www.ekn.kr/web/view.php?key=20260318021488918",
+    "pub_date": "Wed, 18 Mar 2026 18:30:00 +0900",
+    "analyzed_at": "2026-03-18T09:38:59.684796"
+  },
+  {
+    "title": "시선AI, 정기주총 안건 중 주식매수선택권 '취소' 문구 정정",
+    "score": 0,
+    "reason": "단순한 문구 정정으로 주가에 미치는 영향은 없음.",
+    "related_stocks": [
+      "시선AI"
+    ],
+    "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=642611",
+    "pub_date": "Wed, 18 Mar 2026 18:30:00 +0900",
+    "analyzed_at": "2026-03-18T09:38:59.684798"
+  },
+  {
+    "title": "그리머와 한국인공지능게임협회, 교육 문화 콘텐츠 협력 위한 업무협약",
+    "score": 2,
+    "reason": "AI와 게임 산업의 협력은 긍정적이나 구체적인 성과가 필요함.",
+    "related_stocks": [
+      "그리머"
+    ],
+    "link": "https://gamefocus.co.kr/detail.php?number=174425",
+    "pub_date": "Wed, 18 Mar 2026 18:26:00 +0900",
+    "analyzed_at": "2026-03-18T09:38:59.684799"
+  },
+  {
+    "title": "삼성이 돌아왔다…반도체 반등 기대감에 삼성전자 주총 '훈훈'",
+    "score": 4,
+    "reason": "반도체 경쟁력 회복과 AI 중심 사업 구조 강화는 삼성전자에 강한 호재.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "https://www.ntoday.co.kr/news/articleView.html?idxno=125992",
+    "pub_date": "Wed, 18 Mar 2026 18:26:00 +0900",
+    "analyzed_at": "2026-03-18T09:38:59.684800"
+  },
+  {
+    "title": "삼성전자 “종합 AI 설루션 기업 입지 강화”… 반도체부터 가전·로봇",
+    "score": 4,
+    "reason": "AI 기술 경쟁력 확보는 삼성전자의 미래 성장 가능성을 높이는 긍정적 요소.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "https://www.donga.com/news/Economy/article/all/20260318/133558586/1",
+    "pub_date": "Wed, 18 Mar 2026 18:26:00 +0900",
+    "analyzed_at": "2026-03-18T09:38:59.684802"
+  },
+  {
+    "title": "폴라리스AI파마, 100억원 규모 전환사채 발행 결정",
+    "score": -1,
+    "reason": "전환사채 발행은 자금 조달을 위한 조치이나 주식 희석 우려로 부정적.",
+    "related_stocks": [
+      "폴라리스AI파마"
+    ],
+    "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=642605",
+    "pub_date": "Wed, 18 Mar 2026 18:26:00 +0900",
+    "analyzed_at": "2026-03-18T09:38:59.684803"
+  },
+  {
+    "title": "작년 고개 숙였던 임원에 올해는 박수갈채…삼성 주주들 '감사'",
+    "score": 3,
+    "reason": "삼성의 AI 반도체 시장 주도권 확보 의지는 긍정적이나 실질적 성과가 필요.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "http://www.fnnews.com/news/202603181823079118",
+    "pub_date": "Wed, 18 Mar 2026 18:25:00 +0900",
+    "analyzed_at": "2026-03-18T09:38:59.684804"
   }
 ]
