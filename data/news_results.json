@@ -39348,5 +39348,420 @@
     "link": "http://www.fnnews.com/news/202603181823079118",
     "pub_date": "Wed, 18 Mar 2026 18:25:00 +0900",
     "analyzed_at": "2026-03-18T09:38:59.684804"
+  },
+  {
+    "title": "삼성전자, 미 AMD AI칩에 HBM4 공급한다…파운드리로 협력 확대 시사",
+    "score": 4,
+    "reason": "삼성전자가 AMD와의 협력을 통해 AI 메모리 시장에서의 입지를 강화하며 실적 개선 기대.",
+    "related_stocks": [
+      "삼성전자",
+      "AMD"
+    ],
+    "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8511991&ref=A",
+    "pub_date": "Wed, 18 Mar 2026 19:35:00 +0900",
+    "analyzed_at": "2026-03-18T10:37:31.978242"
+  },
+  {
+    "title": "코스피 5900 탈환…삼전·하이닉스가 다했다",
+    "score": 4,
+    "reason": "삼성전자와 SK하이닉스의 주가 상승이 코스피 지수 회복에 기여하며 긍정적인 시장 분위기 조성.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.khan.co.kr/article/202603181933001",
+    "pub_date": "Wed, 18 Mar 2026 19:33:00 +0900",
+    "analyzed_at": "2026-03-18T10:37:31.978252"
+  },
+  {
+    "title": "이재용·리사수, 승지원 만찬…삼성·AMD 'AI 동맹' 강화",
+    "score": 4,
+    "reason": "삼성전자와 AMD의 협력 강화가 AI 반도체 시장에서의 경쟁력을 높일 것으로 기대됨.",
+    "related_stocks": [
+      "삼성전자",
+      "AMD"
+    ],
+    "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0200&key=20260319.22009005776",
+    "pub_date": "Wed, 18 Mar 2026 19:32:00 +0900",
+    "analyzed_at": "2026-03-18T10:37:31.978254"
+  },
+  {
+    "title": "작년 재계총수 연봉 1위는 한화 김승연…248억원 수령",
+    "score": 0,
+    "reason": "재계 총수 연봉 관련 뉴스로 삼성전자 주가에 직접적인 영향 없음.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "http://www.whitepaper.co.kr/news/articleView.html?idxno=259711",
+    "pub_date": "Wed, 18 Mar 2026 19:30:00 +0900",
+    "analyzed_at": "2026-03-18T10:37:31.978256"
+  },
+  {
+    "title": "작년 재계총수 연봉 1위는 김승연 회장…이재용 회장은 무보수 경영 유...",
+    "score": 0,
+    "reason": "이재용 회장의 무보수 경영은 주가에 긍정적 영향을 미치지 않음.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1702743",
+    "pub_date": "Wed, 18 Mar 2026 19:28:00 +0900",
+    "analyzed_at": "2026-03-18T10:37:31.978257"
+  },
+  {
+    "title": "최태원·정의선도 제쳤다...재계 ‘연봉 킹’은 누구",
+    "score": 0,
+    "reason": "재계 연봉 관련 뉴스로 삼성전자 주가에 직접적인 영향 없음.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "https://magazine.hankyung.com/business/article/202603180741b",
+    "pub_date": "Wed, 18 Mar 2026 19:28:00 +0900",
+    "analyzed_at": "2026-03-18T10:37:31.978259"
+  },
+  {
+    "title": "이재용-리사 수, 승지원 회동… 차세대 AI 반도체 동맹 확대",
+    "score": 4,
+    "reason": "삼성전자와 AMD의 협력 확대가 AI 반도체 시장에서의 경쟁력 강화로 이어질 것으로 기대됨.",
+    "related_stocks": [
+      "삼성전자",
+      "AMD"
+    ],
+    "link": "http://www.yonhapnewstv.co.kr/AKR20260318192632Bx4",
+    "pub_date": "Wed, 18 Mar 2026 19:27:00 +0900",
+    "analyzed_at": "2026-03-18T10:37:31.978260"
+  },
+  {
+    "title": "“인생역전 막차 왔다” 코스피 8500 파격 전망…‘이 조건’ 안 맞으면...",
+    "score": 3,
+    "reason": "삼성전자와 SK하이닉스의 시가총액 비중 증가가 긍정적인 시장 전망을 이끌고 있음.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.sidae.com/article/2026031819244234498",
+    "pub_date": "Wed, 18 Mar 2026 19:26:00 +0900",
+    "analyzed_at": "2026-03-18T10:37:31.978264"
+  },
+  {
+    "title": "“인생역전 막차 왔다” 코스피 8500 파격 전망…‘이 조건’ 안 맞으면...",
+    "score": 4,
+    "reason": "삼성전자와 SK하이닉스의 시가총액 비중이 40%를 초과하며 긍정적인 시장 전망을 제시.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.sedaily.com/article/20021186?ref=naver",
+    "pub_date": "Wed, 18 Mar 2026 19:25:00 +0900",
+    "analyzed_at": "2026-03-18T10:37:45.407311"
+  },
+  {
+    "title": "국민 4명 중 1명 ‘주주’…레버리지 투자 교육, 두 달 만에 ‘30만명’",
+    "score": 2,
+    "reason": "주주 수 증가가 시장 참여를 촉진할 수 있지만, 직접적인 주가 영향은 미미.",
+    "related_stocks": [
+      "삼성전자",
+      "카카오",
+      "SK하이닉스",
+      "네이버"
+    ],
+    "link": "https://www.khan.co.kr/article/202603181915001",
+    "pub_date": "Wed, 18 Mar 2026 19:15:00 +0900",
+    "analyzed_at": "2026-03-18T10:37:45.407319"
+  },
+  {
+    "title": "삼성전자 주식 소유자 461만명으로 1위…코스닥에선 에코프로비엠",
+    "score": 2,
+    "reason": "삼성전자의 주식 소유자 수 증가가 긍정적인 신호이나, 주가에 미치는 영향은 제한적.",
+    "related_stocks": [
+      "삼성전자",
+      "카카오",
+      "SK하이닉스"
+    ],
+    "link": "https://www.thepublic.kr/news/articleView.html?idxno=297894",
+    "pub_date": "Wed, 18 Mar 2026 19:14:00 +0900",
+    "analyzed_at": "2026-03-18T10:37:45.407321"
+  },
+  {
+    "title": "코스피, 5% 급등하며 5925선 마감…코스닥도 상승",
+    "score": 4,
+    "reason": "코스피와 주요 종목의 급등이 긍정적인 시장 분위기를 반영.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스",
+      "현대차",
+      "기아"
+    ],
+    "link": "https://www.thepublic.kr/news/articleView.html?idxno=297905",
+    "pub_date": "Wed, 18 Mar 2026 19:12:00 +0900",
+    "analyzed_at": "2026-03-18T10:37:45.407322"
+  },
+  {
+    "title": "코스피 다시 5,900선 돌파…‘삼전닉스’ 비중 40% 넘어",
+    "score": 4,
+    "reason": "삼성전자와 SK하이닉스의 시가총액 비중 증가가 시장에 긍정적인 영향을 미침.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8511902&ref=A",
+    "pub_date": "Wed, 18 Mar 2026 19:10:00 +0900",
+    "analyzed_at": "2026-03-18T10:37:45.407324"
+  },
+  {
+    "title": "오전 주총선 극찬, 오후엔 노조 파업…삼성전자 '롤러코스터' 하루",
+    "score": -2,
+    "reason": "노조 파업 우려가 주가에 부정적인 영향을 미칠 가능성이 있음.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.news1.kr/industry/general-industry/6106089",
+    "pub_date": "Wed, 18 Mar 2026 19:07:00 +0900",
+    "analyzed_at": "2026-03-18T10:37:45.407325"
+  },
+  {
+    "title": "‘KOSPI 5925.03’… 자본시장 구조개혁 기대감, 유가불안·전쟁공포 이...",
+    "score": 4,
+    "reason": "삼성전자와 SK하이닉스의 시가총액 비중 증가가 긍정적인 시장 신뢰를 높임.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.segye.com/newsView/20260318517646?OutUrl=naver",
+    "pub_date": "Wed, 18 Mar 2026 19:06:00 +0900",
+    "analyzed_at": "2026-03-18T10:37:45.407326"
+  },
+  {
+    "title": "美 AACR 참가 오름테라퓨틱·알지노믹스 5%↑",
+    "score": 3,
+    "reason": "미국 AACR 참가로 인한 긍정적인 시장 반응이 나타남.",
+    "related_stocks": [
+      "오름테라퓨틱",
+      "알지노믹스"
+    ],
+    "link": "https://www.hitnews.co.kr/news/articleView.html?idxno=74693",
+    "pub_date": "Wed, 18 Mar 2026 19:36:00 +0900",
+    "analyzed_at": "2026-03-18T10:37:52.095544"
+  },
+  {
+    "title": "3월 18일 주목할 종목: 오리온·하이브·티에이치엔·세아제...",
+    "score": 4,
+    "reason": "미국 증시 강세와 반도체 업황 호황으로 긍정적인 투자 심리 형성.",
+    "related_stocks": [
+      "오리온",
+      "하이브",
+      "티에이치엔",
+      "세아제강"
+    ],
+    "link": "https://www.hellot.net/news/article.html?no=111464",
+    "pub_date": "Wed, 18 Mar 2026 19:08:00 +0900",
+    "analyzed_at": "2026-03-18T10:37:52.095554"
+  },
+  {
+    "title": "Gangnam men in their 50s are Korea's largest investors, says KSD data",
+    "score": 0,
+    "reason": "투자자 통계 발표로 주가에 직접적인 영향 없음.",
+    "related_stocks": [],
+    "link": "https://koreajoongangdaily.joins.com/news/2026-03-18/business/finance/Gangnam-men-in-their-50s-are-Koreas-largest-investors-says-KSD-data/2547837",
+    "pub_date": "Wed, 18 Mar 2026 18:40:00 +0900",
+    "analyzed_at": "2026-03-18T10:37:52.095555"
+  },
+  {
+    "title": "민주 도지사 후보 경선 1차 끝나냐 결선까지 가냐",
+    "score": 0,
+    "reason": "정치적 이슈로 주가에 직접적인 영향이 없을 것으로 판단됨.",
+    "related_stocks": [],
+    "link": "http://www.jjn.co.kr/news/articleView.html?idxno=1035397",
+    "pub_date": "Wed, 18 Mar 2026 19:36:00 +0900",
+    "analyzed_at": "2026-03-18T10:38:08.393018"
+  },
+  {
+    "title": "경상북도, 소버린 AI로 지방이 주도하는 초혁신 경제 연다",
+    "score": 4,
+    "reason": "AI 및 반도체 관련 정책이 긍정적인 경제 효과를 기대하게 함.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.sentv.co.kr/article/view/sentv202603180233",
+    "pub_date": "Wed, 18 Mar 2026 19:36:00 +0900",
+    "analyzed_at": "2026-03-18T10:38:08.393027"
+  },
+  {
+    "title": "한솔아이원스, 4월29일 임시주총 소집…정관 변경·자기주식 보유·처분...",
+    "score": 1,
+    "reason": "임시주총 소집은 기업의 내부 결정으로 주가에 미미한 영향.",
+    "related_stocks": [
+      "한솔아이원스"
+    ],
+    "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=642642",
+    "pub_date": "Wed, 18 Mar 2026 19:36:00 +0900",
+    "analyzed_at": "2026-03-18T10:38:08.393028"
+  },
+  {
+    "title": "SK에코플랜트, 'AI 딥테크' 산·학·연 협력체계 구축",
+    "score": 3,
+    "reason": "AI 및 반도체 관련 협력체계 구축은 긍정적인 성장 가능성을 시사.",
+    "related_stocks": [
+      "SK에코플랜트",
+      "삼성전자"
+    ],
+    "link": "http://www.e2news.com/news/articleView.html?idxno=328793",
+    "pub_date": "Wed, 18 Mar 2026 19:36:00 +0900",
+    "analyzed_at": "2026-03-18T10:38:08.393029"
+  },
+  {
+    "title": "김영록, 신정훈 측 비방에 “사실 왜곡 주장은 위험…힘 합쳐 나갈 것”",
+    "score": 0,
+    "reason": "정치적 발언으로 주가에 직접적인 영향이 없을 것으로 판단됨.",
+    "related_stocks": [],
+    "link": "https://www.kmib.co.kr/article/view.asp?arcid=0029547358&code=61111711&cp=nv",
+    "pub_date": "Wed, 18 Mar 2026 19:35:00 +0900",
+    "analyzed_at": "2026-03-18T10:38:08.393031"
+  },
+  {
+    "title": "[영상] 전 5선 국회의원 안민석, 교육청ㆍ지자체 벽 허문다...",
+    "score": 2,
+    "reason": "AI 및 반도체 산업 관련 교육 정책은 장기적으로 긍정적 영향을 미칠 수 있음.",
+    "related_stocks": [],
+    "link": "http://www.paxetv.com/news/articleView.html?idxno=265831",
+    "pub_date": "Wed, 18 Mar 2026 19:34:00 +0900",
+    "analyzed_at": "2026-03-18T10:38:08.393032"
+  },
+  {
+    "title": "하정우 AI수석, 내일 AMD 리사 수 접견…AI·반도체 협력 논의",
+    "score": 4,
+    "reason": "AI 및 반도체 협력 논의는 산업 발전에 긍정적인 신호로 작용할 수 있음.",
+    "related_stocks": [
+      "AMD",
+      "삼성전자"
+    ],
+    "link": "https://www.newsworks.co.kr/news/articleView.html?idxno=834554",
+    "pub_date": "Wed, 18 Mar 2026 19:32:00 +0900",
+    "analyzed_at": "2026-03-18T10:38:08.393033"
+  },
+  {
+    "title": "AMD·네이버 AI 인프라 협력 … 엔비디아 독점 구조 흔든다",
+    "score": 5,
+    "reason": "전략적 파트너십 체결은 반도체 시장의 경쟁 구도를 변화시킬 수 있는 매우 긍정적인 소식.",
+    "related_stocks": [
+      "AMD",
+      "네이버"
+    ],
+    "link": "https://www.mk.co.kr/article/11991902",
+    "pub_date": "Wed, 18 Mar 2026 19:29:00 +0900",
+    "analyzed_at": "2026-03-18T10:38:08.393035"
+  },
+  {
+    "title": "인천시, 중기부로부터 벤처투자회사 등록 승인",
+    "score": 3,
+    "reason": "인천시의 벤처투자회사 등록은 지역 산업 발전에 긍정적인 영향을 미칠 것으로 예상됨.",
+    "related_stocks": [
+      "인천벤처투자"
+    ],
+    "link": "https://www.kmaeil.com/news/articleView.html?idxno=633464",
+    "pub_date": "Wed, 18 Mar 2026 19:26:00 +0900",
+    "analyzed_at": "2026-03-18T10:38:22.759035"
+  },
+  {
+    "title": "[亞증시-종합] 일제히 상승…美 FOMC 금리 결정 대기",
+    "score": 2,
+    "reason": "아시아 증시 상승은 한국 주식에도 긍정적인 영향을 미칠 가능성이 있음.",
+    "related_stocks": [
+      "반도체",
+      "AI 관련 주식"
+    ],
+    "link": "https://news.einfomax.co.kr/news/articleView.html?idxno=4404503",
+    "pub_date": "Wed, 18 Mar 2026 19:22:00 +0900",
+    "analyzed_at": "2026-03-18T10:38:22.759045"
+  },
+  {
+    "title": "구글 등 빅테크와 맞서 싸운 25년…이해진 네이버 창업자 복귀 후 외연...",
+    "score": 2,
+    "reason": "네이버의 AI 부문 강화는 긍정적인 성장 동력으로 작용할 수 있음.",
+    "related_stocks": [
+      "네이버",
+      "두나무"
+    ],
+    "link": "https://www.thepublic.kr/news/articleView.html?idxno=297904",
+    "pub_date": "Wed, 18 Mar 2026 19:12:00 +0900",
+    "analyzed_at": "2026-03-18T10:38:22.759073"
+  },
+  {
+    "title": "롯데이노베이트 경영진, 5.5억 규모 자사주 매입",
+    "score": 2,
+    "reason": "자사주 매입은 경영진의 자신감 신호로 해석될 수 있음.",
+    "related_stocks": [
+      "롯데이노베이트"
+    ],
+    "link": "https://www.bloter.net/news/articleView.html?idxno=657073",
+    "pub_date": "Wed, 18 Mar 2026 19:09:00 +0900",
+    "analyzed_at": "2026-03-18T10:38:22.759074"
+  },
+  {
+    "title": "카카오 평균 연봉 1억 900만원…연봉 1위는 홍은택 전 대표",
+    "score": 1,
+    "reason": "AI 신사업을 통한 성장 가능성은 있으나, 연봉 문제는 부정적 요소로 작용할 수 있음.",
+    "related_stocks": [
+      "카카오"
+    ],
+    "link": "https://www.joongang.co.kr/article/25412811",
+    "pub_date": "Wed, 18 Mar 2026 19:06:00 +0900",
+    "analyzed_at": "2026-03-18T10:38:22.759075"
+  },
+  {
+    "title": "대통령 만나자 벤처업계 불만 쏟아졌다...",
+    "score": -1,
+    "reason": "정책 지원 부족에 대한 불만은 벤처업계에 부정적인 영향을 미칠 수 있음.",
+    "related_stocks": [
+      "벤처기업"
+    ],
+    "link": "https://news.bizwatch.co.kr/article/market/2026/03/18/0054",
+    "pub_date": "Wed, 18 Mar 2026 19:01:00 +0900",
+    "analyzed_at": "2026-03-18T10:38:22.759077"
+  },
+  {
+    "title": "[기획] 전북이 쏘아올린 '5극 3특'...",
+    "score": 1,
+    "reason": "금융 지원 거점 마련은 긍정적이나 구체적인 성과가 부족함.",
+    "related_stocks": [
+      "우리금융"
+    ],
+    "link": "https://www.startuptoday.co.kr/news/articleView.html?idxno=600581",
+    "pub_date": "Wed, 18 Mar 2026 19:00:00 +0900",
+    "analyzed_at": "2026-03-18T10:38:22.759078"
+  },
+  {
+    "title": "카카오 사업보고서 공개…정신아 대표 보수 13억·홍은택 23억",
+    "score": 1,
+    "reason": "AI 신사업 추진은 긍정적이나 보수 문제는 부정적 요소로 작용할 수 있음.",
+    "related_stocks": [
+      "카카오"
+    ],
+    "link": "https://www.ebn.co.kr/news/articleView.html?idxno=1702742",
+    "pub_date": "Wed, 18 Mar 2026 19:00:00 +0900",
+    "analyzed_at": "2026-03-18T10:38:22.759079"
+  },
+  {
+    "title": "정신아 카카오 대표, 지난해 보수 13.6억원⋯홍은택 전 대표 23.3억원",
+    "score": 1,
+    "reason": "AI 신사업 추진은 긍정적이나 보수 문제는 부정적 요소로 작용할 수 있음.",
+    "related_stocks": [
+      "카카오"
+    ],
+    "link": "http://www.inews24.com/view/1950698",
+    "pub_date": "Wed, 18 Mar 2026 18:47:00 +0900",
+    "analyzed_at": "2026-03-18T10:38:22.759081"
+  },
+  {
+    "title": "‘TIGER 반도체TOP10 ETF’ 순자산 8조 돌파",
+    "score": 4,
+    "reason": "반도체 ETF의 순자산 증가가 반도체 산업에 대한 긍정적인 신호로 해석됨.",
+    "related_stocks": [
+      "TIGER 반도체TOP10 ETF"
+    ],
+    "link": "http://www.fnnews.com/news/202603181840017057",
+    "pub_date": "Wed, 18 Mar 2026 18:41:00 +0900",
+    "analyzed_at": "2026-03-18T10:38:22.759082"
   }
 ]
