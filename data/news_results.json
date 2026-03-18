@@ -40438,5 +40438,387 @@
     "link": "http://www.fntimes.com/html/view.php?ud=202603181700263895179ad43907_18",
     "pub_date": "Wed, 18 Mar 2026 20:44:00 +0900",
     "analyzed_at": "2026-03-18T12:37:23.680538"
+  },
+  {
+    "title": "이재용-리사 수 승지원 만찬...파운드리 협력 논의하나",
+    "score": 4,
+    "reason": "삼성전자와 AMD 간의 협력 논의는 긍정적인 실적 개선 가능성을 시사한다.",
+    "related_stocks": [
+      "삼성전자",
+      "AMD"
+    ],
+    "link": "https://www.thelec.kr/news/articleView.html?idxno=53768",
+    "pub_date": "Wed, 18 Mar 2026 23:04:00 +0900",
+    "analyzed_at": "2026-03-18T14:09:53.335214"
+  },
+  {
+    "title": "포스코그룹, 중소기업 혁신성장 돕는 특허 무상 이전",
+    "score": 3,
+    "reason": "중소기업 지원을 통한 혁신성장은 긍정적인 기업 이미지와 실적 개선으로 이어질 수 있다.",
+    "related_stocks": [
+      "포스코"
+    ],
+    "link": "https://www.segye.com/newsView/20260318519995?OutUrl=naver",
+    "pub_date": "Wed, 18 Mar 2026 23:02:00 +0900",
+    "analyzed_at": "2026-03-18T14:09:53.335223"
+  },
+  {
+    "title": "이재용 삼성전자 회장, 리사 수 AMD CEO와 승지원서 회동",
+    "score": 4,
+    "reason": "삼성전자와 AMD의 회동은 향후 협력 가능성을 높여 주가에 긍정적인 영향을 미칠 수 있다.",
+    "related_stocks": [
+      "삼성전자",
+      "AMD"
+    ],
+    "link": "https://www.ziksir.com/news/articleView.html?idxno=127651",
+    "pub_date": "Wed, 18 Mar 2026 23:00:00 +0900",
+    "analyzed_at": "2026-03-18T14:09:53.335226"
+  },
+  {
+    "title": "삼성전자 주주, 작년 106만명 '급감'...SK하이닉스, 카카오 맞먹는 국민...",
+    "score": -2,
+    "reason": "주주 수 감소는 투자자 신뢰도 하락을 의미하며 부정적인 주가 영향을 미칠 수 있다.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "https://www.asiatime.co.kr/article/20260318500445",
+    "pub_date": "Wed, 18 Mar 2026 22:56:00 +0900",
+    "analyzed_at": "2026-03-18T14:09:53.335228"
+  },
+  {
+    "title": "작년 재계총수 연봉 1위는 김승연…5개 회사서 248억 수령",
+    "score": 0,
+    "reason": "재계 총수 연봉 정보는 중립적이며 주가에 큰 영향을 미치지 않는다.",
+    "related_stocks": [],
+    "link": "https://www.delighti.co.kr/news/articleView.html?idxno=113701",
+    "pub_date": "Wed, 18 Mar 2026 22:46:00 +0900",
+    "analyzed_at": "2026-03-18T14:09:53.335229"
+  },
+  {
+    "title": "[단독] 한국 찾은 AMD 리사 수 '이재용과 모든 것 논의했다'",
+    "score": 4,
+    "reason": "리사 수 CEO의 발언은 삼성전자와 AMD 간의 협력 가능성을 높여 주가에 긍정적 영향을 미칠 수 있다.",
+    "related_stocks": [
+      "삼성전자",
+      "AMD"
+    ],
+    "link": "https://www.hankyung.com/article/2026031808871",
+    "pub_date": "Wed, 18 Mar 2026 22:40:00 +0900",
+    "analyzed_at": "2026-03-18T14:09:53.335231"
+  },
+  {
+    "title": "이재용 삼성전자 회장, 리사 수 AMD CEO와 '승지원 만찬' 회동",
+    "score": 4,
+    "reason": "중요한 회동은 향후 협력 가능성을 높여 주가에 긍정적인 영향을 미칠 수 있다.",
+    "related_stocks": [
+      "삼성전자",
+      "AMD"
+    ],
+    "link": "https://www.cstimes.com/news/articleView.html?idxno=698207",
+    "pub_date": "Wed, 18 Mar 2026 22:32:00 +0900",
+    "analyzed_at": "2026-03-18T14:09:53.335232"
+  },
+  {
+    "title": "“겨우 양전, 장투해요?”…20만전자·100만닉스 컴백에 설레는 개미들",
+    "score": 3,
+    "reason": "주가 회복은 투자자들의 긍정적인 심리를 자극하며 시장에 긍정적인 영향을 미칠 수 있다.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.mk.co.kr/article/11991952",
+    "pub_date": "Wed, 18 Mar 2026 22:26:00 +0900",
+    "analyzed_at": "2026-03-18T14:09:53.335236"
+  },
+  {
+    "title": "[아주경제 오늘의 뉴스 종합] 김승연 회장, 지난해 연봉 248억원…재계 ...",
+    "score": 0,
+    "reason": "연봉 정보는 중립적이며 주가에 큰 영향을 미치지 않는다.",
+    "related_stocks": [],
+    "link": "https://www.ajunews.com/view/20260318221148801",
+    "pub_date": "Wed, 18 Mar 2026 22:16:00 +0900",
+    "analyzed_at": "2026-03-18T14:09:53.335238"
+  },
+  {
+    "title": "검찰, '미공개정보 이용 의혹' 삼성전자·레인보우로보틱스 압수수색",
+    "score": -4,
+    "reason": "검찰 수사는 삼성전자에 대한 신뢰를 저하시킬 수 있으며 주가에 부정적인 영향을 미칠 수 있다.",
+    "related_stocks": [
+      "삼성전자",
+      "레인보우로보틱스"
+    ],
+    "link": "https://news.tf.co.kr/read/life/2303755.htm",
+    "pub_date": "Wed, 18 Mar 2026 22:14:00 +0900",
+    "analyzed_at": "2026-03-18T14:09:53.335240"
+  },
+  {
+    "title": "김승연 한화그룹 회장, 재계 연봉 1위…5개 계열사서 248억",
+    "score": 0,
+    "reason": "연봉 발표는 기업의 실적과 직접적인 연관이 적어 주가에 큰 영향을 미치지 않음.",
+    "related_stocks": [
+      "한화그룹"
+    ],
+    "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=06254966645384632",
+    "pub_date": "Wed, 18 Mar 2026 22:08:00 +0900",
+    "analyzed_at": "2026-03-18T14:10:06.970010"
+  },
+  {
+    "title": "20만전자·100만닉스 돌아왔다…'줍줍' 개미들 '싱글벙글' [종목+]",
+    "score": 4,
+    "reason": "삼성전자와 SK하이닉스의 급등세는 긍정적인 시장 신호로, 투자자들의 신뢰를 높임.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.hankyung.com/article/2026031805546",
+    "pub_date": "Wed, 18 Mar 2026 22:01:00 +0900",
+    "analyzed_at": "2026-03-18T14:10:06.970020"
+  },
+  {
+    "title": "지난해 재계 연봉킹은 한화 김승연 248억…이재용은 10년째 '무보수'",
+    "score": 0,
+    "reason": "연봉 변화는 기업 실적과의 직접적인 연관성이 낮아 주가에 큰 영향을 미치지 않음.",
+    "related_stocks": [
+      "한화그룹",
+      "삼성전자"
+    ],
+    "link": "http://www.srtimes.kr/news/articleView.html?idxno=198971",
+    "pub_date": "Wed, 18 Mar 2026 21:58:00 +0900",
+    "analyzed_at": "2026-03-18T14:10:06.970021"
+  },
+  {
+    "title": "마이크론, 19일 실적발표... 월가 목표가 500달러 '줄상향'",
+    "score": 4,
+    "reason": "마이크론의 긍정적인 실적 전망은 삼성전자와 SK하이닉스에 유리하게 작용할 것으로 예상됨.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.ggilbo.com/news/articleView.html?idxno=1147217",
+    "pub_date": "Wed, 18 Mar 2026 21:50:00 +0900",
+    "analyzed_at": "2026-03-18T14:10:06.970023"
+  },
+  {
+    "title": "삼성전자, 주총서 ‘주주 환원’ 확정…노조는 성과급 인상 요구",
+    "score": 1,
+    "reason": "주주 환원 정책은 긍정적이나 노조의 성과급 인상 요구는 내부 갈등을 시사함.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8512158&ref=A",
+    "pub_date": "Wed, 18 Mar 2026 21:47:00 +0900",
+    "analyzed_at": "2026-03-18T14:10:06.970024"
+  },
+  {
+    "title": "이재용·리사수 '승지원 회동'…HBM4·파운드리 'AI 혈맹' 강화(종합)",
+    "score": 5,
+    "reason": "엔비디아와의 협력 강화는 삼성전자와 SK하이닉스의 경쟁력을 크게 높일 것으로 기대됨.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.news1.kr/industry/electronics/6106159",
+    "pub_date": "Wed, 18 Mar 2026 21:39:00 +0900",
+    "analyzed_at": "2026-03-18T14:10:06.970025"
+  },
+  {
+    "title": "[공시] 로킷헬스케어·휴림에이텍 등 10종목 '투자주의' 지정",
+    "score": -3,
+    "reason": "투자주의 종목 지정은 시장 신뢰도 하락을 초래할 수 있어 부정적 영향을 미침.",
+    "related_stocks": [
+      "로킷헬스케어",
+      "휴림에이텍",
+      "PI첨단소재",
+      "씨어스테크놀로지",
+      "진시스템"
+    ],
+    "link": "http://www.newstnt.com/news/articleView.html?idxno=597355",
+    "pub_date": "Wed, 18 Mar 2026 23:00:00 +0900",
+    "analyzed_at": "2026-03-18T14:10:14.321774"
+  },
+  {
+    "title": "President Lee vows to reform capital market amid Middle East crisis",
+    "score": 0,
+    "reason": "자본시장 개혁 의지는 있으나, 현재 중동 위기와의 연관성으로 인해 즉각적인 주가 영향은 없음.",
+    "related_stocks": [],
+    "link": "https://www.arirang.com/news/view?id=293860",
+    "pub_date": "Wed, 18 Mar 2026 20:00:00 +0900",
+    "analyzed_at": "2026-03-18T14:10:14.321784"
+  },
+  {
+    "title": "Stocks&Markets: 18 KOREAN STOCK MARKET",
+    "score": 2,
+    "reason": "KOSPI와 KOSDAQ의 상승은 긍정적인 시장 분위기를 나타내지만, 단기적인 변동일 수 있음.",
+    "related_stocks": [
+      "KOSPI",
+      "KOSDAQ"
+    ],
+    "link": "https://www.arirang.com/news/view?id=293859",
+    "pub_date": "Wed, 18 Mar 2026 20:00:00 +0900",
+    "analyzed_at": "2026-03-18T14:10:14.321787"
+  },
+  {
+    "title": "한중 FTA 협상 임박…서비스·투자 분야 혁신 논의 시작",
+    "score": 4,
+    "reason": "한중 FTA 협상은 반도체와 배터리 산업에 긍정적인 영향을 미칠 것으로 예상됨.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.gokorea.kr/news/articleView.html?idxno=860850",
+    "pub_date": "Wed, 18 Mar 2026 23:08:00 +0900",
+    "analyzed_at": "2026-03-18T14:10:30.687355"
+  },
+  {
+    "title": "정명근 화성시장, 출마 선언...",
+    "score": 3,
+    "reason": "화성시의 첨단 산업 클러스터 계획은 지역 경제에 긍정적인 영향을 미칠 것으로 보임.",
+    "related_stocks": [
+      "삼성전자",
+      "LG화학"
+    ],
+    "link": "https://ilyo.co.kr/?ac=article_view&entry_id=509785",
+    "pub_date": "Wed, 18 Mar 2026 23:08:00 +0900",
+    "analyzed_at": "2026-03-18T14:10:30.687365"
+  },
+  {
+    "title": "챗GPT가 골라준 주식의 함정… 고수익 거뒀지만 추천 일관성 없어",
+    "score": 0,
+    "reason": "주식 시장의 변동성이 크지만 특정 종목에 대한 긍정적 또는 부정적 영향은 없음.",
+    "related_stocks": [],
+    "link": "https://www.donga.com/news/It/article/all/20260318/133559800/2",
+    "pub_date": "Wed, 18 Mar 2026 23:07:00 +0900",
+    "analyzed_at": "2026-03-18T14:10:30.687367"
+  },
+  {
+    "title": "[뉴욕증시]2월 PPI 예상치 상회에 3대 지수 하락 출발",
+    "score": -1,
+    "reason": "미국 증시 하락은 한국 반도체 주식에도 부정적인 영향을 미칠 가능성이 있음.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://view.asiae.co.kr/article/2026031823033027015",
+    "pub_date": "Wed, 18 Mar 2026 23:03:00 +0900",
+    "analyzed_at": "2026-03-18T14:10:30.687368"
+  },
+  {
+    "title": "포항에 바이오반도체 국가연구소 들어선다…포스텍 ‘헬스케어 의공학...",
+    "score": 4,
+    "reason": "바이오반도체 연구소 설립은 관련 산업의 발전을 촉진할 것으로 기대됨.",
+    "related_stocks": [
+      "삼성바이오로직스",
+      "셀트리온"
+    ],
+    "link": "https://www.segye.com/newsView/20260318519902?OutUrl=naver",
+    "pub_date": "Wed, 18 Mar 2026 23:02:00 +0900",
+    "analyzed_at": "2026-03-18T14:10:30.687370"
+  },
+  {
+    "title": "미국 뉴욕증시 하락 출발…PPI 충격·금리 경계",
+    "score": -2,
+    "reason": "미국 증시의 하락은 한국 반도체 및 기술주에 부정적인 영향을 미칠 수 있음.",
+    "related_stocks": [
+      "삼성전자",
+      "LG전자"
+    ],
+    "link": "https://www.topstarnews.net/news/articleView.html?idxno=16008792",
+    "pub_date": "Wed, 18 Mar 2026 22:58:00 +0900",
+    "analyzed_at": "2026-03-18T14:10:30.687372"
+  },
+  {
+    "title": "[기고] AI 부트캠프가 바꾸는 인재양성 패러다임",
+    "score": 2,
+    "reason": "AI와 반도체 산업의 융합은 장기적으로 긍정적인 영향을 미칠 것으로 예상됨.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.segye.com/newsView/20260318515617?OutUrl=naver",
+    "pub_date": "Wed, 18 Mar 2026 22:51:00 +0900",
+    "analyzed_at": "2026-03-18T14:10:30.687373"
+  },
+  {
+    "title": "고려아연, 폐모터에서 희토류 뽑는다…반도체 황산 라인도 증설",
+    "score": 3,
+    "reason": "반도체 황산 생산능력 확대는 반도체 산업에 긍정적인 영향을 미칠 것으로 보임.",
+    "related_stocks": [
+      "고려아연",
+      "삼성전자"
+    ],
+    "link": "https://magazine.hankyung.com/business/article/202603180898b",
+    "pub_date": "Wed, 18 Mar 2026 22:47:00 +0900",
+    "analyzed_at": "2026-03-18T14:10:30.687374"
+  },
+  {
+    "title": "기관 73% '암호화폐 비중 확대'…변동성 속 리스크 관리로 무게 이동",
+    "score": 0,
+    "reason": "기관의 암호화폐 비중 확대는 긍정적이나 변동성이 큰 시장에서의 리스크 관리 우려가 상존함.",
+    "related_stocks": [],
+    "link": "https://www.tokenpost.kr/news/cryptocurrency/340888",
+    "pub_date": "Wed, 18 Mar 2026 23:08:00 +0900",
+    "analyzed_at": "2026-03-18T14:10:44.677753"
+  },
+  {
+    "title": "'책임경영 실천'... 롯데이노베이트 경영진 '자사주식 매입'",
+    "score": 3,
+    "reason": "경영진의 자사주식 매입은 주가 부양과 함께 책임 경영 의지를 보여주는 긍정적 신호.",
+    "related_stocks": [
+      "롯데이노베이트"
+    ],
+    "link": "http://www.newsbrite.net/news/articleView.html?idxno=197001",
+    "pub_date": "Wed, 18 Mar 2026 22:38:00 +0900",
+    "analyzed_at": "2026-03-18T14:10:44.677763"
+  },
+  {
+    "title": "[브리프] 네이버 SK브로드밴드 롯데이노베이트 한진 유진테크놀로지 포...",
+    "score": 2,
+    "reason": "자사주식 매입과 AI 사업 확대는 긍정적이나, 구체적인 성과가 필요함.",
+    "related_stocks": [
+      "롯데이노베이트"
+    ],
+    "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=350755",
+    "pub_date": "Wed, 18 Mar 2026 22:14:00 +0900",
+    "analyzed_at": "2026-03-18T14:10:44.677765"
+  },
+  {
+    "title": "[증권가] 한국투자증권 키움증권 신한투자증권 삼성증권 하나증권 DB증...",
+    "score": 1,
+    "reason": "AI 기반 시황 서비스 도입은 긍정적이나 시장에 미치는 영향은 제한적.",
+    "related_stocks": [
+      "한국투자증권"
+    ],
+    "link": "http://www.biztribune.co.kr/news/articleView.html?idxno=350773",
+    "pub_date": "Wed, 18 Mar 2026 22:06:00 +0900",
+    "analyzed_at": "2026-03-18T14:10:44.677767"
+  },
+  {
+    "title": "이란 긴장·물가 쇼크에 흔들린 비트코인…금리 경로 ‘안갯속’",
+    "score": -2,
+    "reason": "이란의 군사 긴장 고조로 인해 비트코인과 위험자산 전반에 부정적 영향을 미침.",
+    "related_stocks": [],
+    "link": "https://www.tokenpost.kr/news/cryptocurrency/340858",
+    "pub_date": "Wed, 18 Mar 2026 22:02:00 +0900",
+    "analyzed_at": "2026-03-18T14:10:44.677769"
+  },
+  {
+    "title": "[지식의 발견] 트럼프 vs 앤트로픽 전쟁! 국영화 위기 속 김대식 교수...",
+    "score": 1,
+    "reason": "AI 기업과 정치 권력의 충돌 가능성은 우려되나, 구체적인 주식 영향은 미미함.",
+    "related_stocks": [
+      "엔비디아"
+    ],
+    "link": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008482910&plink=ORI&cooper=NAVER",
+    "pub_date": "Wed, 18 Mar 2026 22:00:00 +0900",
+    "analyzed_at": "2026-03-18T14:10:44.677770"
+  },
+  {
+    "title": "[김종석의 오프닝]트럼프, 출구전략 못 찾고 사면초가?",
+    "score": 0,
+    "reason": "트럼프의 주식 투자 언급은 흥미롭지만, 시장에 미치는 영향은 불확실함.",
+    "related_stocks": [],
+    "link": "https://www.ichannela.com/news/main/news_detailPage.do?publishId=000000519674",
+    "pub_date": "Wed, 18 Mar 2026 21:51:00 +0900",
+    "analyzed_at": "2026-03-18T14:10:44.677772"
   }
 ]
