@@ -1,422 +1,5 @@
 [
   {
-    "title": "대법 “한화오션 경영성과급, 임금 아닌 이익배분”",
-    "score": 0,
-    "reason": "대법원의 판결이 한화오션에 대한 직접적인 영향이 없으므로 중립적.",
-    "related_stocks": [
-      "한화오션"
-    ],
-    "link": "https://www.sedaily.com/article/20018760?ref=naver",
-    "pub_date": "Thu, 12 Mar 2026 18:51:00 +0900",
-    "analyzed_at": "2026-03-12T09:56:57.261253"
-  },
-  {
-    "title": "[위클리오늘] 성남·용인·의왕시 소식(3.11)",
-    "score": 1,
-    "reason": "반도체 중심도시 도약을 위한 교육 투자 언급이 긍정적이나 직접적인 주가 영향은 미미.",
-    "related_stocks": [
-      "삼성전자",
-      "SK하이닉스"
-    ],
-    "link": "http://www.weeklytoday.com/news/articleView.html?idxno=764830",
-    "pub_date": "Thu, 12 Mar 2026 18:50:00 +0900",
-    "analyzed_at": "2026-03-12T09:56:57.261262"
-  },
-  {
-    "title": "한국지역난방공사, 에너지 대전환(GX) 본격 시동",
-    "score": 3,
-    "reason": "삼성전자와의 협력으로 저탄소 에너지 순환 체계 구축이 긍정적인 신호.",
-    "related_stocks": [
-      "삼성전자",
-      "한국지역난방공사"
-    ],
-    "link": "https://www.newscj.com/news/articleView.html?idxno=3383942",
-    "pub_date": "Thu, 12 Mar 2026 18:48:00 +0900",
-    "analyzed_at": "2026-03-12T09:56:57.261264"
-  },
-  {
-    "title": "삼성물산, 삼성전자와 1조3791억7000만원 규모 공사수주 계약 체결",
-    "score": 4,
-    "reason": "대규모 공사 수주 계약 체결로 삼성물산의 실적 개선 기대.",
-    "related_stocks": [
-      "삼성물산",
-      "삼성전자"
-    ],
-    "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=640425",
-    "pub_date": "Thu, 12 Mar 2026 18:46:00 +0900",
-    "analyzed_at": "2026-03-12T09:56:57.261266"
-  },
-  {
-    "title": "\"남는 전기, 열로 저장\" … 지역난방공사 에너지 혁신",
-    "score": 3,
-    "reason": "에너지 혁신 프로젝트가 온실가스 감축에 기여할 것으로 기대됨.",
-    "related_stocks": [
-      "삼성전자",
-      "한국지역난방공사"
-    ],
-    "link": "https://www.safetimes.co.kr/news/articleView.html?idxno=240601",
-    "pub_date": "Thu, 12 Mar 2026 18:44:00 +0900",
-    "analyzed_at": "2026-03-12T09:56:57.261268"
-  },
-  {
-    "title": "한미약품, 투자 전문가 황상연 신임 대표 내정…이사회 40% 교체",
-    "score": 2,
-    "reason": "경영진 교체가 긍정적이나 큰 변화는 아닐 것으로 예상됨.",
-    "related_stocks": [
-      "한미약품"
-    ],
-    "link": "https://new.dailypharm.com/user/news/336472?REFERER=NP",
-    "pub_date": "Thu, 12 Mar 2026 18:42:00 +0900",
-    "analyzed_at": "2026-03-12T09:56:57.261269"
-  },
-  {
-    "title": "[Chip War] 삼성전자 지난해 최대 매출처는 애플…'적과의 빅테크 동맹'",
-    "score": 4,
-    "reason": "글로벌 빅테크와의 협력 강화가 삼성전자의 매출에 긍정적 영향을 미칠 것으로 보임.",
-    "related_stocks": [
-      "삼성전자"
-    ],
-    "link": "http://www.wikileaks-kr.org/news/articleView.html?idxno=184673",
-    "pub_date": "Thu, 12 Mar 2026 18:42:00 +0900",
-    "analyzed_at": "2026-03-12T09:56:57.261271"
-  },
-  {
-    "title": "\"한난, 에너지 대전환(GX) 박차 가한다\"",
-    "score": 3,
-    "reason": "에너지 대전환 프로젝트가 긍정적인 환경적 영향을 미칠 것으로 기대됨.",
-    "related_stocks": [
-      "삼성전자",
-      "한국지역난방공사"
-    ],
-    "link": "http://www.energydaily.co.kr/news/articleView.html?idxno=165282",
-    "pub_date": "Thu, 12 Mar 2026 18:36:00 +0900",
-    "analyzed_at": "2026-03-12T09:56:57.261275"
-  },
-  {
-    "title": "삼전닉스 변동성 커지자… ‘반도체 소부장 ETF’에 쏠린 투심",
-    "score": 2,
-    "reason": "반도체 소부장 ETF에 대한 관심 증가가 긍정적이나 변동성 우려가 상존.",
-    "related_stocks": [
-      "삼성전자",
-      "SK하이닉스"
-    ],
-    "link": "http://www.fnnews.com/news/202603121832195812",
-    "pub_date": "Thu, 12 Mar 2026 18:34:00 +0900",
-    "analyzed_at": "2026-03-12T09:56:57.261277"
-  },
-  {
-    "title": "한난, '잉여전력 열 저장' 실증 개시...\"탈탄소 전환 박차\"",
-    "score": 3,
-    "reason": "탈탄소 전환을 위한 실증 사업이 긍정적인 환경적 영향을 미칠 것으로 기대됨.",
-    "related_stocks": [
-      "삼성전자",
-      "한국지역난방공사"
-    ],
-    "link": "http://www.edaily.co.kr/news/newspath.asp?newsid=05146326645382664",
-    "pub_date": "Thu, 12 Mar 2026 18:34:00 +0900",
-    "analyzed_at": "2026-03-12T09:56:57.261278"
-  },
-  {
-    "title": "중동發 수혜주에 베팅… 반도체·정유·신재생 ‘빚투’ 몰린다",
-    "score": 3,
-    "reason": "반도체 주식에 대한 신용잔고 증가가 긍정적인 신호로 작용할 수 있음.",
-    "related_stocks": [
-      "SK하이닉스"
-    ],
-    "link": "http://www.fnnews.com/news/202603121832265825",
-    "pub_date": "Thu, 12 Mar 2026 18:34:00 +0900",
-    "analyzed_at": "2026-03-12T09:57:12.500946"
-  },
-  {
-    "title": "코스피, 국제 유가 반등에 약보합마감",
-    "score": -1,
-    "reason": "주요 대형주 하락이 코스피에 부정적인 영향을 미침.",
-    "related_stocks": [
-      "SK하이닉스",
-      "삼성전자",
-      "현대차"
-    ],
-    "link": "https://www.betanews.net/article/view/beta202603120069",
-    "pub_date": "Thu, 12 Mar 2026 18:32:00 +0900",
-    "analyzed_at": "2026-03-12T09:57:12.500954"
-  },
-  {
-    "title": "대규모 공채 시작…삼성·SK, 전문성 강화 위한 '인재 모집'",
-    "score": 2,
-    "reason": "대규모 채용이 기업 성장에 긍정적인 영향을 미칠 것으로 예상됨.",
-    "related_stocks": [
-      "삼성전자",
-      "SK하이닉스"
-    ],
-    "link": "https://www.kfenews.co.kr/news/articleView.html?idxno=655547",
-    "pub_date": "Thu, 12 Mar 2026 18:32:00 +0900",
-    "analyzed_at": "2026-03-12T09:57:12.500956"
-  },
-  {
-    "title": "카운터포인트 “D램값 180% 폭등…메모리 부족 최소 내년 하반기까지",
-    "score": 4,
-    "reason": "D램 가격 상승 전망이 반도체 기업에 긍정적인 영향을 미칠 것으로 보임.",
-    "related_stocks": [
-      "삼성전자",
-      "SK하이닉스"
-    ],
-    "link": "https://biz.chosun.com/it-science/ict/2026/03/12/HZ4PFYPGTNFLRDHVDUN4LZYIFY/?utm_source=naver&utm_medium=original&utm_campaign=biz",
-    "pub_date": "Thu, 12 Mar 2026 18:28:00 +0900",
-    "analyzed_at": "2026-03-12T09:57:12.500958"
-  },
-  {
-    "title": "중동 리스크에 흔들린 금융시장...유가 100달러 재돌파에 코스피 5,580대",
-    "score": -2,
-    "reason": "유가 상승과 함께 주요 주식 하락이 시장에 부정적인 영향을 미침.",
-    "related_stocks": [
-      "SK하이닉스",
-      "삼성전자"
-    ],
-    "link": "https://www.polinews.co.kr/news/articleView.html?idxno=725296",
-    "pub_date": "Thu, 12 Mar 2026 18:09:00 +0900",
-    "analyzed_at": "2026-03-12T09:57:12.500959"
-  },
-  {
-    "title": "용인시, 민간제안 산업단지 공모사업... 소부장 기업 생태계 강화",
-    "score": 3,
-    "reason": "초대형 반도체 프로젝트가 지역 경제에 긍정적인 영향을 미칠 것으로 예상됨.",
-    "related_stocks": [
-      "삼성전자",
-      "SK하이닉스"
-    ],
-    "link": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003214396&CMPT_CD=P0010&utm_source=naver&utm_medium=newsearch&utm_campaign=naver_news",
-    "pub_date": "Thu, 12 Mar 2026 18:06:00 +0900",
-    "analyzed_at": "2026-03-12T09:57:12.500961"
-  },
-  {
-    "title": "네 마녀의 날에 유가 급등까지…숨 고른 코스피",
-    "score": -2,
-    "reason": "주요 반도체 주식 하락이 시장에 부정적인 영향을 미침.",
-    "related_stocks": [
-      "SK하이닉스",
-      "삼성전자"
-    ],
-    "link": "https://biz.sbs.co.kr/article_hub/20000297050?division=NAVER",
-    "pub_date": "Thu, 12 Mar 2026 18:02:00 +0900",
-    "analyzed_at": "2026-03-12T09:57:12.500962"
-  },
-  {
-    "title": "3월 12일 주목할 종목: 엠로·대덕전자·쏠리드·오이솔루션",
-    "score": 0,
-    "reason": "전반적인 시장 하락과 변동성 확대가 있었으나 저가 매수세가 유입되어 중립적인 영향.",
-    "related_stocks": [
-      "엠로",
-      "대덕전자",
-      "쏠리드",
-      "오이솔루션"
-    ],
-    "link": "https://www.hellot.net/news/article.html?no=111340",
-    "pub_date": "Thu, 12 Mar 2026 18:56:00 +0900",
-    "analyzed_at": "2026-03-12T09:57:20.119299"
-  },
-  {
-    "title": "신용한 충북지사 후보, ‘창업특별도 충북’ 선포",
-    "score": 0,
-    "reason": "정치적 발언으로 경제에 대한 긍정적인 전망을 제시했으나 주식 시장에 직접적인 영향은 없음.",
-    "related_stocks": [],
-    "link": "http://www.breaknews.com/1191390",
-    "pub_date": "Thu, 12 Mar 2026 18:04:00 +0900",
-    "analyzed_at": "2026-03-12T09:57:20.119308"
-  },
-  {
-    "title": "Foreigners Sold $13.5 Billion in February Amid KOSPI Reaching 6,000",
-    "score": -3,
-    "reason": "KOSPI가 6,000을 돌파했음에도 불구하고 외국인 자금 유출이 발생하여 강한 악재로 작용.",
-    "related_stocks": [],
-    "link": "https://www.businesskorea.co.kr/news/articleView.html?idxno=265056",
-    "pub_date": "Thu, 12 Mar 2026 17:58:00 +0900",
-    "analyzed_at": "2026-03-12T09:57:20.119310"
-  },
-  {
-    "title": "무소불위 관세카드 꺼낸 美… 현실화땐 철강·석화 특히 타격",
-    "score": -4,
-    "reason": "미국의 관세 강화가 철강 및 석유화학 산업에 심각한 타격을 줄 것으로 예상됨.",
-    "related_stocks": [
-      "포스코",
-      "LG화학"
-    ],
-    "link": "http://www.fnnews.com/news/202603121853422975",
-    "pub_date": "Thu, 12 Mar 2026 18:55:00 +0900",
-    "analyzed_at": "2026-03-12T09:57:40.972613"
-  },
-  {
-    "title": "가격 180% 폭등, 그래도 없어서 못 구한다고?",
-    "score": 4,
-    "reason": "메모리 반도체 가격 급등과 공급 부족이 반도체 기업에 긍정적인 영향을 미칠 것으로 보임.",
-    "related_stocks": [
-      "삼성전자",
-      "SK하이닉스"
-    ],
-    "link": "https://biz.heraldcorp.com/article/10693214?ref=naver",
-    "pub_date": "Thu, 12 Mar 2026 18:54:00 +0900",
-    "analyzed_at": "2026-03-12T09:57:40.972621"
-  },
-  {
-    "title": "연구기관들 '추경 포함 가능한 모든 정책 수단 활용해야'",
-    "score": 2,
-    "reason": "초과 세수를 활용한 정책 추진이 경제에 긍정적인 영향을 미칠 가능성이 있음.",
-    "related_stocks": [
-      "삼성전자",
-      "LG전자"
-    ],
-    "link": "https://www.etoday.co.kr/news/view/2564862",
-    "pub_date": "Thu, 12 Mar 2026 18:54:00 +0900",
-    "analyzed_at": "2026-03-12T09:57:40.972622"
-  },
-  {
-    "title": "KDI '반도체·소비 회복에도 생산은 완만'…건설 부진이 '발목'",
-    "score": 1,
-    "reason": "반도체 산업 호조에도 불구하고 건설 부진이 경제 성장에 제약을 줄 수 있음.",
-    "related_stocks": [
-      "삼성전자",
-      "현대건설"
-    ],
-    "link": "http://www.4th.kr/news/articleView.html?idxno=2108986",
-    "pub_date": "Thu, 12 Mar 2026 18:54:00 +0900",
-    "analyzed_at": "2026-03-12T09:57:40.972624"
-  },
-  {
-    "title": "민주당 박수현 의원 '충남·대전통합시장' 출마",
-    "score": 1,
-    "reason": "AI와 반도체 산업의 접목 구상이 지역 경제에 긍정적인 영향을 미칠 수 있음.",
-    "related_stocks": [
-      "삼성전자",
-      "SK하이닉스"
-    ],
-    "link": "https://www.jeonmae.co.kr/news/articleView.html?idxno=1238213",
-    "pub_date": "Thu, 12 Mar 2026 18:52:00 +0900",
-    "analyzed_at": "2026-03-12T09:57:40.972625"
-  },
-  {
-    "title": "정부, 중동 상황 대응 위해 '취약부문 위주' 추경 조속 추진",
-    "score": 2,
-    "reason": "추경을 통한 경제 활성화가 반도체 산업에 긍정적인 영향을 미칠 것으로 예상됨.",
-    "related_stocks": [
-      "삼성전자",
-      "LG전자"
-    ],
-    "link": "https://www.nocutnews.co.kr/news/6484136?utm_source=naver&utm_medium=article&utm_campaign=20260312065151",
-    "pub_date": "Thu, 12 Mar 2026 18:52:00 +0900",
-    "analyzed_at": "2026-03-12T09:57:40.972627"
-  },
-  {
-    "title": "박수현 '전기·수도처럼 AI도 모든 도민 인프라로'",
-    "score": 1,
-    "reason": "AI와 반도체 산업의 접목 구상이 지역 경제에 긍정적인 영향을 미칠 수 있음.",
-    "related_stocks": [
-      "삼성전자",
-      "SK하이닉스"
-    ],
-    "link": "https://www.ggilbo.com/news/articleView.html?idxno=1146413",
-    "pub_date": "Thu, 12 Mar 2026 18:50:00 +0900",
-    "analyzed_at": "2026-03-12T09:57:40.972628"
-  },
-  {
-    "title": "여야, '대미투자특별법' 통과...'한미전략투자공사' 닻 올려",
-    "score": 3,
-    "reason": "대미 투자 확대가 반도체 및 첨단 산업에 긍정적인 영향을 미칠 것으로 예상됨.",
-    "related_stocks": [
-      "삼성전자",
-      "SK하이닉스"
-    ],
-    "link": "https://www.tfmedia.co.kr/news/article.html?no=202547",
-    "pub_date": "Thu, 12 Mar 2026 18:50:00 +0900",
-    "analyzed_at": "2026-03-12T09:57:40.972629"
-  },
-  {
-    "title": "윈팩, 보통주 5대 1 주식병합 결정",
-    "score": 1,
-    "reason": "주식병합 결정이 기업의 주가에 긍정적인 영향을 미칠 수 있음.",
-    "related_stocks": [
-      "윈팩"
-    ],
-    "link": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=640427",
-    "pub_date": "Thu, 12 Mar 2026 18:50:00 +0900",
-    "analyzed_at": "2026-03-12T09:57:40.972631"
-  },
-  {
-    "title": "한국수자원공사, 日에 AI·디지털트윈 물관리 전파",
-    "score": 2,
-    "reason": "일본과의 협력으로 AI 및 디지털트윈 기술이 확산되며 긍정적인 이미지 형성.",
-    "related_stocks": [
-      "한국수자원공사"
-    ],
-    "link": "https://www.ggilbo.com/news/articleView.html?idxno=1146427",
-    "pub_date": "Thu, 12 Mar 2026 18:50:00 +0900",
-    "analyzed_at": "2026-03-12T09:57:53.801479"
-  },
-  {
-    "title": "유가 급등 틈타…하이퍼리퀴드 원유 거래 12억달러 몰렸다",
-    "score": 1,
-    "reason": "유가 급등으로 원유 거래가 증가했지만, 전반적인 시장에 미치는 영향은 제한적.",
-    "related_stocks": [
-      "석유 관련 주식"
-    ],
-    "link": "https://www.tokenpost.kr/news/cryptocurrency/338730",
-    "pub_date": "Thu, 12 Mar 2026 18:50:00 +0900",
-    "analyzed_at": "2026-03-12T09:57:53.801489"
-  },
-  {
-    "title": "[이슈체크] 월가 덮친 '사모대출' 공포…폭탄 터질까 덜덜, 뭔데 그게?",
-    "score": -3,
-    "reason": "사모대출에 대한 우려가 커지며 시장 불안정성이 증가.",
-    "related_stocks": [
-      "금융 관련 주식"
-    ],
-    "link": "https://biz.sbs.co.kr/article_hub/20000296951?division=NAVER",
-    "pub_date": "Thu, 12 Mar 2026 18:46:00 +0900",
-    "analyzed_at": "2026-03-12T09:57:53.801492"
-  },
-  {
-    "title": "우리기술, 전환사채 전환으로 222만7171주 추가상장",
-    "score": -1,
-    "reason": "신주 추가 상장으로 기존 주주들의 지분 희석 우려.",
-    "related_stocks": [
-      "우리기술"
-    ],
-    "link": "https://www.cbci.co.kr/news/articleView.html?idxno=560627",
-    "pub_date": "Thu, 12 Mar 2026 18:42:00 +0900",
-    "analyzed_at": "2026-03-12T09:57:53.801494"
-  },
-  {
-    "title": "유가 100달러 긴장 속…하이퍼리퀴드 원유 연동 거래 12억달러 급증",
-    "score": 1,
-    "reason": "유가 급등으로 원유 거래가 증가했으나, 시장 전반에 미치는 영향은 미미.",
-    "related_stocks": [
-      "석유 관련 주식"
-    ],
-    "link": "https://www.tokenpost.kr/news/cryptocurrency/338726",
-    "pub_date": "Thu, 12 Mar 2026 18:40:00 +0900",
-    "analyzed_at": "2026-03-12T09:57:53.801496"
-  },
-  {
-    "title": "중동전쟁에 인버스·방산·금 ETF만 웃었다",
-    "score": 3,
-    "reason": "전쟁 수혜주로 방산 테마가 상승하며 긍정적인 투자 기회 제공.",
-    "related_stocks": [
-      "TIGER K방산&우주"
-    ],
-    "link": "https://www.sedaily.com/article/20018754?ref=naver",
-    "pub_date": "Thu, 12 Mar 2026 18:38:00 +0900",
-    "analyzed_at": "2026-03-12T09:57:53.801498"
-  },
-  {
-    "title": "SK텔레콤 '선택과 집중'… 비주력 계열사 팔아 AI 키운다",
-    "score": 4,
-    "reason": "AI 투자에 집중하며 미래 성장 가능성을 높이는 전략.",
-    "related_stocks": [
-      "SK텔레콤"
-    ],
-    "link": "http://www.fnnews.com/news/202603121823488282",
-    "pub_date": "Thu, 12 Mar 2026 18:26:00 +0900",
-    "analyzed_at": "2026-03-12T09:57:53.801500"
-  },
-  {
     "title": "골드만삭스의 삼성전자 및 SK하이닉스 목표주가 상향",
     "score": 4,
     "reason": "골드만삭스의 목표주가 상향은 긍정적인 실적 전망을 반영하며 주가에 긍정적 영향을 미칠 것으로 예상됨.",
@@ -39906,5 +39489,413 @@
     "link": "https://www.asiatime.co.kr/article/20260319500371",
     "pub_date": "Thu, 19 Mar 2026 17:28:00 +0900",
     "analyzed_at": "2026-03-19T09:05:32.107547"
+  },
+  {
+    "title": "유가·환율 '들썩'…코스피 '풀썩'",
+    "score": -4,
+    "reason": "유가와 환율의 불안정성이 코스피 전반에 부정적인 영향을 미치고 있다.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스",
+      "현대차",
+      "LG에너지솔루션"
+    ],
+    "link": "https://www.ccdn.co.kr/news/articleView.html?idxno=1068784",
+    "pub_date": "Thu, 19 Mar 2026 19:00:00 +0900",
+    "analyzed_at": "2026-03-19T10:03:15.027191"
+  },
+  {
+    "title": "삼성생명·화재, 삼성전자 주식 매각…1조5000억원 규모",
+    "score": -2,
+    "reason": "삼성전자의 지분 매각은 시장에 부정적인 신호로 작용할 수 있다.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "https://www.m-i.kr/news/articleView.html?idxno=1355743",
+    "pub_date": "Thu, 19 Mar 2026 19:00:00 +0900",
+    "analyzed_at": "2026-03-19T10:03:15.027200"
+  },
+  {
+    "title": "갤럭시S22 'GOS 논란' 1800명 소송 종결…삼성, 총 1억 배상",
+    "score": -1,
+    "reason": "소송 종결이지만, 여전히 브랜드 이미지에 부정적인 영향을 미칠 수 있다.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "https://view.asiae.co.kr/article/2026031918565860880",
+    "pub_date": "Thu, 19 Mar 2026 18:59:00 +0900",
+    "analyzed_at": "2026-03-19T10:03:15.027202"
+  },
+  {
+    "title": "[도청도설] 중복 상장",
+    "score": 0,
+    "reason": "주주 수에 대한 정보는 중립적이며 주가에 큰 영향을 미치지 않을 것으로 보인다.",
+    "related_stocks": [
+      "삼성전자",
+      "카카오",
+      "SK하이닉스"
+    ],
+    "link": "http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=1700&key=20260320.22018006074",
+    "pub_date": "Thu, 19 Mar 2026 18:57:00 +0900",
+    "analyzed_at": "2026-03-19T10:03:15.027204"
+  },
+  {
+    "title": "삼성전자, 슬로바키아 TV공장 24년만에 폐쇄",
+    "score": -3,
+    "reason": "생산 거점 폐쇄는 기업의 성장 가능성에 부정적인 영향을 미칠 수 있다.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "https://www.sedaily.com/article/20021714?ref=naver",
+    "pub_date": "Thu, 19 Mar 2026 18:57:00 +0900",
+    "analyzed_at": "2026-03-19T10:03:15.027205"
+  },
+  {
+    "title": "\"한은, 유가 108달러·환율 1천500원 진입시 금리 인상\"",
+    "score": 1,
+    "reason": "금리 인상 가능성은 시장에 약간의 긍정적인 신호를 줄 수 있다.",
+    "related_stocks": [],
+    "link": "https://www.yna.co.kr/view/AKR20260319175400008?input=1195m",
+    "pub_date": "Thu, 19 Mar 2026 18:57:00 +0900",
+    "analyzed_at": "2026-03-19T10:03:15.027207"
+  },
+  {
+    "title": "\"자사주 매입·소각에 임직원 보상까지\"…주주친화·인재확보 힘싣는 삼성",
+    "score": 3,
+    "reason": "주주 친화적인 정책은 긍정적인 시장 반응을 이끌어낼 수 있다.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "https://www.socialvalue.kr/news/view/1065598887169420",
+    "pub_date": "Thu, 19 Mar 2026 18:56:00 +0900",
+    "analyzed_at": "2026-03-19T10:03:15.027209"
+  },
+  {
+    "title": "삼성전자, 유럽 TV 생산 거점 슬로바키아 공장 폐쇄키로",
+    "score": -3,
+    "reason": "생산 거점 폐쇄는 기업의 성장 가능성에 부정적인 영향을 미칠 수 있다.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "https://www.m-i.kr/news/articleView.html?idxno=1355742",
+    "pub_date": "Thu, 19 Mar 2026 18:56:00 +0900",
+    "analyzed_at": "2026-03-19T10:03:15.027213"
+  },
+  {
+    "title": "AMD, 정부·삼성·네이버·업스테이지 연이은 회동…한국형 AI 생태계 협",
+    "score": 2,
+    "reason": "AI 생태계 협력은 긍정적인 성장 가능성을 시사한다.",
+    "related_stocks": [
+      "삼성전자",
+      "네이버"
+    ],
+    "link": "http://www.newstomato.com/ReadNews.aspx?no=1294906&inflow=N",
+    "pub_date": "Thu, 19 Mar 2026 18:56:00 +0900",
+    "analyzed_at": "2026-03-19T10:03:15.027215"
+  },
+  {
+    "title": "삼성전자, AI 선도 기업 목표로 올해 110조원 투자… 역대 최대",
+    "score": 5,
+    "reason": "대규모 투자는 삼성전자의 미래 성장 가능성을 크게 높인다.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "https://biz.chosun.com/it-science/ict/2026/03/19/PM2A3JGDEZFS5MTJLX7ANGBP5E/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+    "pub_date": "Thu, 19 Mar 2026 18:55:00 +0900",
+    "analyzed_at": "2026-03-19T10:03:15.027216"
+  },
+  {
+    "title": "민주당 경기지사 후보들, ‘용인 반도체 전력 해법’ 격돌",
+    "score": 0,
+    "reason": "전력 공급 대책 논의는 중요하지만 주가에 즉각적인 영향은 없음.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.kyeonggi.com/article/20260319580612",
+    "pub_date": "Thu, 19 Mar 2026 18:52:00 +0900",
+    "analyzed_at": "2026-03-19T10:03:32.325426"
+  },
+  {
+    "title": "[이슈체크] 고유가가 '마이크론 실적' 무력화…",
+    "score": 2,
+    "reason": "반도체 슈퍼사이클 언급은 긍정적이나 고유가 우려가 상존.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://biz.sbs.co.kr/article_hub/20000298550?division=NAVER",
+    "pub_date": "Thu, 19 Mar 2026 18:49:00 +0900",
+    "analyzed_at": "2026-03-19T10:03:32.325434"
+  },
+  {
+    "title": "코스피, 외인 기관 매도세에 하락마감",
+    "score": -3,
+    "reason": "주요 종목들의 하락이 두드러져 강한 악재로 작용.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.betanews.net/article/view/beta202603190086",
+    "pub_date": "Thu, 19 Mar 2026 18:44:00 +0900",
+    "analyzed_at": "2026-03-19T10:03:32.325436"
+  },
+  {
+    "title": "윤갑근 충북지사 예비후보 '중부권 메가 충북 추진'",
+    "score": 1,
+    "reason": "산업 클러스터 구상은 긍정적이나 실질적 영향은 미미.",
+    "related_stocks": [
+      "SK하이닉스"
+    ],
+    "link": "https://www.newscj.com/news/articleView.html?idxno=3386245",
+    "pub_date": "Thu, 19 Mar 2026 18:32:00 +0900",
+    "analyzed_at": "2026-03-19T10:03:32.325438"
+  },
+  {
+    "title": "HBM 다음은 제조 혁신...SK하이닉스, 'AI 팹'으로 간다",
+    "score": 4,
+    "reason": "AI 반도체 수요 대응 전략은 강한 호재로 작용할 가능성.",
+    "related_stocks": [
+      "SK하이닉스"
+    ],
+    "link": "https://www.womentimes.co.kr/news/articleView.html?idxno=101411",
+    "pub_date": "Thu, 19 Mar 2026 18:30:00 +0900",
+    "analyzed_at": "2026-03-19T10:03:32.325439"
+  },
+  {
+    "title": "코스피, 고유가·미국 금리 우려에 2.7% 하락‥5,800선 내줘",
+    "score": -3,
+    "reason": "전반적인 하락세가 지속되어 강한 악재로 작용.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://imnews.imbc.com/news/2026/econo/article/6808782_36932.html",
+    "pub_date": "Thu, 19 Mar 2026 18:18:00 +0900",
+    "analyzed_at": "2026-03-19T10:03:32.325441"
+  },
+  {
+    "title": "원·달러 환율 1501원, 17년 만에 최고···코스피 2.7% 급락",
+    "score": -4,
+    "reason": "환율 상승과 코스피 급락은 매우 강한 악재로 작용.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.smartbizn.com/news/articleView.html?idxno=139660",
+    "pub_date": "Thu, 19 Mar 2026 18:14:00 +0900",
+    "analyzed_at": "2026-03-19T10:03:32.325442"
+  },
+  {
+    "title": "하나운용, 31일 신규 ETF 전략 공개…2026년 키워드는 ‘A.S.K’",
+    "score": 2,
+    "reason": "신규 ETF 전략 발표는 긍정적이나 시장 반응은 미지수",
+    "related_stocks": [
+      "하나자산운용"
+    ],
+    "link": "https://www.news2day.co.kr/article/20260319500288",
+    "pub_date": "Thu, 19 Mar 2026 18:24:00 +0900",
+    "analyzed_at": "2026-03-19T10:03:39.000416"
+  },
+  {
+    "title": "소룩스 매각된 '차백신연구소'...주가 30% 급등",
+    "score": 4,
+    "reason": "차백신연구소의 주가 급등은 매각 소식에 따른 강한 호재",
+    "related_stocks": [
+      "차백신연구소"
+    ],
+    "link": "https://www.hitnews.co.kr/news/articleView.html?idxno=74716",
+    "pub_date": "Thu, 19 Mar 2026 18:06:00 +0900",
+    "analyzed_at": "2026-03-19T10:03:39.000424"
+  },
+  {
+    "title": "보수의 낙동강 전선 지킬 것…이철우 경북도지사, 3선 출마 공식 선언",
+    "score": 3,
+    "reason": "경북 지역의 대규모 투자와 첨단산업 육성 계획이 긍정적인 영향을 미칠 것으로 예상됨.",
+    "related_stocks": [
+      "경북지역 기업",
+      "반도체 관련 기업"
+    ],
+    "link": "https://www.gukjenews.com/news/articleView.html?idxno=3534164",
+    "pub_date": "Thu, 19 Mar 2026 19:02:00 +0900",
+    "analyzed_at": "2026-03-19T10:04:08.845806"
+  },
+  {
+    "title": "극한 우주방사선도 거뜬…세계 최초 차세대 AI반도체 소자 검증 성",
+    "score": 4,
+    "reason": "차세대 AI 반도체 기술의 우주 활용 가능성이 입증되어 관련 산업에 긍정적인 영향을 미칠 것으로 보임.",
+    "related_stocks": [
+      "반도체 기업",
+      "우주항공 관련 기업"
+    ],
+    "link": "https://biz.heraldcorp.com/article/10698449?ref=naver",
+    "pub_date": "Thu, 19 Mar 2026 19:01:00 +0900",
+    "analyzed_at": "2026-03-19T10:04:08.845811"
+  },
+  {
+    "title": "SMR·KTX 송전망·신재생…민주당 경기지사 후보들, 전력난 해법",
+    "score": 1,
+    "reason": "전력난 해법 논의가 진행되고 있으나 구체적인 실행 계획이 부족해 약한 호재로 평가됨.",
+    "related_stocks": [
+      "전력 관련 기업",
+      "반도체 기업"
+    ],
+    "link": "https://view.asiae.co.kr/article/2026031919005974191",
+    "pub_date": "Thu, 19 Mar 2026 19:00:00 +0900",
+    "analyzed_at": "2026-03-19T10:04:08.845813"
+  },
+  {
+    "title": "충북 판 새로 짜고 대한민국 중심으로",
+    "score": 3,
+    "reason": "청주국제공항과 첨단 산업 클러스터 조성 계획이 지역 경제에 긍정적인 영향을 미칠 것으로 예상됨.",
+    "related_stocks": [
+      "반도체 기업",
+      "바이오 기업"
+    ],
+    "link": "https://www.ccdn.co.kr/news/articleView.html?idxno=1068742",
+    "pub_date": "Thu, 19 Mar 2026 19:00:00 +0900",
+    "analyzed_at": "2026-03-19T10:04:08.845814"
+  },
+  {
+    "title": "호르무즈 봉쇄 3개월 지속되면 한국 제조업 생산비 12%↑",
+    "score": -2,
+    "reason": "제조업 전반에 걸쳐 생산비 상승 우려가 커져 부정적인 영향을 미칠 것으로 예상됨.",
+    "related_stocks": [
+      "반도체 기업",
+      "자동차 기업"
+    ],
+    "link": "https://www.hankookilbo.com/news/article/A2026031911490001655?did=NA",
+    "pub_date": "Thu, 19 Mar 2026 19:00:00 +0900",
+    "analyzed_at": "2026-03-19T10:04:08.845815"
+  },
+  {
+    "title": "박완희 '오송·오창·테크노폴리스 잇는 'C-트라이앵글' 구축",
+    "score": 3,
+    "reason": "첨단산업 생태계 구축 계획이 긍정적인 영향을 미칠 것으로 보임.",
+    "related_stocks": [
+      "반도체 기업",
+      "바이오 기업"
+    ],
+    "link": "https://www.ccdn.co.kr/news/articleView.html?idxno=1068751",
+    "pub_date": "Thu, 19 Mar 2026 19:00:00 +0900",
+    "analyzed_at": "2026-03-19T10:04:08.845817"
+  },
+  {
+    "title": "충남도, 초고압 송전선로 관련 주민 의견 국회 창구 마련",
+    "score": 0,
+    "reason": "주민 의견 수렴이 진행 중이나 구체적인 결과가 없어 중립적 평가.",
+    "related_stocks": [
+      "전력 관련 기업",
+      "반도체 기업"
+    ],
+    "link": "https://www.daejonilbo.com/news/articleView.html?idxno=2263889",
+    "pub_date": "Thu, 19 Mar 2026 19:00:00 +0900",
+    "analyzed_at": "2026-03-19T10:04:08.845818"
+  },
+  {
+    "title": "한전, 반도체 송전선 주민 설명회...안성 주민 '결사 반대'",
+    "score": -1,
+    "reason": "주민 반발로 인해 송전망 구축에 어려움이 예상되어 약한 악재로 평가됨.",
+    "related_stocks": [
+      "전력 관련 기업",
+      "반도체 기업"
+    ],
+    "link": "https://news.skbroadband.com/news/articleView.html?idxno=221228",
+    "pub_date": "Thu, 19 Mar 2026 19:00:00 +0900",
+    "analyzed_at": "2026-03-19T10:04:08.845819"
+  },
+  {
+    "title": "[충청논단] 지방선거에 '지방'이 보이지 않는다",
+    "score": -3,
+    "reason": "반도체 산업 외에 다른 업종의 부진이 우려되어 강한 악재로 평가됨.",
+    "related_stocks": [
+      "반도체 기업",
+      "석유화학 기업"
+    ],
+    "link": "http://www.cctimes.kr/news/articleView.html?idxno=897349",
+    "pub_date": "Thu, 19 Mar 2026 18:58:00 +0900",
+    "analyzed_at": "2026-03-19T10:04:08.845820"
+  },
+  {
+    "title": "[CEO 리포트] 토스뱅크 이은미, 흑자전환 성공한 '실행형 리더십', 연임...",
+    "score": 2,
+    "reason": "흑자전환 성공은 긍정적이나 소비자 보호 과제가 남아 있어 약한 호재로 평가됨.",
+    "related_stocks": [
+      "토스뱅크"
+    ],
+    "link": "https://www.news2day.co.kr/article/20260319500167",
+    "pub_date": "Thu, 19 Mar 2026 18:42:00 +0900",
+    "analyzed_at": "2026-03-19T10:04:24.503045"
+  },
+  {
+    "title": "SK네트웍스, 대규모 자사주 소각…주주가치 제고 정책 강화",
+    "score": 4,
+    "reason": "대규모 자사주 소각은 주주가치 제고에 긍정적 영향을 미쳐 강한 호재로 평가됨.",
+    "related_stocks": [
+      "SK네트웍스"
+    ],
+    "link": "http://www.intn.co.kr/news/articleView.html?idxno=2049657",
+    "pub_date": "Thu, 19 Mar 2026 18:34:00 +0900",
+    "analyzed_at": "2026-03-19T10:04:24.503054"
+  },
+  {
+    "title": "삼성전자, 반도체 주도권 굳히기 위해 110조원 투자 집행",
+    "score": 5,
+    "reason": "대규모 투자 발표는 반도체 시장에서의 주도권 강화를 의미하며 매우 강한 호재로 평가됨.",
+    "related_stocks": [
+      "삼성전자"
+    ],
+    "link": "https://biz.heraldcorp.com/article/10698432?ref=naver",
+    "pub_date": "Thu, 19 Mar 2026 18:25:00 +0900",
+    "analyzed_at": "2026-03-19T10:04:24.503056"
+  },
+  {
+    "title": "태양광에너지 관련주, '싱글벙글' SK이터닉스·그리드위즈·캐리·에스에...",
+    "score": 3,
+    "reason": "태양광 관련주들의 긍정적인 청약 결과는 시장의 관심을 끌어 강한 호재로 평가됨.",
+    "related_stocks": [
+      "SK이터닉스",
+      "그리드위즈",
+      "캐리"
+    ],
+    "link": "http://www.finomy.com/news/articleView.html?idxno=251713",
+    "pub_date": "Thu, 19 Mar 2026 18:10:00 +0900",
+    "analyzed_at": "2026-03-19T10:04:24.503057"
+  },
+  {
+    "title": "마이크론, AI 붐에 최대 실적…'사이클 정점' 경계론도",
+    "score": 2,
+    "reason": "최대 실적은 긍정적이나 사이클 정점 경계론이 있어 약한 호재로 평가됨.",
+    "related_stocks": [
+      "마이크론"
+    ],
+    "link": "https://www.hankyung.com/article/2026031932081",
+    "pub_date": "Thu, 19 Mar 2026 18:10:00 +0900",
+    "analyzed_at": "2026-03-19T10:04:24.503058"
+  },
+  {
+    "title": "통신장비 관련주, '맑고 화창' 우리로·빛과전자·다보링크·머큐리·티...",
+    "score": 3,
+    "reason": "AI 관련 기술 발전은 통신장비 관련주에 긍정적 영향을 미쳐 강한 호재로 평가됨.",
+    "related_stocks": [
+      "우리로",
+      "빛과전자",
+      "다보링크",
+      "머큐리"
+    ],
+    "link": "http://www.finomy.com/news/articleView.html?idxno=251712",
+    "pub_date": "Thu, 19 Mar 2026 18:10:00 +0900",
+    "analyzed_at": "2026-03-19T10:04:24.503060"
+  },
+  {
+    "title": "AI가 일자리 빼앗나…HSBC, 2만명 구조조정 검토",
+    "score": -3,
+    "reason": "구조조정 검토는 부정적인 신호로 강한 악재로 평가됨.",
+    "related_stocks": [
+      "HSBC"
+    ],
+    "link": "https://www.hankyung.com/article/2026031932151",
+    "pub_date": "Thu, 19 Mar 2026 18:06:00 +0900",
+    "analyzed_at": "2026-03-19T10:04:24.503061"
   }
 ]
