@@ -1,29 +1,5 @@
 [
   {
-    "title": "순천시, 5대 전략산업 연계 공공기관 유치안 제시… 14개 과제 확정",
-    "score": 3,
-    "reason": "공공기관 유치 계획은 지역 경제에 긍정적인 영향을 미칠 것으로 예상됨.",
-    "related_stocks": [
-      "삼성전자",
-      "SK하이닉스"
-    ],
-    "link": "https://www.newscj.com/news/articleView.html?idxno=3384016",
-    "pub_date": "Fri, 13 Mar 2026 02:38:00 +0900",
-    "analyzed_at": "2026-03-12T18:34:25.356152"
-  },
-  {
-    "title": "머스크 “xAI·테슬라 공동 AI 프로젝트 추진”…주주 소송 속 이해충돌",
-    "score": 3,
-    "reason": "AI 프로젝트 추진은 테슬라의 미래 성장 가능성을 높일 수 있는 긍정적인 요소로 작용할 수 있음.",
-    "related_stocks": [
-      "테슬라",
-      "스페이스X"
-    ],
-    "link": "https://www.g-enews.com/view.php?ud=2026031218584619759a1f309431_1",
-    "pub_date": "Fri, 13 Mar 2026 03:02:00 +0900",
-    "analyzed_at": "2026-03-12T18:34:28.629026"
-  },
-  {
     "title": "TSMC, 파운드리 압도적 1위...삼성과 격차 확대",
     "score": -3,
     "reason": "삼성전자의 매출과 점유율 하락은 경쟁력 약화를 의미하며, 부정적인 시장 신호로 작용할 수 있음.",
@@ -39935,5 +39911,175 @@
     "link": "https://www.tokenpost.kr/news/cryptocurrency/341400",
     "pub_date": "Fri, 20 Mar 2026 01:54:00 +0900",
     "analyzed_at": "2026-03-19T17:44:21.576820"
+  },
+  {
+    "title": "삼성생명·화재, 삼성전자 주식 1조5천억 매각…법률 위반 선제 대응",
+    "score": -2,
+    "reason": "삼성전자의 자사주 소각에 따른 지분율 변동에 대응하기 위한 매각은 부정적인 신호로 해석될 수 있음.",
+    "related_stocks": [
+      "삼성전자",
+      "삼성생명",
+      "삼성화재"
+    ],
+    "link": "https://www.tokenpost.kr/news/economy/341417",
+    "pub_date": "Fri, 20 Mar 2026 03:18:00 +0900",
+    "analyzed_at": "2026-03-19T18:37:10.282907"
+  },
+  {
+    "title": "삼성생명·삼성화재, 삼성전자 지분 약 1조5천억원어치 매각: '금산법 위반 방지'",
+    "score": -2,
+    "reason": "금산법 위반 방지를 위한 매각은 시장에 부정적인 영향을 미칠 수 있음.",
+    "related_stocks": [
+      "삼성전자",
+      "삼성생명",
+      "삼성화재"
+    ],
+    "link": "https://www.tfmedia.co.kr/news/article.html?no=202813",
+    "pub_date": "Fri, 20 Mar 2026 03:10:00 +0900",
+    "analyzed_at": "2026-03-19T18:37:10.282916"
+  },
+  {
+    "title": "한국은행, 유가 108달러·환율 1천500원 진입시 금리 인상",
+    "score": 1,
+    "reason": "금리 인상 가능성은 경제에 부정적 영향을 미칠 수 있지만, 반면 AI 관련 칩 수요 증가로 긍정적인 요소도 존재.",
+    "related_stocks": [
+      "삼성전자",
+      "SK하이닉스"
+    ],
+    "link": "https://www.tfmedia.co.kr/news/article.html?no=202812",
+    "pub_date": "Fri, 20 Mar 2026 02:50:00 +0900",
+    "analyzed_at": "2026-03-19T18:37:10.282918"
+  },
+  {
+    "title": "이란 전쟁에 유가 급등 가능성, 한국 금리 인상 경고",
+    "score": -2,
+    "reason": "유가 급등과 금리 인상 경고는 경제에 부정적인 영향을 미칠 수 있어 약한 악재로 판단됨.",
+    "related_stocks": [
+      "석유 관련 주식",
+      "금융주"
+    ],
+    "link": "https://www.tokenpost.kr/news/international/341418",
+    "pub_date": "Fri, 20 Mar 2026 03:28:00 +0900",
+    "analyzed_at": "2026-03-19T18:37:33.975185"
+  },
+  {
+    "title": "'심자외선' 광원 효율 높이는 LED 신소재 개발",
+    "score": 4,
+    "reason": "신소재 개발은 반도체 산업의 혁신을 가져올 수 있어 강한 호재로 평가됨.",
+    "related_stocks": [
+      "반도체 관련 주식",
+      "LED 제조업체"
+    ],
+    "link": "https://www.ytn.co.kr/_ln/0105_202603200326349959",
+    "pub_date": "Fri, 20 Mar 2026 03:26:00 +0900",
+    "analyzed_at": "2026-03-19T18:37:33.975192"
+  },
+  {
+    "title": "충북 경제 대전환 전략 제시",
+    "score": 2,
+    "reason": "산업 경쟁력 강화를 위한 대기업 유치 전략은 긍정적이나 구체성이 부족해 약한 호재로 판단됨.",
+    "related_stocks": [
+      "충북 지역 기업",
+      "반도체 및 배터리 관련 주식"
+    ],
+    "link": "https://weeklytrade.co.kr/news/view.html?section=1&category=160&item=&no=98979",
+    "pub_date": "Fri, 20 Mar 2026 03:16:00 +0900",
+    "analyzed_at": "2026-03-19T18:37:33.975194"
+  },
+  {
+    "title": "미 싱크탱크 '이란전 장기화땐 美, 경제패권·동맹신뢰 다 잃을 수도'",
+    "score": -3,
+    "reason": "이란 전쟁 장기화 우려는 글로벌 공급망에 부정적 영향을 미쳐 강한 악재로 평가됨.",
+    "related_stocks": [
+      "반도체 관련 주식",
+      "에너지 관련 주식"
+    ],
+    "link": "https://www.newspim.com/news/view/20260319001371",
+    "pub_date": "Fri, 20 Mar 2026 03:09:00 +0900",
+    "analyzed_at": "2026-03-19T18:37:33.975198"
+  },
+  {
+    "title": "국제 유가 급등에 한국은행 내년 금리 인상 예고",
+    "score": -2,
+    "reason": "유가 급등과 금리 인상 예고는 경제 성장에 부정적 영향을 미칠 수 있어 약한 악재로 판단됨.",
+    "related_stocks": [
+      "금융주",
+      "소비재 관련 주식"
+    ],
+    "link": "https://www.tokenpost.kr/news/economy/341414",
+    "pub_date": "Fri, 20 Mar 2026 03:08:00 +0900",
+    "analyzed_at": "2026-03-19T18:37:33.975200"
+  },
+  {
+    "title": "자외선 LED 난제 풀 실마리… 국내 연구진, 초고효율 심자외선 소재 구",
+    "score": 4,
+    "reason": "초고효율 심자외선 소재 개발은 반도체 기술 혁신을 의미해 강한 호재로 평가됨.",
+    "related_stocks": [
+      "반도체 관련 주식",
+      "LED 제조업체"
+    ],
+    "link": "https://biz.chosun.com/science-chosun/science/2026/03/20/CDYLTGRZG5DHRF5OQB3CRLS2VM/?utm_source=naver&utm_medium=original&utm_campaign=biz",
+    "pub_date": "Fri, 20 Mar 2026 03:01:00 +0900",
+    "analyzed_at": "2026-03-19T18:37:33.975202"
+  },
+  {
+    "title": "발광효율 무려 20배↑…韓 연구진, 자외선 LED 한계 넘었다",
+    "score": 5,
+    "reason": "발광 효율 20배 향상은 혁신적인 기술 발전으로 매우 강한 호재로 판단됨.",
+    "related_stocks": [
+      "반도체 관련 주식",
+      "LED 제조업체"
+    ],
+    "link": "https://biz.heraldcorp.com/article/10698450?ref=naver",
+    "pub_date": "Fri, 20 Mar 2026 03:01:00 +0900",
+    "analyzed_at": "2026-03-19T18:37:33.975203"
+  },
+  {
+    "title": "미개척 심자외선 영역 뚫었다…POSTECH·IBS, 발광 효율 20배 신소재 개",
+    "score": 5,
+    "reason": "신소재 개발로 새로운 시장 가능성이 열려 매우 강한 호재로 평가됨.",
+    "related_stocks": [
+      "반도체 관련 주식",
+      "LED 제조업체"
+    ],
+    "link": "https://www.etnews.com/20260319000118",
+    "pub_date": "Fri, 20 Mar 2026 03:01:00 +0900",
+    "analyzed_at": "2026-03-19T18:37:33.975204"
+  },
+  {
+    "title": "심자외선 LED 효율 20배↑…국내 연구진, 신소재 개발",
+    "score": 5,
+    "reason": "효율 20배 향상은 반도체 산업에 큰 영향을 미칠 수 있어 매우 강한 호재로 판단됨.",
+    "related_stocks": [
+      "반도체 관련 주식",
+      "LED 제조업체"
+    ],
+    "link": "https://www.dailian.co.kr/news/view/1622932/?sc=Naver",
+    "pub_date": "Fri, 20 Mar 2026 03:01:00 +0900",
+    "analyzed_at": "2026-03-19T18:37:33.975205"
+  },
+  {
+    "title": "감염병 확산 억제…초고효율 심자외선 LED 소재 개발 [지금은 과학]",
+    "score": 4,
+    "reason": "감염병 억제와 관련된 신소재 개발은 사회적 가치와 함께 강한 호재로 평가됨.",
+    "related_stocks": [
+      "반도체 관련 주식",
+      "LED 제조업체"
+    ],
+    "link": "http://www.inews24.com/view/1951247",
+    "pub_date": "Fri, 20 Mar 2026 03:01:00 +0900",
+    "analyzed_at": "2026-03-19T18:37:33.975207"
+  },
+  {
+    "title": "리플웍스, 나스닥 상장 에버노스 의결권 영향력…SEC ‘이해상충’ 명시",
+    "score": -2,
+    "reason": "SEC의 이해상충 지적은 리플웍스의 신뢰성에 부정적인 영향을 미칠 수 있음.",
+    "related_stocks": [
+      "리플",
+      "에버노스"
+    ],
+    "link": "https://www.tokenpost.kr/news/cryptocurrency/341415",
+    "pub_date": "Fri, 20 Mar 2026 03:08:00 +0900",
+    "analyzed_at": "2026-03-19T18:37:36.738991"
   }
 ]
